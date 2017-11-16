@@ -8,7 +8,7 @@ Output year histogram for movies in IMDB, for use when creating a graph.
 
 import json
 
-def load(h, l, path):
+def load(h, l, path, verbose=False):
     with open(path, 'rt') as input:
     	 j = json.load(input)
 
@@ -25,6 +25,8 @@ def load(h, l, path):
                  year = int(j[imdburl]['year'])
              if not year in h:
                      h[year] = 0
+             if verbose:
+                 print imdburl, j[imdburl]['title']
              h[year] = h[year] + 1
              l[imdburl] = j[imdburl]
 h = {}
