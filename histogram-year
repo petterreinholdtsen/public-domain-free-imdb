@@ -1,0 +1,41 @@
+#!/usr/bin/env python
+
+"""
+
+Output year histogram for movies in IMDB, for use when creating a graph.
+
+"""
+
+import json
+
+def load(h, l, path):
+    with open(path, 'rt') as input:
+    	 j = json.load(input)
+
+	 for imdburl in j.keys():
+             if imdburl in l:
+                 continue
+	     if 0 > imdburl.find("imdb.com"):
+	         continue
+             if 'free' != j[imdburl]['status']:
+                 continue
+             if 'year' not in j[imdburl]:
+                 year = 'n/a'
+             else:
+                 year = int(j[imdburl]['year'])
+             if not year in h:
+                     h[year] = 0
+             h[year] = h[year] + 1
+             l[imdburl] = j[imdburl]
+h = {}
+l = {}
+load(h, l, "free-movies-archive-org-butter.json")
+load(h, l, "free-movies-archive-org.json")
+load(h, l, "free-movies-imdb-pd.json")
+load(h, l, "free-movies-manual.json")
+load(h, l, "free-movies-publicdomaintorrents.json")
+load(h, l, "free-movies-vodo.json")
+
+for y in sorted(h.keys()):
+    print y, h[y]
+#print "Total:", len(l.keys())

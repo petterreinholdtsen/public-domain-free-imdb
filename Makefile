@@ -10,3 +10,8 @@ listupdate:
 # See http://countwordsworth.com/blog/dale-chall-easy-word-list-text-file/
 DaleChallEasyWordList.txt:
 	curl -q -o $@ http://countwordsworth.com/download/DaleChallEasyWordList.txt
+
+histogram-year.data: *.json
+	./histogram-year > $@
+histogram-year.png: histogram-year.data
+	./histogram-year-plot

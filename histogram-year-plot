@@ -1,0 +1,5 @@
+#!/usr/bin/gnuplot -persist
+set terminal png large size 512,256
+set output 'histogram-year.png'
+set grid
+plot "histogram-year.data" with impulses notitle
