@@ -1,0 +1,3082 @@
+{
+    "http://www.imdb.com/title/tt0000417/": {
+        "freenessurl": "https://archive.org/details/Levoyagedanslalune",
+        "status": "free",
+        "title": "Le voyage dans la lune"
+    },
+    "http://www.imdb.com/title/tt0001544/": {
+        "freenessurl": "https://archive.org/details/AChristmasCarol",
+        "status": "free",
+        "title": "A Christmas Carol",
+        "year": "1910"
+    },
+    "http://www.imdb.com/title/tt0004972/": {
+        "freenessurl": "https://archive.org/details/dw_griffith_birth_of_a_nation",
+        "status": "free",
+        "title": "The Birth of a Nation",
+        "year": "1915"
+    },
+    "http://www.imdb.com/title/tt0007613/": {
+        "freenessurl": "https://archive.org/details/CC_1917_10_22_TheAdventurer",
+        "status": "free",
+        "title": "Charlie Chaplin's \"The Adventurer\"",
+        "year": "1917"
+    },
+    "http://www.imdb.com/title/tt0009123/": {
+        "freenessurl": "https://archive.org/details/GoodNightNurse_44",
+        "status": "free",
+        "title": "Good Night Nurse"
+    },
+    "http://www.imdb.com/title/tt0009968/": {
+        "freenessurl": "https://archive.org/details/brokenblossoms1919",
+        "status": "free",
+        "title": "broken blossoms (1919)"
+    },
+    "http://www.imdb.com/title/tt0011221/": {
+        "freenessurl": "https://archive.org/details/RobertWienesgenuineATaleOfAVampire1920",
+        "status": "free",
+        "title": "Robert Wiene's \"GENUINE A Tale of a Vampire\" (1920)"
+    },
+    "http://www.imdb.com/title/tt0011439/": {
+        "freenessurl": "https://archive.org/details/markofzorro-1920",
+        "status": "free",
+        "title": "Mark of Zorro",
+        "year": "1920"
+    },
+    "http://www.imdb.com/title/tt0011635/": {
+        "freenessurl": "https://archive.org/details/Robbery_Under_Arms",
+        "status": "free",
+        "title": "Robbery Under Arms",
+        "year": "1920"
+    },
+    "http://www.imdb.com/title/tt0012278/": {
+        "freenessurl": "https://archive.org/details/TheHighSign",
+        "status": "free",
+        "title": "The High Sign"
+    },
+    "http://www.imdb.com/title/tt0012364/": {
+        "freenessurl": "https://archive.org/details/PhantomCarraige",
+        "status": "free",
+        "title": "Phantom Carraige"
+    },
+    "http://www.imdb.com/title/tt0015400/": {
+        "freenessurl": "https://archive.org/details/ThiefOfBagdad1924",
+        "status": "free",
+        "title": "Thief of Bagdad",
+        "year": "1924"
+    },
+    "http://www.imdb.com/title/tt0015648/": {
+        "freenessurl": "https://archive.org/details/BattleshipPotemkin",
+        "status": "free",
+        "title": "Bronenosets Potyomkin (Battleship Potemkin)",
+        "year": "1925"
+    },
+    "http://www.imdb.com/title/tt0016039/": {
+        "freenessurl": "https://archive.org/details/lost_world",
+        "status": "free",
+        "title": "The Lost World",
+        "year": "1925"
+    },
+    "http://www.imdb.com/title/tt0016545/": {
+        "freenessurl": "https://archive.org/details/WolfBlood1925",
+        "status": "free",
+        "title": "Wolf Blood 1925"
+    },
+    "http://www.imdb.com/title/tt0019421/": {
+        "freenessurl": "https://archive.org/details/SteamboatBillJr",
+        "status": "free",
+        "title": "Steamboat Bill, Jr.",
+        "year": "1928"
+    },
+    "http://www.imdb.com/title/tt0019682/": {
+        "freenessurl": "https://archive.org/details/bees_buzz",
+        "status": "free",
+        "title": "Bee's Buzz",
+        "year": "1929"
+    },
+    "http://www.imdb.com/title/tt0019760/": {
+        "freenessurl": "https://archive.org/details/ChelovekskinoapparatomManWithAMovieCamera",
+        "status": "free",
+        "title": [
+            "Chelovek s kinoapparatom (Man With A Movie Camera)",
+            "Chelovek s kinoapparatom (Man With A Movie Camera)"
+        ],
+        "year": "1929"
+    },
+    "http://www.imdb.com/title/tt0019983/": {
+        "freenessurl": "https://archive.org/details/High_Voltage_",
+        "status": "free",
+        "title": "High Voltage",
+        "year": "1929"
+    },
+    "http://www.imdb.com/title/tt0020620/": {
+        "freenessurl": "https://archive.org/details/abraham_lincoln",
+        "status": "free",
+        "title": "Abraham Lincoln",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0020987/": {
+        "freenessurl": "https://archive.org/details/hook_line_and_sinker",
+        "status": "free",
+        "title": "Hook Line and Sinker",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0021233/": {
+        "freenessurl": "https://archive.org/details/PardonMyGun",
+        "status": "free",
+        "title": "Pardon My Gun",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0021287/": {
+        "freenessurl": "https://archive.org/details/ReachingForTheMoondecember291930",
+        "status": "free",
+        "title": "Reaching for the Moon",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0021643/": {
+        "freenessurl": "https://archive.org/details/PublicDomainBattlingwithBuffaloBill",
+        "status": "free",
+        "title": "Battling with Buffalo Bill, Chapters 1-6",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021743/": {
+        "freenessurl": "https://archive.org/details/chinatown_after_dark",
+        "status": "free",
+        "title": "Chinatown After Dark",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022840/": {
+        "freenessurl": "https://archive.org/details/the_drifter",
+        "status": "free",
+        "title": "Drifter, The",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023236/": {
+        "freenessurl": "https://archive.org/details/monster_walks",
+        "status": "free",
+        "title": "Monster Walks, The",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023238/": {
+        "freenessurl": "https://archive.org/details/TheMostDangerousGame",
+        "status": "free",
+        "title": "The Most Dangerous Game",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023469/": {
+        "freenessurl": "https://archive.org/details/The_Sign_OF_Four",
+        "status": "free",
+        "title": "The Sign Of Four",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023512/": {
+        "freenessurl": "https://archive.org/details/the_stoker",
+        "status": "free",
+        "title": "Stoker, The",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023657/": {
+        "freenessurl": "https://archive.org/details/verkaufte_braut",
+        "status": "free",
+        "title": "Die Verkaufte Braut",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023669/": {
+        "freenessurl": "https://archive.org/details/war_babies",
+        "status": "free",
+        "title": "War Babies",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023808/": {
+        "freenessurl": "https://archive.org/details/TheBigChance",
+        "status": "free",
+        "title": "The Big Chance",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0023859/": {
+        "freenessurl": "https://archive.org/details/ByAppointmentOnly",
+        "status": "free",
+        "title": "By Appointment Only",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0023904/": {
+        "freenessurl": "https://archive.org/details/Constant_Woman_1933",
+        "status": "free",
+        "title": "The Constant Woman",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0023935/": {
+        "freenessurl": "https://archive.org/details/The_Death_Kiss",
+        "status": "free",
+        "title": "The Death Kiss",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0024055/": {
+        "freenessurl": "https://archive.org/details/TheGhoul",
+        "status": "free",
+        "title": "The Ghoul",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0024416/": {
+        "freenessurl": "https://archive.org/details/One_Year_Later_1933",
+        "status": "free",
+        "title": "One Year Later",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0024674/": {
+        "freenessurl": "https://archive.org/details/ZaneGreysToTheLastMan1933-RandolphScott",
+        "status": "free",
+        "title": "Zane Grey'\u0080\u0099s To the Last Man (1933) - Randolph Scott"
+    },
+    "http://www.imdb.com/title/tt0024803/": {
+        "freenessurl": "https://archive.org/details/zero_de_conduite",
+        "status": "free",
+        "title": "Z\u00e9ro de conduite",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0024870/": {
+        "freenessurl": "https://archive.org/details/beggars_in_ermine",
+        "status": "free",
+        "title": "Beggars in Ermine",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0025302/": {
+        "freenessurl": "https://archive.org/details/in_love_with_life",
+        "status": "free",
+        "title": "In Love With Life",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0025463/": {
+        "freenessurl": "https://archive.org/details/ManhattanLoveSong",
+        "status": "free",
+        "title": "Manhattan Love Song",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0025465/": {
+        "freenessurl": "https://archive.org/details/Maniac",
+        "status": "free",
+        "title": "Maniac",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0025903/": {
+        "freenessurl": "https://archive.org/details/TheTrailBeyond",
+        "status": "free",
+        "title": "The Trail Beyond",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0025939/": {
+        "freenessurl": "https://archive.org/details/Rocky_Mountain_Mystery_1935",
+        "status": "free",
+        "title": "Rocky Mountain Mystery",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0026003/": {
+        "freenessurl": "https://archive.org/details/Woman_in_the_Dark_1934",
+        "status": "free",
+        "title": "Woman in the Dark",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0026259/": {
+        "freenessurl": "https://archive.org/details/danger_ahead",
+        "status": "free",
+        "title": "Danger Ahead",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0026755/": {
+        "freenessurl": "https://archive.org/details/mysterious_mr_wong",
+        "status": "free",
+        "title": "Mysterious Mr. Wong, The",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0026756/": {
+        "freenessurl": "https://archive.org/details/Mystery_Man_1935",
+        "status": "free",
+        "title": "The Mystery Man",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0026867/": {
+        "freenessurl": "https://archive.org/details/phantom_empire_chapter_1",
+        "status": "free",
+        "title": "Phantom Empire - Chapter 1: Singing Cowboy",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0026909/": {
+        "freenessurl": "https://archive.org/details/rainbows_end",
+        "status": "free",
+        "title": "Rainbow's End",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0026981/": {
+        "freenessurl": "https://archive.org/details/TheShadowofSilkLennox",
+        "status": "free",
+        "title": "The Shadow of Silk Lennox",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0027026/": {
+        "freenessurl": "https://archive.org/details/SonsofSteel",
+        "status": "free",
+        "title": "Sons of Steel",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0027097/": {
+        "freenessurl": "https://archive.org/details/TheThreeStoogesInThreeLittleBeers",
+        "status": "free",
+        "title": "The Three Stooges in Three Little Beers"
+    },
+    "http://www.imdb.com/title/tt0027286/": {
+        "freenessurl": "https://archive.org/details/amazing_adventure",
+        "status": "free",
+        "title": "The Amazing Adventure",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027289/": {
+        "freenessurl": "https://archive.org/details/ambush_valley",
+        "status": "free",
+        "title": "Ambush Valley",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027384/": {
+        "freenessurl": "https://archive.org/details/border_patrolman",
+        "status": "free",
+        "title": "Border Patrolman",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027529/": {
+        "freenessurl": "https://archive.org/details/disorder_in_the_court",
+        "status": "free",
+        "title": "Disorder in the Court",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027863/": {
+        "freenessurl": "https://archive.org/details/LadyLuck",
+        "status": "free",
+        "title": "Lady Luck"
+    },
+    "http://www.imdb.com/title/tt0027882/": {
+        "freenessurl": "https://archive.org/details/lets_sing_again",
+        "status": "free",
+        "title": "Let's Sing Again",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027893/": {
+        "freenessurl": "https://archive.org/details/little_lord_fauntleroy",
+        "status": "free",
+        "title": "Little Lord Fauntleroy",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028010/": {
+        "freenessurl": "https://archive.org/details/my_man_godfrey",
+        "status": "free",
+        "title": "My Man Godfrey",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028132/": {
+        "freenessurl": "https://archive.org/details/Postal_Inspector_1936",
+        "status": "free",
+        "title": "Postal Inspector",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028167/": {
+        "freenessurl": "https://archive.org/details/Rembrandt",
+        "status": "free",
+        "title": "Rembrandt",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028198/": {
+        "freenessurl": "https://archive.org/details/robinson_crusoe_of_clipper_island_ep1",
+        "status": "free",
+        "title": "Robinson Crusoe of Clipper Island: Chapter 1 - The Mysterious Island",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028200/": {
+        "freenessurl": "https://archive.org/details/rogues_tavern",
+        "status": "free",
+        "title": "Rogue's Tavern",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028346/": {
+        "freenessurl": "https://archive.org/details/reefer_madness1938",
+        "status": "free",
+        "title": "Reefer Madness",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0028358/": {
+        "freenessurl": "https://archive.org/details/ClaCinOnl_ThingsToCome",
+        "status": "free",
+        "title": "Things To Come",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028604/": {
+        "freenessurl": "https://archive.org/details/Bar-ZBadMen",
+        "status": "free",
+        "title": "Bar-Z Bad Men",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0028634/": {
+        "freenessurl": "https://archive.org/details/BillCracksDown",
+        "status": "free",
+        "title": "Bill Cracks Down",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0028667/": {
+        "freenessurl": "https://archive.org/details/BulldogDrummondComesBack",
+        "status": "free",
+        "title": "Bulldog Drummond Comes Back",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0028827/": {
+        "freenessurl": "https://archive.org/details/ElephantBoy",
+        "status": "free",
+        "title": "Elephant Boy",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0028994/": {
+        "freenessurl": "https://archive.org/details/heres_flash_casey_1938",
+        "status": "free",
+        "title": "Here's Flash Casey",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0029126/": {
+        "freenessurl": "https://archive.org/details/ALawmanIsBorn",
+        "status": "free",
+        "title": "A Lawman Is Born",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029565/": {
+        "freenessurl": "https://archive.org/details/Murder_At_The_Baskervilles",
+        "status": "free",
+        "title": "Murder At The Baskervilles",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029580/": {
+        "freenessurl": "https://archive.org/details/Small_Town_Boy_1937",
+        "status": "free",
+        "title": "Small Town Boy",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029945/": {
+        "freenessurl": "https://archive.org/details/breaking_the_ice",
+        "status": "free",
+        "title": "Breaking the Ice",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0029989/": {
+        "freenessurl": "https://archive.org/details/ChildBride",
+        "status": "free",
+        "title": [
+            "Child Bride",
+            "Child Bride"
+        ],
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0030217/": {
+        "freenessurl": "https://archive.org/details/hawaii_calls",
+        "status": "free",
+        "title": "Hawaii Calls",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0030273/": {
+        "freenessurl": "https://archive.org/details/international_crime_1938",
+        "status": "free",
+        "title": "International Crime",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0030324\" rel=\"nofollow\"": {
+        "freenessurl": "https://archive.org/details/black_stallion",
+        "status": "free",
+        "title": "Black Stallion",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0030692/": {
+        "freenessurl": "https://archive.org/details/Romance_of_the_Limberlost_1938",
+        "status": "free",
+        "title": "Romance of the Limberlost",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0030910/": {
+        "freenessurl": "https://archive.org/details/UnderWesternStars",
+        "status": "free",
+        "title": "Under Western Stars",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0031286/": {
+        "freenessurl": "https://archive.org/details/frolics_on_ice",
+        "status": "free",
+        "title": "Frolics On Ice",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031387/": {
+        "freenessurl": "https://archive.org/details/the_gorilla",
+        "status": "free",
+        "title": "Gorilla, The",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031394/": {
+        "freenessurl": "https://archive.org/details/green_hornet_ep12",
+        "status": "free",
+        "title": "The Green Hornet: Chapter 12 - Panic in the Zoo",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0031397/": {
+        "freenessurl": "https://archive.org/details/gullivers_travels1939",
+        "status": "free",
+        "title": "Gulliver's Travels",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031455/": {
+        "freenessurl": "https://archive.org/details/hunchback_of_notre_dame",
+        "status": "free",
+        "title": "Hunchback of Notre Dame, The - trailer",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031593/": {
+        "freenessurl": "https://archive.org/details/LoveAffair",
+        "status": "free",
+        "title": "Love Affair",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031602/": {
+        "freenessurl": "https://archive.org/details/made_for_each_other_film",
+        "status": "free",
+        "title": "Made for Each Other",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031831/": {
+        "freenessurl": "https://archive.org/details/Q-Planes",
+        "status": "free",
+        "title": "Q Planes",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031987/": {
+        "freenessurl": "https://archive.org/details/abe_lincoln_of_the_4th_ave",
+        "status": "free",
+        "title": "Abe Lincoln of the Ninth Avenue",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0032022/": {
+        "freenessurl": "https://archive.org/details/They_Made_Me_A_Criminal_1939",
+        "status": "free",
+        "title": "They Made Me a Criminal",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0032076/": {
+        "freenessurl": "https://archive.org/details/undercover_agent",
+        "status": "free",
+        "title": "Undercover Agent",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0032159/": {
+        "freenessurl": "https://archive.org/details/Zero_Hour_1939",
+        "status": "free",
+        "title": "The Zero Hour",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0032215/": {
+        "freenessurl": "https://archive.org/details/the_ape",
+        "status": "free",
+        "title": "Ape, The",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032247/": {
+        "freenessurl": "https://archive.org/details/Beyond_Tomorrow",
+        "status": "free",
+        "title": "Beyond Tomorrow",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032283/": {
+        "freenessurl": "https://archive.org/details/BritishIntelligence1940",
+        "status": "free",
+        "title": "British Intelligence",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032390/": {
+        "freenessurl": "https://archive.org/details/Devil_Bat_movie",
+        "status": "free",
+        "title": "The Devil Bat",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032404/": {
+        "freenessurl": "https://archive.org/details/doomed_to_die",
+        "status": "free",
+        "title": "Doomed to Die",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032457/": {
+        "freenessurl": "https://archive.org/details/fatal_hour",
+        "status": "free",
+        "title": "Fatal Hour",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032475/": {
+        "freenessurl": "https://archive.org/details/flash_gordon1",
+        "status": "free",
+        "title": "Flash Gordon Conquers the Universe",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0032599/": {
+        "freenessurl": "https://archive.org/details/his_girl_friday",
+        "status": "free",
+        "title": "His Girl Friday",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032683/": {
+        "freenessurl": "https://archive.org/details/Laddie_1940",
+        "status": "free",
+        "title": "Laddie",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032782/": {
+        "freenessurl": "https://archive.org/details/The_Phantom_Empire_1935",
+        "status": "free",
+        "title": "The Phantom Empire",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032799/": {
+        "freenessurl": "https://archive.org/details/misbehaving_husbands",
+        "status": "free",
+        "title": "Misbehaving Husbands",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032881/": {
+        "freenessurl": "https://archive.org/details/Our_Town",
+        "status": "free",
+        "title": "Our Town",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032903/": {
+        "freenessurl": "https://archive.org/details/phantom_of_chinatown",
+        "status": "free",
+        "title": "Phantom of Chinatown",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0033021/": {
+        "freenessurl": "https://archive.org/details/Santa_Fe_Trail",
+        "status": "free",
+        "title": "Santa Fe Trail",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0033029/": {
+        "freenessurl": "https://archive.org/details/second_chorus",
+        "status": "free",
+        "title": "Second Chorus",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0033379/": {
+        "freenessurl": "https://archive.org/details/the_bashful_bachelor",
+        "status": "free",
+        "title": "The Bashful Bachelor",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0033459\" rel=\"nofollow\"": {
+        "freenessurl": "https://archive.org/details/cheers_for_miss_bishop",
+        "status": "free",
+        "title": "Cheers for Miss Bishop",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033469/": {
+        "freenessurl": "https://archive.org/details/city_of_missing_girls",
+        "status": "free",
+        "title": "City of Missing Girls",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033738/": {
+        "freenessurl": "https://archive.org/details/IKilledThatMan1945",
+        "status": "free",
+        "title": "I Killed That Man (1945)"
+    },
+    "http://www.imdb.com/title/tt0033787/": {
+        "freenessurl": "https://archive.org/details/KingOfTheZombies",
+        "status": "free",
+        "title": "King of the Zombies",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033998/": {
+        "freenessurl": "https://archive.org/details/GangsInc.1941",
+        "status": "free",
+        "title": "Gangs, Inc. (1941)"
+    },
+    "http://www.imdb.com/title/tt0034012/": {
+        "freenessurl": "https://archive.org/details/penny_serenade",
+        "status": "free",
+        "title": "Penny Serenade",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034173/": {
+        "freenessurl": "https://archive.org/details/Shadows_on_the_Stairs_1941",
+        "status": "free",
+        "title": "Shadows on the Stairs",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034244/": {
+        "freenessurl": "https://archive.org/details/sunset_murder_case",
+        "status": "free",
+        "title": "Sunset Murder Case",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0034486/": {
+        "freenessurl": "https://archive.org/details/babyface_morgan",
+        "status": "free",
+        "title": "Baby Face Morgan",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034664/": {
+        "freenessurl": "https://archive.org/details/don_winslow_of_the_navy_ep1",
+        "status": "free",
+        "title": "Don Winslow of the Navy: Chapter 1 - The Human Torpedo",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034711/": {
+        "freenessurl": "https://archive.org/details/EYES.IN.THE.NIGHT",
+        "status": "free",
+        "title": "Eyes in the Night",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034754/": {
+        "freenessurl": "https://archive.org/details/FrecklesComesHome",
+        "status": "free",
+        "title": "Freckles Comes Home",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034863/": {
+        "freenessurl": "https://archive.org/details/holt_of_the_secret_service_part1",
+        "status": "free",
+        "title": "Holt of the Secret Service Part 1: Chaotic Greek",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0035009/": {
+        "freenessurl": "https://archive.org/details/mad_monster",
+        "status": "free",
+        "title": "Mad Monster, The",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035565/": {
+        "freenessurl": "https://archive.org/details/WinningYourWings",
+        "status": "free",
+        "title": "Winning Your Wings",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035679/": {
+        "freenessurl": "https://archive.org/details/Black_Raven_movie",
+        "status": "free",
+        "title": "The Black Raven",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0035694/": {
+        "freenessurl": "https://archive.org/details/Boss.of.Big.Town",
+        "status": "free",
+        "title": "The Boss of Big Town",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0036073/": {
+        "freenessurl": "https://archive.org/details/kid_dynamite",
+        "status": "free",
+        "title": "Kid Dynamite",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036217/": {
+        "freenessurl": "https://archive.org/details/TheNorthStar",
+        "status": "free",
+        "title": "The North Star",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036241/": {
+        "freenessurl": "https://archive.org/details/the_outlaw",
+        "status": "free",
+        "title": "Outlaw, The",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036430/": {
+        "freenessurl": "https://archive.org/details/this_is_the_army",
+        "status": "free",
+        "title": "This is the Army",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036516/": {
+        "freenessurl": "https://archive.org/details/We_Dive_at_Dawn_1943",
+        "status": "free",
+        "title": "We Dive at Dawn",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036879/": {
+        "freenessurl": "https://archive.org/details/the_great_mike",
+        "status": "free",
+        "title": "Great Mike, The",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0037001/": {
+        "freenessurl": "https://archive.org/details/lady_in_the_death_house",
+        "status": "free",
+        "title": "Lady in the Death House",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0037441/": {
+        "freenessurl": "https://archive.org/details/VoodooMan1944",
+        "status": "free",
+        "title": "Voodoo Man (1944)"
+    },
+    "http://www.imdb.com/title/tt0037823/": {
+        "freenessurl": "https://archive.org/details/its_in_the_bag",
+        "status": "free",
+        "title": "It's in the Bag! - trailer",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0037985/": {
+        "freenessurl": "https://archive.org/details/phantom_of_42nd_st",
+        "status": "free",
+        "title": "Phantom of 42nd St",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0038101/": {
+        "freenessurl": "https://archive.org/details/SongOfOldWyoming",
+        "status": "free",
+        "title": "Song Of Old Wyoming",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0038254/": {
+        "freenessurl": "https://archive.org/details/Wildfire",
+        "status": "free",
+        "title": "Wildfire",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0038346/": {
+        "freenessurl": "https://archive.org/details/BehindGreenLights_high_Q_mp4",
+        "status": "free",
+        "title": "Behind Green Lights",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0038494/": {
+        "freenessurl": "https://archive.org/details/dressed_to_kill",
+        "status": "free",
+        "title": "Dressed To Kill",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0038611/": {
+        "freenessurl": "https://archive.org/details/HomeinOklahoma",
+        "status": "free",
+        "title": "Home in Oklahoma",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0038764/": {
+        "freenessurl": "https://archive.org/details/my_pal_trigger",
+        "status": "free",
+        "title": "My Pal Trigger",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0038990/": {
+        "freenessurl": "https://archive.org/details/Strange_Woman_movie",
+        "status": "free",
+        "title": "The Strange Woman",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0039020/": {
+        "freenessurl": "https://archive.org/details/that_brennan_girl",
+        "status": "free",
+        "title": "That Brennan Girl",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0039460/": {
+        "freenessurl": "https://archive.org/details/hi_de_ho",
+        "status": "free",
+        "title": "Hi De Ho",
+        "year": "1947"
+    },
+    "http://www.imdb.com/title/tt0039503/": {
+        "freenessurl": "https://archive.org/details/its_a_joke_son",
+        "status": "free",
+        "title": "It's A Joke, Son",
+        "year": "1947"
+    },
+    "http://www.imdb.com/title/tt0039743/": {
+        "freenessurl": "https://archive.org/details/QueenoftheAmazons",
+        "status": "free",
+        "title": "Queen of the Amazons",
+        "year": "1946"
+    },
+    "http://www.imdb.com/title/tt0040472/": {
+        "freenessurl": "https://archive.org/details/inner_sanctum",
+        "status": "free",
+        "title": "Inner Sanctum",
+        "year": "1948"
+    },
+    "http://www.imdb.com/title/tt0040626/": {
+        "freenessurl": "https://archive.org/details/my_dear_secretary",
+        "status": "free",
+        "title": "My Dear Secretary",
+        "year": "1949"
+    },
+    "http://www.imdb.com/title/tt0042367/": {
+        "freenessurl": "https://archive.org/details/Cyrano_DeBergerac",
+        "status": "free",
+        "title": "Cyrano De Bergerac",
+        "year": "1950"
+    },
+    "http://www.imdb.com/title/tt0042369/": {
+        "freenessurl": "https://archive.org/details/doa_1949",
+        "status": "free",
+        "title": "D.O.A.",
+        "year": "1949"
+    },
+    "http://www.imdb.com/title/tt0042524/": {
+        "freenessurl": "https://archive.org/details/GreatRupert",
+        "status": "free",
+        "title": "The Great Rupert",
+        "year": "1950"
+    },
+    "http://www.imdb.com/title/tt0042618/": {
+        "freenessurl": "https://archive.org/details/JohnnyOne-Eye",
+        "status": "free",
+        "title": "Johnny One-Eye",
+        "year": "1950"
+    },
+    "http://www.imdb.com/title/tt0042869/": {
+        "freenessurl": "https://archive.org/details/Quicksand_clear",
+        "status": "free",
+        "title": "Quicksand",
+        "year": "1950"
+    },
+    "http://www.imdb.com/title/tt0043041/": {
+        "freenessurl": "https://archive.org/details/ThreeCameHomeClaudetteColbertHankrip",
+        "status": "free",
+        "title": "Three Came Home",
+        "year": "1950"
+    },
+    "http://www.imdb.com/title/tt0043523/": {
+        "freenessurl": "https://archive.org/details/Fat_Man_1951",
+        "status": "free",
+        "title": "drvd_tmps",
+        "year": "1951"
+    },
+    "http://www.imdb.com/title/tt0043885/": {
+        "freenessurl": "https://archive.org/details/OnlytheValaint",
+        "status": "free",
+        "title": "Only the Valiant",
+        "year": "1951"
+    },
+    "http://www.imdb.com/title/tt0044133/": {
+        "freenessurl": "https://archive.org/details/TokyoFile212",
+        "status": "free",
+        "title": "Tokyo File 212",
+        "year": "1951"
+    },
+    "http://www.imdb.com/title/tt0044762/": {
+        "freenessurl": "https://archive.org/details/PublicDomainJackandtheBeanstalk",
+        "status": "free",
+        "title": "Jack and the Beanstalk",
+        "year": "1952"
+    },
+    "http://www.imdb.com/title/tt0044796/": {
+        "freenessurl": "https://archive.org/details/Kid_Monk_Baroni",
+        "status": "free",
+        "title": "Kid Monk Baroni",
+        "year": "1952"
+    },
+    "http://www.imdb.com/title/tt0044925/": {
+        "freenessurl": "https://archive.org/details/VampireOverLondon1952",
+        "status": "free",
+        "title": "Vampire Over London (1952)"
+    },
+    "http://www.imdb.com/title/tt0045064/": {
+        "freenessurl": "https://archive.org/details/radarmen1",
+        "status": "free",
+        "title": "Radar Men From the Moon - Chapter 1: Moon Rocket",
+        "year": "1952"
+    },
+    "http://www.imdb.com/title/tt0045223/": {
+        "freenessurl": "https://archive.org/details/TeenageDevilDolls",
+        "status": "free",
+        "title": "Teenage Devil Dolls",
+        "year": "1955"
+    },
+    "http://www.imdb.com/title/tt0045551/": {
+        "freenessurl": "https://archive.org/details/beneath_the_12_mile_reef_stills",
+        "status": "free",
+        "title": "Beneath The 12 Mile Reef (Stills) - trailer",
+        "year": "1953"
+    },
+    "http://www.imdb.com/title/tt0045609/": {
+        "freenessurl": "https://archive.org/details/Cat_Women_of_the_Moon",
+        "status": "free",
+        "title": "Cat-Women of the Moon",
+        "year": "1953"
+    },
+    "http://www.imdb.com/title/tt0045655/": {
+        "freenessurl": "https://archive.org/details/CrashoftheMoons",
+        "status": "free",
+        "title": "Rocky Jones, Space Ranger - Crash of the Moons",
+        "year": "1954"
+    },
+    "http://www.imdb.com/title/tt0046065/": {
+        "freenessurl": "https://archive.org/details/MenacefromOuterSpace",
+        "status": "free",
+        "title": "Rocky Jones, Space Ranger - Menace from Outer Space",
+        "year": "1956"
+    },
+    "http://www.imdb.com/title/tt0046347/": {
+        "freenessurl": "https://archive.org/details/son_of_the_renegade",
+        "status": "free",
+        "title": "Son of the Renegade",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0047178/": {
+        "freenessurl": "https://archive.org/details/life_at_stake",
+        "status": "free",
+        "title": "Life at Stake",
+        "year": "1954"
+    },
+    "http://www.imdb.com/title/tt0047507/": {
+        "freenessurl": "https://archive.org/details/TheSnowCreature",
+        "status": "free",
+        "title": "The Snow Creature",
+        "year": "1954"
+    },
+    "http://www.imdb.com/title/tt0047947/": {
+        "freenessurl": "https://archive.org/details/conquest_of_space",
+        "status": "free",
+        "title": "Conquest of Space - trailer",
+        "year": "1955"
+    },
+    "http://www.imdb.com/title/tt0047976/": {
+        "freenessurl": "https://archive.org/details/daughter_of_horror",
+        "status": "free",
+        "title": "Daughter of Horror",
+        "year": "1955"
+    },
+    "http://www.imdb.com/title/tt0049437/": {
+        "freenessurl": "https://archive.org/details/liane_jungle_goddess",
+        "status": "free",
+        "title": "Liane, das M\u00e4dchen aus dem Urwald(Liane Jungle Goddess)",
+        "year": "1956"
+    },
+    "http://www.imdb.com/title/tt0049515/": {
+        "freenessurl": "https://archive.org/details/mohawk",
+        "status": "free",
+        "title": "Mohawk"
+    },
+    "http://www.imdb.com/title/tt0050261/": {
+        "freenessurl": "https://archive.org/details/RedMenace",
+        "status": "free",
+        "title": "RED NIGHTMARE 1962"
+    },
+    "http://www.imdb.com/title/tt0050842/": {
+        "freenessurl": "https://archive.org/details/The_Pied_Piper_of_Hamelin",
+        "status": "free",
+        "title": "The Pied Piper of Hamelin",
+        "year": "1957"
+    },
+    "http://www.imdb.com/title/tt0051536/": {
+        "freenessurl": "https://archive.org/details/TheDevilsPartner1958",
+        "status": "free",
+        "title": "The Devil's Partner (1958)"
+    },
+    "http://www.imdb.com/title/tt0051993/": {
+        "freenessurl": "https://archive.org/details/NightOfTheBloodBeast1958",
+        "status": "free",
+        "title": "Night of the Blood Beast (1958)"
+    },
+    "http://www.imdb.com/title/tt0052646/": {
+        "freenessurl": "https://archive.org/details/brain_that_wouldnt_die",
+        "status": "free",
+        "title": "Brain That Wouldn't Die, The",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0052891/": {
+        "freenessurl": "https://archive.org/details/HighSchoolBigShot",
+        "status": "free",
+        "title": "HIGH SCHOOL BIG SHOT (1959)"
+    },
+    "http://www.imdb.com/title/tt0053103/": {
+        "freenessurl": "https://archive.org/details/BattleBeyondTheSun",
+        "status": "free",
+        "title": "Battle Beyond The Sun"
+    },
+    "http://www.imdb.com/title/tt0053241/": {
+        "freenessurl": "https://archive.org/details/SantaClausversusTheDevil",
+        "status": "free",
+        "title": "Santa Claus (versus the devil)"
+    },
+    "http://www.imdb.com/title/tt0053719/": {
+        "freenessurl": "https://archive.org/details/Horror_Hotel",
+        "status": "free",
+        "title": "City of the Dead/Horror Hotel",
+        "year": "1960"
+    },
+    "http://www.imdb.com/title/tt0054017/": {
+        "freenessurl": "https://archive.org/details/last_woman_on_earth",
+        "status": "free",
+        "title": "Last Woman on Earth",
+        "year": "1960"
+    },
+    "http://www.imdb.com/title/tt0054111/": {
+        "freenessurl": "https://archive.org/details/TheNakedWitch",
+        "status": "free",
+        "title": "The Naked Witch"
+    },
+    "http://www.imdb.com/title/tt0054330/": {
+        "freenessurl": "https://archive.org/details/Assignment_Outer_Space",
+        "status": "free",
+        "title": "Assignment Outer Space",
+        "year": "1960"
+    },
+    "http://www.imdb.com/title/tt0054333/": {
+        "freenessurl": "https://archive.org/details/Horrors_of_Spider_Island",
+        "status": "free",
+        "title": "Horrors of Spider Island",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0054393/": {
+        "freenessurl": "https://archive.org/details/tormented",
+        "status": "free",
+        "title": "Tormented",
+        "year": "1960"
+    },
+    "http://www.imdb.com/title/tt0054462/": {
+        "freenessurl": "https://archive.org/details/The_Wasp_Women",
+        "status": "free",
+        "title": "The Wasp Woman",
+        "year": "1960"
+    },
+    "http://www.imdb.com/title/tt0054817/": {
+        "freenessurl": "https://archive.org/details/Five_Minutes_To_Live.avi",
+        "status": "free",
+        "title": "Five Minutes To Live",
+        "year": "1961"
+    },
+    "http://www.imdb.com/title/tt0055001/": {
+        "freenessurl": "https://archive.org/details/unfinished_task",
+        "status": "free",
+        "title": "Unfinished Task",
+        "year": "1960"
+    },
+    "http://www.imdb.com/title/tt0056211/": {
+        "freenessurl": "https://archive.org/details/TheMagicSword",
+        "status": "free",
+        "title": "The Magic Sword",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0056415/": {
+        "freenessurl": "https://archive.org/details/RingofTerror",
+        "status": "free",
+        "title": "Ring of Terror",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0057701/": {
+        "freenessurl": "https://archive.org/details/TheYesterdayMachine1963",
+        "status": "free",
+        "title": "The Yesterday Machine (1963)"
+    },
+    "http://www.imdb.com/title/tt0058063/": {
+        "freenessurl": "https://archive.org/details/Hercules_and_the_Tyrants_of_Babylon",
+        "status": "free",
+        "title": "Hercules and the Tyrants of Babylon",
+        "year": "1964"
+    },
+    "http://www.imdb.com/title/tt0058606/": {
+        "freenessurl": "https://archive.org/details/SPIDERBABY1964_0",
+        "status": "free",
+        "title": "SPIDER BABY 1964"
+    },
+    "http://www.imdb.com/title/tt0059161/": {
+        "freenessurl": "https://archive.org/details/TheEyeCreatures_631",
+        "status": "free",
+        "title": "The Eye Creatures"
+    },
+    "http://www.imdb.com/title/tt0060270/": {
+        "freenessurl": "https://archive.org/details/CurseOfTheSwampCreature1966_742",
+        "status": "free",
+        "title": "Curse of the Swamp Creature (1966)"
+    },
+    "http://www.imdb.com/title/tt0060536/": {
+        "freenessurl": "https://archive.org/details/InTheYear28891967",
+        "status": "free",
+        "title": "In the Year 2889 (1967)"
+    },
+    "http://www.imdb.com/title/tt0063350/": {
+        "freenessurl": "https://archive.org/details/night_of_the_living_dead",
+        "status": "free",
+        "title": "Night of the Living Dead",
+        "year": "1968"
+    },
+    "http://www.imdb.com/title/tt0063790/": {
+        "freenessurl": "https://archive.org/details/VoyagetothePlanetofPrehistoricWomen",
+        "status": "free",
+        "title": "Voyage to the Planet of Prehistoric Women",
+        "year": "1967"
+    },
+    "http://www.imdb.com/title/tt0064924/": {
+        "freenessurl": "https://archive.org/details/SamsSong",
+        "status": "free",
+        "title": "Sam's Song",
+        "year": "1969"
+    },
+    "http://www.imdb.com/title/tt0066062/": {
+        "freenessurl": "https://archive.org/details/MaybeIllComeHomeintheSpring",
+        "status": "free",
+        "title": "Maybe I'll Come Home in the Spring",
+        "year": "1971"
+    },
+    "http://www.imdb.com/title/tt0067321/": {
+        "freenessurl": "https://archive.org/details/Lady_Frankenstein",
+        "status": "free",
+        "title": "Lady Frankenstein",
+        "year": "1971"
+    },
+    "http://www.imdb.com/title/tt0068713/": {
+        "freenessurl": "https://archive.org/details/Horror_Express",
+        "status": "free",
+        "title": "Horror Express",
+        "year": "1973"
+    },
+    "http://www.imdb.com/title/tt0069980/": {
+        "freenessurl": "https://archive.org/details/DivorceHis-DivorceHers",
+        "status": "free",
+        "title": "Divorce His - Divorce Hers",
+        "year": "1973"
+    },
+    "http://www.imdb.com/title/tt0070222/": {
+        "freenessurl": "https://archive.org/details/InvasionOfTheBeeGirls",
+        "status": "free",
+        "title": "Invasion of the Bee girls"
+    },
+    "http://www.imdb.com/title/tt0070654/": {
+        "freenessurl": "https://archive.org/details/ScreamBloodyMurder1975",
+        "status": "free",
+        "title": "Scream Bloody Murder",
+        "year": "1973"
+    },
+    "http://www.imdb.com/title/tt0071413/": {
+        "freenessurl": "https://archive.org/details/DevilTimesFive_977",
+        "status": "free",
+        "title": "Devil Times Five",
+        "year": "1974"
+    },
+    "http://www.imdb.com/title/tt0074236/": {
+        "freenessurl": "https://archive.org/details/The_Boy_In_The_Plastic_Bubble",
+        "status": "free",
+        "title": "The Boy in the Plastic Bubble",
+        "year": "1976"
+    },
+    "http://www.imdb.com/title/tt0074475/": {
+        "freenessurl": "https://archive.org/details/embryo_RockHudson",
+        "status": "free",
+        "title": "Embryo",
+        "year": "1976"
+    },
+    "http://www.imdb.com/title/tt0074575/": {
+        "freenessurl": "https://archive.org/details/Gods_Gun.avi",
+        "status": "free",
+        "title": "God's Gun",
+        "year": "1976"
+    },
+    "http://www.imdb.com/title/tt0075990/": {
+        "freenessurl": "https://archive.org/details/EndoftheWorld",
+        "status": "free",
+        "title": "End of the World",
+        "year": "1977"
+    },
+    "http://www.imdb.com/title/tt0076731/": {
+        "freenessurl": "https://archive.org/details/Snowbeast_436",
+        "status": "free",
+        "title": "Snowbeast",
+        "year": "1977"
+    },
+    "http://www.imdb.com/title/tt0078317/": {
+        "freenessurl": "https://archive.org/details/StarOdysseyitalianStarWars1979",
+        "status": "free",
+        "title": "Star Odyssey (Italian Star Wars) 1979"
+    },
+    "http://www.imdb.com/title/tt0080532/": {
+        "freenessurl": "https://archive.org/details/AChristmasWithoutSnow",
+        "status": "free",
+        "title": "A Christmas Without Snow",
+        "year": "1980"
+    },
+    "http://www.imdb.com/title/tt0092978/": {
+        "freenessurl": "https://archive.org/details/Escape_From_Sobibor.avi",
+        "status": "free",
+        "title": "Escape From Sobibor",
+        "year": "1987"
+    },
+    "http://www.imdb.com/title/tt0132134/": {
+        "freenessurl": "https://archive.org/details/Execution_of_Mary_1895",
+        "status": "free",
+        "title": "The Execution of Mary, Queen of Scots",
+        "year": "1895"
+    },
+    "http://www.imdb.com/title/tt0132909/": {
+        "freenessurl": "https://archive.org/details/TheCrookedTrail",
+        "status": "free",
+        "title": "The Crooked Trail",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0142046/": {
+        "freenessurl": "https://archive.org/details/Police_Station_1959",
+        "status": "free",
+        "title": "Police Station",
+        "year": "1959"
+    },
+    "http://www.imdb.com/title/tt0147467/": {
+        "freenessurl": "https://archive.org/details/sex_madness",
+        "status": "free",
+        "title": "Sex Madness",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0149677/": {
+        "freenessurl": "https://archive.org/details/CosmosWarofthePlanets",
+        "status": "free",
+        "title": "Cosmos: War of the Planets",
+        "year": "1977"
+    },
+    "http://www.imdb.com/title/tt0156078/": {
+        "freenessurl": "https://archive.org/details/TheVictoryOfFaithsiegDesGlaubens",
+        "status": "free",
+        "title": "The Victory of Faith(Sieg Des Glaubens)"
+    },
+    "http://www.imdb.com/title/tt0165322/": {
+        "freenessurl": "https://archive.org/details/I_Cant_Escape_1934",
+        "status": "free",
+        "title": "I Can't Escape",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0173114/": {
+        "freenessurl": "https://archive.org/details/Rawhide_Terror_The",
+        "status": "free",
+        "title": "Rawhide_Terror_The",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0174450/": {
+        "freenessurl": "https://archive.org/details/africa_speaks",
+        "status": "free",
+        "title": "Africa Speaks",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0182253/": {
+        "freenessurl": "https://archive.org/details/Jacktown_movie_1962",
+        "status": "free",
+        "title": "Jacktown",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0183884/": {
+        "freenessurl": "https://archive.org/details/ThisisNotaTest",
+        "status": "free",
+        "title": "This Is Not a Test",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0195256/": {
+        "freenessurl": "https://archive.org/details/thegoddess",
+        "status": "free",
+        "title": "The Goddess - \u795e\u5973",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0205107/": {
+        "freenessurl": "https://archive.org/details/NationalCustoms",
+        "status": "free",
+        "title": "National Customs - \u56fd\u98ce",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0216820/": {
+        "freenessurl": "https://archive.org/details/Hurricane_at_Pilgrim_Hill",
+        "status": "free",
+        "title": "Hurricane at Pilgrim Hill",
+        "year": "1950"
+    },
+    "http://www.imdb.com/title/tt0220107/": {
+        "freenessurl": "https://archive.org/details/TomorrowsChildren1934-AmericanForcedSterilization-PublicDomain",
+        "status": "free",
+        "title": "Tomorrow's Children (1934) - American Forced Sterilization - Public Domain"
+    },
+    "http://www.imdb.com/title/tt0230832/": {
+        "freenessurl": "https://archive.org/details/Attack_From_Space",
+        "status": "free",
+        "title": "Attack From Space",
+        "year": "1959"
+    },
+    "http://www.imdb.com/title/tt0247568/": {
+        "freenessurl": "https://archive.org/details/nazi_concentration_camps",
+        "status": "free",
+        "title": "Nazi Concentration Camps",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0268254/": {
+        "freenessurl": "https://archive.org/details/DuncesandDangers",
+        "status": "free",
+        "title": "Dunces and Dangers",
+        "year": "1918"
+    },
+    "http://www.imdb.com/title/tt0271489/": {
+        "freenessurl": "https://archive.org/details/SonofHerculesTheLandofDarkness",
+        "status": "free",
+        "title": "The Sons of Hercules: Land of Darkness",
+        "year": "1963"
+    },
+    "http://www.imdb.com/title/tt0309402/": {
+        "freenessurl": "https://archive.org/details/buffalo_dance_1894",
+        "status": "free",
+        "title": "Buffalo Dance",
+        "year": "1894"
+    },
+    "http://www.imdb.com/title/tt0312017/": {
+        "freenessurl": "https://archive.org/details/What_Happened_1901",
+        "status": "free",
+        "title": "What Happened on Twenty-Third Street, New York City",
+        "year": "1901"
+    },
+    "http://www.imdb.com/title/tt0336695/": {
+        "freenessurl": "https://archive.org/details/TheKidStakes",
+        "status": "free",
+        "title": "The Kid Stakes",
+        "year": "1927"
+    },
+    "http://www.imdb.com/title/tt0349106/": {
+        "freenessurl": "https://archive.org/details/ask_dad",
+        "status": "free",
+        "title": "Ask Dad",
+        "year": "1929"
+    },
+    "http://www.imdb.com/title/tt0387927/": {
+        "freenessurl": "https://archive.org/details/CHILD",
+        "status": "free",
+        "title": "The Child Molester (1964)"
+    },
+    "http://www.imdb.com/title/tt0438500/": {
+        "freenessurl": "https://archive.org/details/queenofsports",
+        "status": "free",
+        "title": "Queen of Sports - \u4f53\u80b2\u7687\u540e",
+        "year": "1934"
+    },
+    "http://www.imdb.com/title/tt0471945/": {
+        "freenessurl": "https://archive.org/details/princess_iron_fan",
+        "status": "free",
+        "title": "Princess Iron Fan (\u9435\u6247\u516c\u4e3b)",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0717059/": {
+        "freenessurl": "https://archive.org/details/tales_of_tomorrow_15_the_dune_roller",
+        "status": "free",
+        "title": "Tales of Tomorrow #15: The Dune Roller",
+        "year": "1952"
+    },
+    "http://www.imdb.com/title/tt0782897/": {
+        "freenessurl": "https://archive.org/details/ColgateComedyHour_AbbottCostello",
+        "status": "free",
+        "title": "Colgate Comedy Hour - Abbott and Costello and Company",
+        "year": "1951"
+    },
+    "http://www.imdb.com/title/tt1003140/": {
+        "freenessurl": "https://archive.org/details/ScenesOfCityLife-dushifengguang",
+        "status": "free",
+        "title": "Scenes of City Life - \u90fd\u5e02\u98ce\u5149",
+        "year": "1935"
+    },
+    "https://archive.org/details/101_D_2004": {
+        "freenessurl": "https://archive.org/details/101_D_2004",
+        "status": "free",
+        "title": "101 (USA 2004)",
+        "year": "2004"
+    },
+    "https://archive.org/details/10SmartAlecks": {
+        "freenessurl": "https://archive.org/details/10SmartAlecks",
+        "status": "free",
+        "title": "10 Smart Alecks",
+        "year": "2015"
+    },
+    "https://archive.org/details/1452-plymouth-colony": {
+        "freenessurl": "https://archive.org/details/1452-plymouth-colony",
+        "status": "free",
+        "title": "Collection Filmcollectief - 1452 - Plymouth Colony: First Year",
+        "year": "1961"
+    },
+    "https://archive.org/details/1896AugusteLouisLumireChineseSaigon": {
+        "freenessurl": "https://archive.org/details/1896AugusteLouisLumireChineseSaigon",
+        "status": "free",
+        "title": "1896 Auguste & Louis Lumi\u00e8re Chinese \u00c0 Saigon"
+    },
+    "https://archive.org/details/1962TheBrainiacWAbelSalazar": {
+        "freenessurl": "https://archive.org/details/1962TheBrainiacWAbelSalazar",
+        "status": "free",
+        "title": "[ 1962] The Brainiac W Abel Salazar",
+        "year": "2014"
+    },
+    "https://archive.org/details/1969WahltADF.mov1450": {
+        "freenessurl": "https://archive.org/details/1969WahltADF.mov1450",
+        "status": "free",
+        "title": "1969 W\u00e4hlt ADF (Vote for ADF)",
+        "year": "1969"
+    },
+    "https://archive.org/details/1971DerSchneSigmar.movStefanKeineZeilenNeuSkaliert2243": {
+        "freenessurl": "https://archive.org/details/1971DerSchneSigmar.movStefanKeineZeilenNeuSkaliert2243",
+        "status": "free",
+        "title": "1971 Der Sch\u00f6ne Sigmar (The beautiful Sigmar)",
+        "year": "1970"
+    },
+    "https://archive.org/details/1YearshortFilm": {
+        "freenessurl": "https://archive.org/details/1YearshortFilm",
+        "status": "free",
+        "title": "1 Year (Short Film)",
+        "year": "2009"
+    },
+    "https://archive.org/details/2015Uberfordert1964741.12H.26414.02.152": {
+        "freenessurl": "https://archive.org/details/2015Uberfordert1964741.12H.26414.02.152",
+        "status": "free",
+        "title": "2015 \u00dcberfordert 1964 - 74 (Overstrained 1964-74)",
+        "year": "2015"
+    },
+    "https://archive.org/details/AChristmasCarol_201508": {
+        "freenessurl": "https://archive.org/details/AChristmasCarol_201508",
+        "status": "free",
+        "title": "AChristmas Carol"
+    },
+    "https://archive.org/details/ADashThroughTheClouds1912": {
+        "freenessurl": "https://archive.org/details/ADashThroughTheClouds1912",
+        "status": "free",
+        "title": "A DASH THROUGH THE CLOUDS (1912)"
+    },
+    "https://archive.org/details/ADriveThroughBunkerHillAndDowntownLosAngelesCa.1940s": {
+        "freenessurl": "https://archive.org/details/ADriveThroughBunkerHillAndDowntownLosAngelesCa.1940s",
+        "status": "free",
+        "title": "A Drive Through Bunker Hill and Downtown Los Angeles, ca. 1940s"
+    },
+    "https://archive.org/details/AMIGA": {
+        "freenessurl": "https://archive.org/details/AMIGA",
+        "status": "free",
+        "title": "AMIGA DPAINT ANIMS",
+        "year": "1988"
+    },
+    "https://archive.org/details/ANightOfMagic1944": {
+        "freenessurl": "https://archive.org/details/ANightOfMagic1944",
+        "status": "free",
+        "title": "A Night Of Magic 1944",
+        "year": "1944"
+    },
+    "https://archive.org/details/AStrongRevenge1914": {
+        "freenessurl": "https://archive.org/details/AStrongRevenge1914",
+        "status": "free",
+        "title": "A STRONG REVENGE (1913)"
+    },
+    "https://archive.org/details/ATripToThePlanets-SilentWithAddedSound": {
+        "freenessurl": "https://archive.org/details/ATripToThePlanets-SilentWithAddedSound",
+        "status": "free",
+        "title": "A Trip To The Planets - silent with added sound"
+    },
+    "https://archive.org/details/AWeddingParty": {
+        "freenessurl": "https://archive.org/details/AWeddingParty",
+        "status": "free",
+        "title": "A wedding party"
+    },
+    "https://archive.org/details/A_propos_de_Nice": {
+        "freenessurl": "https://archive.org/details/A_propos_de_Nice",
+        "status": "free",
+        "title": "A propos de Nice",
+        "year": "1930"
+    },
+    "https://archive.org/details/Adventures_of_Smilin_Jack_-_Chapter_2": {
+        "freenessurl": "https://archive.org/details/Adventures_of_Smilin_Jack_-_Chapter_2",
+        "status": "free",
+        "title": "Adventures of Smilin' Jack - Chapter 2",
+        "year": "1943"
+    },
+    "https://archive.org/details/AlCaponeTurnsHimselfInNewsreelClip": {
+        "freenessurl": "https://archive.org/details/AlCaponeTurnsHimselfInNewsreelClip",
+        "status": "free",
+        "title": "AL CAPONE TURNS HIMSELF IN newsreel clip"
+    },
+    "https://archive.org/details/AlantaZoo-AtlantaGeorgia": {
+        "freenessurl": "https://archive.org/details/AlantaZoo-AtlantaGeorgia",
+        "status": "free",
+        "title": "Alanta Zoo - Atlanta Georgia (June 2007)",
+        "year": "2007"
+    },
+    "https://archive.org/details/AlicesSpookyAdventure": {
+        "freenessurl": "https://archive.org/details/AlicesSpookyAdventure",
+        "status": "free",
+        "title": "Alice's Spooky Adventure"
+    },
+    "https://archive.org/details/Are_You_Ready_2004": {
+        "freenessurl": "https://archive.org/details/Are_You_Ready_2004",
+        "status": "free",
+        "title": "Are You Ready For Marriage? 2004",
+        "year": "2004"
+    },
+    "https://archive.org/details/ArizonaBadman": {
+        "freenessurl": "https://archive.org/details/ArizonaBadman",
+        "status": "free",
+        "title": "Arizona Badman"
+    },
+    "https://archive.org/details/AtlantaAquarium-AtlantaGeorgia": {
+        "freenessurl": "https://archive.org/details/AtlantaAquarium-AtlantaGeorgia",
+        "status": "free",
+        "title": "Atlanta Aquarium - Atlanta, Georgia",
+        "year": "2007"
+    },
+    "https://archive.org/details/AugusteLouisLumiereDemolitionDunMur1896Xvid": {
+        "freenessurl": "https://archive.org/details/AugusteLouisLumiereDemolitionDunMur1896Xvid",
+        "status": "free",
+        "title": "Auguste & Louis Lumi\u00e8re D\u00e9molition D'un Mur ( 1896) Xvid"
+    },
+    "https://archive.org/details/BarneyOldfieldsRaceForALife1913_201403": {
+        "freenessurl": "https://archive.org/details/BarneyOldfieldsRaceForALife1913_201403",
+        "status": "free",
+        "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett"
+    },
+    "https://archive.org/details/BelaLugosi-Rare1955Interview": {
+        "freenessurl": "https://archive.org/details/BelaLugosi-Rare1955Interview",
+        "status": "free",
+        "title": "Bela Lugosi - rare 1955 interview"
+    },
+    "https://archive.org/details/Black_Gold": {
+        "freenessurl": "https://archive.org/details/Black_Gold",
+        "status": "free",
+        "title": "Black Gold",
+        "year": "1936"
+    },
+    "https://archive.org/details/BlondeIce1948": {
+        "freenessurl": "https://archive.org/details/BlondeIce1948",
+        "status": "free",
+        "title": "Blonde Ice (1948)"
+    },
+    "https://archive.org/details/BlondeSavage": {
+        "freenessurl": "https://archive.org/details/BlondeSavage",
+        "status": "free",
+        "title": "Blonde Savage"
+    },
+    "https://archive.org/details/BlueBlazesRawden": {
+        "freenessurl": "https://archive.org/details/BlueBlazesRawden",
+        "status": "free",
+        "title": "\"Blue Blazes Rawden\" (1918)"
+    },
+    "https://archive.org/details/Bohemian1938": {
+        "freenessurl": "https://archive.org/details/Bohemian1938",
+        "status": "free",
+        "title": "[Amateur film: Bohemian Grove]"
+    },
+    "https://archive.org/details/BottomUnionArchive2005": {
+        "freenessurl": "https://archive.org/details/BottomUnionArchive2005",
+        "status": "free",
+        "title": "Bottom Union Films",
+        "year": "2005"
+    },
+    "https://archive.org/details/BoyOfTheStreets": {
+        "freenessurl": "https://archive.org/details/BoyOfTheStreets",
+        "status": "free",
+        "title": "Boy of the Streets"
+    },
+    "https://archive.org/details/Breakdowns_Blowups_1936-1947": {
+        "freenessurl": "https://archive.org/details/Breakdowns_Blowups_1936-1947",
+        "status": "free",
+        "title": "Warner Brothers \"Break Downs\" and \"Blow Ups\" 1936-1947",
+        "year": "1936"
+    },
+    "https://archive.org/details/CEP153": {
+        "freenessurl": "https://archive.org/details/CEP153",
+        "status": "free",
+        "title": "The Vampire Bat - Spooky Opening Scene",
+        "year": "1933"
+    },
+    "https://archive.org/details/CEP316": {
+        "freenessurl": "https://archive.org/details/CEP316",
+        "status": "free",
+        "title": "Cat 2 (Wide Screen)",
+        "year": "2007"
+    },
+    "https://archive.org/details/CEP355": {
+        "freenessurl": "https://archive.org/details/CEP355",
+        "status": "free",
+        "title": "Hay Wagon 2 (Wide Screen 16:9)",
+        "year": "2007"
+    },
+    "https://archive.org/details/Case_of_the_Frightened_Lady_1940": {
+        "freenessurl": "https://archive.org/details/Case_of_the_Frightened_Lady_1940",
+        "status": "free",
+        "title": "Case of the Frightened Lady",
+        "year": "1940"
+    },
+    "https://archive.org/details/ChrismasHomeMovies1960s": {
+        "freenessurl": "https://archive.org/details/ChrismasHomeMovies1960s",
+        "status": "free",
+        "title": "Christmas Home Movies from the 1960's"
+    },
+    "https://archive.org/details/Christiano_Reel_4": {
+        "freenessurl": "https://archive.org/details/Christiano_Reel_4",
+        "status": "free",
+        "title": "[Unidentified family home movies\u2014Reel 4]",
+        "year": "1949"
+    },
+    "https://archive.org/details/Colette_Placenta_With_Commentary": {
+        "freenessurl": "https://archive.org/details/Colette_Placenta_With_Commentary",
+        "status": "free",
+        "title": "Colette's Placenta",
+        "year": "1998"
+    },
+    "https://archive.org/details/CongratulationsItsaBoy": {
+        "freenessurl": "https://archive.org/details/CongratulationsItsaBoy",
+        "status": "free",
+        "title": "Congratulations, It's a Boy!",
+        "year": "1971"
+    },
+    "https://archive.org/details/CountSchlockulasShockShowNewYearsSpecial": {
+        "freenessurl": "https://archive.org/details/CountSchlockulasShockShowNewYearsSpecial",
+        "status": "free",
+        "title": "Count Schlockula's Shock Show New Years Special"
+    },
+    "https://archive.org/details/Dementia13720p1963": {
+        "freenessurl": "https://archive.org/details/Dementia13720p1963",
+        "status": "free",
+        "title": "Dementia 13 720p 1963"
+    },
+    "https://archive.org/details/Desolations_Angels_10": {
+        "freenessurl": "https://archive.org/details/Desolations_Angels_10",
+        "status": "free",
+        "title": "Get Me To The Church On Time - Desolation's Angels #10",
+        "year": "2005"
+    },
+    "https://archive.org/details/DiverDan_Ep31_Crawling_Danger": {
+        "freenessurl": "https://archive.org/details/DiverDan_Ep31_Crawling_Danger",
+        "status": "free",
+        "title": "Diver Dan: Ep 31 Crawling Danger",
+        "year": "1961"
+    },
+    "https://archive.org/details/DoubleFeatureHell11redScareFollies": {
+        "freenessurl": "https://archive.org/details/DoubleFeatureHell11redScareFollies",
+        "status": "free",
+        "title": "DOUBLE FEATURE HELL 11 (Red-Scare Follies)"
+    },
+    "https://archive.org/details/DoulglasFairbanksJrPresentsBulldogDrummond": {
+        "freenessurl": "https://archive.org/details/DoulglasFairbanksJrPresentsBulldogDrummond",
+        "status": "free",
+        "title": "DOULGLAS FAIRBANKS JR presents Bulldog Drummond"
+    },
+    "https://archive.org/details/DragnetEpisode18TheBigSeventeenwcommercials": {
+        "freenessurl": "https://archive.org/details/DragnetEpisode18TheBigSeventeenwcommercials",
+        "status": "free",
+        "title": [
+            "Dragnet - Episode # 18 The Big Seventeen w/commercials",
+            "Dragnet - Episode # 18 The Big Seventeen w/commercials"
+        ],
+        "year": "1952"
+    },
+    "https://archive.org/details/Dragnet_A_Gun_For_Christmas": {
+        "freenessurl": "https://archive.org/details/Dragnet_A_Gun_For_Christmas",
+        "status": "free",
+        "title": "A Gun For Christmas"
+    },
+    "https://archive.org/details/Dragnet_The_Big_Producer": {
+        "freenessurl": "https://archive.org/details/Dragnet_The_Big_Producer",
+        "status": "free",
+        "title": "The Big Producer"
+    },
+    "https://archive.org/details/DrumsOfJeopardy": {
+        "freenessurl": "https://archive.org/details/DrumsOfJeopardy",
+        "status": "free",
+        "title": "Drums Of Jeopardy"
+    },
+    "https://archive.org/details/DuffysTavernTvShow": {
+        "freenessurl": "https://archive.org/details/DuffysTavernTvShow",
+        "status": "free",
+        "title": "DUFFY'S TAVERN TV SHOW"
+    },
+    "https://archive.org/details/Ed_the_Beneficiary": {
+        "freenessurl": "https://archive.org/details/Ed_the_Beneficiary",
+        "status": "free",
+        "title": "\"Mister Ed\" - Ed the Beneficiary",
+        "year": "1962"
+    },
+    "https://archive.org/details/EuropeanTrip": {
+        "freenessurl": "https://archive.org/details/EuropeanTrip",
+        "status": "free",
+        "title": "Amateur Film European Trip 1930s (Part I)"
+    },
+    "https://archive.org/details/EvaVikstromStockholmWaterfrontFromaFerryApril2007": {
+        "freenessurl": "https://archive.org/details/EvaVikstromStockholmWaterfrontFromaFerryApril2007",
+        "status": "free",
+        "title": [
+            "Stockholm Waterfront From a Ferry",
+            "Stockholm Waterfront From a Ferry - April 2007"
+        ],
+        "year": "2007"
+    },
+    "https://archive.org/details/Eve_of_Destruction": {
+        "freenessurl": "https://archive.org/details/Eve_of_Destruction",
+        "status": "free",
+        "title": "Eve of Destruction",
+        "year": "2004"
+    },
+    "https://archive.org/details/ExileExpressupgraded_901": {
+        "freenessurl": "https://archive.org/details/ExileExpressupgraded_901",
+        "status": "free",
+        "title": "Exile Express (upgraded)"
+    },
+    "https://archive.org/details/FactsAboutFi": {
+        "freenessurl": "https://archive.org/details/FactsAboutFi",
+        "status": "free",
+        "title": "Facts About Film",
+        "year": "1948"
+    },
+    "https://archive.org/details/Fathers_Little_Dividend.avi": {
+        "freenessurl": "https://archive.org/details/Fathers_Little_Dividend.avi",
+        "status": "free",
+        "title": "Father's Little Dividend",
+        "year": "1941"
+    },
+    "https://archive.org/details/Fed_Up_Genetic_Engineering": {
+        "freenessurl": "https://archive.org/details/Fed_Up_Genetic_Engineering",
+        "status": "free",
+        "title": "Fed Up! Genetic Engineering, Industrial Agriculture, and Sustainable Alternatives"
+    },
+    "https://archive.org/details/FightingBlood_201401": {
+        "freenessurl": "https://archive.org/details/FightingBlood_201401",
+        "status": "free",
+        "title": "\"Fighting Blood\" (1911) director D. W. Griffith starring Robert Harron"
+    },
+    "https://archive.org/details/FirstEverKissOnFilm": {
+        "freenessurl": "https://archive.org/details/FirstEverKissOnFilm",
+        "status": "free",
+        "title": "First Ever Kiss On Film!!!"
+    },
+    "https://archive.org/details/Flames_140": {
+        "freenessurl": "https://archive.org/details/Flames_140",
+        "status": "free",
+        "title": "Flames"
+    },
+    "https://archive.org/details/FreddysReturnANightmareReborn": {
+        "freenessurl": "https://archive.org/details/FreddysReturnANightmareReborn",
+        "status": "free",
+        "title": "Freddy's Return: A Nightmare Reborn",
+        "year": "2009"
+    },
+    "https://archive.org/details/FrontierScout": {
+        "freenessurl": "https://archive.org/details/FrontierScout",
+        "status": "free",
+        "title": "Frontier Scout"
+    },
+    "https://archive.org/details/GaryKild": {
+        "freenessurl": "https://archive.org/details/GaryKild",
+        "status": "free",
+        "title": "Gary Kildall Special"
+    },
+    "https://archive.org/details/GhostPatrol": {
+        "freenessurl": "https://archive.org/details/GhostPatrol",
+        "status": "free",
+        "title": "Ghost Patrol"
+    },
+    "https://archive.org/details/GoldenGa1939": {
+        "freenessurl": "https://archive.org/details/GoldenGa1939",
+        "status": "free",
+        "title": "[Amateur film: Golden Gate Bridge]",
+        "year": "1939"
+    },
+    "https://archive.org/details/GraveOfTheVampire": {
+        "freenessurl": "https://archive.org/details/GraveOfTheVampire",
+        "status": "free",
+        "title": "Grave of the Vampire",
+        "year": "1974"
+    },
+    "https://archive.org/details/Gregg_Arthur_Subic_Bay_1966": {
+        "freenessurl": "https://archive.org/details/Gregg_Arthur_Subic_Bay_1966",
+        "status": "free",
+        "title": "[Vietnam War home movie of Subic Bay, Philippines re-supply trip, 1966-67]",
+        "year": "1966"
+    },
+    "https://archive.org/details/Gu-Ho-Ast-1989": {
+        "freenessurl": "https://archive.org/details/Gu-Ho-Ast-1989",
+        "status": "free",
+        "title": "Gu-Ho-Ast-1989"
+    },
+    "https://archive.org/details/HMFamilyandFriends98610": {
+        "freenessurl": "https://archive.org/details/HMFamilyandFriends98610",
+        "status": "free",
+        "title": "Home Movie: 98610: Family and Friends",
+        "year": "1947"
+    },
+    "https://archive.org/details/HMPrelingerCollectio10835": {
+        "freenessurl": "https://archive.org/details/HMPrelingerCollectio10835",
+        "status": "free",
+        "title": "Home Movie: 10835: Prelinger Collection"
+    },
+    "https://archive.org/details/HMUnidentified98317": {
+        "freenessurl": "https://archive.org/details/HMUnidentified98317",
+        "status": "free",
+        "title": "Home Movie: 98317: Unidentified"
+    },
+    "https://archive.org/details/HMUnidentifiedDetroi12017": {
+        "freenessurl": "https://archive.org/details/HMUnidentifiedDetroi12017",
+        "status": "free",
+        "title": "Home Movie: 12017: Unidentified Detroit Family"
+    },
+    "https://archive.org/details/Half_City_D_1988": {
+        "freenessurl": "https://archive.org/details/Half_City_D_1988",
+        "status": "free",
+        "title": "Half City [Halbstadt] (Germany 1988) - silent",
+        "year": "1988"
+    },
+    "https://archive.org/details/HeldForMurder": {
+        "freenessurl": "https://archive.org/details/HeldForMurder",
+        "status": "free",
+        "title": "Held For Murder"
+    },
+    "https://archive.org/details/HellInACircus": {
+        "freenessurl": "https://archive.org/details/HellInACircus",
+        "status": "free",
+        "title": "Hell in a Circus"
+    },
+    "https://archive.org/details/HideAndSeek_201507": {
+        "freenessurl": "https://archive.org/details/HideAndSeek_201507",
+        "status": "free",
+        "title": "\"Hide And Seek\" (1913) director Mack Sennett"
+    },
+    "https://archive.org/details/Honey-final": {
+        "freenessurl": "https://archive.org/details/Honey-final",
+        "status": "free",
+        "title": "Honey",
+        "year": "2004"
+    },
+    "https://archive.org/details/IAmAFool": {
+        "freenessurl": "https://archive.org/details/IAmAFool",
+        "status": "free",
+        "title": "General Electric Theater: I'm a Fool",
+        "year": "1954"
+    },
+    "https://archive.org/details/IICADOM_0969": {
+        "freenessurl": "https://archive.org/details/IICADOM_0969",
+        "status": "free",
+        "title": "0969"
+    },
+    "https://archive.org/details/IMB_AGA_BRIDGIE": {
+        "freenessurl": "https://archive.org/details/IMB_AGA_BRIDGIE",
+        "status": "free",
+        "title": "Another Great American - Bridgie",
+        "year": "2007"
+    },
+    "https://archive.org/details/IMB_SF_R26_C9": {
+        "freenessurl": "https://archive.org/details/IMB_SF_R26_C9",
+        "status": "free",
+        "title": "Stock Footage - Fireworks",
+        "year": "2007"
+    },
+    "https://archive.org/details/IMB_The_Big_Storm": {
+        "freenessurl": "https://archive.org/details/IMB_The_Big_Storm",
+        "status": "free",
+        "title": "A Flawed Family Flick - The Big Storm",
+        "year": "2006"
+    },
+    "https://archive.org/details/INTOLERANCE_201407": {
+        "freenessurl": "https://archive.org/details/INTOLERANCE_201407",
+        "status": "free",
+        "title": "\"Intolerance\" (1916) director D. W. Griffith, cinematographer Billy Bitzer"
+    },
+    "https://archive.org/details/I_Married_Joan": {
+        "freenessurl": "https://archive.org/details/I_Married_Joan",
+        "status": "free",
+        "title": "\"I Married Joan\" - Talent Scout (Classic TV)",
+        "year": "1953"
+    },
+    "https://archive.org/details/InTheYear28891967_201508": {
+        "freenessurl": "https://archive.org/details/InTheYear28891967_201508",
+        "status": "free",
+        "title": "In The Year 2889 (1967)"
+    },
+    "https://archive.org/details/In_The_Year_2889": {
+        "freenessurl": "https://archive.org/details/In_The_Year_2889",
+        "status": "free",
+        "title": "In The Year 2889",
+        "year": "1967"
+    },
+    "https://archive.org/details/Iran1971": {
+        "freenessurl": "https://archive.org/details/Iran1971",
+        "status": "free",
+        "title": "Iran (1971)"
+    },
+    "https://archive.org/details/JackBennyHour1965": {
+        "freenessurl": "https://archive.org/details/JackBennyHour1965",
+        "status": "free",
+        "title": "Jack Benny Hour (1965)",
+        "year": "1965"
+    },
+    "https://archive.org/details/JazzBandLeader": {
+        "freenessurl": "https://archive.org/details/JazzBandLeader",
+        "status": "free",
+        "title": "\"The Jazz Band Leader\" (1913) director Mack Sennett"
+    },
+    "https://archive.org/details/JerryThePaperboy": {
+        "freenessurl": "https://archive.org/details/JerryThePaperboy",
+        "status": "free",
+        "title": "Jerry The Paperboy"
+    },
+    "https://archive.org/details/Kansas_City_Confidential_1952": {
+        "freenessurl": "https://archive.org/details/Kansas_City_Confidential_1952",
+        "status": "free",
+        "title": "Kansas City Confidential",
+        "year": "1952"
+    },
+    "https://archive.org/details/KennelMurderCase1933": {
+        "freenessurl": "https://archive.org/details/KennelMurderCase1933",
+        "status": "free",
+        "title": "The Kennel Murder Case",
+        "year": "1933"
+    },
+    "https://archive.org/details/KraftMusicHallHostedByMiltonBerleGuestAndyGriffith": {
+        "freenessurl": "https://archive.org/details/KraftMusicHallHostedByMiltonBerleGuestAndyGriffith",
+        "status": "free",
+        "title": "Kraft Music Hall hosted by Milton Berle: Guest Andy Griffith"
+    },
+    "https://archive.org/details/LeThtrelectriqueDeBob": {
+        "freenessurl": "https://archive.org/details/LeThtrelectriqueDeBob",
+        "status": "free",
+        "title": "Le th\u00e9\u00e2tre \u00e9lectrique de Bob"
+    },
+    "https://archive.org/details/LeVoleurInvisible": {
+        "freenessurl": "https://archive.org/details/LeVoleurInvisible",
+        "status": "free",
+        "title": "Le Voleur Invisible",
+        "year": "1909"
+    },
+    "https://archive.org/details/LeapYear1921": {
+        "freenessurl": "https://archive.org/details/LeapYear1921",
+        "status": "free",
+        "title": "LEAP YEAR (1921) -- Roscoe Arbuckle; dir. by James Cruze"
+    },
+    "https://archive.org/details/LeapYear1921_201312": {
+        "freenessurl": "https://archive.org/details/LeapYear1921_201312",
+        "status": "free",
+        "title": "LEAP YEAR (1921) -- Roscoe Arbuckle; dir. by James Cruze"
+    },
+    "https://archive.org/details/Little_ShopOf_Horrors.avi": {
+        "freenessurl": "https://archive.org/details/Little_ShopOf_Horrors.avi",
+        "status": "free",
+        "title": "The Little Shop Of Horrors"
+    },
+    "https://archive.org/details/MS_Excel": {
+        "freenessurl": "https://archive.org/details/MS_Excel",
+        "status": "free",
+        "title": "Viagrafix - Getting started with Microsoft Excel",
+        "year": "1992"
+    },
+    "https://archive.org/details/MacbethSeanConneryAppleTV.mp4": {
+        "freenessurl": "https://archive.org/details/MacbethSeanConneryAppleTV.mp4",
+        "status": "free",
+        "title": "Macbeth Sean Connery"
+    },
+    "https://archive.org/details/ManhattanTower1932Restored": {
+        "freenessurl": "https://archive.org/details/ManhattanTower1932Restored",
+        "status": "free",
+        "title": "Manhattan Tower 1932 Restored",
+        "year": "1932"
+    },
+    "https://archive.org/details/Marijuana_1968": {
+        "freenessurl": "https://archive.org/details/Marijuana_1968",
+        "status": "free",
+        "title": "Marijuana",
+        "year": "1968"
+    },
+    "https://archive.org/details/MarilynMonroeDeletedScenesFromTheSevenYearItch": {
+        "freenessurl": "https://archive.org/details/MarilynMonroeDeletedScenesFromTheSevenYearItch",
+        "status": "free",
+        "title": "Marilyn Monroe, deleted scenes from The Seven Year Itch"
+    },
+    "https://archive.org/details/MarkedMoney1928FrankCoghlanJr.TomKeeneTomKennedyBertWoodruff": {
+        "freenessurl": "https://archive.org/details/MarkedMoney1928FrankCoghlanJr.TomKeeneTomKennedyBertWoodruff",
+        "status": "free",
+        "title": "Marked Money 1928 Frank Coghlan Jr., Tom Keene, Tom Kennedy, Bert Woodruff",
+        "year": "1928"
+    },
+    "https://archive.org/details/Medicusc1939_10": {
+        "freenessurl": "https://archive.org/details/Medicusc1939_10",
+        "status": "free",
+        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 3) (Part III)",
+        "year": "1939"
+    },
+    "https://archive.org/details/Medicusc1939_2": {
+        "freenessurl": "https://archive.org/details/Medicusc1939_2",
+        "status": "free",
+        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 2) (Part I)",
+        "year": "1939"
+    },
+    "https://archive.org/details/Medicusc1939_3": {
+        "freenessurl": "https://archive.org/details/Medicusc1939_3",
+        "status": "free",
+        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 3) (Part I)",
+        "year": "1939"
+    },
+    "https://archive.org/details/Medicusc1939_7": {
+        "freenessurl": "https://archive.org/details/Medicusc1939_7",
+        "status": "free",
+        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 2) (Part II)",
+        "year": "1939"
+    },
+    "https://archive.org/details/Meet_The_OBriens": {
+        "freenessurl": "https://archive.org/details/Meet_The_OBriens",
+        "status": "free",
+        "title": "Failed TV Pilot: \"Meet The O'Briens\" (1954)",
+        "year": "1954"
+    },
+    "https://archive.org/details/MilitaryCour_2": {
+        "freenessurl": "https://archive.org/details/MilitaryCour_2",
+        "status": "free",
+        "title": "Military Courtesies 1 B"
+    },
+    "https://archive.org/details/Mommartz_Die_Schiller_1976": {
+        "freenessurl": "https://archive.org/details/Mommartz_Die_Schiller_1976",
+        "status": "free",
+        "title": "1975 Die Schiller",
+        "year": "1976"
+    },
+    "https://archive.org/details/NancyDrewReporter": {
+        "freenessurl": "https://archive.org/details/NancyDrewReporter",
+        "status": "free",
+        "title": "Nancy Drew ...Reporter",
+        "year": "1939"
+    },
+    "https://archive.org/details/NbcNews17march1949": {
+        "freenessurl": "https://archive.org/details/NbcNews17march1949",
+        "status": "free",
+        "title": "NBC News (17/March/1949)"
+    },
+    "https://archive.org/details/NewOrlea1941": {
+        "freenessurl": "https://archive.org/details/NewOrlea1941",
+        "status": "free",
+        "title": "[Amateur film: New Orleans Carnival Week, February 22, 1941]",
+        "year": "1941"
+    },
+    "https://archive.org/details/Nosferatu_most_complete_version_93_mins.": {
+        "freenessurl": "https://archive.org/details/Nosferatu_most_complete_version_93_mins.",
+        "status": "free",
+        "title": "Nosferatu, eine Symphonie des Grauens (A Symphony of Horror)",
+        "year": "1922"
+    },
+    "https://archive.org/details/Not_This_War_USA2006": {
+        "freenessurl": "https://archive.org/details/Not_This_War_USA2006",
+        "status": "free",
+        "title": "Not This War (USA 2006)",
+        "year": "2006"
+    },
+    "https://archive.org/details/NothingButTheTruth1929": {
+        "freenessurl": "https://archive.org/details/NothingButTheTruth1929",
+        "status": "free",
+        "title": "Nothing But the Truth (1929)"
+    },
+    "https://archive.org/details/Nude.on.the.Moon.1961.AVI1Gb": {
+        "freenessurl": "https://archive.org/details/Nude.on.the.Moon.1961.AVI1Gb",
+        "status": "free",
+        "title": "Nude on the Moon"
+    },
+    "https://archive.org/details/OZZIE_AND_HARRIET_ep_Halloween_Party": {
+        "freenessurl": "https://archive.org/details/OZZIE_AND_HARRIET_ep_Halloween_Party",
+        "status": "free",
+        "title": "Halloween Party"
+    },
+    "https://archive.org/details/OZZIE_AND_HARRIET_ep_The_Suggestion_Box": {
+        "freenessurl": "https://archive.org/details/OZZIE_AND_HARRIET_ep_The_Suggestion_Box",
+        "status": "free",
+        "title": "The Suggestion Box"
+    },
+    "https://archive.org/details/OfficerOBrien1930WilliamBoydErnestTorrenceDorothySebastianRussellGleason": {
+        "freenessurl": "https://archive.org/details/OfficerOBrien1930WilliamBoydErnestTorrenceDorothySebastianRussellGleason",
+        "status": "free",
+        "title": "Officer O' Brien 1930 William Boyd, Ernest Torrence, Dorothy Sebastian, Russell Gleason",
+        "year": "1930"
+    },
+    "https://archive.org/details/OftheEarth_Colan": {
+        "freenessurl": "https://archive.org/details/OftheEarth_Colan",
+        "status": "free",
+        "title": [
+            "Of the Earth",
+            "Of the Earth"
+        ],
+        "year": "1998"
+    },
+    "https://archive.org/details/OneOfOurAircraftIsMissingVideoQualityUpgrade": {
+        "freenessurl": "https://archive.org/details/OneOfOurAircraftIsMissingVideoQualityUpgrade",
+        "status": "free",
+        "title": "ONE OF OUR AIRCRAFT IS MISSING video quality upgrade"
+    },
+    "https://archive.org/details/OperationARGUS1958": {
+        "freenessurl": "https://archive.org/details/OperationARGUS1958",
+        "status": "free",
+        "title": "Operation ARGUS, Report of Chief, AFSWP to ARPA",
+        "year": "1958"
+    },
+    "https://archive.org/details/OperationDOMINICNuclearTests1962": {
+        "freenessurl": "https://archive.org/details/OperationDOMINICNuclearTests1962",
+        "status": "free",
+        "title": "Operation DOMINIC Nuclear Tests 1962",
+        "year": "1962"
+    },
+    "https://archive.org/details/OutYonderForArch": {
+        "freenessurl": "https://archive.org/details/OutYonderForArch",
+        "status": "free",
+        "title": "\"Out Yonder\" (1919) starring Olive Thomas"
+    },
+    "https://archive.org/details/Ozzie_and_Harriet_Christmas": {
+        "freenessurl": "https://archive.org/details/Ozzie_and_Harriet_Christmas",
+        "status": "free",
+        "title": "\"The Adventures of Ozzie and Harriet\" 1956 Christmas episode"
+    },
+    "https://archive.org/details/PURPLE_VOMIT_SEQUENCES": {
+        "freenessurl": "https://archive.org/details/PURPLE_VOMIT_SEQUENCES",
+        "status": "free",
+        "title": "Purple Vomit Sequences",
+        "year": "2004"
+    },
+    "https://archive.org/details/PaintedFaces": {
+        "freenessurl": "https://archive.org/details/PaintedFaces",
+        "status": "free",
+        "title": "Painted Faces"
+    },
+    "https://archive.org/details/PaulLaurenceDunbarSunset": {
+        "freenessurl": "https://archive.org/details/PaulLaurenceDunbarSunset",
+        "status": "free",
+        "title": "Paul Laurence Dunbar Sunset"
+    },
+    "https://archive.org/details/PhotosbyHaroldThePhantomEmpireAll12Chapters": {
+        "freenessurl": "https://archive.org/details/PhotosbyHaroldThePhantomEmpireAll12Chapters",
+        "status": "free",
+        "title": "The Phantom Empire - All 12 Chapters",
+        "year": "2008"
+    },
+    "https://archive.org/details/PreviewOnHisWeddingDay": {
+        "freenessurl": "https://archive.org/details/PreviewOnHisWeddingDay",
+        "status": "free",
+        "title": "\"On His Wedding Day\" (1913) director Mack Sennett"
+    },
+    "https://archive.org/details/ReturnOfTheSonOfTheAtomicGovernmentFilmsHiroshima": {
+        "freenessurl": "https://archive.org/details/ReturnOfTheSonOfTheAtomicGovernmentFilmsHiroshima",
+        "status": "free",
+        "title": "Return of the Son of the Atomic Government Films!!!!! Hiroshima"
+    },
+    "https://archive.org/details/Rituals_1977": {
+        "freenessurl": "https://archive.org/details/Rituals_1977",
+        "status": "free",
+        "title": "Rituals",
+        "year": "1977"
+    },
+    "https://archive.org/details/Robin_Hood_66_-_The_York_Treasure": {
+        "freenessurl": "https://archive.org/details/Robin_Hood_66_-_The_York_Treasure",
+        "status": "free",
+        "title": "Robin_Hood_66_-_The_York_Treasure"
+    },
+    "https://archive.org/details/RufusJonesForPresident": {
+        "freenessurl": "https://archive.org/details/RufusJonesForPresident",
+        "status": "free",
+        "title": "RUFUS JONES FOR PRESIDENT"
+    },
+    "https://archive.org/details/S.O.S.Iceberg1933_201702": {
+        "freenessurl": "https://archive.org/details/S.O.S.Iceberg1933_201702",
+        "status": "free",
+        "title": "S. O. S. Iceberg 1933",
+        "year": "1933"
+    },
+    "https://archive.org/details/Sagaofth1957": {
+        "freenessurl": "https://archive.org/details/Sagaofth1957",
+        "status": "free",
+        "title": "[Amateur film: \"Saga of the Happy Wanderers\"]"
+    },
+    "https://archive.org/details/SailingAlong": {
+        "freenessurl": "https://archive.org/details/SailingAlong",
+        "status": "free",
+        "title": "Sailing Along"
+    },
+    "https://archive.org/details/SalomeWhereSheDanced1945": {
+        "freenessurl": "https://archive.org/details/SalomeWhereSheDanced1945",
+        "status": "free",
+        "title": "Salome Where She Danced 1945",
+        "year": "1945"
+    },
+    "https://archive.org/details/Samogonshiki": {
+        "freenessurl": "https://archive.org/details/Samogonshiki",
+        "status": "free",
+        "title": [
+            "Samogonshiki",
+            "Samogonshiki"
+        ]
+    },
+    "https://archive.org/details/SanFranc1906_3": {
+        "freenessurl": "https://archive.org/details/SanFranc1906_3",
+        "status": "free",
+        "title": "[San Francisco Earthquake Aftermath, Part 3",
+        "year": "1906"
+    },
+    "https://archive.org/details/ShieldForMurder": {
+        "freenessurl": "https://archive.org/details/ShieldForMurder",
+        "status": "free",
+        "title": "Shield for Murder (widescreen)"
+    },
+    "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature": {
+        "freenessurl": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
+        "status": "free",
+        "title": "Shocker Internet Drive In - Week 45: \"Slice and Dice\" Double Feature"
+    },
+    "https://archive.org/details/ShockerInternetDriveIn-Week53halloweenNuclearHorrorsDoubleFeature": {
+        "freenessurl": "https://archive.org/details/ShockerInternetDriveIn-Week53halloweenNuclearHorrorsDoubleFeature",
+        "status": "free",
+        "title": "Shocker Internet Drive In - Week 53: \"Halloween Nuclear Horrors\" Double Feature"
+    },
+    "https://archive.org/details/Sita_Sings_the_Blues": {
+        "freenessurl": "https://archive.org/details/Sita_Sings_the_Blues",
+        "status": "free",
+        "title": "Sita Sings the Blues",
+        "year": "2008"
+    },
+    "https://archive.org/details/SlavesInBondage1937ExploitationRisqueFetishSpankingScene": {
+        "freenessurl": "https://archive.org/details/SlavesInBondage1937ExploitationRisqueFetishSpankingScene",
+        "status": "free",
+        "title": "Slaves in Bondage (1937) exploitation, risque fetish spanking scene"
+    },
+    "https://archive.org/details/SlickSleuths": {
+        "freenessurl": "https://archive.org/details/SlickSleuths",
+        "status": "free",
+        "title": "Slick Sleuths",
+        "year": "1926"
+    },
+    "https://archive.org/details/SosCoastGuardChapter2": {
+        "freenessurl": "https://archive.org/details/SosCoastGuardChapter2",
+        "status": "free",
+        "title": "SOS CoastGuard chapter 1"
+    },
+    "https://archive.org/details/Soulman": {
+        "freenessurl": "https://archive.org/details/Soulman",
+        "status": "free",
+        "title": "Soulman"
+    },
+    "https://archive.org/details/SpaghettiHarvest": {
+        "freenessurl": "https://archive.org/details/SpaghettiHarvest",
+        "status": "free",
+        "title": "Spaghetti Harvest Hoax"
+    },
+    "https://archive.org/details/StLouisWoman1934": {
+        "freenessurl": "https://archive.org/details/StLouisWoman1934",
+        "status": "free",
+        "title": "St Louis Woman 1934",
+        "year": "1934"
+    },
+    "https://archive.org/details/StealThisFilmII": {
+        "freenessurl": "https://archive.org/details/StealThisFilmII",
+        "status": "free",
+        "title": "Steal This Film 2",
+        "year": "2007"
+    },
+    "https://archive.org/details/StoneMill": {
+        "freenessurl": "https://archive.org/details/StoneMill",
+        "status": "free",
+        "title": "Stone Mill (\u0416\u0435\u0440\u043d\u043e\u0432\u0430)",
+        "year": "2008"
+    },
+    "https://archive.org/details/StoryOfStuff": {
+        "freenessurl": "https://archive.org/details/StoryOfStuff",
+        "status": "free",
+        "title": "The Story of Stuff"
+    },
+    "https://archive.org/details/SuicideSquad": {
+        "freenessurl": "https://archive.org/details/SuicideSquad",
+        "status": "free",
+        "title": "Suicide Squad"
+    },
+    "https://archive.org/details/Sundial": {
+        "freenessurl": "https://archive.org/details/Sundial",
+        "status": "free",
+        "title": "Sundial Time Lapse (Free to Use HD Stock Video Footage)"
+    },
+    "https://archive.org/details/SurvivalEvas": {
+        "freenessurl": "https://archive.org/details/SurvivalEvas",
+        "status": "free",
+        "title": "Survival Evasion Resistance And Escape A"
+    },
+    "https://archive.org/details/SurvivalEvas_2": {
+        "freenessurl": "https://archive.org/details/SurvivalEvas_2",
+        "status": "free",
+        "title": "Survival Evasion Resistance And Escape B"
+    },
+    "https://archive.org/details/THERAGTIMEBAND1913MackSennettFordSterlingMabelNormand": {
+        "freenessurl": "https://archive.org/details/THERAGTIMEBAND1913MackSennettFordSterlingMabelNormand",
+        "status": "free",
+        "title": "THE RAGTIME BAND ( 1913) Mack Sennett, Ford Sterling, Mabel Normand"
+    },
+    "https://archive.org/details/TangoFatal_285": {
+        "freenessurl": "https://archive.org/details/TangoFatal_285",
+        "status": "free",
+        "title": "Tango Fatal"
+    },
+    "https://archive.org/details/Text20023": {
+        "freenessurl": "https://archive.org/details/Text20023",
+        "status": "free",
+        "title": "text 2002/3"
+    },
+    "https://archive.org/details/TheAmazingAdventure": {
+        "freenessurl": "https://archive.org/details/TheAmazingAdventure",
+        "status": "free",
+        "title": "The Amazing Adventure",
+        "year": "1936"
+    },
+    "https://archive.org/details/TheBelovedRogue_201312": {
+        "freenessurl": "https://archive.org/details/TheBelovedRogue_201312",
+        "status": "free",
+        "title": "\"The Beloved Rogue\" (1927) starring John Barrymore and Marceline Day"
+    },
+    "https://archive.org/details/TheBigBetty": {
+        "freenessurl": "https://archive.org/details/TheBigBetty",
+        "status": "free",
+        "title": "The Big Betty",
+        "year": "1953"
+    },
+    "https://archive.org/details/TheCopperBeeches": {
+        "freenessurl": "https://archive.org/details/TheCopperBeeches",
+        "status": "free",
+        "title": "The Adventures of Sherlock Holmes - The Copper Beeches",
+        "year": "1912"
+    },
+    "https://archive.org/details/TheCutChapter4": {
+        "freenessurl": "https://archive.org/details/TheCutChapter4",
+        "status": "free",
+        "title": "The Cut Chapter 4"
+    },
+    "https://archive.org/details/TheDevilsSleep1949": {
+        "freenessurl": "https://archive.org/details/TheDevilsSleep1949",
+        "status": "free",
+        "title": "The Devils Sleep 1949",
+        "year": "1949"
+    },
+    "https://archive.org/details/TheDreyfusAffair_49": {
+        "freenessurl": "https://archive.org/details/TheDreyfusAffair_49",
+        "status": "free",
+        "title": "the dreyfus affair"
+    },
+    "https://archive.org/details/TheFallOfTheBerlinWall1989": {
+        "freenessurl": "https://archive.org/details/TheFallOfTheBerlinWall1989",
+        "status": "free",
+        "title": "The Fall of the Berlin Wall 1989"
+    },
+    "https://archive.org/details/TheGeneral": {
+        "freenessurl": "https://archive.org/details/TheGeneral",
+        "status": "free",
+        "title": "The General",
+        "year": "1927"
+    },
+    "https://archive.org/details/TheGeneral_201312": {
+        "freenessurl": "https://archive.org/details/TheGeneral_201312",
+        "status": "free",
+        "title": "\"The General\" (1926) starring Buster Keaton"
+    },
+    "https://archive.org/details/TheGoldRacket": {
+        "freenessurl": "https://archive.org/details/TheGoldRacket",
+        "status": "free",
+        "title": "The Gold Racket"
+    },
+    "https://archive.org/details/TheHansomCabman": {
+        "freenessurl": "https://archive.org/details/TheHansomCabman",
+        "status": "free",
+        "title": "\"The Hansom Cabman\" (1924) starring Harry Langdon and Marceline Day"
+    },
+    "https://archive.org/details/TheInformer1935": {
+        "freenessurl": "https://archive.org/details/TheInformer1935",
+        "status": "free",
+        "title": "The Informer",
+        "year": "1935"
+    },
+    "https://archive.org/details/TheLetter1929WorkPrint": {
+        "freenessurl": "https://archive.org/details/TheLetter1929WorkPrint",
+        "status": "free",
+        "title": "The Letter (1929) Work Print"
+    },
+    "https://archive.org/details/TheLivingChristSeries": {
+        "freenessurl": "https://archive.org/details/TheLivingChristSeries",
+        "status": "free",
+        "title": "The Living Christ Series",
+        "year": "1951"
+    },
+    "https://archive.org/details/TheLoneHandTexan1947": {
+        "freenessurl": "https://archive.org/details/TheLoneHandTexan1947",
+        "status": "free",
+        "title": "The Lone Hand Texan ( 1947)",
+        "year": "1947"
+    },
+    "https://archive.org/details/TheLuckOTheFoolish1924": {
+        "freenessurl": "https://archive.org/details/TheLuckOTheFoolish1924",
+        "status": "free",
+        "title": "\"The Luck o' the Foolish\" (1924) starring Harry Langdon and Marceline Day"
+    },
+    "https://archive.org/details/TheMagicChristianjosephMcgrath1969": {
+        "freenessurl": "https://archive.org/details/TheMagicChristianjosephMcgrath1969",
+        "status": "free",
+        "title": "The Magic Christian (Joseph McGrath, 1969)"
+    },
+    "https://archive.org/details/ThePaintedDesert1931": {
+        "freenessurl": "https://archive.org/details/ThePaintedDesert1931",
+        "status": "free",
+        "title": "The Painted Desert (1931)"
+    },
+    "https://archive.org/details/ThePeopleVs.LeoFrank": {
+        "freenessurl": "https://archive.org/details/ThePeopleVs.LeoFrank",
+        "status": "free",
+        "title": "Leo Frank Case: The People vs. Leo Frank (PBS VIDEO)"
+    },
+    "https://archive.org/details/ThePerfectClue": {
+        "freenessurl": "https://archive.org/details/ThePerfectClue",
+        "status": "free",
+        "title": "The Perfect Clue"
+    },
+    "https://archive.org/details/ThePhantomBroadcast": {
+        "freenessurl": "https://archive.org/details/ThePhantomBroadcast",
+        "status": "free",
+        "title": "THE PHANTOM BROADCAST"
+    },
+    "https://archive.org/details/ThePhantomOfTheOpera_364": {
+        "freenessurl": "https://archive.org/details/ThePhantomOfTheOpera_364",
+        "status": "free",
+        "title": "The Phantom of the Opera",
+        "year": "1925"
+    },
+    "https://archive.org/details/ThePhantomoftheOpera": {
+        "freenessurl": "https://archive.org/details/ThePhantomoftheOpera",
+        "status": "free",
+        "title": "The Phantom of the Opera",
+        "year": "1925"
+    },
+    "https://archive.org/details/TheRecklessWay": {
+        "freenessurl": "https://archive.org/details/TheRecklessWay",
+        "status": "free",
+        "title": "The Reckless Way"
+    },
+    "https://archive.org/details/TheRedHouse": {
+        "freenessurl": "https://archive.org/details/TheRedHouse",
+        "status": "free",
+        "title": "The Red House",
+        "year": "1947"
+    },
+    "https://archive.org/details/TheStranger_0": {
+        "freenessurl": "https://archive.org/details/TheStranger_0",
+        "status": "free",
+        "title": "The Stranger",
+        "year": "1946"
+    },
+    "https://archive.org/details/TheTownWentWild1944": {
+        "freenessurl": "https://archive.org/details/TheTownWentWild1944",
+        "status": "free",
+        "title": "The Town Went Wild 1944",
+        "year": "1944"
+    },
+    "https://archive.org/details/TheTragedyOfADressSuit1912": {
+        "freenessurl": "https://archive.org/details/TheTragedyOfADressSuit1912",
+        "status": "free",
+        "title": "THE TRAGEDY OF A DRESS SUIT (1912)"
+    },
+    "https://archive.org/details/The_Amazing_Transparent_Man.avi": {
+        "freenessurl": "https://archive.org/details/The_Amazing_Transparent_Man.avi",
+        "status": "free",
+        "title": "The Amazing Transparent Man",
+        "year": "1960"
+    },
+    "https://archive.org/details/The_Beulah_Show": {
+        "freenessurl": "https://archive.org/details/The_Beulah_Show",
+        "status": "free",
+        "title": "'The Beulah Show' - Beulah Goes Gardening",
+        "year": "1952"
+    },
+    "https://archive.org/details/The_Beverly_Hillbillies": {
+        "freenessurl": "https://archive.org/details/The_Beverly_Hillbillies",
+        "status": "free",
+        "title": "The Beverly Hillbillies TV Show",
+        "year": "1962"
+    },
+    "https://archive.org/details/The_Cut_Chapter_01_163": {
+        "freenessurl": "https://archive.org/details/The_Cut_Chapter_01_163",
+        "status": "free",
+        "title": "The_Cut_Chapter_01"
+    },
+    "https://archive.org/details/The_Devils_Feast": {
+        "freenessurl": "https://archive.org/details/The_Devils_Feast",
+        "status": "free",
+        "title": "The Devils Feast",
+        "year": "1999"
+    },
+    "https://archive.org/details/The_Eye_Creatures": {
+        "freenessurl": "https://archive.org/details/The_Eye_Creatures",
+        "status": "free",
+        "title": "The Eye Creatures",
+        "year": "1965"
+    },
+    "https://archive.org/details/The_Four_Horsemen_of_the_Apocalypse": {
+        "freenessurl": "https://archive.org/details/The_Four_Horsemen_of_the_Apocalypse",
+        "status": "free",
+        "title": "The Four Horsemen of the Apocalypse",
+        "year": "1921"
+    },
+    "https://archive.org/details/ThirteenthGuest_WeirdnessBadMovie_945": {
+        "freenessurl": "https://archive.org/details/ThirteenthGuest_WeirdnessBadMovie_945",
+        "status": "free",
+        "title": "Thirteenth Guest _ Weirdness Bad Movie"
+    },
+    "https://archive.org/details/To_Sense_And_To_Fancy_D_1988_new": {
+        "freenessurl": "https://archive.org/details/To_Sense_And_To_Fancy_D_1988_new",
+        "status": "free",
+        "title": "To Sense And To Fancy [Sinnen und Waehnen] (Germany 1988) - silent",
+        "year": "1988"
+    },
+    "https://archive.org/details/Tokyo1964Part3of3": {
+        "freenessurl": "https://archive.org/details/Tokyo1964Part3of3",
+        "status": "free",
+        "title": [
+            "Tokyo 1964 Part 3 of 3 (Back in the States)",
+            "Tokyo 1964 Part 3 of 3 (Back in the States)"
+        ],
+        "year": "1964"
+    },
+    "https://archive.org/details/TomorrowsChildren1934-EugenicsInAmerica": {
+        "freenessurl": "https://archive.org/details/TomorrowsChildren1934-EugenicsInAmerica",
+        "status": "free",
+        "title": "Tomorrow's Children (1934) - Eugenics in America"
+    },
+    "https://archive.org/details/TomorrowsChildren1934-EugenicsInTheU.s.a": {
+        "freenessurl": "https://archive.org/details/TomorrowsChildren1934-EugenicsInTheU.s.a",
+        "status": "free",
+        "title": "Tomorrow's Children' (1934) - Eugenics in the U.S.A."
+    },
+    "https://archive.org/details/UFO_New-image": {
+        "freenessurl": "https://archive.org/details/UFO_New-image",
+        "status": "free",
+        "title": "Commentary_new-Image"
+    },
+    "https://archive.org/details/Vestiges": {
+        "freenessurl": "https://archive.org/details/Vestiges",
+        "status": "free",
+        "title": "Vestiges",
+        "year": "2012"
+    },
+    "https://archive.org/details/Wathenco1944": {
+        "freenessurl": "https://archive.org/details/Wathenco1944",
+        "status": "free",
+        "title": "[Amateur film: Wathen collection: Greenwich Village, New York Snowstorm, and Coney Island]"
+    },
+    "https://archive.org/details/Week69": {
+        "freenessurl": "https://archive.org/details/Week69",
+        "status": "free",
+        "title": "Shocker Internet Drive In - Week 69: \"Icy Italian\" Double Feature"
+    },
+    "https://archive.org/details/What_To_Do_In_A_Zombie_Attack": {
+        "freenessurl": "https://archive.org/details/What_To_Do_In_A_Zombie_Attack",
+        "status": "free",
+        "title": "What To Do In A Zombie Attack",
+        "year": "2006"
+    },
+    "https://archive.org/details/Where_is_Chernobyl_D_1988": {
+        "freenessurl": "https://archive.org/details/Where_is_Chernobyl_D_1988",
+        "status": "free",
+        "title": "Where is Chernobyl [Wo ist Tschernobyl] (Germany 1988) - silent",
+        "year": "1988"
+    },
+    "https://archive.org/details/WristcuttersALoveStory2006": {
+        "freenessurl": "https://archive.org/details/WristcuttersALoveStory2006",
+        "status": "free",
+        "title": "Wristcutters: A Love Story (2006)"
+    },
+    "https://archive.org/details/YTR1935": {
+        "freenessurl": "https://archive.org/details/YTR1935",
+        "status": "free",
+        "title": "A Year To Remeber - 1935"
+    },
+    "https://archive.org/details/YearlightSavingsTimeAtTheClockOfNations": {
+        "freenessurl": "https://archive.org/details/YearlightSavingsTimeAtTheClockOfNations",
+        "status": "free",
+        "title": "Yearlight Savings Time at the Clock of Nations"
+    },
+    "https://archive.org/details/YodelinKidofPineRidge": {
+        "freenessurl": "https://archive.org/details/YodelinKidofPineRidge",
+        "status": "free",
+        "title": "Yodelin' Kid from Pine Ridge",
+        "year": "1937"
+    },
+    "https://archive.org/details/ZEITGEIST-REMASTERED": {
+        "freenessurl": "https://archive.org/details/ZEITGEIST-REMASTERED",
+        "status": "free",
+        "title": "ZEITGEIST THE MOVIE REMASTERED",
+        "year": "2007"
+    },
+    "https://archive.org/details/ZEITGEIST_DVD": {
+        "freenessurl": "https://archive.org/details/ZEITGEIST_DVD",
+        "status": "free",
+        "title": "ZEITGEIST",
+        "year": "2007"
+    },
+    "https://archive.org/details/ZananBedouneMardanShirin-neshat": {
+        "freenessurl": "https://archive.org/details/ZananBedouneMardanShirin-neshat",
+        "status": "free",
+        "title": "Zanan Bedoune Mardan: Shirin-Neshat"
+    },
+    "https://archive.org/details/ZontarTheThingFromVenus": {
+        "freenessurl": "https://archive.org/details/ZontarTheThingFromVenus",
+        "status": "free",
+        "title": "Zontar the Thing from Venus"
+    },
+    "https://archive.org/details/ZydereenOfNeptune": {
+        "freenessurl": "https://archive.org/details/ZydereenOfNeptune",
+        "status": "free",
+        "title": "Zydereen Of Neptune",
+        "year": "2015"
+    },
+    "https://archive.org/details/barstow_americas_history": {
+        "freenessurl": "https://archive.org/details/barstow_americas_history",
+        "status": "free",
+        "title": "Family Camping Through 48 States -- Part I"
+    },
+    "https://archive.org/details/barstow_americas_wonderlands": {
+        "freenessurl": "https://archive.org/details/barstow_americas_wonderlands",
+        "status": "free",
+        "title": "Family Camping Through 48 States -- Part II",
+        "year": "1961"
+    },
+    "https://archive.org/details/barstow_building_of_conny_1976": {
+        "freenessurl": "https://archive.org/details/barstow_building_of_conny_1976",
+        "status": "free",
+        "title": "The Building of 'CONNY' -- Life-Size Sperm Whale Model",
+        "year": "1975"
+    },
+    "https://archive.org/details/captain_calamity_1936": {
+        "freenessurl": "https://archive.org/details/captain_calamity_1936",
+        "status": "free",
+        "title": "Captain Calamity",
+        "year": "1936"
+    },
+    "https://archive.org/details/captainvideo": {
+        "freenessurl": "https://archive.org/details/captainvideo",
+        "status": "free",
+        "title": "1949 episode of the TV series \"Captain Video\"",
+        "year": "1949"
+    },
+    "https://archive.org/details/detectives": {
+        "freenessurl": "https://archive.org/details/detectives",
+        "status": "free",
+        "title": "\"Detectives\" (1928) starring Karl Dane, George Arthur and Marceline Day - a trailer"
+    },
+    "https://archive.org/details/dicksonfilmtwo": {
+        "freenessurl": "https://archive.org/details/dicksonfilmtwo",
+        "status": "free",
+        "title": "Dickson Experimental Sound Film"
+    },
+    "https://archive.org/details/dicktracy_chapter9": {
+        "freenessurl": "https://archive.org/details/dicktracy_chapter9",
+        "status": "free",
+        "title": "Dick Tracy Movie Serial Chapter 9",
+        "year": "1937"
+    },
+    "https://archive.org/details/dkw-zandvoort": {
+        "freenessurl": "https://archive.org/details/dkw-zandvoort",
+        "status": "free",
+        "title": "International DKW Trophy Zandvoort, Holland",
+        "year": "1959"
+    },
+    "https://archive.org/details/doa_ipod": {
+        "freenessurl": "https://archive.org/details/doa_ipod",
+        "status": "free",
+        "title": "D.O.A.",
+        "year": "1955"
+    },
+    "https://archive.org/details/dontsmokepot": {
+        "freenessurl": "https://archive.org/details/dontsmokepot",
+        "status": "free",
+        "title": "Don't Smoke Pot!",
+        "year": "1995"
+    },
+    "https://archive.org/details/filmcollectief-00-070": {
+        "freenessurl": "https://archive.org/details/filmcollectief-00-070",
+        "status": "free",
+        "title": "Jerry the paperboy"
+    },
+    "https://archive.org/details/filmcollectief-00-117": {
+        "freenessurl": "https://archive.org/details/filmcollectief-00-117",
+        "status": "free",
+        "title": "filmcollectief-00-117"
+    },
+    "https://archive.org/details/filmcollectief-00-159": {
+        "freenessurl": "https://archive.org/details/filmcollectief-00-159",
+        "status": "free",
+        "title": "Ballooncrash in the Nile in Luxor, Egypt",
+        "year": "2011"
+    },
+    "https://archive.org/details/filmcollectief-00-165": {
+        "freenessurl": "https://archive.org/details/filmcollectief-00-165",
+        "status": "free",
+        "title": "Viagrafix - Using Word for Windows, Beginners",
+        "year": "1992"
+    },
+    "https://archive.org/details/filmcollectief-01-626": {
+        "freenessurl": "https://archive.org/details/filmcollectief-01-626",
+        "status": "free",
+        "title": "The A-B-C of Aviation, Path\u00e9 Baby 9,5mm transfer",
+        "year": "1925"
+    },
+    "https://archive.org/details/filmcollectief-01-643": {
+        "freenessurl": "https://archive.org/details/filmcollectief-01-643",
+        "status": "free",
+        "title": "Amsterdam in 1958 and 1959",
+        "year": "1958"
+    },
+    "https://archive.org/details/filmcollectief-01-644": {
+        "freenessurl": "https://archive.org/details/filmcollectief-01-644",
+        "status": "free",
+        "title": "Firework on the new year in Amsterdam",
+        "year": "1959"
+    },
+    "https://archive.org/details/filmcollectief-01-676": {
+        "freenessurl": "https://archive.org/details/filmcollectief-01-676",
+        "status": "free",
+        "title": "Stop Thief! (720x576)",
+        "year": "1920"
+    },
+    "https://archive.org/details/filmcollectief-01-677": {
+        "freenessurl": "https://archive.org/details/filmcollectief-01-677",
+        "status": "free",
+        "title": "Stop Thief! (1280x1024",
+        "year": "1920"
+    },
+    "https://archive.org/details/filmcollectief-09-517": {
+        "freenessurl": "https://archive.org/details/filmcollectief-09-517",
+        "status": "free",
+        "title": "filmcollectief-09-517"
+    },
+    "https://archive.org/details/filmcollectief-1443-indonesia-toba-lake-1987": {
+        "freenessurl": "https://archive.org/details/filmcollectief-1443-indonesia-toba-lake-1987",
+        "status": "free",
+        "title": "Filmcollectief-1443 Indonesia, Sumatra around the Toba-lake",
+        "year": "1987"
+    },
+    "https://archive.org/details/focuson1939europegoestowar": {
+        "freenessurl": "https://archive.org/details/focuson1939europegoestowar",
+        "status": "free",
+        "title": "Focus on 1939 -- Europe goes to war. [motion picture]",
+        "year": "1964"
+    },
+    "https://archive.org/details/ghostpatrol_ipod": {
+        "freenessurl": "https://archive.org/details/ghostpatrol_ipod",
+        "status": "free",
+        "title": "Ghost Patrol",
+        "year": "1936"
+    },
+    "https://archive.org/details/highlights_1965_1": {
+        "freenessurl": "https://archive.org/details/highlights_1965_1",
+        "status": "free",
+        "title": "Highlights 1965: A Progress Report (Part I)",
+        "year": "1965"
+    },
+    "https://archive.org/details/home_movies_misc": {
+        "freenessurl": "https://archive.org/details/home_movies_misc",
+        "status": "free",
+        "title": "Home Movies: Two Family Collections",
+        "year": "1940"
+    },
+    "https://archive.org/details/homemovie_tarzan_and_rocky_gorge": {
+        "freenessurl": "https://archive.org/details/homemovie_tarzan_and_rocky_gorge",
+        "status": "free",
+        "title": "Tarzan and the Rocky Gorge",
+        "year": "1936"
+    },
+    "https://archive.org/details/horror_hotel_ipod": {
+        "freenessurl": "https://archive.org/details/horror_hotel_ipod",
+        "status": "free",
+        "title": "City of the Dead/Horror Hotel",
+        "year": "1960"
+    },
+    "https://archive.org/details/hoteldetectives": {
+        "freenessurl": "https://archive.org/details/hoteldetectives",
+        "status": "free",
+        "title": "Collection Filmcollectief - Gum Shoes",
+        "year": "1935"
+    },
+    "https://archive.org/details/infamia_en_oaxaca": {
+        "freenessurl": "https://archive.org/details/infamia_en_oaxaca",
+        "status": "free",
+        "title": "Infamia en Oaxaca",
+        "year": "2006"
+    },
+    "https://archive.org/details/insecurity": {
+        "freenessurl": "https://archive.org/details/insecurity",
+        "status": "free",
+        "title": "Insecurity",
+        "year": "2007"
+    },
+    "https://archive.org/details/jimhanveydetective": {
+        "freenessurl": "https://archive.org/details/jimhanveydetective",
+        "status": "free",
+        "title": "jimhanveydetective"
+    },
+    "https://archive.org/details/keep-them-rolling-west-holland-liberation-tour": {
+        "freenessurl": "https://archive.org/details/keep-them-rolling-west-holland-liberation-tour",
+        "status": "free",
+        "title": "Keep them Rolling - The West-Holland Liberation Tour",
+        "year": "2006"
+    },
+    "https://archive.org/details/ldManHotabych1956": {
+        "freenessurl": "https://archive.org/details/ldManHotabych1956",
+        "status": "free",
+        "title": "Old man Hottabych",
+        "year": "1956"
+    },
+    "https://archive.org/details/ms_access": {
+        "freenessurl": "https://archive.org/details/ms_access",
+        "status": "free",
+        "title": "Viagrafix - Introduction to Microsoft Access for Windows",
+        "year": "1993"
+    },
+    "https://archive.org/details/ms_project": {
+        "freenessurl": "https://archive.org/details/ms_project",
+        "status": "free",
+        "title": "Viagrafix - Introduction to Microsoft Project",
+        "year": "1992"
+    },
+    "https://archive.org/details/ncDixieLandMinstrels1950": {
+        "freenessurl": "https://archive.org/details/ncDixieLandMinstrels1950",
+        "status": "free",
+        "title": "[NC Dixie Land Minstrels 1950]"
+    },
+    "https://archive.org/details/news_parade_of_1945": {
+        "freenessurl": "https://archive.org/details/news_parade_of_1945",
+        "status": "free",
+        "title": "News Parade of 1945",
+        "year": "1945"
+    },
+    "https://archive.org/details/number-one-bush": {
+        "freenessurl": "https://archive.org/details/number-one-bush",
+        "status": "free",
+        "title": "Number One Bush",
+        "year": "1970"
+    },
+    "https://archive.org/details/phantom_planet_ipod": {
+        "freenessurl": "https://archive.org/details/phantom_planet_ipod",
+        "status": "free",
+        "title": "Phantom Planet",
+        "year": "1961"
+    },
+    "https://archive.org/details/planet_outlaws_ipod": {
+        "freenessurl": "https://archive.org/details/planet_outlaws_ipod",
+        "status": "free",
+        "title": "Planet Outlaws",
+        "year": "1953"
+    },
+    "https://archive.org/details/plastic_age_anniversary": {
+        "freenessurl": "https://archive.org/details/plastic_age_anniversary",
+        "status": "free",
+        "title": "Industry on Parade: Plastic Age Anniversary"
+    },
+    "https://archive.org/details/please_murder_me_ipod": {
+        "freenessurl": "https://archive.org/details/please_murder_me_ipod",
+        "status": "free",
+        "title": "Please Murder Me",
+        "year": "1956"
+    },
+    "https://archive.org/details/rhythm_blues_review_ipod": {
+        "freenessurl": "https://archive.org/details/rhythm_blues_review_ipod",
+        "status": "free",
+        "title": "Rhythm and Blues Revue",
+        "year": "1955"
+    },
+    "https://archive.org/details/sIvanBes1938_10": {
+        "freenessurl": "https://archive.org/details/sIvanBes1938_10",
+        "status": "free",
+        "title": "[Amateur films: Ivan Besse collection: Britton, South Dakota 1938-39] (Part X)",
+        "year": "1938"
+    },
+    "https://archive.org/details/sIvanBes1938_3": {
+        "freenessurl": "https://archive.org/details/sIvanBes1938_3",
+        "status": "free",
+        "title": "[Amateur films: Ivan Besse collection: Britton, South Dakota 1938-39] (Part II)",
+        "year": "1938"
+    },
+    "https://archive.org/details/san_francisco_worlds_fair": {
+        "freenessurl": "https://archive.org/details/san_francisco_worlds_fair",
+        "status": "free",
+        "title": "San Francisco World's Fair"
+    },
+    "https://archive.org/details/santa_claus_conquers_the_martians_ipod": {
+        "freenessurl": "https://archive.org/details/santa_claus_conquers_the_martians_ipod",
+        "status": "free",
+        "title": "Santa Clause Conquers the Martians",
+        "year": "1964"
+    },
+    "https://archive.org/details/sex_madness_ACM": {
+        "freenessurl": "https://archive.org/details/sex_madness_ACM",
+        "status": "free",
+        "title": "Sex Madness",
+        "year": "1938"
+    },
+    "https://archive.org/details/so_this_is_washington_ipod": {
+        "freenessurl": "https://archive.org/details/so_this_is_washington_ipod",
+        "status": "free",
+        "title": "So This is Washingtom",
+        "year": "1943"
+    },
+    "https://archive.org/details/stateoftheunion_201412": {
+        "freenessurl": "https://archive.org/details/stateoftheunion_201412",
+        "status": "free",
+        "title": "State of the Union ; Science Island ; Focus on 1945, pt. II, victory in the Pacific [motion picture]",
+        "year": "1962"
+    },
+    "https://archive.org/details/teenagers_from_outerspace": {
+        "freenessurl": "https://archive.org/details/teenagers_from_outerspace",
+        "status": "free",
+        "title": "Teenagers from Outer Space",
+        "year": "1959"
+    },
+    "https://archive.org/details/theDoubleLottiedasDoppelteLottchen1950": {
+        "freenessurl": "https://archive.org/details/theDoubleLottiedasDoppelteLottchen1950",
+        "status": "free",
+        "title": "\"The double Lottie\" [\"Das Doppelte Lottchen\"] [1950]"
+    },
+    "https://archive.org/details/theFatAndTheLeanleGrosEtLeMaigre1961": {
+        "freenessurl": "https://archive.org/details/theFatAndTheLeanleGrosEtLeMaigre1961",
+        "status": "free",
+        "title": "\"The Fat and the Lean\" [\"Le Gros et le Maigre\"] [1961]"
+    },
+    "https://archive.org/details/theLittleMatchGirllaPetiteMarchandeDallumettes1928": {
+        "freenessurl": "https://archive.org/details/theLittleMatchGirllaPetiteMarchandeDallumettes1928",
+        "status": "free",
+        "title": "\"The Little Match Girl\" [\"La petite marchande d'allumettes\"] [1928]"
+    },
+    "https://archive.org/details/the_paperlad": {
+        "freenessurl": "https://archive.org/details/the_paperlad",
+        "status": "free",
+        "title": "The Paperlad",
+        "year": "2005"
+    },
+    "https://archive.org/details/theotherdragon": {
+        "freenessurl": "https://archive.org/details/theotherdragon",
+        "status": "free",
+        "title": "The Other Dragon",
+        "year": "2003"
+    },
+    "https://archive.org/details/things_to_come_ipod_version": {
+        "freenessurl": "https://archive.org/details/things_to_come_ipod_version",
+        "status": "free",
+        "title": "Things to Come",
+        "year": "1936"
+    },
+    "https://archive.org/details/threegirls": {
+        "freenessurl": "https://archive.org/details/threegirls",
+        "status": "free",
+        "title": "Three Girls - \u4e3d\u4eba\u884c",
+        "year": "1949"
+    },
+    "https://archive.org/details/video_201410": {
+        "freenessurl": "https://archive.org/details/video_201410",
+        "status": "free",
+        "title": "\"The White Outlaw\" (1925) starring Jack Hoxie and Marceline Day"
+    },
+    "https://archive.org/details/word-for-windows-advanced": {
+        "freenessurl": "https://archive.org/details/word-for-windows-advanced",
+        "status": "free",
+        "title": "Viagrafix - Using Word for Windows, Advanced",
+        "year": "1992"
+    },
+    "https://archive.org/details/zeitgeist_movie": {
+        "freenessurl": "https://archive.org/details/zeitgeist_movie",
+        "status": "free",
+        "title": "Zeitgeist - The Movie",
+        "year": "2007"
+    },
+    "https://archive.org/details/zorros_black_whip_chapter12": {
+        "freenessurl": "https://archive.org/details/zorros_black_whip_chapter12",
+        "status": "free",
+        "title": "Zorro's Black Whip: Chapter 12 - Trial of Tyranny",
+        "year": "1944"
+    },
+    "https://archive.org/details/zorros_fighting_legion_chapter_5": {
+        "freenessurl": "https://archive.org/details/zorros_fighting_legion_chapter_5",
+        "status": "free",
+        "title": "Zorro's Fighting Legion: Chapter 5 - Decoy",
+        "year": "1939"
+    }
+}
