@@ -1,0 +1,107 @@
+#!/usr/bin/env python
+
+# http://archive.org/advancedsearch.php?q=collection%3Amovies&fl%5B%5D=identifier&sort%5B%5D=identifier+asc&sort%5B%5D=&sort%5B%5D=&rows=1000&page=1&output=json&callback=callback&save=yes
+
+"""
+Extract IMDB <-> Internet Archive cross references from
+Wikipedia/dbpedia/wikidata, and look up metadata in the Internet
+Archive entry to ensure the reference is valid.
+
+Example entry: https://www.wikidata.org/wiki/Q1331696
+
+Example of bad data:
+https://en.wikipedia.org/wiki/Mailman_Mueller
+https://www.wikidata.org/wiki/Q970386
+https://en.wikipedia.org/wiki/Kaiserj%C3%A4ger_(film)
+"""
+
+import json
+import urllib
+import urllib2
+import dateutil.parser
+
+class HeadRequest(urllib2.Request):
+    def get_method(self):
+        return "HEAD"
+
+def runsparqlquery(sparql):
+    url = "https://query.wikidata.org/sparql?query=%s" % \
+          urllib.quote_plus(sparql)
+    h = { "Accept" : "application/sparql-results+json"}
+    request = urllib2.Request(url, headers=h)
+    jsondata = urllib2.urlopen(request).read()
+    #print jsondata
+    data = json.loads(jsondata)
+    return data
+
+def find_free_movies():
+    sparqlquery = """
+SELECT ?work ?imdb ?ia ?when ?label
+WHERE
+{
+  ?work wdt:P31/wdt:P279* wd:Q11424.
+  ?work wdt:P345 ?imdb.
+  ?work wdt:P724 ?ia.
+  OPTIONAL {
+        ?work wdt:P577 ?when.
+        ?work rdfs:label ?label.
+        FILTER(LANG(?label) = "en").
+  }
+}
+"""
+    data = runsparqlquery(sparqlquery)
+    return data
+
+def fetch_movie_status(s, badref):
+    l = find_free_movies()
+    for e in l['results']['bindings']:
+        imdburl = "http://www.imdb.com/title/%s/" % e['imdb']['value']
+        if imdburl in s:
+            continue
+        iaid = e['ia']['value']
+        iaurl = "https://archive.org/details/%s" % iaid
+        iametadataurl = "%s/%s_meta.xml" % (iaurl, iaid)
+        try:
+            # This call throw if the metadata is missing
+            response = urllib2.urlopen(HeadRequest(iametadataurl))
+
+            s[imdburl] = {
+                'status' : 'free',
+                'freenessurl' : iaurl,
+                'wdurl' : e['work']['value'],
+            }
+            if 'label' in e:
+                s[imdburl]['title'] = e['label']['value']
+                if 'when' in e:
+                    s[imdburl]['year'] = e['when']['value'].split('-')[0]
+            print e
+        except urllib2.HTTPError:
+            badref.append(e)
+
+def loadlist():
+    try:
+        with open('free-movies-archive-org.json', 'rt') as input:
+            return json.load(input)
+    except IOError as e:
+        return {}
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-archive-org.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+s = {}
+badref = []
+
+try:
+    s = loadlist()
+    fetch_movie_status(s, badref)
+finally:
+    savelist(s)
+    print len(s), len(badref)
+    savelist(badref, name='badref.json')

@@ -1,0 +1,77 @@
+#!/usr/bin/env python
+
+"""
+Extract list of claimed public domain movies listed on imdb.com.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+
+def get(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-imdb-pd.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def fetch(entries, urlbase, start = 1):
+    count = 0
+    url = urlbase % start
+    html = get(url)
+    root = lxml.html.fromstring(html)
+    for tr in root.cssselect("table tr.list_item"):
+        t = tr.cssselect("td.title")
+        if t:
+            ta = t[0].cssselect("a")[0]
+            imdburl = urlparse.urljoin(url, ta.attrib['href'])
+            title = t[0].text_content()
+            y = tr.cssselect("td.year")
+            year = y[0].text_content()
+            print imdburl, title
+            entries[imdburl] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                'title' : title,
+                }
+            if '' != year:
+                entries[imdburl]['year'] = int(year)
+            count = count + 1
+    return count
+
+urlbases = [
+    # 2088 titles on Public domain
+    # This list contain Psycho II from 1983.  Is it really in the public domain?
+    "http://www.imdb.com/list/ls063670826/?start=%s&view=compact&sort=listorian:asc",
+    # 1,089 Titles on Public Domain:
+    "http://www.imdb.com/list/ls060673364/?start=%s&view=compact&sort=listorian:asc",
+    # Public domain science fiction films in the Internet Archive
+    "http://www.imdb.com/list/ls002037861/?start=%s&view=compact&sort=listorian:asc",
+
+    # Public domain scifi / horror films (available in the Internet Archive)
+    "http://www.imdb.com/list/ls068570432/?start=%s&view=compact&sort=listorian:asc",
+
+    # Public domain martial arts films in the Internet Archive
+    "http://www.imdb.com/list/ls002024467/?start=%s&view=compact&sort=listorian:asc",
+
+    # Public domain horror films in the Internet Archive
+    "http://www.imdb.com/list/ls002037865/?start=%s&view=compact&sort=listorian:asc",
+    ]
+
+pagesize = 250
+entries = {}
+for urlbase in urlbases:
+    start = 1
+    while 0 < fetch(entries, urlbase, start):
+        start = start + pagesize
+savelist(entries)

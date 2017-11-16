@@ -1,0 +1,84 @@
+#!/usr/bin/env python
+
+"""
+Search for movies in the Internet Archive similar to how the Butter
+plugin do it, and output the list with IMDB title IDs similar to the
+other list of free movies.
+"""
+
+import json
+import urllib
+import urllib2
+import re
+
+def fetch(page=1):
+    # The search URL found in
+    # https://github.com/butterproviders/butter-provider-archive
+    # The search result is less than 1000 entries 2017-11-05.
+    url = 'http://archive.org/advancedsearch.php?q=collection%%3Amoviesandfilms+AND+NOT+collection%%3Amovie_trailers+AND+-mediatype%%3Acollection+AND+format%%3A%%22Archive+BitTorrent%%22+AND+year&sort%%5B%%5D=&sort%%5B%%5D=&sort%%5B%%5D=&rows=1000&page=%d&output=json&save=yes' % page
+    h = { "Accept" : "application/json"}
+    request = urllib2.Request(url, headers=h)
+    jsondata = urllib2.urlopen(request).read()
+    #print jsondata
+    data = json.loads(jsondata)
+    return data
+
+def locate_imdb_refs(text):
+    if type (text) is list:
+        text = " ".join(text)
+    if -1 != text.find('imdb.com/title/tt'):
+        p = re.compile('(https?://[w.]*imdb.com/title/tt[^/]+/?)')
+        imdbs = p.findall(text)
+        newimdbs = []
+        for i in imdbs:
+            newimdbs.append(i.replace('/imdb.com/', '/www.imdb.com/'))
+        imdbs = newimdbs
+        return imdbs
+    return []
+
+def loadlist():
+    try:
+        with open('free-movies-archive-org.json', 'rt') as input:
+            return json.load(input)
+    except IOError as e:
+        return {}
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-archive-org-butter.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+wplist = loadlist()
+
+l = fetch()
+outlist = {}
+for e in l['response']['docs']:
+    freenessurl = "https://archive.org/details/%s" % e['identifier']
+    imdbmap = {}
+    if 'description' in e:
+        for i in locate_imdb_refs(e['description']):
+            imdbmap[i] = True
+    if 'stripped_tags' in e:
+        for i in locate_imdb_refs(e['stripped_tags']):
+            imdbmap[i] = True
+    fle = {
+        'status' : 'free',
+        'freenessurl' : freenessurl,
+        'title' : e['title'],
+        }
+    if 'year' in e:
+        fle['year'] = e['year']
+    if 0 == len(imdbmap.keys()):
+        for wpimdb in wplist.keys():
+            if wplist[wpimdb]['freenessurl'] == freenessurl:
+                imdbmap[wpimdb] = True
+    if 0 == len(imdbmap.keys()):
+        imdbmap[freenessurl] = True
+    for i in imdbmap.keys():
+        outlist[i] = fle
+savelist(outlist)

@@ -1,0 +1,63 @@
+#!/usr/bin/env python
+
+"""
+
+Extract IMDB IDs of movies listed as in the public domain on
+www.publicdomaintorrents.info.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+
+summaryurl = 'http://www.publicdomaintorrents.info/nshowcat.html?category=ALL'
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def get_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("td a"):
+        #print a.attrib['href'], a.attrib['href'].find("imdb")
+        if -1 != a.attrib['href'].find("imdb.com"):
+            imdburl = a.attrib['href']
+            imdburl = imdburl.replace('/imdb.com/', '/www.imdb.com/')
+            #print imdburl
+            return imdburl
+    print("Unable to find IMDB id for %s" % entryurl)
+def get_movie_list():
+    try:
+        root = lxml.html.fromstring(http_get_read(summaryurl))
+    except urllib2.HTTPError as e:
+        return "n/a"
+    l = {}
+    for a in root.cssselect("table tr td a"):
+        #print a, a.attrib['href'].find("nshowmovie.html?movieid=")
+        if -1 != a.attrib['href'].find("nshowmovie.html?movieid="):
+            entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
+            e = get_movie_info(entryurl)
+            if e:
+                l[e] = {
+                    'status' : 'free',
+                    'freenessurl' : entryurl,
+                }
+    return l
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-publicdomaintorrents.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+l = get_movie_list()
+savelist(l)
