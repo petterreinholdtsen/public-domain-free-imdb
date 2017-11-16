@@ -11,7 +11,7 @@ listupdate:
 DaleChallEasyWordList.txt:
 	curl -q -o $@ http://countwordsworth.com/download/DaleChallEasyWordList.txt
 
-histogram-year.data: *.json
+histogram-year.data: histogram-year *.json
 	./histogram-year > $@
 histogram-year.png: histogram-year.data
 	./histogram-year-plot
