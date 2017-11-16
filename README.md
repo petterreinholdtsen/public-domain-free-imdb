@@ -25,6 +25,14 @@ generated.  The JSON format look like this:
         "wdurl": "https://www.wikidata.org/wiki/Q470705",
 	"title" : "Blacksmith",
 	"year" : 1893
+    },
+    "http://www.imdb.com/title/tt4044364/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/Citizen.Four2014",
+	"wp" : "https://en.wikipedia.org/wiki/Citizenfour",
+        "wdurl": "http://www.wikidata.org/entity/Q18218448",
+        "title": "Citizenfour",
+        "year": "2014"
     }
 }
 ```
