@@ -8,10 +8,10 @@ copyright protected (aka public domain) or because they are licenced
 using a license allowing such distribution (for example with a
 [Creative Commons](https://creativecommons.org/) license.
 
-Here is a year histogram for the movies identified so far:
+Various sources are consulted, and here is a year histogram for the
+unique IMDB title IDs to be identified so far:
 
-![Movie release year histogram](histogram-year.png "Movie release year histogram")
-
+![Movie release year histogram](histogram-year.png "Histogram of movie release year")
 
 Several sources are consulted, and a JSON file for each source is
 generated.  The JSON format look like this:
