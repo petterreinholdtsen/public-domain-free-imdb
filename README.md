@@ -57,3 +57,7 @@ The JSON fields are as follows:
 Only the 'status' field is required, and the 'freenessurl' field if
 the status is 'free'.  One should try to fill in as many fields as
 possible for easier validation of the field.
+
+The file `free-movies-manual.json` is manually generated, to have a
+place to store the status of free movies that are currently missing in
+the automatically generated lists.

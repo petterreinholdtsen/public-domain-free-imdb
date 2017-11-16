@@ -1,0 +1,912 @@
+{
+    "http://www.imdb.com/title/tt0000005/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/blacksmith1893",
+	"wp" : "https://en.wikipedia.org/wiki/Blacksmith_Scene",
+	"title" : "Blacksmith",
+	"year" : 1893
+    },
+    "http://www.imdb.com/title/tt0000007/" : {
+	"status" : "free",
+	"freenessurl" : "https://www.loc.gov/item/00694182/",
+	"wp" : "https://en.wikipedia.org/wiki/Corbett_and_Courtney_Before_the_Kinetograph",
+	"title" : "Corbett and Courtney Before the Kinetograph",
+	"year" : 1894
+    },
+    "http://www.imdb.com/title/tt0000012/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/youtube--e1u7Fgoocc",
+	"wp" : "https://en.wikipedia.org/wiki/L%27Arriv%C3%A9e_d%27un_train_en_gare_de_La_Ciotat",
+	"title" : "L'Arrivée d'un train en gare de La Ciotat",
+	"year" : 1895
+    },
+    "http://www.imdb.com/title/tt0132534/" : {
+	"status" : "free",
+	"freenessurl" :	"https://archive.org/details/filmcollectief-01-677",
+	"title" : "Stop Thief!",
+	"year" : 1901
+    },
+    "http://www.imdb.com/title/tt0002199/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/JesusOfNazareth1912",
+	"wp" : "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross",
+	"title" : "From the Manger to the Cross or Jesus of Nazareth",
+	"year" : 1912
+    },
+    "http://www.imdb.com/title/tt0008975/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/CASACLBusterKeatonTheCook",
+	"wp" : "https://en.wikipedia.org/wiki/The_Cook",
+	"title" : "The Cook",
+	"year" : 1918
+    },
+    "http://www.imdb.com/title/tt0014532/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/TheTenCommandments1923NR_201503",
+	"wp" : "https://en.wikipedia.org/wiki/The_Ten_Commandments_(1923_film)",
+	"title" :"The Ten Commandments",
+	"year" : 1923
+    },
+    "http://www.imdb.com/title/tt0015624/" : {
+	"status" : "unknown",
+	"wp" : "https://en.wikipedia.org/wiki/The_Big_Parade",
+	"title" : "The Big Parade",
+	"year" : 1925
+    },
+    "http://www.imdb.com/title/tt0015864/" : {
+	"status" : "free",
+	"freenessurl" : "https://en.wikipedia.org/wiki/File:The_Gold_Rush_(1925).webm",
+	"comment" : "Removed from Youtube 'due to a copyright claim by MK2'",
+	"wp" : "https://en.wikipedia.org/wiki/The_Gold_Rush",
+	"title" : "The Gold Rush",
+	"year" : 1925
+    },
+    "http://www.imdb.com/title/tt0018578/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/WINGSSubtitulosALAS1927",
+	"wp" : "https://en.wikipedia.org/wiki/Wings_(1927_film)",
+	"title" : "Wings",
+	"year" : 1928
+    },
+    "http://www.imdb.com/title/tt0017423/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Sparrows1926720p",
+	"wp" : "https://en.wikipedia.org/wiki/Sparrows_(1926_film)",
+	"title" : "Sparrows",
+	"year" : 1926
+    },
+    "http://www.imdb.com/title/tt0018773/" : {
+	"status" : "free?",
+	"title" : "The Circus",
+	"year" : 1928
+    },
+    "http://www.imdb.com/title/tt0023027/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/TheMarxBrothersChicoHorseFeathers1932",
+	"wp" : "https://en.wikipedia.org/wiki/Horse_Feathers",
+	"title" : "Horse Feathers",
+	"year" : 1932
+    },
+    "http://www.imdb.com/title/tt0027977/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/ModernTimes_201609",
+	"wp" : "https://en.wikipedia.org/wiki/Modern_Times_(film)",
+	"title" : "Modern Time",
+	"year" : 1936
+    },
+    "http://www.imdb.com/title/tt0031971/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Stagecoach1939 ",
+	"wp" : "https://en.wikipedia.org/wiki/Stagecoach_(1939_film)",
+	"title" : "Stagecoach",
+	"year" : "1939"
+    },
+    "http://www.imdb.com/title/tt1172203/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Sita_Sings_the_Blues",
+	"title" : "Sita Sings the Blues",
+	"year" : 2008
+    },
+    "http://www.imdb.com/title/tt1727587/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Sintel",
+        "vodo": "http://vodo.net/vodo/sintel/",
+	"title" : "Sintel",
+	"year" : 2010
+    },
+    "http://www.imdb.com/title/tt2285752/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Tears-of-Steel",
+	"title" : "Tears of Steel",
+	"year" : 2012
+    },
+    "http://www.imdb.com/title/tt6059374/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Caminandes1LlamaDrama",
+	"title" : "Caminandes 1: Llama Drama",
+	"year": 2013
+    },
+    "http://www.imdb.com/title/tt3434172/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Caminandes2GranDillama",
+	"wp" : "https://en.wikipedia.org/wiki/Caminandes",
+	"title" : "Caminandes 2: Gran Dillama",
+	"year" : 2013
+    },
+    "http://www.imdb.com/title/unknown/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/CaminandesLlamigos",
+	"wp" : "https://en.wikipedia.org/wiki/Caminandes",
+	"title" : "Caminandes 3: Llamigos",
+	"year" : 2016
+    },
+    "http://www.imdb.com/title/tt4957236/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/CosmosLaundromatFirstCycle",
+	"wp" : "https://en.wikipedia.org/wiki/Cosmos_Laundromat",
+	"title" : "Cosmos Laundromat: First Cycle",
+	"year" : 2015
+    },
+    "http://www.imdb.com/title/tt5243642/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/Glass_201703",
+	"title" : "Glass",
+	"year" : 2015
+    },
+
+    "http://www.imdb.com/title/tt1645893/": {
+        "freenessurl": "http://vodo.net/oferpedut/slashzombies/",
+        "status": "free",
+        "title": "SLASH ZOMBIES",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1422757/": {
+        "freenessurl": "http://vodo.net/vodo/stf/",
+        "status": "free",
+        "title": "Steal This Film",
+        "year": 2006
+    },
+    "http://www.imdb.com/title/tt1422758/": {
+        "freenessurl": "http://vodo.net/vodo/stf2/",
+        "status": "free",
+        "title": "Steal This Film 2.5",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1345838/": {
+        "freenessurl": "http://vodo.net/vodo/wunderkammer/",
+        "status": "free",
+        "title": "Wunderkammer",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt1424469/": {
+        "freenessurl": "http://vodo.net/quitofilms/VincesGamble/",
+        "status": "free",
+        "title": "Blue Suitcase #3: Vince's Gamble",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt1592510/": {
+        "freenessurl": "http://vodo.net/amirmotlagh/knockknock/",
+        "status": "free",
+        "title": "Knock. Knock.",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt1239279/": {
+        "freenessurl": "http://vodo.net/jamie_k/stb/ ",
+        "status": "free",
+        "title": "Smalltown Boy",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt1337614/": {
+        "freenessurl": "http://vodo.net/jblockbuster/emperor/",
+        "status": "free",
+        "title": "Emperor",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt1294708/": {
+        "freenessurl": "http://vodo.net/amirmotlagh/plainus/",
+        "status": "free",
+        "title": "Plain Us",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt1320264/": {
+        "freenessurl": "http://vodo.net/hpfilms/THPmovie/",
+        "status": "free",
+        "title": "The Harvest Project",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt1490533/": {
+        "freenessurl": "http://vodo.net/pnutfilms/americanwasteland/",
+        "status": "free",
+        "title": "American Wasteland",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt1358606/": {
+        "freenessurl": "http://vodo.net/powerlinefilms/naturalfamily/",
+        "status": "free",
+        "title": "Natural Family Values - A Community Divided",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt1496426/": {
+        "freenessurl": "http://vodo.net/thehillproductions/Pentagon/",
+        "status": "free",
+        "title": "Pentagon",
+        "year": 2008
+    },
+    "http://www.imdb.com/title/tt2123145/": {
+        "freenessurl": "http://vodo.net/robel-films/nodevil/",
+        "status": "free",
+        "title": "And Here No Devil Can Hurt You",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2004334/": {
+        "freenessurl": "http://vodo.net/risingtide/risingtide/",
+        "status": "free",
+        "title": "Rising Tide",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2194182/": {
+        "freenessurl": "http://vodo.net/vodo/alexis/",
+        "status": "free",
+        "title": "Alexis",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2499310/": {
+        "freenessurl": "http://vodo.net/vodo/vanity/",
+        "status": "free",
+        "title": "This Is Vanity",
+        "year": 2013
+    },
+    "http://www.imdb.com/title/tt0490305/": {
+        "freenessurl": "http://vodo.net/naut77/torchbearer/",
+        "status": "free",
+        "title": "Torchbearer",
+        "year": 2005
+    },
+    "http://www.imdb.com/title/tt0829115/": {
+        "freenessurl": "http://vodo.net/rickfilms/Lenin/",
+        "status": "free",
+        "title": "The Book of Lenins",
+        "year": 1996
+    },
+    "http://www.imdb.com/title/tt0427899/": {
+        "freenessurl": "http://vodo.net/amirmotlagh/stilllover/",
+        "status": "free",
+        "title": "Still Lover",
+        "year": 2003
+    },
+    "http://www.imdb.com/title/tt1381678/": {
+        "freenessurl": "http://vodo.net/schaferkotter/spaceman/",
+        "status": "free",
+        "title": "Spaceman",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1130967/": {
+        "freenessurl": "http://vodo.net/ryangielen/thegraduates/",
+        "status": "free",
+        "title": "The Graduates",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1518253/": {
+        "freenessurl": "http://vodo.net/jblockbuster/ramly/",
+        "status": "free",
+        "title": "Ramly at War Begins",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1854281/": {
+        "freenessurl": "http://vodo.net/jamie_k/ingitmo/",
+        "status": "free",
+        "title": "In Guantanamo",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1854305/": {
+        "freenessurl": "http://vodo.net/jamie_k/lilah/",
+        "status": "free",
+        "title": "Lilah",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1555154/": {
+        "freenessurl": "http://vodo.net/ivo/usnow/",
+        "status": "free",
+        "title": "Us Now",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1339167/": {
+        "freenessurl": "http://vodo.net/innereye/shyama/",
+        "status": "free",
+        "title": "Shyama",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1358161/": {
+        "freenessurl": "http://vodo.net/philstebbing/thedeadline/",
+        "status": "free",
+        "title": "The Deadline",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1854305/": {
+        "freenessurl": "http://vodo.net/jamie_k/lilah/",
+        "status": "free",
+        "title": "Lilah",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1502421/": {
+        "freenessurl": "http://vodo.net/joshbernhard/lionshare/",
+        "status": "free",
+        "title": "The Lionshare",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1323923/": {
+        "freenessurl": "http://vodo.net/jrjc/AGoS/",
+        "status": "free",
+        "title": "A Grain of Sand",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1773335/": {
+        "freenessurl": "http://vodo.net/senser/Chatter/",
+        "status": "free",
+        "title": "Chatter",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt2005383/": {
+        "freenessurl": "http://vodo.net/schlaeffer/johnfrum/",
+        "status": "free",
+        "title": "THE RETURN OF JOHN FRUM",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1653074/": {
+        "freenessurl": "http://vodo.net/quitofilms/swingit/",
+        "status": "free",
+        "title": "Swing It!",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1338705/": {
+        "freenessurl": "http://vodo.net/pnutfilms/chipseinfeld/",
+        "status": "free",
+        "title": "Who the f#ck is Chip Seinfeld?",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1748166/": {
+        "freenessurl": "http://vodo.net/joshbernhard/pioneerone/",
+        "status": "free",
+        "title": "Pioneer One",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1683515/": {
+        "freenessurl": "http://vodo.net/jblockbuster/unsecuredloan/",
+        "status": "free",
+        "title": "Unsecured Loan II",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1673657/": {
+        "freenessurl": "http://vodo.net/jamie_k/prebloc/",
+        "status": "free",
+        "title": "Prebloc",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1854281/": {
+        "freenessurl": "http://vodo.net/jamie_k/gilbert/",
+        "status": "free",
+        "title": "Gilbert",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1631443/": {
+        "freenessurl": "http://vodo.net/njen/sneeze/",
+        "status": "free",
+        "title": "Sneeze Me Away",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1391745/": {
+        "freenessurl": "http://vodo.net/amirmotlagh/whale/",
+        "status": "free",
+        "title": "Whale",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1668071/": {
+        "freenessurl": "http://vodo.net/pcpappano/clickinforlove/",
+        "status": "free",
+        "title": "Clickin' For Love",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt2094747/": {
+        "freenessurl": "http://vodo.net/amirmotlagh/35yearoldman/",
+        "status": "free",
+        "title": "35 Year Old Man",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt1552088/": {
+        "freenessurl": "http://vodo.net/medaglia/kittykitty/",
+        "status": "free",
+        "title": "Kitty Kitty",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1327836/": {
+        "freenessurl": "http://vodo.net/mashouf/warringfactions/",
+        "status": "free",
+        "title": "Warring Factions",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt3411766/": {
+        "freenessurl": "http://vodo.net/blitzcraig/talktome/",
+        "status": "free",
+        "title": "Talk To Me",
+        "year": 2006
+    },
+    "http://www.imdb.com/title/tt1387421/": {
+        "freenessurl": "http://vodo.net/retrofilms/NewmanBros/",
+        "status": "free",
+        "title": "The Notorious Newman Brothers",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt0425160/": {
+        "freenessurl": "http://vodo.net/accident/jtgar/",
+        "status": "free",
+        "title": "Just to Get a Rep",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt0397414/": {
+        "freenessurl": "http://vodo.net/aferraro/evun/",
+        "status": "free",
+        "title": "Everything Unspoken",
+        "year": 2004
+    },
+    "http://www.imdb.com/title/tt2917660/": {
+        "freenessurl": "http://vodo.net/cinemanational/ivorybastards/",
+	"archive" : "https://archive.org/details/VODO205IvoryBastardsAgainstExtinction",
+        "status": "free",
+        "title": "Ivory Bastards Against Extinction!",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt1029392/": {
+        "freenessurl": "http://vodo.net/dropshadow79/tree/",
+        "status": "free",
+        "title": "TREE",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt1075649/": {
+        "freenessurl": "http://vodo.net/tostie14/yellowlights/",
+        "status": "free",
+        "title": "Yellow Lights",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt1541131/": {
+        "freenessurl": "http://vodo.net/twisty-headed-man-company/mapmaker/",
+        "status": "free",
+        "title": "The Mapmaker",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt0988971/": {
+        "freenessurl": "http://vodo.net/vodo/entrepiso/",
+        "status": "free",
+        "title": "El Entrepiso",
+        "year": 2007
+    },
+    "http://www.imdb.com/title/tt0439182/": {
+        "freenessurl": "http://vodo.net/arincrumley/foureyedmonsters/",
+        "status": "free",
+        "title": "Four Eyed Monsters",
+        "year": 2005
+    },
+    "http://www.imdb.com/title/tt1536442/": {
+        "freenessurl": "http://vodo.net/gary-t/tanman/",
+        "status": "free",
+        "title": "Tan Man",
+        "year": 2005
+    },
+    "http://www.imdb.com/title/tt0466740/": {
+        "freenessurl": "http://vodo.net/miker71/crookf/",
+        "status": "free",
+        "title": "Crooked Features",
+        "year": 2005
+    },
+    "http://www.imdb.com/title/tt1546998/": {
+        "freenessurl": "http://vodo.net/mikey_watts/lagunanegra/",
+        "status": "free",
+        "title": "Laguna Negra",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1358890/": {
+        "freenessurl": "http://vodo.net/andrewrainnie/Sugar/",
+        "status": "free",
+        "title": "Sugar",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1319591/": {
+        "freenessurl": "http://vodo.net/billelverman/TheWintress/",
+        "status": "free",
+        "title": "The Wintress",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1441911/": {
+        "freenessurl": "http://vodo.net/ecloverde/Truth/",
+        "status": "free",
+        "title": "The Truth About Me",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1888524/": {
+        "freenessurl": "http://vodo.net/erzerum/3d_animation/",
+        "status": "free",
+        "title": "Doroga",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1543490/": {
+        "freenessurl": "http://vodo.net/fantasticstudios/maudleo/",
+        "status": "free",
+        "title": "Maud & Leo",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1851944/": {
+        "freenessurl": "http://vodo.net/garthelgard/goodboys/",
+        "status": "free",
+        "title": "Good Boys go to Heaven and Bad Boys go to Europe",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1534016/": {
+        "freenessurl": "http://vodo.net/oferpedut/dimensional/",
+        "status": "free",
+        "title": "DIMENSIONAL MELTDOWN",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1451709/": {
+        "freenessurl": "http://vodo.net/tjmccarthy4th/evangelist/",
+        "status": "free",
+        "title": "The Evangelist The Hitman & The ACLU",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt3246942/": {
+        "freenessurl": "http://vodo.net/vodo/legacy/",
+        "status": "free",
+        "title": "Legacy",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1510795/": {
+        "freenessurl": "http://vodo.net/whitestonemp/lestweforget/",
+        "status": "free",
+        "title": "Lest We Forget",
+        "year": 2009
+    },
+    "http://www.imdb.com/title/tt1636631/": {
+        "freenessurl": "http://vodo.net/twisty-headed-man-company/tenementghost/",
+        "status": "free",
+        "title": "The Tenement Ghost",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt2699212/": {
+        "freenessurl": "http://vodo.net/finar/finar/",
+        "status": "free",
+        "title": "Have you forgotten what we used to play?",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1603306/": {
+        "freenessurl": "http://vodo.net/ecloverde/jatlg/",
+        "status": "free",
+        "title": "Jesus Awakens the Little Girl",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1152828/": {
+        "freenessurl": "http://vodo.net/durtysean/itwan/",
+        "status": "free",
+        "title": "I THINK WE'RE ALONE NOW",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1620852/": {
+        "freenessurl": "http://vodo.net/bittermanfilms/lanfranchis/",
+        "status": "free",
+        "title": "Lanfranchi's Memorial Discotheque",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1673489/": {
+        "freenessurl": "http://vodo.net/atomiumfilms/calculus/",
+        "status": "free",
+        "title": "THE CALCULUS OF LOVE",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1703146/": {
+        "freenessurl": "http://vodo.net/echoesofdecimation/goldenspiral/",
+        "status": "free",
+        "title": "The Golden Spiral",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1501342/": {
+        "freenessurl": "http://vodo.net/lmcnelly/Blanc/",
+        "status": "free",
+        "title": "Blanc de Blanc",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1743248/": {
+        "freenessurl": "http://vodo.net/mrnobody/Manifesto/",
+        "status": "free",
+        "title": "The Manifesto",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1549886/": {
+        "freenessurl": "http://vodo.net/tcarlton27/buckj/",
+        "status": "free",
+        "title": "The Buck Johnson Story",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1512148/": {
+        "freenessurl": "http://vodo.net/tcarlton27/halfempty/",
+        "status": "free",
+        "title": "Half Empty",
+        "year": 2010
+    },
+    "http://www.imdb.com/title/tt1553290/": {
+        "freenessurl": "http://vodo.net/theundergroundmultiplex/scumbabies/",
+        "status": "free",
+        "title": "SCUMBABIES",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1954342/": {
+        "freenessurl": "http://vodo.net/tilefilms/cominghome/",
+        "status": "free",
+        "title": "Coming Home",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1763324/": {
+        "freenessurl": "http://vodo.net/timeexpiredfilm/timeexpired/",
+        "status": "free",
+        "title": "Time Expired",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1796648/": {
+        "freenessurl": "http://vodo.net/showerscantalk/showers/",
+        "status": "free",
+        "title": "These Showers Can Talk ",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt2147796/": {
+        "freenessurl": "http://vodo.net/mmck/perspective/",
+        "status": "free",
+        "title": "perspective",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt4624188/": {
+        "freenessurl": "http://vodo.net/manuq/quebracho/",
+        "status": "free",
+        "title": "Viaje a la tierra del Quebracho",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1971450/": {
+        "freenessurl": "http://vodo.net/marc-nadal/larosacongelada/",
+        "status": "free",
+        "title": "La rosa congelada",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt2076795/": {
+        "freenessurl": "http://vodo.net/marc-nadal/in-front-of-the-spider/",
+        "status": "free",
+        "title": "In Front Of The Spider",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt0968748/": {
+        "freenessurl": "http://vodo.net/laproper/laproper/",
+        "status": "free",
+        "title": "L.A. Proper",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt2055758/": {
+        "freenessurl": "http://vodo.net/krismday/TempletonRyeIGS/",
+        "status": "free?",
+        "title": "Templeton Rye: Iowa's Good Stuff",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1941569/": {
+        "freenessurl": "http://vodo.net/justdoit/justdoit/",
+        "status": "free",
+        "title": "Just Do It - a tale of modern-day outlaws",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt3314256/": {
+        "freenessurl": "http://vodo.net/bloodygoodfilms/ZombiePix/",
+        "status": "free",
+        "title": "Zombie Pix",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1921045/": {
+        "freenessurl": "http://vodo.net/bevanklassen/GamesEscapes/",
+        "status": "free",
+        "title": "Of Games & Escapes",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1981113/": {
+        "freenessurl": "http://vodo.net/blioumis/offer/",
+        "status": "free",
+        "title": "OFFER",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1735485/": {
+        "freenessurl": "http://vodo.net/distractedmedia/thetunnel/",
+        "status": "free",
+        "title": "The Tunnel",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1830585/": {
+        "freenessurl": "http://vodo.net/stimulator/endciv/",
+        "status": "free",
+        "title": "END:CIV",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt1813428/": {
+        "freenessurl": "http://vodo.net/xczanticore/Link/",
+        "status": "free",
+        "title": "LINK",
+        "year": 2011
+    },
+    "http://www.imdb.com/title/tt2390333/": {
+        "freenessurl": "http://vodo.net/willdelphia/tejidxs/",
+        "status": "free",
+        "title": "Tejid@s Junt@s / Stitched Together",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2376986/": {
+        "freenessurl": "http://vodo.net/vodo/lahija/",
+        "status": "free",
+        "title": "La Hija (The Daughter)",
+	"year" : 2012
+    },
+    "http://www.imdb.com/title/tt3373586/": {
+        "freenessurl": "http://vodo.net/truthsculpture/acitytomakeme/",
+        "status": "free",
+        "title": "A CITY TO MAKE ME",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2233925/": {
+        "freenessurl": "http://vodo.net/stevelareau/13Witches/",
+        "status": "free",
+        "title": "13 Witches: The Movie Unrated And Uncensored",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2262462/": {
+        "freenessurl": "http://vodo.net/steve-galley/boys/",
+        "status": "free",
+        "title": "Burgundies Boys",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2330681/": {
+        "freenessurl": "http://vodo.net/sl8it/deadside/",
+        "status": "free",
+        "title": "Deadside",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2036452/": {
+        "freenessurl": "http://vodo.net/painted-stage-pictures/thecircusanimals/",
+        "status": "free",
+        "title": "THE CIRCUS ANIMALS",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2404277/": {
+        "freenessurl": "http://vodo.net/hemogoblin/l5/",
+        "status": "free",
+        "title": "L5",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2239654/": {
+        "freenessurl": "http://vodo.net/garynull/waronhealth/",
+        "status": "free",
+        "title": "The War on Health: The FDA's Cult of Tyranny",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2072090/": {
+        "freenessurl": "http://vodo.net/enemyofthemind/enemyofthemind/",
+        "status": "free",
+        "title": "Enemy of the Mind",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2416912/": {
+        "freenessurl": "http://vodo.net/echoesofdecimation/beneaththerind/",
+        "status": "free",
+        "title": "Beneath The Rind",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2340206/": {
+        "freenessurl": "http://vodo.net/docwerkersbe/misshomeless/",
+        "status": "free",
+        "title": "Mathilde's Misses: 18 months with Miss Homeless",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt5231508/": {
+        "freenessurl": "http://vodo.net/community-of-independents/ajoyfulslog/",
+        "status": "free",
+        "title": "A Joyful Slog",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2206354/": {
+        "freenessurl": "http://vodo.net/britdoc/OMA/",
+        "status": "free",
+        "title": "One Mile Away",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2358931/": {
+        "freenessurl": "http://vodo.net/artistsmovingimage/caca/",
+        "status": "free",
+        "title": "Caca Don't Preach",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt3209100/": {
+        "freenessurl": "http://vodo.net/artistsmovingimage/ylem/",
+        "status": "free",
+        "title": "Ylem",
+        "year": 2012
+    },
+    "http://www.imdb.com/title/tt2783088/": {
+        "freenessurl": "http://vodo.net/ten-wing-films/BeyondTheBasementDoor/",
+        "status": "free",
+        "title": "Beyond the Basement Door",
+        "year": 2013
+    },
+    "http://www.imdb.com/title/tt2762642/": {
+        "freenessurl": "http://vodo.net/artistsmovingimage/yours/",
+        "status": "free",
+        "title": "Now I'm Yours",
+        "year": 2013
+    },
+    "http://www.imdb.com/title/tt6114494/": {
+        "freenessurl": "http://vodo.net/artistsmovingimage/selvesunknown/",
+        "status": "free",
+        "title": "Our Selves Unknown",
+        "year": 2014
+    },
+    "http://www.imdb.com/title/tt4155862/": {
+        "status": "free",
+        "freenessurl": "http://vodo.net/artistsmovingimage/cutout/",
+        "title": "Cut Out",
+        "year": 2014
+    },
+    "http://www.imdb.com/title/tt0049794/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/ldManHotabych1956",
+	"wp" : "https://en.wikipedia.org/wiki/Old_Khottabych",
+	"title" : "Old Khottabych",
+	"year" : 1956
+    },
+    "http://www.imdb.com/title/tt0027286/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/TheAmazingAdventure",
+	"wp" : "https://en.wikipedia.org/wiki/The_Amazing_Quest_of_Ernest_Bliss",
+	"title" : "The Amazing Adventure",
+	"year" : 1936
+    },
+    "http://www.imdb.com/title/tt0026080/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/ArizonaBadman",
+	"title" : "Arizona Bad Man",
+	"year" : 1935
+    },
+    "http://www.imdb.com/title/tt0446201/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/S.O.S.Iceberg1933_201702",
+	"wp" : "https://en.wikipedia.org/wiki/S.O.S._Eisberg",
+	"title" : "S.O.S. Eisberg",
+	"year" : 1933
+    },
+    "http://www.imdb.com/title/tt0012382/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/LeapYear1921",
+	"wp" : "https://en.wikipedia.org/wiki/Leap_Year_(1924_film)",
+	"title" : "Leap Year",
+	"year" : 1921
+    },
+    "http://www.imdb.com/title/tt0151753/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/ANightOfMagic1944",
+	"title" : "A Night Of Magic",
+	"year" : 1944
+    },
+    "http://www.imdb.com/title/tt1166827/": {
+        "freenessurl": "https://archive.org/details/ZEITGEIST-REMASTERED",
+        "status": "free",
+        "title": "ZEITGEIST THE MOVIE REMASTERED",
+        "year": "2007"
+    },
+    "http://www.imdb.com/title/tt1166827/": {
+        "freenessurl": "https://archive.org/details/ZEITGEIST_DVD",
+        "status": "free",
+        "title": "ZEITGEIST",
+        "year": "2007"
+    },
+    "http://www.imdb.com/title/tt1166827/": {
+        "freenessurl": "https://archive.org/details/zeitgeist_movie",
+        "status": "free",
+        "title": "Zeitgeist - The Movie",
+        "year": "2007"
+    }
+}
