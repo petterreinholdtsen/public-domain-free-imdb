@@ -9,7 +9,7 @@ using a license allowing such distribution (for example with a
 [Creative Commons](https://creativecommons.org/) license.
 
 Various sources are consulted, and here is a year histogram for the
-unique IMDB title IDs to be identified so far:
+unique IMDB title IDs identified so far:
 
 ![Movie release year histogram](histogram-year.png "Histogram of movie release year")
 
