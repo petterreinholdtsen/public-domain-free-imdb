@@ -6,6 +6,7 @@ listupdate:
 	./mklist-vodo
 	./mklist-imdb-pd
 	./mklist-archive-org-butter
+	./mklist-icheckmovies-archive-mochard
 
 # See http://countwordsworth.com/blog/dale-chall-easy-word-list-text-file/
 DaleChallEasyWordList.txt:

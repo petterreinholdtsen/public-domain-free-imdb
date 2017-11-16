@@ -32,6 +32,7 @@ l = {}
 load(h, l, "free-movies-archive-org-butter.json")
 load(h, l, "free-movies-archive-org.json")
 load(h, l, "free-movies-imdb-pd.json")
+load(h, l, "free-movies-icheckmovies-archive-mochard.json")
 load(h, l, "free-movies-manual.json")
 load(h, l, "free-movies-publicdomaintorrents.json")
 load(h, l, "free-movies-vodo.json")

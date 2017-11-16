@@ -1,0 +1,54 @@
+#!/usr/bin/env python
+
+"""
+Extract list of icheckmovies claimed IMDB entries on the Internet Archive.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+
+def get(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-icheckmovies-archive-mochard.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def fetch(entries, urlbase):
+    count = 0
+    url = urlbase
+    html = get(url)
+    root = lxml.html.fromstring(html)
+    for tr in root.cssselect("li.movie"):
+        t = tr.cssselect("h2 a")
+        if t:
+            title = t[0].text_content().strip()
+	    ta = tr.cssselect("a.optionIMDB")[0]
+            imdburl = urlparse.urljoin(url, ta.attrib['href'])
+            y = tr.cssselect("a.tagNamespaceYear")
+            year = y[0].text_content()
+            print imdburl, year, title
+            entries[imdburl] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                'title' : title,
+                }
+            if '' != year:
+                entries[imdburl]['year'] = int(year)
+            count = count + 1
+    return count
+
+entries = {}
+fetch(entries, "https://www.icheckmovies.com/lists/internet+archive/mochard/")
+savelist(entries)
