@@ -101,6 +101,13 @@
 	"title" : "Stagecoach",
 	"year" : "1939"
     },
+    "http://www.imdb.com/title/tt0048918/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/19841956VersionDVDFULL",
+	"wp" : "https://en.wikipedia.org/wiki/1984_(1956_film)",
+	"title" : "1984",
+	"year" : 1956
+    },
     "http://www.imdb.com/title/tt1172203/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/Sita_Sings_the_Blues",
