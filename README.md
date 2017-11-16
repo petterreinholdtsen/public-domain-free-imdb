@@ -13,7 +13,7 @@ unique IMDB title IDs identified so far:
 
 ![Movie release year histogram](histogram-year.png "Histogram of movie release year")
 
-For earhc consulted source, a JSON file is generated.  The JSON format
+For each consulted source, a JSON file is generated.  The JSON format
 look like this:
 
 ```
