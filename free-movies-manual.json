@@ -905,6 +905,13 @@
 	"title" : "A Night Of Magic",
 	"year" : 1944
     },
+    "http://www.imdb.com/title/tt0154524/" : {
+	"status" : "free",
+	"freenessurl" :	"https://archive.org/details/Pvt.SNAFU.Gas",
+	"wp" : "https://en.wikipedia.org/wiki/Gas_(1944_film)",
+	"title" : "Gas",
+	"year" : 1944
+    },
     "http://www.imdb.com/title/tt1166827/": {
         "freenessurl": "https://archive.org/details/ZEITGEIST-REMASTERED",
         "status": "free",
