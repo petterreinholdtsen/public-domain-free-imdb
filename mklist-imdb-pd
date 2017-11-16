@@ -35,7 +35,7 @@ def fetch(entries, urlbase, start = 1):
         if t:
             ta = t[0].cssselect("a")[0]
             imdburl = urlparse.urljoin(url, ta.attrib['href'])
-            title = t[0].text_content()
+            title = t[0].text_content().strip()
             y = tr.cssselect("td.year")
             year = y[0].text_content()
             print imdburl, title
