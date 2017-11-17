@@ -8,21 +8,52 @@ import argparse
 import json
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--input', default='free-movies-manual.json',
-                    help='input JSON file')
+parser.add_argument('files', metavar='N', type=str, nargs='*',
+                    default=['free-movies-manual.json'],
+                    help='input file(s)')
+parser.add_argument('--list-unique', action='store_true', default=False)
 args = parser.parse_args()
 
-with open(args.input, 'rt') as input:
-    l = json.load(input)
+m = {}
+s = {}
+i = {}
 
-imdb = 0
-noimdb = 0
-for e in l:
-    if 'status' in l[e] and "free" == l[e]['status']:
-       if -1 != e.find('/www.imdb.com/title/'):
-       	  imdb = imdb + 1
-       else:
-	   noimdb = noimdb + 1
+for file in args.files:
+    with open(file, 'rt') as input:
+        l = json.load(input)
+        imdb = 0
+        noimdb = 0
+        for e in l:
+            if 'status' in l[e] and "free" == l[e]['status']:
+               if -1 != e.find('/www.imdb.com/title/'):
+                  imdb = imdb + 1
+                  if e not in m:
+                      m[e] = []
+                  m[e].append(file)
+               else:
+                   noimdb = noimdb + 1
+               s[file] = {
+                   'imdb' : imdb,
+                   'noimdb' : noimdb,
+               }
+               i[e] = l[e]
 
-print("%5d entries with and %5d without IMDB title ID in %s."
-      % (imdb, noimdb, args.input))
+for file in sorted(s.keys()):
+    unique = 0
+    for imdburl in m.keys():
+        if m[imdburl] == [file]:
+            unique = unique + 1
+    print("%5d entries (%5d unique) with and %5d without IMDB title ID in %s."
+          % (s[file]['imdb'], unique, s[file]['noimdb'], file))
+    if args.list_unique:
+        for imdburl in sorted(m.keys()):
+            if m[imdburl] == [file]:
+                if 'year' in i[imdburl]:
+                    y = i[imdburl]['year']
+                else:
+                    y = ""
+                if 'title' in i[imdburl]:
+                    t = i[imdburl]['title']
+                else:
+                    t = ""
+                print("        %s %4s %s" % (imdburl, y, t))

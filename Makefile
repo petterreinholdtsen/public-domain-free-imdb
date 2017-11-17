@@ -1,7 +1,7 @@
 all: stats
 
 stats:
-	for f in free-movies-*.json; do python list-stats --input $$f; done
+	./list-stats free-movies-*.json
 
 listupdate:
 	./mklist-wikidata-archive-org
