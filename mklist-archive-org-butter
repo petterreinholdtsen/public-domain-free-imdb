@@ -4,6 +4,9 @@
 Search for movies in the Internet Archive similar to how the Butter
 plugin do it, and output the list with IMDB title IDs similar to the
 other list of free movies.
+
+If the search result do not return a IMDB ID, see if the wikidata set
+have such ID and use this one.
 """
 
 import json
