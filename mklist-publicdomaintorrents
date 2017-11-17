@@ -41,13 +41,16 @@ def get_movie_list():
     for a in root.cssselect("table tr td a"):
         #print a, a.attrib['href'].find("nshowmovie.html?movieid=")
         if -1 != a.attrib['href'].find("nshowmovie.html?movieid="):
+            title = a.text_content()
             entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
             e = get_movie_info(entryurl)
-            if e:
-                l[e] = {
-                    'status' : 'free',
-                    'freenessurl' : entryurl,
-                }
+            if not e:
+                e = entryurl
+            l[e] = {
+                'status' : 'free',
+                'freenessurl' : entryurl,
+                'title' : title,
+            }
     return l
 
 def savelist(l, name = None):
