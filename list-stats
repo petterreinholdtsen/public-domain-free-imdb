@@ -1,0 +1,28 @@
+#!/usr/bin/env python
+
+"""
+Calculate and report some statistics for each data source JSON file.
+"""
+
+import argparse
+import json
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--input', default='free-movies-manual.json',
+                    help='input JSON file')
+args = parser.parse_args()
+
+with open(args.input, 'rt') as input:
+    l = json.load(input)
+
+imdb = 0
+noimdb = 0
+for e in l:
+    if 'status' in l[e] and "free" == l[e]['status']:
+       if -1 != e.find('/www.imdb.com/title/'):
+       	  imdb = imdb + 1
+       else:
+	   noimdb = noimdb + 1
+
+print("%5d entries with and %5d without IMDB title ID in %s."
+      % (imdb, noimdb, args.input))

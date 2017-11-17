@@ -1,4 +1,7 @@
-all:
+all: stats
+
+stats:
+	for f in free-movies-*.json; do python list-stats --input $$f; done
 
 listupdate:
 	./mklist-wikidata-archive-org
