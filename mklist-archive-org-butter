@@ -30,11 +30,14 @@ def locate_imdb_refs(text):
     if type (text) is list:
         text = " ".join(text)
     if -1 != text.find('imdb.com/title/tt'):
-        p = re.compile('(https?://[w.]*imdb.com/title/tt[^/]+/?)')
+        p = re.compile('(https?://[w.]*imdb.com/title/tt[^/ "]+/?)')
         imdbs = p.findall(text)
         newimdbs = []
         for i in imdbs:
-            newimdbs.append(i.replace('/imdb.com/', '/www.imdb.com/'))
+            i = i.replace('/imdb.com/', '/www.imdb.com/')
+            if '/' != i[-1]:
+                i = i + '/'
+            newimdbs.append(i)
         imdbs = newimdbs
         return imdbs
     return []
