@@ -1,0 +1,92 @@
+#!/usr/bin/env python
+
+"""
+Extract IMDB IDs of movies listed as in the public domain on
+www.publicdomainmoves.net.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+
+urlbase = 'http://publicdomainmovies.net/?page=%d'
+#urlbase = 'http://publicdomainmovies.net/cartoons?page=%d'
+#http://publicdomainmovies.net/movie/million-dollar-weekend-0
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def get_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("div.content a[href]"):
+        #print a.attrib['href'], a.attrib['href'].find("imdb")
+        if -1 != a.attrib['href'].find("imdb.com"):
+            imdburl = a.attrib['href']
+            imdburl = imdburl.replace('/imdb.com/', '/www.imdb.com/')
+            imdburl = imdburl.replace('/us.imdb.com/', '/www.imdb.com/')
+            imdburl = imdburl.replace('/plotsummary', '/')
+            imdburl = imdburl.split('?')[0]
+            #print imdburl
+            return imdburl
+    print("Unable to find IMDB id for %s" % entryurl)
+    return entryurl
+
+def get_last_page():
+    summaryurl = urlbase % 1
+    try:
+        root = lxml.html.fromstring(http_get_read(summaryurl))
+    except urllib2.HTTPError as e:
+        return None
+    lastref = root.cssselect("ul li.pager-last a")
+    if lastref:
+        last = lastref[0].attrib['href'].replace('/home?page=', '')
+        return int(last)
+    
+def get_movie_list(l, page=1):
+    summaryurl = urlbase % page
+    print summaryurl
+    try:
+        root = lxml.html.fromstring(http_get_read(summaryurl))
+    except urllib2.HTTPError as e:
+        return "n/a"
+    count = 0
+    for div in root.cssselect("div.view-content div.cover"):
+        a = div.cssselect("a")[0]
+        title = div.cssselect("div.info b")[0].text_content()
+        if -1 != a.attrib['href'].find("/movie/"):
+            entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
+            e = get_movie_info(entryurl)
+            if e:
+                l[e] = {
+                    'status' : 'free',
+                    'freenessurl' : entryurl,
+                    'title' : title,
+                }
+                count = count + 1
+    return count
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-publicdomainmovies.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+l = {}
+page = 1
+lastpage = get_last_page()
+while 0 < get_movie_list(l, page=page):
+    page = page + 1
+    if page > lastpage:
+        break
+savelist(l)
