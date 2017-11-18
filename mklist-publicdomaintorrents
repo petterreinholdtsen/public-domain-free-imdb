@@ -29,6 +29,8 @@ def get_movie_info(entryurl):
         if -1 != a.attrib['href'].find("imdb.com"):
             imdburl = a.attrib['href']
             imdburl = imdburl.replace('/imdb.com/', '/www.imdb.com/')
+            if '/' != imdburl[-1]:
+                imdburl = imdburl + '/'
             #print imdburl
             return imdburl
     print("Unable to find IMDB id for %s" % entryurl)
