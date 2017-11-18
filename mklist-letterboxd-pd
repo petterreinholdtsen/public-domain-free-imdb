@@ -1,0 +1,77 @@
+#!/usr/bin/env python
+
+"""
+Extract IMDB IDs of public domain movies listed on LetterBoxd.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+
+urlbases = [
+    # Films in The Public Domain
+    "https://letterboxd.com/graemehalifax/list/the-public-domain/detail/page/%d/",
+    # Films of The Internet Archive - Silent Hall of Fame here:
+    "https://letterboxd.com/loureviews/list/internet-archive-silent-films/detail/page/%d/",
+]
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-letterboxd-pd.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def get_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("span.film-ext-links a[data-track-action=IMDb]"):
+        if -1 != a.attrib['href'].find("imdb.com"):
+            imdburl = a.attrib['href']
+            imdburl = imdburl.replace('/maindetails', '/')
+            return imdburl
+    print("Unable to find IMDB id for %s" % entryurl)
+    return entryurl
+
+def get_movie_list(l, urlbase, page=1):
+    summaryurl = urlbase % page
+    print summaryurl
+    try:
+        root = lxml.html.fromstring(http_get_read(summaryurl))
+    except urllib2.HTTPError as e:
+        return "n/a"
+    count = 0
+    for div in root.cssselect("ul.film-details-list li.film-detail"):
+        title = div.cssselect("h2 a")[0].text_content()
+        year = div.cssselect("h2 a")[1].text_content()
+        entryurl = urlparse.urljoin(summaryurl,
+                                    div.cssselect("h2 a")[0].attrib['href'])
+        e = get_movie_info(entryurl)
+        if e:
+            l[e] = {
+                'status' : 'free',
+                'freenessurl' : entryurl,
+                'title' : title,
+                'year' : year,
+            }
+            count = count + 1
+    return count
+
+l = {}
+for urlbase in urlbases:
+    page = 1
+    while 0 < get_movie_list(l, urlbase=urlbase, page=page):
+        page = page + 1
+savelist(l)
