@@ -31,8 +31,12 @@ def get_movie_info(entryurl):
             imdburl = a.attrib['href']
             imdburl = imdburl.replace('/imdb.com/', '/www.imdb.com/')
             imdburl = imdburl.replace('/us.imdb.com/', '/www.imdb.com/')
-            imdburl = imdburl.replace('/plotsummary', '/')
             imdburl = imdburl.split('?')[0]
+            imdburl = imdburl.replace('/plotsummary', '/')
+            imdburl = imdburl.replace('/combined', '/')
+            imdburl = imdburl.replace('/fullcredits', '/')
+            if '/' != imdburl[-1]:
+                imdburl = imdburl + '/'
             #print imdburl
             return imdburl
     print("Unable to find IMDB id for %s" % entryurl)
