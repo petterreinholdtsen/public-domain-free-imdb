@@ -43,7 +43,7 @@ for file in sorted(s.keys()):
     for imdburl in m.keys():
         if m[imdburl] == [file]:
             unique = unique + 1
-    print("%5d entries (%5d unique) with and %5d without IMDB title ID in %s."
+    print("%5d entries (%5d unique) with and %5d without IMDB title ID in %s"
           % (s[file]['imdb'], unique, s[file]['noimdb'], file))
     if args.list_unique:
         for imdburl in sorted(m.keys()):
