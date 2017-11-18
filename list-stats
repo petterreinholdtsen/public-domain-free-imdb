@@ -56,6 +56,7 @@ for file in sorted(s.keys()):
                     t = i[imdburl]['title']
                 else:
                     t = ""
-                print("        %s %4s %s" % (imdburl, y, t))
+                msg = "        %s %4s %s" % (imdburl, y, t)
+                print(msg.encode('utf-8'))
 
 print("%5d unique IMDB title IDs in total" % len(m.keys()))
