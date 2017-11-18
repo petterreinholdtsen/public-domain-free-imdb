@@ -1,0 +1,104 @@
+#!/usr/bin/env python
+
+"""
+Extract IMDB IDs for films listed on the Public Domain Review,
+using the wikidata IMDB->archive.org map to look up IMDB IDs.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+import re
+
+urlbase = 'http://publicdomainreview.org/collections/page/%d/?medium=film'
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-publicdomainreview.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def get_movie_iaurl(entryurl):
+    try:
+        root = lxml.html.fromstring(http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("td a"):
+        if -1 != a.attrib['href'].find("archive.org/details/"):
+            iaurl = a.attrib['href']
+            return iaurl
+    print("Unable to find IMDB id for %s" % entryurl)
+    return entryurl
+
+def map2imdb(iaurl):
+    global wplist
+    for wpimdb in wplist.keys():
+        if wplist[wpimdb]['freenessurl'] == iaurl:
+            print "MATCH: ", wpimdb
+            return wpimdb
+    return None
+
+def get_movie_list(l, urlbase, page=1):
+    summaryurl = urlbase % page
+    print summaryurl
+    try:
+        root = lxml.html.fromstring(http_get_read(summaryurl))
+    except urllib2.HTTPError as e:
+        return 0
+    count = 0
+    for div in root.cssselect("article.medium-film"):
+        titleyear = div.cssselect("h2.entry-title a")[0].text_content()
+        m = re.search('^(.+)\s*\((\d+)\)$', titleyear)
+        if m:
+            title = m.group(1)
+            year = m.group(2)
+        else:
+            title = titleyear
+            year = None
+        entryurl = urlparse.urljoin(summaryurl,
+                                    div.cssselect("h2.entry-title a")[0].attrib['href'])
+        iaurl = get_movie_iaurl(entryurl)
+        imdburl = map2imdb(iaurl)
+        if imdburl:
+            e = imdburl
+        else:
+            e = entryurl
+        if e:
+            l[e] = {
+                'status' : 'free',
+                'freenessurl' : entryurl,
+                'title' : title,
+            }
+            if iaurl:
+                l[e]['archive'] = iaurl
+            if year:
+                l[e]['year'] = int(year)
+            print l[e]
+            count = count + 1
+    return count
+
+def loadlist():
+    try:
+        with open('free-movies-archive-org-wikidata.json', 'rt') as input:
+            return json.load(input)
+    except IOError as e:
+        return {}
+
+wplist = loadlist()
+
+l = {}
+page = 1
+while 0 < get_movie_list(l, urlbase=urlbase, page=page):
+    page = page + 1
+savelist(l)
