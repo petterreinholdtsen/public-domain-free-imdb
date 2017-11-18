@@ -80,14 +80,14 @@ def fetch_movie_status(s, badref):
 
 def loadlist():
     try:
-        with open('free-movies-archive-org.json', 'rt') as input:
+        with open('free-movies-archive-org-wikidata.json', 'rt') as input:
             return json.load(input)
     except IOError as e:
         return {}
 
 def savelist(l, name = None):
     if not name:
-        name = 'free-movies-archive-org.json'
+        name = 'free-movies-archive-org-wikidata.json'
     with open(name, 'wt') as out:
         json.dump(l,
                   out,

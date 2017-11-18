@@ -44,7 +44,7 @@ def locate_imdb_refs(text):
 
 def loadlist():
     try:
-        with open('free-movies-archive-org.json', 'rt') as input:
+        with open('free-movies-archive-org-wikidata.json', 'rt') as input:
             return json.load(input)
     except IOError as e:
         return {}
