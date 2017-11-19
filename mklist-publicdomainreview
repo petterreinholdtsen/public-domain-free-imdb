@@ -38,8 +38,7 @@ def get_movie_iaurl(entryurl):
         if -1 != a.attrib['href'].find("archive.org/details/"):
             iaurl = a.attrib['href']
             return iaurl
-    print("Unable to find IMDB id for %s" % entryurl)
-    return entryurl
+    return None
 
 def map2imdb(iaurl):
     global wplist
@@ -61,7 +60,7 @@ def get_movie_list(l, urlbase, page=1):
         titleyear = div.cssselect("h2.entry-title a")[0].text_content()
         m = re.search('^(.+)\s*\((\d+)\)$', titleyear)
         if m:
-            title = m.group(1)
+            title = m.group(1).strip()
             year = m.group(2)
         else:
             title = titleyear
@@ -73,6 +72,7 @@ def get_movie_list(l, urlbase, page=1):
         if imdburl:
             e = imdburl
         else:
+            print("Unable to find IMDB id for %s" % entryurl)
             e = entryurl
         if e:
             l[e] = {
@@ -84,7 +84,7 @@ def get_movie_list(l, urlbase, page=1):
                 l[e]['archive'] = iaurl
             if year:
                 l[e]['year'] = int(year)
-            print l[e]
+            #print l[e]
             count = count + 1
     return count
 
