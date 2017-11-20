@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+"""
+Generate list of all free IMDB entries as CSV.
+"""
+
+import argparse
+import codecs
+import csv
+import json
+import sys
+
+parser = argparse.ArgumentParser()
+parser.add_argument('files', metavar='N', type=str, nargs='*',
+                    default=['free-movies-manual.json'],
+                    help='input file(s)')
+args = parser.parse_args()
+
+keys = ['status', 'year', 'title', 'idurl', 'freenessurl', 'archive',
+        'wp', 'wdurl', 'vodo', 'comment']
+
+completeset = {}
+writer = csv.DictWriter(sys.stdout, keys)
+for file in args.files:
+    with open(file, 'rt', encoding='utf-8') as input:
+        j = json.load(input)
+        for id in j.keys():
+            if not id in completeset:
+                completeset[id] = j[id]
+            else:
+                if j[id]['freenessurl'] != completeset[id]['freenessurl']:
+                    completeset[id]['archive'] = j[id]['freenessurl']
+
+#writer.writerow(keys)
+for id in completeset.keys():
+    if -1 == id.find("/www.imdb.com/title/"):
+        continue
+    if 'free' != completeset[id]['status']:
+        continue
+    completeset[id]['idurl'] = id
+    #print(j[e])
+    writer.writerow(completeset[id])

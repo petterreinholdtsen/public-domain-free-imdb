@@ -21,3 +21,6 @@ histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
 histogram-year.png: histogram-year.data
 	./histogram-year-plot
+
+complete-imdb-list.csv: json2csv free-movies-*.json
+	./json2csv free-movies-*.json > $@
