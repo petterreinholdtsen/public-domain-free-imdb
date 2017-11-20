@@ -21,7 +21,7 @@ def parsepage(l, url):
         root = lxml.html.fromstring(html)
         imdburl = url
         for a in root.cssselect("a"):
-            if -1 != a.attrib['href'].find("imdb.com"):
+            if -1 != a.attrib['href'].find("imdb.com/title/"):
                 imdburl = urlparse.urljoin(url, a.attrib['href'])
                 if '/' != imdburl[-1]:
                     imdburl = imdburl + '/'
@@ -37,7 +37,7 @@ def parsepage(l, url):
         if '' != year:
             l[imdburl]['year'] = int(year)
 
-        print l[imdburl]
+        #print(l[imdburl])
     except urllib2.HTTPError as e:
         pass
     return None
