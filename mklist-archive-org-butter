@@ -49,6 +49,9 @@ def loadlist(l, path):
             for id in n.keys():
                 if not id in l:
                     l[id] = n[id]
+                else:
+                    if n[id]['freenessurl'] != l[id]['freenessurl']:
+                        l[id]['archive'] = n[id]['freenessurl']
     except IOError as e:
         return {}
 
