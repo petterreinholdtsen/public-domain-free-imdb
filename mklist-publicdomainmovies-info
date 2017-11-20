@@ -1,0 +1,77 @@
+#!/usr/bin/env python
+
+"""
+Extract IMDB IDs of movies listed as in the public domain on
+www.publicdomainmoves.info.
+"""
+
+import json
+import lxml.html
+import urllib2
+import urlparse
+
+summaryurl = 'http://publicdomainmovies.info/all-movies/'
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
+    f = opener.open(url)
+    return f.read()
+
+def savelist(l, name = None):
+    if not name:
+        name = 'free-movies-publicdomainmovies-info.json'
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def get_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("div.content a[href]"):
+        #print a.attrib['href'], a.attrib['href'].find("imdb")
+        if -1 != a.attrib['href'].find("imdb.com"):
+            imdburl = a.attrib['href']
+            imdburl = imdburl.replace('/imdb.com/', '/www.imdb.com/')
+            imdburl = imdburl.replace('/us.imdb.com/', '/www.imdb.com/')
+            imdburl = imdburl.split('?')[0]
+            imdburl = imdburl.replace('/plotsummary', '/')
+            imdburl = imdburl.replace('/combined', '/')
+            imdburl = imdburl.replace('/fullcredits', '/')
+            if '/' != imdburl[-1]:
+                imdburl = imdburl + '/'
+            #print imdburl
+            return imdburl
+    print("Unable to find IMDB id for %s" % entryurl)
+    return entryurl
+
+def get_movie_list(l):
+    print summaryurl
+    try:
+        root = lxml.html.fromstring(http_get_read(summaryurl))
+    except urllib2.HTTPError as e:
+        return "n/a"
+    count = 0
+    for a in root.cssselect("ul.wsp-posts-list li.wsp-post a"):
+        title = a.text_content()
+        entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
+        print title, entryurl
+        #e = get_movie_info(entryurl)
+        e = entryurl
+        if e:
+            l[e] = {
+                'status' : 'free',
+                'freenessurl' : entryurl,
+                'title' : title,
+            }
+            count = count + 1
+    return count
+
+l = {}
+get_movie_list(l)
+savelist(l)
