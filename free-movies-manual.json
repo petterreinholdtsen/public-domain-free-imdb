@@ -26,6 +26,12 @@
 	"title" : "Stop Thief!",
 	"year" : 1901
     },
+    "http://www.imdb.com/title/tt1821497/": {
+        "freenessurl": "https://archive.org/details/LaGrenouille",
+        "status": "free",
+        "title": "The Frog",
+        "year": 1908
+    },
     "http://www.imdb.com/title/tt0002199/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/JesusOfNazareth1912",
@@ -87,6 +93,13 @@
 	"title" : "Horse Feathers",
 	"year" : 1932
     },
+    "http://www.imdb.com/title/tt0024054/": {
+	"status" : "free",
+	"freenessurl" :"https://archive.org/details/TheGhostCamera1933",
+	"wp" : "https://en.wikipedia.org/wiki/The_Ghost_Camera",
+	"title": "The Ghost Camera",
+	"year" : 1933
+    },
     "http://www.imdb.com/title/tt0027977/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/ModernTimes_201609",
@@ -107,6 +120,13 @@
 	"wp" : "https://en.wikipedia.org/wiki/1984_(1956_film)",
 	"title" : "1984",
 	"year" : 1956
+    },
+    "http://www.imdb.com/title/tt0077840/" : {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/TheLazarusSyndrome",
+	"wp" : "https://en.wikipedia.org/wiki/The_Lazarus_Syndrome",
+	"title" : "The Lazarus Syndrome",
+	"year" : 1979
     },
     "http://www.imdb.com/title/tt1172203/" : {
 	"status" : "free",
@@ -140,7 +160,7 @@
 	"title" : "Caminandes 2: Gran Dillama",
 	"year" : 2013
     },
-    "http://www.imdb.com/title/unknown/" : {
+    "https://archive.org/details/CaminandesLlamigos" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/CaminandesLlamigos",
 	"wp" : "https://en.wikipedia.org/wiki/Caminandes",
