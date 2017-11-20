@@ -6,7 +6,7 @@ plugin do it, and output the list with IMDB title IDs similar to the
 other list of free movies.
 
 If the search result do not return a IMDB ID, see if the wikidata set
-have such ID and use this one.
+or the manually created data set have such ID and use this one.
 """
 
 import json
@@ -42,10 +42,13 @@ def locate_imdb_refs(text):
         return imdbs
     return []
 
-def loadlist():
+def loadlist(l, path):
     try:
-        with open('free-movies-archive-org-wikidata.json', 'rt') as input:
-            return json.load(input)
+        with open(path, 'rt') as input:
+            n = json.load(input)
+            for id in n.keys():
+                if not id in l:
+                    l[id] = n[id]
     except IOError as e:
         return {}
 
@@ -58,8 +61,10 @@ def savelist(l, name = None):
                   sort_keys=True,
                   indent=4,
                   separators=(',', ': '))
-
-wplist = loadlist()
+wplist = {}
+loadlist(wplist, 'free-movies-archive-org-wikidata.json')
+loadlist(wplist, 'free-movies-manual.json')
+print "C", len(wplist.keys())
 
 l = fetch()
 outlist = {}
@@ -81,8 +86,10 @@ for e in l['response']['docs']:
         fle['year'] = e['year']
     if 0 == len(imdbmap.keys()):
         for wpimdb in wplist.keys():
-            if wplist[wpimdb]['freenessurl'] == freenessurl:
-                imdbmap[wpimdb] = True
+            for field in ['freenessurl', 'archive']:
+                if field in wplist[wpimdb] \
+                   and wplist[wpimdb][field] == freenessurl:
+                    imdbmap[wpimdb] = True
     if 0 == len(imdbmap.keys()):
         imdbmap[freenessurl] = True
     for i in imdbmap.keys():
