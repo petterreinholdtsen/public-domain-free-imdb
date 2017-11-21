@@ -20,6 +20,12 @@
 	"title" : "L'Arrivée d'un train en gare de La Ciotat",
 	"year" : 1895
     },
+    "http://www.imdb.com/title/tt1741509/": {
+        "freenessurl": "https://archive.org/details/1896AugusteLouisLumireChineseSaigon",
+        "status": "free",
+        "title": "Coolies à Saïgon",
+	"year" : 1897
+    },
     "http://www.imdb.com/title/tt0132534/" : {
 	"status" : "free",
 	"freenessurl" :	"https://archive.org/details/filmcollectief-01-677",
@@ -32,12 +38,29 @@
         "title": "The Frog",
         "year": 1908
     },
+    "http://www.imdb.com/title/tt1726032/": {
+        "freenessurl": "https://archive.org/details/LeVoleurInvisible",
+        "status": "free",
+        "title": "Le Voleur Invisible",
+        "year": "1909"
+    },
+    "http://www.imdb.com/title/tt0001544/": {
+        "freenessurl": "https://archive.org/details/AChristmasCarol_201508",
+        "status": "free",
+        "title": "A Christmas Carol",
+	"year" : 1910
+    },
     "http://www.imdb.com/title/tt0002199/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/JesusOfNazareth1912",
 	"wp" : "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross",
 	"title" : "From the Manger to the Cross or Jesus of Nazareth",
 	"year" : 1912
+    },
+    "http://www.imdb.com/title/tt0002133/": {
+	"status": "free",
+        "freenessurl": "https://archive.org/details/ADashThroughTheClouds1912",
+        "title": "A DASH THROUGH THE CLOUDS (1912)"
     },
     "http://www.imdb.com/title/tt0008975/" : {
 	"status" : "free",
@@ -474,6 +497,12 @@
         "status": "free",
         "title": "Everything Unspoken",
         "year": 2004
+    },
+    "https://archive.org/details/101_D_2004": {
+        "freenessurl": "https://archive.org/details/101_D_2004",
+        "status": "non-free",
+        "title": "101 (USA 2004)",
+        "year": "2004"
     },
     "http://www.imdb.com/title/tt2917660/": {
         "freenessurl": "http://vodo.net/cinemanational/ivorybastards/",
@@ -915,9 +944,16 @@
     "http://www.imdb.com/title/tt0012382/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/LeapYear1921",
+        "archive": "https://archive.org/details/LeapYear1921_201312",
 	"wp" : "https://en.wikipedia.org/wiki/Leap_Year_(1924_film)",
 	"title" : "Leap Year",
 	"year" : 1921
+    },
+    "http://www.imdb.com/title/tt0035345/": {
+        "freenessurl": "https://archive.org/details/10SmartAlecks",
+        "status": "free",
+        "title": "Smart Alecks",
+        "year": "1942"
     },
     "http://www.imdb.com/title/tt0151753/" : {
 	"status" : "free",
@@ -931,6 +967,43 @@
 	"wp" : "https://en.wikipedia.org/wiki/Gas_(1944_film)",
 	"title" : "Gas",
 	"year" : 1944
+    },
+    "http://www.imdb.com/title/tt1002767/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/threegirls",
+	"wp" : "https://en.wikipedia.org/wiki/Women_Side_by_Side",
+        "title": "Women Side by Side",
+        "year": "1949"
+    },
+    "http://www.imdb.com/title/tt0054033/": {
+        "freenessurl": "https://archive.org/details/Little_ShopOf_Horrors.avi",
+        "status": "free",
+        "title": "The Little Shop Of Horrors",
+	"year" : 1960
+    },
+    "http://www.imdb.com/title/tt0054668/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/1962TheBrainiacWAbelSalazar",
+        "title": "The Brainiac",
+        "year": "1962"
+    },
+    "http://www.imdb.com/title/tt0251221/": {
+        "freenessurl": "https://archive.org/details/Marijuana_1968",
+        "status": "free",
+        "title": "Marijuana",
+        "year": "1968"
+    },
+    "http://www.imdb.com/title/tt7321928/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/1969WahltADF.mov1450",
+        "title": "W\u00e4hlt ADF",
+        "year": "1969"
+    },
+    "http://www.imdb.com/title/tt7322094/": {
+        "freenessurl": "https://archive.org/details/1971DerSchneSigmar.movStefanKeineZeilenNeuSkaliert2243",
+        "status": "free",
+        "title": "1971 Der Sch\u00f6ne Sigmar (The beautiful Sigmar)",
+        "year": "1970"
     },
     "http://www.imdb.com/title/tt1166827/": {
         "freenessurl": "https://archive.org/details/ZEITGEIST-REMASTERED",
