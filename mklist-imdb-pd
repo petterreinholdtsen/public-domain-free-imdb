@@ -4,6 +4,7 @@
 Extract list of claimed public domain movies listed on imdb.com.
 """
 
+import argparse
 import json
 import lxml.html
 import urllib2
@@ -16,8 +17,6 @@ def get(url):
     return f.read()
 
 def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-imdb-pd.json'
     with open(name, 'wt') as out:
         json.dump(l,
                   out,
@@ -50,9 +49,8 @@ def fetch(entries, urlbase, start = 1):
     return count
 
 urlbases = [
-    # 2088 titles on Public domain
-    # This list contain Psycho II from 1983.  Is it really in the public domain?
-    "http://www.imdb.com/list/ls063670826/?start=%s&view=compact&sort=listorian:asc",
+    # 250 Public Domain Movies
+    "http://www.imdb.com/list/title/ls066150214/?start=%s&view=compact&sort=listorian:asc",
     # 1,089 Titles on Public Domain:
     "http://www.imdb.com/list/ls060673364/?start=%s&view=compact&sort=listorian:asc",
     # Public domain science fiction films in the Internet Archive
@@ -66,7 +64,22 @@ urlbases = [
 
     # Public domain horror films in the Internet Archive
     "http://www.imdb.com/list/ls002037865/?start=%s&view=compact&sort=listorian:asc",
-    ]
+]
+
+urlbases_dubious = [
+    # 2088 titles on Public domain
+    # This list contain Psycho II from 1983.  Is its content really in
+    # the public domain?
+    "http://www.imdb.com/list/ls063670826/?start=%s&view=compact&sort=listorian:asc",
+]
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--dubious-list', action='store_true', default=False)
+parser.add_argument('--output', default='free-movies-imdb-pd.json')
+args = parser.parse_args()
+print args
+if args.dubious_list:
+    urlbases = urlbases_dubious
 
 pagesize = 250
 entries = {}
@@ -74,4 +87,4 @@ for urlbase in urlbases:
     start = 1
     while 0 < fetch(entries, urlbase, start):
         start = start + pagesize
-savelist(entries)
+savelist(entries, name=args.output)
