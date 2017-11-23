@@ -60,7 +60,20 @@
     "http://www.imdb.com/title/tt0002133/": {
 	"status": "free",
         "freenessurl": "https://archive.org/details/ADashThroughTheClouds1912",
-        "title": "A DASH THROUGH THE CLOUDS (1912)"
+        "title": "A Dash Through The Clouds",
+	"year" : 1912
+    },
+    "http://www.imdb.com/title/tt0003417/": {
+        "freenessurl": "https://archive.org/details/AStrongRevenge1914",
+        "status": "free",
+        "title": "A Strong Revenge",
+	"year" : 1913
+    },
+    "http://www.imdb.com/title/tt0002663/": {
+        "freenessurl": "https://archive.org/details/BarneyOldfieldsRaceForALife1913_201403",
+        "status": "free",
+        "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett",
+	"year" : 1913
     },
     "http://www.imdb.com/title/tt0008975/" : {
 	"status" : "free",
@@ -89,6 +102,18 @@
 	"wp" : "https://en.wikipedia.org/wiki/The_Gold_Rush",
 	"title" : "The Gold Rush",
 	"year" : 1925
+    },
+    "http://www.imdb.com/title/tt0228425/": {
+        "freenessurl": "https://archive.org/details/ATripToThePlanets-SilentWithAddedSound",
+        "status": "free",
+        "title": "A Trip To The Planets - silent with added sound",
+	"year" : 1925
+    },
+    "http://www.imdb.com/title/tt0014664/": {
+        "freenessurl": "https://archive.org/details/AlicesSpookyAdventure",
+        "status": "free",
+        "title": "Alice's Spooky Adventure",
+	"year" : 1924
     },
     "http://www.imdb.com/title/tt0018578/" : {
 	"status" : "free",
@@ -130,12 +155,30 @@
 	"title" : "Modern Time",
 	"year" : 1936
     },
+    "http://www.imdb.com/title/tt0027366/": {
+        "freenessurl": "https://archive.org/details/Black_Gold",
+        "status": "free",
+        "title": "Black Gold",
+        "year": "1936"
+    },
     "http://www.imdb.com/title/tt0031971/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/Stagecoach1939 ",
 	"wp" : "https://en.wikipedia.org/wiki/Stagecoach_(1939_film)",
 	"title" : "Stagecoach",
 	"year" : "1939"
+    },
+    "http://www.imdb.com/title/tt0394561/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/HillNumberOne",
+	"title" : "Hill Number One: A Story of Faith and Inspiration",
+	"year" : 1951
+    },
+    "http://www.imdb.com/title/tt5172084/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/TheRealMissAmerica",
+	"title" : "The Real Miss America",
+	"year" : 1952
     },
     "http://www.imdb.com/title/tt0048918/": {
 	"status" : "free",
@@ -619,6 +662,14 @@
         "title": "Lest We Forget",
         "year": 2009
     },
+    "http://www.imdb.com/title/tt4479976/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/FreddysReturnANightmareReborn",
+        "A Nightmare on Elm Street": "http://nightmareonelmstreetmovie.com/freddy%E2%80%99s-return-nightmare-reborn",
+        "Official Website": "http://www.anightmarereborn.com/",
+	"title" : "Freddy's Return: A Nightmare Reborn",
+	"year" : 2009
+    },
     "http://www.imdb.com/title/tt1636631/": {
         "freenessurl": "http://vodo.net/twisty-headed-man-company/tenementghost/",
         "status": "free",
@@ -787,6 +838,13 @@
         "title": "LINK",
         "year": 2011
     },
+    "http://www.imdb.com/title/tt1783305/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/InsignificantCelluloid",
+        "Official site": "http://www.monumentalpictures.com/insignificantcelluloid.html",
+	"title" : "Insignificant Celluloid",
+	"year" : 2011
+    },
     "http://www.imdb.com/title/tt2390333/": {
         "freenessurl": "http://vodo.net/willdelphia/tejidxs/",
         "status": "free",
@@ -949,6 +1007,12 @@
 	"title" : "Leap Year",
 	"year" : 1921
     },
+    "http://www.imdb.com/title/tt0497710/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/always_tomorrow",
+	"title" : "Always Tomorrow: The Portrait of an American Business",
+	"year" : 1941
+    },
     "http://www.imdb.com/title/tt0035345/": {
         "freenessurl": "https://archive.org/details/10SmartAlecks",
         "status": "free",
@@ -968,6 +1032,12 @@
 	"title" : "Gas",
 	"year" : 1944
     },
+    "http://www.imdb.com/title/tt0041187/": {
+        "freenessurl": "https://archive.org/details/BlondeIce1948",
+        "status": "free",
+        "title": "Blonde Ice (1948)",
+	"year" : 1948
+    },
     "http://www.imdb.com/title/tt1002767/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/threegirls",
@@ -980,6 +1050,12 @@
         "status": "free",
         "title": "The Little Shop Of Horrors",
 	"year" : 1960
+    },
+    "http://www.imdb.com/title/tt0334422/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/StopDriv1959",
+	"title" : "Stop Driving Us Crazy",
+	"year" : 1961
     },
     "http://www.imdb.com/title/tt0054668/": {
         "status": "free",
