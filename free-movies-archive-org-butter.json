@@ -15,6 +15,16 @@
         "status": "free",
         "title": "A DASH THROUGH THE CLOUDS (1912)"
     },
+    "http://www.imdb.com/title/tt0002663/": {
+        "freenessurl": "https://archive.org/details/BarneyOldfieldsRaceForALife1913_201403",
+        "status": "free",
+        "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett"
+    },
+    "http://www.imdb.com/title/tt0003417/": {
+        "freenessurl": "https://archive.org/details/AStrongRevenge1914",
+        "status": "free",
+        "title": "A STRONG REVENGE (1913)"
+    },
     "http://www.imdb.com/title/tt0004972/": {
         "freenessurl": "https://archive.org/details/dw_griffith_birth_of_a_nation",
         "status": "free",
@@ -68,6 +78,11 @@
         "freenessurl": "https://archive.org/details/LeapYear1921",
         "status": "free",
         "title": "LEAP YEAR (1921) -- Roscoe Arbuckle; dir. by James Cruze"
+    },
+    "http://www.imdb.com/title/tt0014664/": {
+        "freenessurl": "https://archive.org/details/AlicesSpookyAdventure",
+        "status": "free",
+        "title": "Alice's Spooky Adventure"
     },
     "http://www.imdb.com/title/tt0015400/": {
         "freenessurl": "https://archive.org/details/ThiefOfBagdad1924",
@@ -348,6 +363,12 @@
         "freenessurl": "https://archive.org/details/ambush_valley",
         "status": "free",
         "title": "Ambush Valley",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027366/": {
+        "freenessurl": "https://archive.org/details/Black_Gold",
+        "status": "free",
+        "title": "Black Gold",
         "year": "1936"
     },
     "http://www.imdb.com/title/tt0027384/": {
@@ -925,6 +946,11 @@
         "title": "My Dear Secretary",
         "year": "1949"
     },
+    "http://www.imdb.com/title/tt0041187/": {
+        "freenessurl": "https://archive.org/details/BlondeIce1948",
+        "status": "free",
+        "title": "Blonde Ice (1948)"
+    },
     "http://www.imdb.com/title/tt0042367/": {
         "freenessurl": "https://archive.org/details/Cyrano_DeBergerac",
         "status": "free",
@@ -1434,6 +1460,11 @@
         "status": "free",
         "title": "Tomorrow's Children (1934) - American Forced Sterilization - Public Domain"
     },
+    "http://www.imdb.com/title/tt0228425/": {
+        "freenessurl": "https://archive.org/details/ATripToThePlanets-SilentWithAddedSound",
+        "status": "free",
+        "title": "A Trip To The Planets - silent with added sound"
+    },
     "http://www.imdb.com/title/tt0230832/": {
         "freenessurl": "https://archive.org/details/Attack_From_Space",
         "status": "free",
@@ -1564,6 +1595,12 @@
         "status": "free",
         "title": "1896 Auguste & Louis Lumi\u00e8re Chinese \u00c0 Saigon"
     },
+    "http://www.imdb.com/title/tt4479976/": {
+        "freenessurl": "https://archive.org/details/FreddysReturnANightmareReborn",
+        "status": "free",
+        "title": "Freddy's Return: A Nightmare Reborn",
+        "year": "2009"
+    },
     "http://www.imdb.com/title/tt7321928/": {
         "freenessurl": "https://archive.org/details/1969WahltADF.mov1450",
         "status": "free",
@@ -1611,16 +1648,6 @@
         "title": "AMIGA DPAINT ANIMS",
         "year": "1988"
     },
-    "https://archive.org/details/AStrongRevenge1914": {
-        "freenessurl": "https://archive.org/details/AStrongRevenge1914",
-        "status": "free",
-        "title": "A STRONG REVENGE (1913)"
-    },
-    "https://archive.org/details/ATripToThePlanets-SilentWithAddedSound": {
-        "freenessurl": "https://archive.org/details/ATripToThePlanets-SilentWithAddedSound",
-        "status": "free",
-        "title": "A Trip To The Planets - silent with added sound"
-    },
     "https://archive.org/details/AWeddingParty": {
         "freenessurl": "https://archive.org/details/AWeddingParty",
         "status": "free",
@@ -1649,11 +1676,6 @@
         "title": "Alanta Zoo - Atlanta Georgia (June 2007)",
         "year": "2007"
     },
-    "https://archive.org/details/AlicesSpookyAdventure": {
-        "freenessurl": "https://archive.org/details/AlicesSpookyAdventure",
-        "status": "free",
-        "title": "Alice's Spooky Adventure"
-    },
     "https://archive.org/details/Are_You_Ready_2004": {
         "freenessurl": "https://archive.org/details/Are_You_Ready_2004",
         "status": "free",
@@ -1671,26 +1693,10 @@
         "status": "free",
         "title": "Auguste & Louis Lumi\u00e8re D\u00e9molition D'un Mur ( 1896) Xvid"
     },
-    "https://archive.org/details/BarneyOldfieldsRaceForALife1913_201403": {
-        "freenessurl": "https://archive.org/details/BarneyOldfieldsRaceForALife1913_201403",
-        "status": "free",
-        "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett"
-    },
     "https://archive.org/details/BelaLugosi-Rare1955Interview": {
         "freenessurl": "https://archive.org/details/BelaLugosi-Rare1955Interview",
         "status": "free",
         "title": "Bela Lugosi - rare 1955 interview"
-    },
-    "https://archive.org/details/Black_Gold": {
-        "freenessurl": "https://archive.org/details/Black_Gold",
-        "status": "free",
-        "title": "Black Gold",
-        "year": "1936"
-    },
-    "https://archive.org/details/BlondeIce1948": {
-        "freenessurl": "https://archive.org/details/BlondeIce1948",
-        "status": "free",
-        "title": "Blonde Ice (1948)"
     },
     "https://archive.org/details/BlondeSavage": {
         "freenessurl": "https://archive.org/details/BlondeSavage",
@@ -1894,12 +1900,6 @@
         "freenessurl": "https://archive.org/details/Flames_140",
         "status": "free",
         "title": "Flames"
-    },
-    "https://archive.org/details/FreddysReturnANightmareReborn": {
-        "freenessurl": "https://archive.org/details/FreddysReturnANightmareReborn",
-        "status": "free",
-        "title": "Freddy's Return: A Nightmare Reborn",
-        "year": "2009"
     },
     "https://archive.org/details/FrontierScout": {
         "freenessurl": "https://archive.org/details/FrontierScout",
