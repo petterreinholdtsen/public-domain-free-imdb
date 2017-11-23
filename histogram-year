@@ -18,7 +18,7 @@ def load(h, l, path, verbose=False):
                  continue
 	     if 0 > imdburl.find("imdb.com"):
 	         continue
-             if 'free' != j[imdburl]['status']:
+             if 'status' not in j[imdburl] or 'free' != j[imdburl]['status']:
                  continue
              if 'year' not in j[imdburl]:
                  year = 'n/a'
