@@ -78,7 +78,7 @@ def get_movie_list(l, page=1):
 
 def savelist(l, name = None):
     if not name:
-        name = 'free-movies-publicdomainmovies.json'
+        name = 'free-movies-publicdomainmovies-net.json'
     with open(name, 'wt') as out:
         json.dump(l,
                   out,

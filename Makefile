@@ -11,7 +11,7 @@ listupdate:
 	./mklist-imdb-pd --dubious-list --output free-movies-imdb-dubious.json
 	./mklist-archive-org-butter
 	./mklist-icheckmovies-archive-mochard
-	./mklist-publicdomainmovies
+	./mklist-publicdomainmovies-net
 	./mklist-publicdomainreview
 
 # See http://countwordsworth.com/blog/dale-chall-easy-word-list-text-file/
