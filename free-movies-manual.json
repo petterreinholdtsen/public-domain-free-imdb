@@ -20,6 +20,13 @@
 	"title" : "L'Arrivée d'un train en gare de La Ciotat",
 	"year" : 1895
     },
+    "http://www.imdb.com/title/tt0000070/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/AugusteLouisLumiereDemolitionDunMur1896Xvid",
+	"wp" : "https://en.wikipedia.org/wiki/D%C3%A9molition_d%27un_mur",
+        "title": "Auguste & Louis Lumi\u00e8re D\u00e9molition D'un Mur",
+	"year" : 1896
+    },
     "http://www.imdb.com/title/tt1741509/": {
         "freenessurl": "https://archive.org/details/1896AugusteLouisLumireChineseSaigon",
         "status": "free",
@@ -31,6 +38,12 @@
 	"freenessurl" :	"https://archive.org/details/filmcollectief-01-677",
 	"title" : "Stop Thief!",
 	"year" : 1901
+    },
+    "http://www.imdb.com/title/tt0222874/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/TheInfernalCake-walk1903",
+        "title": "The Cake-Walk Infernal",
+        "year": 1903
     },
     "http://www.imdb.com/title/tt1821497/": {
         "freenessurl": "https://archive.org/details/LaGrenouille",
@@ -133,6 +146,13 @@
 	"status" : "free?",
 	"title" : "The Circus",
 	"year" : 1928
+    },
+    "http://www.imdb.com/title/tt0021576/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/A_propos_de_Nice",
+	"wp" : "https://en.wikipedia.org/wiki/%C3%80_propos_de_Nice",
+        "title": "A propos de Nice",
+        "year": "1930"
     },
     "http://www.imdb.com/title/tt0023027/" : {
 	"status" : "free",
