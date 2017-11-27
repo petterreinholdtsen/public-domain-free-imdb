@@ -13,6 +13,9 @@ listupdate:
 	./mklist-icheckmovies-archive-mochard
 	./mklist-publicdomainmovies-net
 	./mklist-publicdomainreview
+	./mklist-letterboxd-pd
+	./mklist-letterboxd-pd --baseurl=https://letterboxd.com/loureviews/list/internet-archive-silent-films --output=free-movies-letterboxd-silent.json
+	./mklist-letterboxd-pd --baseurl=https://letterboxd.com/robot2xl/list/looney-tunes-in-the-public-domain/ --output=free-movies-letterboxd-looney-tunes.json
 
 # See http://countwordsworth.com/blog/dale-chall-easy-word-list-text-file/
 DaleChallEasyWordList.txt:
