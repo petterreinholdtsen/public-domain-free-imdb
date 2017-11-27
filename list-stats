@@ -24,6 +24,8 @@ for file in args.files:
         imdb = 0
         noimdb = 0
         for e in l:
+            if not dict is type(l[e]): # Ignore comment entries
+                continue
             if 'status' in l[e] and "free" == l[e]['status']:
                if -1 != e.find('/www.imdb.com/title/'):
                   imdb = imdb + 1
