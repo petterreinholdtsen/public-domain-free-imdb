@@ -1,0 +1,950 @@
+{
+    "http://www.imdb.com/title/tt0019714/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-the-talk-ink-kid/",
+        "status": "free",
+        "title": "Bosko the Talk-Ink Kid",
+        "year": "1929"
+    },
+    "http://www.imdb.com/title/tt0020699/": {
+        "freenessurl": "https://letterboxd.com/film/the-booze-hangs-high/",
+        "status": "free",
+        "title": "The Booze Hangs High",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0020705/": {
+        "freenessurl": "https://letterboxd.com/film/box-car-blues/",
+        "status": "free",
+        "title": "Box Car Blues",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0020784/": {
+        "freenessurl": "https://letterboxd.com/film/congo-jazz/",
+        "status": "free",
+        "title": "Congo Jazz",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0020983/": {
+        "freenessurl": "https://letterboxd.com/film/hold-anything/",
+        "status": "free",
+        "title": "Hold Anything",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0021380/": {
+        "freenessurl": "https://letterboxd.com/film/sinkin-in-the-bathtub/",
+        "status": "free",
+        "title": "Sinkin' in the Bathtub",
+        "year": "1930"
+    },
+    "http://www.imdb.com/title/tt0021590/": {
+        "freenessurl": "https://letterboxd.com/film/aint-nature-grand/",
+        "status": "free",
+        "title": "Ain't Nature Grand!",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021660/": {
+        "freenessurl": "https://letterboxd.com/film/big-man-from-the-north/",
+        "status": "free",
+        "title": "Big Man from the North",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021685/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-shipwrecked/",
+        "status": "free",
+        "title": "Bosko Shipwrecked!",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021686/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-and-honey/",
+        "status": "free",
+        "title": "Bosko and Honey",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0021687/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-the-doughboy/",
+        "status": "free",
+        "title": "Bosko the Doughboy",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021688/": {
+        "freenessurl": "https://letterboxd.com/film/boskos-fox-hunt/",
+        "status": "free",
+        "title": "Bosko's Fox Hunt",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021689/": {
+        "freenessurl": "https://letterboxd.com/film/boskos-holiday/",
+        "status": "free",
+        "title": "Bosko's Holiday",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021690/": {
+        "freenessurl": "https://letterboxd.com/film/boskos-soda-fountain/",
+        "status": "free",
+        "title": "Bosko's Soda Fountain",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0021964/": {
+        "freenessurl": "https://letterboxd.com/film/hittin-the-trail-for-hallelujah-land/",
+        "status": "free",
+        "title": "Hittin' the Trail for Hallelujah Land",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022045/": {
+        "freenessurl": "https://letterboxd.com/film/lady-play-your-mandolin/",
+        "status": "free",
+        "title": "Lady, Play Your Mandolin!",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022231/": {
+        "freenessurl": "https://letterboxd.com/film/one-more-time-1931/",
+        "status": "free",
+        "title": "One More Time",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022300/": {
+        "freenessurl": "https://letterboxd.com/film/red-headed-baby/",
+        "status": "free",
+        "title": "Red-Headed Baby",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022405/": {
+        "freenessurl": "https://letterboxd.com/film/smile-darn-ya-smile/",
+        "status": "free",
+        "title": "Smile, Darn Ya, Smile!",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022506/": {
+        "freenessurl": "https://letterboxd.com/film/the-trees-knees/",
+        "status": "free",
+        "title": "The Tree's Knees",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022528/": {
+        "freenessurl": "https://letterboxd.com/film/ups-n-downs/",
+        "status": "free",
+        "title": "Ups 'n Downs",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022584/": {
+        "freenessurl": "https://letterboxd.com/film/yodeling-yokels/",
+        "status": "free",
+        "title": "Yodeling Yokels",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022587/": {
+        "freenessurl": "https://letterboxd.com/film/you-dont-know-what-youre-doin/",
+        "status": "free",
+        "title": "You Don't Know What You're Doin'!",
+        "year": "1931"
+    },
+    "http://www.imdb.com/title/tt0022657/": {
+        "freenessurl": "https://letterboxd.com/film/battling-bosko/",
+        "status": "free",
+        "title": "Battling Bosko",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022679/": {
+        "freenessurl": "https://letterboxd.com/film/big-hearted-bosko/",
+        "status": "free",
+        "title": "Big-Hearted Bosko",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022707/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-and-bruno/",
+        "status": "free",
+        "title": "Bosko and Bruno",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022708/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-at-the-beach/",
+        "status": "free",
+        "title": "Bosko at the Beach",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022709/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-at-the-zoo/",
+        "status": "free",
+        "title": "Bosko at the Zoo",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022711/": {
+        "freenessurl": "https://letterboxd.com/film/bosko-the-lumberjack/",
+        "status": "free",
+        "title": "Bosko the Lumberjack",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022713/": {
+        "freenessurl": "https://letterboxd.com/film/boskos-dog-race/",
+        "status": "free",
+        "title": "Bosko's Dog Race",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022714/": {
+        "freenessurl": "https://letterboxd.com/film/boskos-party/",
+        "status": "free",
+        "title": "Bosko's Party",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022715/": {
+        "freenessurl": "https://letterboxd.com/film/boskos-store/",
+        "status": "free",
+        "title": "Bosko's Store",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022790/": {
+        "freenessurl": "https://letterboxd.com/film/crosby-columbo-and-vallee/",
+        "status": "free",
+        "title": "Crosby, Columbo, and Vallee",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022914/": {
+        "freenessurl": "https://letterboxd.com/film/freddy-the-freshman/",
+        "status": "free",
+        "title": "Freddy the Freshman",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022956/": {
+        "freenessurl": "https://letterboxd.com/film/goopy-geer/",
+        "status": "free",
+        "title": "Goopy Geer",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022960/": {
+        "freenessurl": "https://letterboxd.com/film/a-great-big-bunch-of-you/",
+        "status": "free",
+        "title": "A Great Big Bunch of You",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023043/": {
+        "freenessurl": "https://letterboxd.com/film/i-love-a-parade/",
+        "status": "free",
+        "title": "I Love a Parade",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023044/": {
+        "freenessurl": "https://letterboxd.com/film/i-wish-i-had-wings/",
+        "status": "free",
+        "title": "I Wish I Had Wings",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023067/": {
+        "freenessurl": "https://letterboxd.com/film/its-got-me-again/",
+        "status": "free",
+        "title": "It's Got Me Again!",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023237/": {
+        "freenessurl": "https://letterboxd.com/film/moonlight-for-two/",
+        "status": "free",
+        "title": "Moonlight for Two",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023313/": {
+        "freenessurl": "https://letterboxd.com/film/pagan-moon/",
+        "status": "free",
+        "title": "Pagan Moon",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023364/": {
+        "freenessurl": "https://letterboxd.com/film/the-queen-was-in-the-parlor/",
+        "status": "free",
+        "title": "The Queen Was in the Parlor",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023591/": {
+        "freenessurl": "https://letterboxd.com/film/threes-a-crowd-1932/",
+        "status": "free",
+        "title": "Three's a Crowd",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023718/": {
+        "freenessurl": "https://letterboxd.com/film/youre-too-careless-with-your-kisses/",
+        "status": "free",
+        "title": "You're Too Careless with Your Kisses!",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0024547/": {
+        "freenessurl": "https://letterboxd.com/film/the-shanty-where-santy-claus-lives/",
+        "status": "free",
+        "title": "The Shanty Where Santy Claus Lives",
+        "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0026481/": {
+        "freenessurl": "https://letterboxd.com/film/hollywood-capers/",
+        "status": "free",
+        "title": "Hollywood Capers",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0027381/": {
+        "freenessurl": "https://letterboxd.com/film/boom-boom/",
+        "status": "free",
+        "title": "Boom Boom",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028492/": {
+        "freenessurl": "https://letterboxd.com/film/westward-whoa-1936/",
+        "status": "free",
+        "title": "Westward Whoa",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0028925/": {
+        "freenessurl": "https://letterboxd.com/film/get-rich-quick-porky/",
+        "status": "free",
+        "title": "Get Rich Quick Porky",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029040/": {
+        "freenessurl": "https://letterboxd.com/film/i-wanna-be-a-sailor/",
+        "status": "free",
+        "title": "I Wanna Be a Sailor",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029427/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-garden/",
+        "status": "free",
+        "title": "Porky's Garden",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029429/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-railroad/",
+        "status": "free",
+        "title": "Porky's Railroad",
+        "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0030215/": {
+        "freenessurl": "https://letterboxd.com/film/have-you-got-any-castles/",
+        "status": "free",
+        "title": "Have You Got Any Castles?",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0030300/": {
+        "freenessurl": "https://letterboxd.com/film/jungle-jitters/",
+        "status": "free",
+        "title": "Jungle Jitters",
+        "year": "1938"
+    },
+    "http://www.imdb.com/title/tt0031083/": {
+        "freenessurl": "https://letterboxd.com/film/bars-and-stripes-forever/",
+        "status": "free",
+        "title": "Bars and Stripes Forever",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031202/": {
+        "freenessurl": "https://letterboxd.com/film/daffy-duck-and-the-dinosaur/",
+        "status": "free",
+        "title": "Daffy Duck and the Dinosaur",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031213/": {
+        "freenessurl": "https://letterboxd.com/film/a-day-at-the-zoo/",
+        "status": "free",
+        "title": "A Day at the Zoo",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031376/": {
+        "freenessurl": "https://letterboxd.com/film/gold-rush-daze/",
+        "status": "free",
+        "title": "Gold Rush Daze",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031401/": {
+        "freenessurl": "https://letterboxd.com/film/hamateur-night/",
+        "status": "free",
+        "title": "Hamateur Night",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031822/": {
+        "freenessurl": "https://letterboxd.com/film/prest-o-change-o/",
+        "status": "free",
+        "title": "Prest-O Change-O",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0031869/": {
+        "freenessurl": "https://letterboxd.com/film/robin-hood-makes-good/",
+        "status": "free",
+        "title": "Robin Hood Makes Good",
+        "year": "1939"
+    },
+    "http://www.imdb.com/title/tt0032190/": {
+        "freenessurl": "https://letterboxd.com/film/ali-baba-bound/",
+        "status": "free",
+        "title": "Ali-Baba Bound",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0032426/": {
+        "freenessurl": "https://letterboxd.com/film/the-early-worm-gets-the-bird/",
+        "status": "free",
+        "title": "The Early Worm Gets the Bird",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0033166/": {
+        "freenessurl": "https://letterboxd.com/film/the-timid-toreador/",
+        "status": "free",
+        "title": "The Timid Toreador",
+        "year": "1940"
+    },
+    "http://www.imdb.com/title/tt0033324/": {
+        "freenessurl": "https://letterboxd.com/film/all-this-and-rabbit-stew/",
+        "status": "free",
+        "title": "All This and Rabbit Stew",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033496/": {
+        "freenessurl": "https://letterboxd.com/film/a-coy-decoy/",
+        "status": "free",
+        "title": "A Coy Decoy",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033589/": {
+        "freenessurl": "https://letterboxd.com/film/farm-frolics/",
+        "status": "free",
+        "title": "Farm Frolics",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033707/": {
+        "freenessurl": "https://letterboxd.com/film/the-henpecked-duck/",
+        "status": "free",
+        "title": "The Henpecked Duck",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033724/": {
+        "freenessurl": "https://letterboxd.com/film/hollywood-steps-out/",
+        "status": "free",
+        "title": "Hollywood Steps Out",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033773/": {
+        "freenessurl": "https://letterboxd.com/film/joe-glow-the-firefly/",
+        "status": "free",
+        "title": "Joe Glow, the Firefly",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033892/": {
+        "freenessurl": "https://letterboxd.com/film/meet-john-doughboy/",
+        "status": "free",
+        "title": "Meet John Doughboy",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033962/": {
+        "freenessurl": "https://letterboxd.com/film/notes-to-you/",
+        "status": "free",
+        "title": "Notes to You",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034046/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-ant/",
+        "status": "free",
+        "title": "Porky's Ant",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034047/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-bear-facts/",
+        "status": "free",
+        "title": "Porky's Bear Facts",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034048/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-midnight-matinee/",
+        "status": "free",
+        "title": "Porky's Midnight Matinee",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034049/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-pooch/",
+        "status": "free",
+        "title": "Porky's Pooch",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034050/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-preview/",
+        "status": "free",
+        "title": "Porky's Preview",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034051/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-prize-pony/",
+        "status": "free",
+        "title": "Porky's Prize Pony",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034121/": {
+        "freenessurl": "https://letterboxd.com/film/robinson-crusoe-jr/",
+        "status": "free",
+        "title": "Robinson Crusoe Jr.",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034128/": {
+        "freenessurl": "https://letterboxd.com/film/rookie-revue/",
+        "status": "free",
+        "title": "Rookie Revue",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034225/": {
+        "freenessurl": "https://letterboxd.com/film/sport-chumpions/",
+        "status": "free",
+        "title": "Sport Chumpions",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034376/": {
+        "freenessurl": "https://letterboxd.com/film/we-the-animals-squeak/",
+        "status": "free",
+        "title": "We, the Animals - Squeak!",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034585/": {
+        "freenessurl": "https://letterboxd.com/film/case-of-the-missing-hare/",
+        "status": "free",
+        "title": "Case of the Missing Hare",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034630/": {
+        "freenessurl": "https://letterboxd.com/film/the-daffy-duckaroo/",
+        "status": "free",
+        "title": "The Daffy Duckaroo",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034631/": {
+        "freenessurl": "https://letterboxd.com/film/daffys-southern-exposure/",
+        "status": "free",
+        "title": "Daffy's Southern Exposure",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034654/": {
+        "freenessurl": "https://letterboxd.com/film/ding-dog-daddy/",
+        "status": "free",
+        "title": "Ding Dog Daddy",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034675/": {
+        "freenessurl": "https://letterboxd.com/film/the-dover-boys/",
+        "status": "free",
+        "title": "The Dover Boys",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034685/": {
+        "freenessurl": "https://letterboxd.com/film/the-ducktators/",
+        "status": "free",
+        "title": "The Ducktators",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034693/": {
+        "freenessurl": "https://letterboxd.com/film/eatin-on-the-cuff-or-the-moth-who-came-to-dinner/",
+        "status": "free",
+        "title": "Eatin' on the Cuff or The Moth Who Came to Dinner",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034744/": {
+        "freenessurl": "https://letterboxd.com/film/foney-fables/",
+        "status": "free",
+        "title": "Foney Fables",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034752/": {
+        "freenessurl": "https://letterboxd.com/film/fox-pop/",
+        "status": "free",
+        "title": "Fox Pop",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034756/": {
+        "freenessurl": "https://letterboxd.com/film/fresh-hare/",
+        "status": "free",
+        "title": "Fresh Hare",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034802/": {
+        "freenessurl": "https://letterboxd.com/film/gopher-goofy/",
+        "status": "free",
+        "title": "Gopher Goofy",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034858/": {
+        "freenessurl": "https://letterboxd.com/film/hobby-horse-laffs/",
+        "status": "free",
+        "title": "Hobby Horse-Laffs",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0034888/": {
+        "freenessurl": "https://letterboxd.com/film/the-impatient-patient/",
+        "status": "free",
+        "title": "The Impatient Patient",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035141/": {
+        "freenessurl": "https://letterboxd.com/film/nutty-news/",
+        "status": "free",
+        "title": "Nutty News",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035202/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-cafe/",
+        "status": "free",
+        "title": "Porky's Cafe",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035203/": {
+        "freenessurl": "https://letterboxd.com/film/porkys-pastry-pirates/",
+        "status": "free",
+        "title": "Porky's Pastry Pirates",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035288/": {
+        "freenessurl": "https://letterboxd.com/film/saps-in-chaps/",
+        "status": "free",
+        "title": "Saps in Chaps",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035314/": {
+        "freenessurl": "https://letterboxd.com/film/the-sheepish-wolf/",
+        "status": "free",
+        "title": "The Sheepish Wolf",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035414/": {
+        "freenessurl": "https://letterboxd.com/film/a-tale-of-two-kitties/",
+        "status": "free",
+        "title": "A Tale of Two Kitties",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035527/": {
+        "freenessurl": "https://letterboxd.com/film/the-wabbit-who-came-to-supper/",
+        "status": "free",
+        "title": "The Wabbit Who Came to Supper",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035528/": {
+        "freenessurl": "https://letterboxd.com/film/wacky-blackout/",
+        "status": "free",
+        "title": "Wacky Blackout",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035529/": {
+        "freenessurl": "https://letterboxd.com/film/the-wacky-wabbit/",
+        "status": "free",
+        "title": "The Wacky Wabbit",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035557/": {
+        "freenessurl": "https://letterboxd.com/film/whos-who-in-the-zoo/",
+        "status": "free",
+        "title": "Who's Who in the Zoo",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0035750/": {
+        "freenessurl": "https://letterboxd.com/film/confusions-of-a-nutzy-spy/",
+        "status": "free",
+        "title": "Confusions of a Nutzy Spy",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0035754/": {
+        "freenessurl": "https://letterboxd.com/film/a-corny-concerto/",
+        "status": "free",
+        "title": "A Corny Concerto",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0035774/": {
+        "freenessurl": "https://letterboxd.com/film/daffy-the-commando/",
+        "status": "free",
+        "title": "Daffy - The Commando",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0035861/": {
+        "freenessurl": "https://letterboxd.com/film/falling-hare/",
+        "status": "free",
+        "title": "Falling Hare",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0035872/": {
+        "freenessurl": "https://letterboxd.com/film/fifth-column-mouse/",
+        "status": "free",
+        "title": "Fifth Column Mouse",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0035877/": {
+        "freenessurl": "https://letterboxd.com/film/finn-catty/",
+        "status": "free",
+        "title": "Fin'n Catty",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036015/": {
+        "freenessurl": "https://letterboxd.com/film/hop-and-go/",
+        "status": "free",
+        "title": "Hop and Go",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036041/": {
+        "freenessurl": "https://letterboxd.com/film/inki-and-the-minah-bird/",
+        "status": "free",
+        "title": "Inki and the Minah Bird",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036264/": {
+        "freenessurl": "https://letterboxd.com/film/pigs-in-a-polka/",
+        "status": "free",
+        "title": "Pigs in a Polka",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036271/": {
+        "freenessurl": "https://letterboxd.com/film/porky-pigs-feat/",
+        "status": "free",
+        "title": "Porky Pig's Feat",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036279/": {
+        "freenessurl": "https://letterboxd.com/film/spies-1943/",
+        "status": "free",
+        "title": "Spies",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036282/": {
+        "freenessurl": "https://letterboxd.com/film/puss-n-booty/",
+        "status": "free",
+        "title": "Puss n' Booty",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036334/": {
+        "freenessurl": "https://letterboxd.com/film/scrap-happy-daffy/",
+        "status": "free",
+        "title": "Scrap Happy Daffy",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036444/": {
+        "freenessurl": "https://letterboxd.com/film/to-duck-or-not-to-duck/",
+        "status": "free",
+        "title": "To Duck.... Or Not to Duck",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036446/": {
+        "freenessurl": "https://letterboxd.com/film/tokio-jokio/",
+        "status": "free",
+        "title": "Tokio Jokio",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036508/": {
+        "freenessurl": "https://letterboxd.com/film/wackiki-wabbit/",
+        "status": "free",
+        "title": "Wackiki Wabbit",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0036546/": {
+        "freenessurl": "https://letterboxd.com/film/yankee-doodle-daffy/",
+        "status": "free",
+        "title": "Yankee Doodle Daffy",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0039287/": {
+        "freenessurl": "https://letterboxd.com/film/crowing-pains/",
+        "status": "free",
+        "title": "Crowing Pains",
+        "year": "1947"
+    },
+    "http://www.imdb.com/title/tt0041891/": {
+        "freenessurl": "https://letterboxd.com/film/so-much-for-so-little/",
+        "status": "free",
+        "title": "So Much for So Little",
+        "year": "1949"
+    },
+    "http://www.imdb.com/title/tt0043405/": {
+        "freenessurl": "https://letterboxd.com/film/chow-hound/",
+        "status": "free",
+        "title": "Chow Hound",
+        "year": "1951"
+    },
+    "http://www.imdb.com/title/tt0048172/": {
+        "freenessurl": "https://letterboxd.com/film/a-hitch-in-time-1955/",
+        "status": "free",
+        "title": "A Hitch in Time",
+        "year": "1955"
+    },
+    "http://www.imdb.com/title/tt0048920/": {
+        "freenessurl": "https://letterboxd.com/film/90-day-wondering/",
+        "status": "free",
+        "title": "90 Day Wondering",
+        "year": "1956"
+    },
+    "http://www.imdb.com/title/tt0050335/": {
+        "freenessurl": "https://letterboxd.com/film/drafty-isnt-it/",
+        "status": "free",
+        "title": "Drafty, Isn't It?",
+        "year": "1957"
+    },
+    "http://www.imdb.com/title/tt0058046/": {
+        "freenessurl": "https://letterboxd.com/film/dumb-patrol-1964/",
+        "status": "free",
+        "title": "Dumb Patrol",
+        "year": "1964"
+    },
+    "http://www.imdb.com/title/tt0059257/": {
+        "freenessurl": "https://letterboxd.com/film/haunted-mouse/",
+        "status": "free",
+        "title": "Haunted Mouse",
+        "year": "1965"
+    },
+    "http://www.imdb.com/title/tt0140812/": {
+        "freenessurl": "https://letterboxd.com/film/any-bonds-today/",
+        "status": "free",
+        "title": "Any Bonds Today?",
+        "year": "1942"
+    },
+    "http://www.imdb.com/title/tt0140864/": {
+        "freenessurl": "https://letterboxd.com/film/booby-traps/",
+        "status": "free",
+        "title": "Booby Traps",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0141087/": {
+        "freenessurl": "https://letterboxd.com/film/fighting-tools/",
+        "status": "free",
+        "title": "Fighting Tools",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0154300/": {
+        "freenessurl": "https://letterboxd.com/film/censored/",
+        "status": "free",
+        "title": "Censored",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0154346/": {
+        "freenessurl": "https://letterboxd.com/film/going-home-1944/",
+        "status": "free",
+        "title": "Going Home",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0154347/": {
+        "freenessurl": "https://letterboxd.com/film/coming-snafu/",
+        "status": "free",
+        "title": "Coming!! Snafu",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0154524/": {
+        "freenessurl": "https://letterboxd.com/film/gas-1944/",
+        "status": "free",
+        "title": "Gas",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0154539/": {
+        "freenessurl": "https://letterboxd.com/film/the-gold-brick/",
+        "status": "free",
+        "title": "The Gold Brick",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0154549/": {
+        "freenessurl": "https://letterboxd.com/film/gripes/",
+        "status": "free",
+        "title": "Gripes",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0154604/": {
+        "freenessurl": "https://letterboxd.com/film/the-home-front/",
+        "status": "free",
+        "title": "The Home Front",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0154616/": {
+        "freenessurl": "https://letterboxd.com/film/hot-spot/",
+        "status": "free",
+        "title": "Hot Spot",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0154637/": {
+        "freenessurl": "https://letterboxd.com/film/in-the-aleutians/",
+        "status": "free",
+        "title": "In the Aleutians",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0154641/": {
+        "freenessurl": "https://letterboxd.com/film/the-infantry-blues/",
+        "status": "free",
+        "title": "The Infantry Blues",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0154659/": {
+        "freenessurl": "https://letterboxd.com/film/its-murder-she-says/",
+        "status": "free",
+        "title": "It's Murder She Says...",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0154763/": {
+        "freenessurl": "https://letterboxd.com/film/a-lecture-on-camouflage/",
+        "status": "free",
+        "title": "A Lecture on Camouflage",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0154956/": {
+        "freenessurl": "https://letterboxd.com/film/no-buddy-atoll/",
+        "status": "free",
+        "title": "No Buddy Atoll",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0154979/": {
+        "freenessurl": "https://letterboxd.com/film/operation-snafu/",
+        "status": "free",
+        "title": "Operation Snafu",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0154985/": {
+        "freenessurl": "https://letterboxd.com/film/outpost-1944/",
+        "status": "free",
+        "title": "Outpost",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0155005/": {
+        "freenessurl": "https://letterboxd.com/film/pay-day-1944/",
+        "status": "free",
+        "title": "Pay Day",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0155026/": {
+        "freenessurl": "https://letterboxd.com/film/point-rationing-of-foods/",
+        "status": "free",
+        "title": "Point Rationing of Foods",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0155053/": {
+        "freenessurl": "https://letterboxd.com/film/private-snafu-vs-malaria-mike/",
+        "status": "free",
+        "title": "Private Snafu vs. Malaria Mike",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0155126/": {
+        "freenessurl": "https://letterboxd.com/film/rumors/",
+        "status": "free",
+        "title": "Rumors",
+        "year": "1943"
+    },
+    "http://www.imdb.com/title/tt0155186/": {
+        "freenessurl": "https://letterboxd.com/film/snafuperman/",
+        "status": "free",
+        "title": "Snafuperman",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0155242/": {
+        "freenessurl": "https://letterboxd.com/film/target-snafu/",
+        "status": "free",
+        "title": "Target Snafu",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0155269/": {
+        "freenessurl": "https://letterboxd.com/film/three-brothers-1944/",
+        "status": "free",
+        "title": "Three Brothers",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0239892/": {
+        "freenessurl": "https://letterboxd.com/film/the-return-of-mr-hook/",
+        "status": "free",
+        "title": "The Return of Mr. Hook",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0293957/": {
+        "freenessurl": "https://letterboxd.com/film/tokyo-woes/",
+        "status": "free",
+        "title": "Tokyo Woes",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt0430147/": {
+        "freenessurl": "https://letterboxd.com/film/the-good-egg-1945/",
+        "status": "free",
+        "title": "The Good Egg",
+        "year": "1945"
+    }
+}
