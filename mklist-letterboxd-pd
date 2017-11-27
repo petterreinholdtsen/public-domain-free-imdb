@@ -4,6 +4,7 @@
 Extract IMDB IDs of public domain movies listed on LetterBoxd.
 """
 
+import argparse
 import json
 import lxml.html
 import urllib2
@@ -12,8 +13,6 @@ import urlparse
 urlbases = [
     # Films in The Public Domain
     "https://letterboxd.com/graemehalifax/list/the-public-domain/detail/page/%d/",
-    # Films of The Internet Archive - Silent Hall of Fame here:
-    "https://letterboxd.com/loureviews/list/internet-archive-silent-films/detail/page/%d/",
 ]
 
 def http_get_read(url):
@@ -23,8 +22,6 @@ def http_get_read(url):
     return f.read()
 
 def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-letterboxd-pd.json'
     with open(name, 'wt') as out:
         json.dump(l,
                   out,
@@ -69,9 +66,24 @@ def get_movie_list(l, urlbase, page=1):
             count = count + 1
     return count
 
-l = {}
-for urlbase in urlbases:
-    page = 1
-    while 0 < get_movie_list(l, urlbase=urlbase, page=page):
-        page = page + 1
-savelist(l)
+def main():
+    global urlbases
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--baseurl', help='LetterBoxd list URL, like https://letterboxd.com/loureviews/list/internet-archive-silent-films/.')
+    parser.add_argument('--output', default='free-movies-letterboxd-pd.json')
+    args = parser.parse_args()
+
+    if args.baseurl:
+        if '/' != args.baseurl[-1]:
+            args.baseurl = args.baseurl + '/'
+        urlbases = ["%sdetail/page/%%d/" % args.baseurl]
+
+    l = {}
+    for urlbase in urlbases:
+        page = 1
+        while 0 < get_movie_list(l, urlbase=urlbase, page=page):
+            page = page + 1
+    savelist(l, args.output)
+
+if __name__ == '__main__':
+    main()
