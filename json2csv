@@ -27,15 +27,22 @@ for file in args.files:
             if not id in completeset:
                 completeset[id] = j[id]
             else:
-                if j[id]['freenessurl'] != completeset[id]['freenessurl']:
+                print(file,id)
+                if 'freenessurl' in completeset[id] \
+                   and 'freenessurl' in j[id] \
+                   and j[id]['freenessurl'] != completeset[id]['freenessurl']:
                     completeset[id]['archive'] = j[id]['freenessurl']
 
 #writer.writerow(keys)
 for id in completeset.keys():
     if -1 == id.find("/www.imdb.com/title/"):
         continue
-    if 'free' != completeset[id]['status']:
+    if 'status' not in completeset[id] or 'free' != completeset[id]['status']:
         continue
     completeset[id]['idurl'] = id
     #print(j[e])
+    fields = list(completeset[id].keys())
+    for k in fields:
+        if k not in keys:
+            del completeset[id][k]
     writer.writerow(completeset[id])
