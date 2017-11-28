@@ -3,7 +3,8 @@
 """
 Search for movies in the Internet Archive similar to how the Butter
 plugin do it, and output the list with IMDB title IDs similar to the
-other list of free movies.
+other list of free movies.  Look for IMDB title references in the
+description and other relevant tags.
 
 If the search result do not return a IMDB ID, see if the wikidata set
 or the manually created data set have such ID and use this one.
@@ -13,18 +14,38 @@ import json
 import urllib
 import urllib2
 import re
+import time
 
 def fetch(page=1):
-    # The search URL found in
-    # https://github.com/butterproviders/butter-provider-archive
-    # The search result is less than 1000 entries 2017-11-05.
-    url = 'http://archive.org/advancedsearch.php?q=collection%%3Amoviesandfilms+AND+NOT+collection%%3Amovie_trailers+AND+-mediatype%%3Acollection+AND+format%%3A%%22Archive+BitTorrent%%22+AND+year&sort%%5B%%5D=&sort%%5B%%5D=&sort%%5B%%5D=&rows=1000&page=%d&output=json&save=yes' % page
+    print("Fetching page %d" % page)
+    """
+Based on the search URL found in
+https://github.com/butterproviders/butter-provider-archive
+The search result is less than 1000 entries 2017-11-05.
+
+Removing the 'year' requirement result in several thousand entries more.
+"""
+    # Search term:
+    term = """
+collection:moviesandfilms
+AND NOT collection:movie_trailers
+AND NOT collection:sabucat_trailers
+AND -mediatype:collection
+AND format:"Archive BitTorrent"
+AND year
+"""
+    url = 'http://archive.org/advancedsearch.php?sort%%5B%%5D=&sort%%5B%%5D=&sort%%5B%%5D=&output=json&save=yes&rows=1000&page=%d' % page
+    url = url + '&q=' + urllib.quote_plus(term)
     h = { "Accept" : "application/json"}
-    request = urllib2.Request(url, headers=h)
-    jsondata = urllib2.urlopen(request).read()
-    #print jsondata
-    data = json.loads(jsondata)
-    return data
+    try:
+        request = urllib2.Request(url, headers=h)
+        jsondata = urllib2.urlopen(request).read()
+        #print jsondata
+        data = json.loads(jsondata)
+        return data
+    except urllib2.HTTPError as e:
+        print("Error:", str(e))
+        return None
 
 def locate_imdb_refs(text):
     if type (text) is list:
@@ -64,37 +85,49 @@ def savelist(l, name = None):
                   sort_keys=True,
                   indent=4,
                   separators=(',', ': '))
-wplist = {}
-loadlist(wplist, 'free-movies-archive-org-wikidata.json')
-loadlist(wplist, 'free-movies-manual.json')
-print "C", len(wplist.keys())
+def main():
+    wplist = {}
+    loadlist(wplist, 'free-movies-archive-org-wikidata.json')
+    loadlist(wplist, 'free-movies-manual.json')
+    print "C", len(wplist.keys())
 
-l = fetch()
-outlist = {}
-for e in l['response']['docs']:
-    freenessurl = "https://archive.org/details/%s" % e['identifier']
-    imdbmap = {}
-    if 'description' in e:
-        for i in locate_imdb_refs(e['description']):
-            imdbmap[i] = True
-    if 'stripped_tags' in e:
-        for i in locate_imdb_refs(e['stripped_tags']):
-            imdbmap[i] = True
-    fle = {
-        'status' : 'free',
-        'freenessurl' : freenessurl,
-        'title' : e['title'],
-        }
-    if 'year' in e:
-        fle['year'] = e['year']
-    if 0 == len(imdbmap.keys()):
-        for wpimdb in wplist.keys():
-            for field in ['freenessurl', 'archive']:
-                if field in wplist[wpimdb] \
-                   and wplist[wpimdb][field] == freenessurl:
-                    imdbmap[wpimdb] = True
-    if 0 == len(imdbmap.keys()):
-        imdbmap[freenessurl] = True
-    for i in imdbmap.keys():
-        outlist[i] = fle
-savelist(outlist)
+    outlist = {}
+    page = 1
+    while True:
+        l = fetch(page)
+        if not l or 0 == len(l['response']['docs']):
+            break
+        for e in l['response']['docs']:
+            freenessurl = "https://archive.org/details/%s" % e['identifier']
+            imdbmap = {}
+            if 'description' in e:
+                for i in locate_imdb_refs(e['description']):
+                    imdbmap[i] = True
+            if 'stripped_tags' in e:
+                for i in locate_imdb_refs(e['stripped_tags']):
+                    imdbmap[i] = True
+            fle = {
+                'status' : 'free',
+                'freenessurl' : freenessurl,
+                'title' : e['title'],
+                }
+            if 'year' in e:
+                fle['year'] = e['year']
+            if 0 == len(imdbmap.keys()):
+                for wpimdb in wplist.keys():
+                    for field in ['freenessurl', 'archive']:
+                        if field in wplist[wpimdb] \
+                           and wplist[wpimdb][field] == freenessurl:
+                            imdbmap[wpimdb] = True
+            if 0 == len(imdbmap.keys()):
+                imdbmap[freenessurl] = True
+            for i in imdbmap.keys():
+                outlist[i] = fle
+        page = page + 1
+        time.sleep(3)
+    savelist(outlist)
+
+    print("Wrote %d" % len(outlist.keys()))
+
+if __name__ == '__main__':
+    main()
