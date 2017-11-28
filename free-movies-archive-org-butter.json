@@ -181,6 +181,11 @@
         "title": "Chinatown After Dark",
         "year": "1931"
     },
+    "http://www.imdb.com/title/tt0021820/": {
+        "freenessurl": "https://archive.org/details/DrumsOfJeopardy",
+        "status": "free",
+        "title": "Drums Of Jeopardy"
+    },
     "http://www.imdb.com/title/tt0022840/": {
         "freenessurl": "https://archive.org/details/the_drifter",
         "status": "free",
@@ -394,6 +399,11 @@
         "title": "Disorder in the Court",
         "year": "1936"
     },
+    "http://www.imdb.com/title/tt0027669/": {
+        "freenessurl": "https://archive.org/details/GhostPatrol",
+        "status": "free",
+        "title": "Ghost Patrol"
+    },
     "http://www.imdb.com/title/tt0027863/": {
         "freenessurl": "https://archive.org/details/LadyLuck",
         "status": "free",
@@ -500,6 +510,11 @@
         "status": "free",
         "title": "Small Town Boy",
         "year": "1937"
+    },
+    "http://www.imdb.com/title/tt0029941/": {
+        "freenessurl": "https://archive.org/details/BoyOfTheStreets",
+        "status": "free",
+        "title": "Boy of the Streets"
     },
     "http://www.imdb.com/title/tt0029945/": {
         "freenessurl": "https://archive.org/details/breaking_the_ice",
@@ -1624,11 +1639,6 @@
         "title": "2015 \u00dcberfordert 1964 - 74 (Overstrained 1964-74)",
         "year": "2015"
     },
-    "https://archive.org/details/ADriveThroughBunkerHillAndDowntownLosAngelesCa.1940s": {
-        "freenessurl": "https://archive.org/details/ADriveThroughBunkerHillAndDowntownLosAngelesCa.1940s",
-        "status": "free",
-        "title": "A Drive Through Bunker Hill and Downtown Los Angeles, ca. 1940s"
-    },
     "https://archive.org/details/AMIGA": {
         "freenessurl": "https://archive.org/details/AMIGA",
         "status": "free",
@@ -1651,23 +1661,11 @@
         "status": "free",
         "title": "AL CAPONE TURNS HIMSELF IN newsreel clip"
     },
-    "https://archive.org/details/AlantaZoo-AtlantaGeorgia": {
-        "freenessurl": "https://archive.org/details/AlantaZoo-AtlantaGeorgia",
-        "status": "free",
-        "title": "Alanta Zoo - Atlanta Georgia (June 2007)",
-        "year": "2007"
-    },
     "https://archive.org/details/Are_You_Ready_2004": {
         "freenessurl": "https://archive.org/details/Are_You_Ready_2004",
         "status": "free",
         "title": "Are You Ready For Marriage? 2004",
         "year": "2004"
-    },
-    "https://archive.org/details/AtlantaAquarium-AtlantaGeorgia": {
-        "freenessurl": "https://archive.org/details/AtlantaAquarium-AtlantaGeorgia",
-        "status": "free",
-        "title": "Atlanta Aquarium - Atlanta, Georgia",
-        "year": "2007"
     },
     "https://archive.org/details/BelaLugosi-Rare1955Interview": {
         "freenessurl": "https://archive.org/details/BelaLugosi-Rare1955Interview",
@@ -1684,21 +1682,11 @@
         "status": "free",
         "title": "\"Blue Blazes Rawden\" (1918)"
     },
-    "https://archive.org/details/Bohemian1938": {
-        "freenessurl": "https://archive.org/details/Bohemian1938",
-        "status": "free",
-        "title": "[Amateur film: Bohemian Grove]"
-    },
     "https://archive.org/details/BottomUnionArchive2005": {
         "freenessurl": "https://archive.org/details/BottomUnionArchive2005",
         "status": "free",
         "title": "Bottom Union Films",
         "year": "2005"
-    },
-    "https://archive.org/details/BoyOfTheStreets": {
-        "freenessurl": "https://archive.org/details/BoyOfTheStreets",
-        "status": "free",
-        "title": "Boy of the Streets"
     },
     "https://archive.org/details/Breakdowns_Blowups_1936-1947": {
         "freenessurl": "https://archive.org/details/Breakdowns_Blowups_1936-1947",
@@ -1706,46 +1694,11 @@
         "title": "Warner Brothers \"Break Downs\" and \"Blow Ups\" 1936-1947",
         "year": "1936"
     },
-    "https://archive.org/details/CEP153": {
-        "freenessurl": "https://archive.org/details/CEP153",
-        "status": "free",
-        "title": "The Vampire Bat - Spooky Opening Scene",
-        "year": "1933"
-    },
-    "https://archive.org/details/CEP316": {
-        "freenessurl": "https://archive.org/details/CEP316",
-        "status": "free",
-        "title": "Cat 2 (Wide Screen)",
-        "year": "2007"
-    },
-    "https://archive.org/details/CEP355": {
-        "freenessurl": "https://archive.org/details/CEP355",
-        "status": "free",
-        "title": "Hay Wagon 2 (Wide Screen 16:9)",
-        "year": "2007"
-    },
     "https://archive.org/details/Case_of_the_Frightened_Lady_1940": {
         "freenessurl": "https://archive.org/details/Case_of_the_Frightened_Lady_1940",
         "status": "free",
         "title": "Case of the Frightened Lady",
         "year": "1940"
-    },
-    "https://archive.org/details/ChrismasHomeMovies1960s": {
-        "freenessurl": "https://archive.org/details/ChrismasHomeMovies1960s",
-        "status": "free",
-        "title": "Christmas Home Movies from the 1960's"
-    },
-    "https://archive.org/details/Christiano_Reel_4": {
-        "freenessurl": "https://archive.org/details/Christiano_Reel_4",
-        "status": "free",
-        "title": "[Unidentified family home movies\u2014Reel 4]",
-        "year": "1949"
-    },
-    "https://archive.org/details/Colette_Placenta_With_Commentary": {
-        "freenessurl": "https://archive.org/details/Colette_Placenta_With_Commentary",
-        "status": "free",
-        "title": "Colette's Placenta",
-        "year": "1998"
     },
     "https://archive.org/details/CongratulationsItsaBoy": {
         "freenessurl": "https://archive.org/details/CongratulationsItsaBoy",
@@ -1804,11 +1757,6 @@
         "status": "free",
         "title": "The Big Producer"
     },
-    "https://archive.org/details/DrumsOfJeopardy": {
-        "freenessurl": "https://archive.org/details/DrumsOfJeopardy",
-        "status": "free",
-        "title": "Drums Of Jeopardy"
-    },
     "https://archive.org/details/DuffysTavernTvShow": {
         "freenessurl": "https://archive.org/details/DuffysTavernTvShow",
         "status": "free",
@@ -1819,20 +1767,6 @@
         "status": "free",
         "title": "\"Mister Ed\" - Ed the Beneficiary",
         "year": "1962"
-    },
-    "https://archive.org/details/EuropeanTrip": {
-        "freenessurl": "https://archive.org/details/EuropeanTrip",
-        "status": "free",
-        "title": "Amateur Film European Trip 1930s (Part I)"
-    },
-    "https://archive.org/details/EvaVikstromStockholmWaterfrontFromaFerryApril2007": {
-        "freenessurl": "https://archive.org/details/EvaVikstromStockholmWaterfrontFromaFerryApril2007",
-        "status": "free",
-        "title": [
-            "Stockholm Waterfront From a Ferry",
-            "Stockholm Waterfront From a Ferry - April 2007"
-        ],
-        "year": "2007"
     },
     "https://archive.org/details/Eve_of_Destruction": {
         "freenessurl": "https://archive.org/details/Eve_of_Destruction",
@@ -1887,54 +1821,16 @@
         "status": "free",
         "title": "Gary Kildall Special"
     },
-    "https://archive.org/details/GhostPatrol": {
-        "freenessurl": "https://archive.org/details/GhostPatrol",
-        "status": "free",
-        "title": "Ghost Patrol"
-    },
-    "https://archive.org/details/GoldenGa1939": {
-        "freenessurl": "https://archive.org/details/GoldenGa1939",
-        "status": "free",
-        "title": "[Amateur film: Golden Gate Bridge]",
-        "year": "1939"
-    },
     "https://archive.org/details/GraveOfTheVampire": {
         "freenessurl": "https://archive.org/details/GraveOfTheVampire",
         "status": "free",
         "title": "Grave of the Vampire",
         "year": "1974"
     },
-    "https://archive.org/details/Gregg_Arthur_Subic_Bay_1966": {
-        "freenessurl": "https://archive.org/details/Gregg_Arthur_Subic_Bay_1966",
-        "status": "free",
-        "title": "[Vietnam War home movie of Subic Bay, Philippines re-supply trip, 1966-67]",
-        "year": "1966"
-    },
     "https://archive.org/details/Gu-Ho-Ast-1989": {
         "freenessurl": "https://archive.org/details/Gu-Ho-Ast-1989",
         "status": "free",
         "title": "Gu-Ho-Ast-1989"
-    },
-    "https://archive.org/details/HMFamilyandFriends98610": {
-        "freenessurl": "https://archive.org/details/HMFamilyandFriends98610",
-        "status": "free",
-        "title": "Home Movie: 98610: Family and Friends",
-        "year": "1947"
-    },
-    "https://archive.org/details/HMPrelingerCollectio10835": {
-        "freenessurl": "https://archive.org/details/HMPrelingerCollectio10835",
-        "status": "free",
-        "title": "Home Movie: 10835: Prelinger Collection"
-    },
-    "https://archive.org/details/HMUnidentified98317": {
-        "freenessurl": "https://archive.org/details/HMUnidentified98317",
-        "status": "free",
-        "title": "Home Movie: 98317: Unidentified"
-    },
-    "https://archive.org/details/HMUnidentifiedDetroi12017": {
-        "freenessurl": "https://archive.org/details/HMUnidentifiedDetroi12017",
-        "status": "free",
-        "title": "Home Movie: 12017: Unidentified Detroit Family"
     },
     "https://archive.org/details/Half_City_D_1988": {
         "freenessurl": "https://archive.org/details/Half_City_D_1988",
@@ -1978,12 +1874,6 @@
         "freenessurl": "https://archive.org/details/IMB_AGA_BRIDGIE",
         "status": "free",
         "title": "Another Great American - Bridgie",
-        "year": "2007"
-    },
-    "https://archive.org/details/IMB_SF_R26_C9": {
-        "freenessurl": "https://archive.org/details/IMB_SF_R26_C9",
-        "status": "free",
-        "title": "Stock Footage - Fireworks",
         "year": "2007"
     },
     "https://archive.org/details/IMB_The_Big_Storm": {
@@ -2085,30 +1975,6 @@
         "title": "Marked Money 1928 Frank Coghlan Jr., Tom Keene, Tom Kennedy, Bert Woodruff",
         "year": "1928"
     },
-    "https://archive.org/details/Medicusc1939_10": {
-        "freenessurl": "https://archive.org/details/Medicusc1939_10",
-        "status": "free",
-        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 3) (Part III)",
-        "year": "1939"
-    },
-    "https://archive.org/details/Medicusc1939_2": {
-        "freenessurl": "https://archive.org/details/Medicusc1939_2",
-        "status": "free",
-        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 2) (Part I)",
-        "year": "1939"
-    },
-    "https://archive.org/details/Medicusc1939_3": {
-        "freenessurl": "https://archive.org/details/Medicusc1939_3",
-        "status": "free",
-        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 3) (Part I)",
-        "year": "1939"
-    },
-    "https://archive.org/details/Medicusc1939_7": {
-        "freenessurl": "https://archive.org/details/Medicusc1939_7",
-        "status": "free",
-        "title": "[Amateur film: Medicus collection: New York World's Fair, 1939-40] (Reel 2) (Part II)",
-        "year": "1939"
-    },
     "https://archive.org/details/Meet_The_OBriens": {
         "freenessurl": "https://archive.org/details/Meet_The_OBriens",
         "status": "free",
@@ -2136,12 +2002,6 @@
         "freenessurl": "https://archive.org/details/NbcNews17march1949",
         "status": "free",
         "title": "NBC News (17/March/1949)"
-    },
-    "https://archive.org/details/NewOrlea1941": {
-        "freenessurl": "https://archive.org/details/NewOrlea1941",
-        "status": "free",
-        "title": "[Amateur film: New Orleans Carnival Week, February 22, 1941]",
-        "year": "1941"
     },
     "https://archive.org/details/Nosferatu_most_complete_version_93_mins.": {
         "freenessurl": "https://archive.org/details/Nosferatu_most_complete_version_93_mins.",
@@ -2180,15 +2040,6 @@
         "status": "free",
         "title": "Officer O' Brien 1930 William Boyd, Ernest Torrence, Dorothy Sebastian, Russell Gleason",
         "year": "1930"
-    },
-    "https://archive.org/details/OftheEarth_Colan": {
-        "freenessurl": "https://archive.org/details/OftheEarth_Colan",
-        "status": "free",
-        "title": [
-            "Of the Earth",
-            "Of the Earth"
-        ],
-        "year": "1998"
     },
     "https://archive.org/details/OneOfOurAircraftIsMissingVideoQualityUpgrade": {
         "freenessurl": "https://archive.org/details/OneOfOurAircraftIsMissingVideoQualityUpgrade",
@@ -2264,11 +2115,6 @@
         "freenessurl": "https://archive.org/details/RufusJonesForPresident",
         "status": "free",
         "title": "RUFUS JONES FOR PRESIDENT"
-    },
-    "https://archive.org/details/Sagaofth1957": {
-        "freenessurl": "https://archive.org/details/Sagaofth1957",
-        "status": "free",
-        "title": "[Amateur film: \"Saga of the Happy Wanderers\"]"
     },
     "https://archive.org/details/SailingAlong": {
         "freenessurl": "https://archive.org/details/SailingAlong",
@@ -2363,11 +2209,6 @@
         "freenessurl": "https://archive.org/details/SuicideSquad",
         "status": "free",
         "title": "Suicide Squad"
-    },
-    "https://archive.org/details/Sundial": {
-        "freenessurl": "https://archive.org/details/Sundial",
-        "status": "free",
-        "title": "Sundial Time Lapse (Free to Use HD Stock Video Footage)"
     },
     "https://archive.org/details/SurvivalEvas": {
         "freenessurl": "https://archive.org/details/SurvivalEvas",
@@ -2598,15 +2439,6 @@
         "title": "To Sense And To Fancy [Sinnen und Waehnen] (Germany 1988) - silent",
         "year": "1988"
     },
-    "https://archive.org/details/Tokyo1964Part3of3": {
-        "freenessurl": "https://archive.org/details/Tokyo1964Part3of3",
-        "status": "free",
-        "title": [
-            "Tokyo 1964 Part 3 of 3 (Back in the States)",
-            "Tokyo 1964 Part 3 of 3 (Back in the States)"
-        ],
-        "year": "1964"
-    },
     "https://archive.org/details/TomorrowsChildren1934-EugenicsInAmerica": {
         "freenessurl": "https://archive.org/details/TomorrowsChildren1934-EugenicsInAmerica",
         "status": "free",
@@ -2627,11 +2459,6 @@
         "status": "free",
         "title": "Vestiges",
         "year": "2012"
-    },
-    "https://archive.org/details/Wathenco1944": {
-        "freenessurl": "https://archive.org/details/Wathenco1944",
-        "status": "free",
-        "title": "[Amateur film: Wathen collection: Greenwich Village, New York Snowstorm, and Coney Island]"
     },
     "https://archive.org/details/Week69": {
         "freenessurl": "https://archive.org/details/Week69",
@@ -2698,23 +2525,6 @@
         "status": "free",
         "title": "Zydereen Of Neptune",
         "year": "2015"
-    },
-    "https://archive.org/details/barstow_americas_history": {
-        "freenessurl": "https://archive.org/details/barstow_americas_history",
-        "status": "free",
-        "title": "Family Camping Through 48 States -- Part I"
-    },
-    "https://archive.org/details/barstow_americas_wonderlands": {
-        "freenessurl": "https://archive.org/details/barstow_americas_wonderlands",
-        "status": "free",
-        "title": "Family Camping Through 48 States -- Part II",
-        "year": "1961"
-    },
-    "https://archive.org/details/barstow_building_of_conny_1976": {
-        "freenessurl": "https://archive.org/details/barstow_building_of_conny_1976",
-        "status": "free",
-        "title": "The Building of 'CONNY' -- Life-Size Sperm Whale Model",
-        "year": "1975"
     },
     "https://archive.org/details/captain_calamity_1936": {
         "freenessurl": "https://archive.org/details/captain_calamity_1936",
@@ -2837,18 +2647,6 @@
         "title": "Highlights 1965: A Progress Report (Part I)",
         "year": "1965"
     },
-    "https://archive.org/details/home_movies_misc": {
-        "freenessurl": "https://archive.org/details/home_movies_misc",
-        "status": "free",
-        "title": "Home Movies: Two Family Collections",
-        "year": "1940"
-    },
-    "https://archive.org/details/homemovie_tarzan_and_rocky_gorge": {
-        "freenessurl": "https://archive.org/details/homemovie_tarzan_and_rocky_gorge",
-        "status": "free",
-        "title": "Tarzan and the Rocky Gorge",
-        "year": "1936"
-    },
     "https://archive.org/details/horror_hotel_ipod": {
         "freenessurl": "https://archive.org/details/horror_hotel_ipod",
         "status": "free",
@@ -2896,11 +2694,6 @@
         "title": "Viagrafix - Introduction to Microsoft Project",
         "year": "1992"
     },
-    "https://archive.org/details/ncDixieLandMinstrels1950": {
-        "freenessurl": "https://archive.org/details/ncDixieLandMinstrels1950",
-        "status": "free",
-        "title": "[NC Dixie Land Minstrels 1950]"
-    },
     "https://archive.org/details/news_parade_of_1945": {
         "freenessurl": "https://archive.org/details/news_parade_of_1945",
         "status": "free",
@@ -2941,18 +2734,6 @@
         "status": "free",
         "title": "Rhythm and Blues Revue",
         "year": "1955"
-    },
-    "https://archive.org/details/sIvanBes1938_10": {
-        "freenessurl": "https://archive.org/details/sIvanBes1938_10",
-        "status": "free",
-        "title": "[Amateur films: Ivan Besse collection: Britton, South Dakota 1938-39] (Part X)",
-        "year": "1938"
-    },
-    "https://archive.org/details/sIvanBes1938_3": {
-        "freenessurl": "https://archive.org/details/sIvanBes1938_3",
-        "status": "free",
-        "title": "[Amateur films: Ivan Besse collection: Britton, South Dakota 1938-39] (Part II)",
-        "year": "1938"
     },
     "https://archive.org/details/san_francisco_worlds_fair": {
         "freenessurl": "https://archive.org/details/san_francisco_worlds_fair",
