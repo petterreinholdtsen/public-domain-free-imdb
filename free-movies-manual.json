@@ -45,6 +45,12 @@
         "title": "The Cake-Walk Infernal",
         "year": 1903
     },
+    "http://www.imdb.com/title/tt0178812/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/PanoramaViewStreetCarMotorRoom1904",
+        "title": "Panorama View, Street Car Motor Room",
+        "year": 1904
+    },
     "http://www.imdb.com/title/tt1821497/": {
         "freenessurl": "https://archive.org/details/LaGrenouille",
         "status": "free",
@@ -154,6 +160,12 @@
         "title": "A propos de Nice",
         "year": "1930"
     },
+    "http://www.imdb.com/title/tt0021820/": {
+        "freenessurl": "https://archive.org/details/DrumsOfJeopardy",
+        "status": "free",
+        "title": "Drums Of Jeopardy",
+	"year" : 1931
+    },
     "http://www.imdb.com/title/tt0023027/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/TheMarxBrothersChicoHorseFeathers1932",
@@ -181,6 +193,18 @@
         "title": "Black Gold",
         "year": "1936"
     },
+    "http://www.imdb.com/title/tt0027669/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/GhostPatrol",
+        "title": "Ghost Patrol",
+	"year" : 1936
+    },
+    "http://www.imdb.com/title/tt0029941/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/BoyOfTheStreets",
+        "title": "Boy of the Streets",
+	"year" : 1937
+    },
     "http://www.imdb.com/title/tt0031971/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/Stagecoach1939 ",
@@ -199,6 +223,12 @@
         "freenessurl": "https://archive.org/details/TheRealMissAmerica",
 	"title" : "The Real Miss America",
 	"year" : 1952
+    },
+    "http://www.imdb.com/title/tt0699412/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/SherlockHolmes-TheCaseoftheCunninghamHeritage",
+	"title" : "The Case of the Cunningham Heritage",
+	"year" : 1954
     },
     "http://www.imdb.com/title/tt0048918/": {
 	"status" : "free",
@@ -1019,6 +1049,15 @@
 	"title" : "S.O.S. Eisberg",
 	"year" : 1933
     },
+    "http://www.imdb.com/title/tt0030910/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/UnderWesternStars",
+	"archive" : "https://archive.org/details/Under_Western_Stars_1938",
+	"archive2" : "https://archive.org/details/UnderWesternStars1938",
+	"wp" : "https://en.wikipedia.org/wiki/Under_Western_Stars",
+        "title": "Under Western Stars",
+        "year": "1938"
+    },
     "http://www.imdb.com/title/tt0012382/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/LeapYear1921",
@@ -1051,6 +1090,13 @@
 	"wp" : "https://en.wikipedia.org/wiki/Gas_(1944_film)",
 	"title" : "Gas",
 	"year" : 1944
+    },
+    "http://www.imdb.com/title/tt0155242/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/PrivateSnafu-TargetSnafu1944",
+	"wp" : "https://en.wikipedia.org/wiki/Private_Snafu",
+        "title": "Target Snafu",
+        "year": "1944"
     },
     "http://www.imdb.com/title/tt0041187/": {
         "freenessurl": "https://archive.org/details/BlondeIce1948",
