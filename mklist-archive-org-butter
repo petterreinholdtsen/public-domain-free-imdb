@@ -30,6 +30,8 @@ Removing the 'year' requirement result in several thousand entries more.
 collection:moviesandfilms
 AND NOT collection:movie_trailers
 AND NOT collection:sabucat_trailers
+AND NOT collection:stock_footage
+AND NOT collection:home_movies
 AND -mediatype:collection
 AND format:"Archive BitTorrent"
 AND year
