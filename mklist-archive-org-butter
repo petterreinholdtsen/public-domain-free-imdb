@@ -34,8 +34,12 @@ AND NOT collection:stock_footage
 AND NOT collection:home_movies
 AND -mediatype:collection
 AND format:"Archive BitTorrent"
-AND year
 """
+    # Limiting to entries with year was part of the original Butter
+    # search, but reduses around 17000 entries to around 500.
+    if False:
+        term = term + " AND year"
+        
     url = 'https://archive.org/advancedsearch.php?sort%%5B%%5D=&sort%%5B%%5D=&sort%%5B%%5D=&output=json&rows=100000&page=%d' % page
     url = url + '&q=' + urllib.quote_plus(term)
     h = { "Accept" : "application/json"}
