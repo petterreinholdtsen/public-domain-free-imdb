@@ -129,7 +129,29 @@ def main():
             if 0 == len(imdbmap.keys()):
                 imdbmap[freenessurl] = True
             for i in imdbmap.keys():
-                outlist[i] = fle
+                if i not in outlist:
+                    outlist[i] = fle
+                else:
+                    if 'year' in fle and 'year' not in outlist[i]:
+                        outlist[i]['year'] = fle['year']
+                    if 'archive' not in outlist[i]:
+                        outlist[i]['archive'] = fle['freenessurl']
+                    elif 'archive2' not in outlist[i]:
+                        outlist[i]['archive2'] = fle['freenessurl']
+                    elif 'archive3' not in outlist[i]:
+                        outlist[i]['archive3'] = fle['freenessurl']
+                    elif 'archive4' not in outlist[i]:
+                        outlist[i]['archive4'] = fle['freenessurl']
+                    elif 'archive5' not in outlist[i]:
+                        outlist[i]['archive5'] = fle['freenessurl']
+                    elif 'archive6' not in outlist[i]:
+                        outlist[i]['archive6'] = fle['freenessurl']
+                    elif 'archive7' not in outlist[i]:
+                        outlist[i]['archive7'] = fle['freenessurl']
+                    elif 'archive8' not in outlist[i]:
+                        outlist[i]['archive8'] = fle['freenessurl']
+                    else:
+                        outlist[i]['archive9'] = fle['freenessurl']
         page = page + 1
         time.sleep(3)
     savelist(outlist)
