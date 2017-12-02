@@ -76,6 +76,13 @@
         "title": "Le Voleur Invisible",
         "year": "1909"
     },
+    "http://www.imdb.com/title/tt0001009/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/princess_nicotine_1909",
+	"wp" : "https://en.wikipedia.org/wiki/Princess_Nicotine;_or,_The_Smoke_Fairy",
+        "title": "Princess Nicotine; or, The Smoke Fairy",
+        "year": 1909
+    },
     "http://www.imdb.com/title/tt0001544/": {
         "freenessurl": "https://archive.org/details/AChristmasCarol_201508",
         "status": "free",
