@@ -2,21 +2,28 @@
 
 """
 Extract IMDB IDs of movies listed as in the public domain on
-www.publicdomainmoves.info.
+www.publicdomainmoves.info.  Find IMDB title id by checking linked
+Wikipedia info pages for links to IMDB.
 """
 
 import json
 import lxml.html
+import re
+import time
 import urllib2
 import urlparse
 
-summaryurl = 'http://publicdomainmovies.info/all-movies/'
-
 def http_get_read(url):
     opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
+    opener.addheaders = [('User-Agent', 'public-domain-movie-locator/0.0')]
+    # Try several times in case the first one fail
+    for tries in xrange(0,3):
+        try:
+            f = opener.open(url)
+            return f.read()
+        except:
+            print("Retrying %s in 20 seconds" % url)
+            time.sleep(20)
 
 def savelist(l, name = None):
     if not name:
@@ -27,13 +34,31 @@ def savelist(l, name = None):
                   sort_keys=True,
                   indent=4,
                   separators=(',', ': '))
+def wp_lookup(wpurl):
+    m = re.search('^(.*wikipedia.org)/wiki/(.+)', wpurl, re.IGNORECASE)
+    url = "%s/w/index.php?title=%s&action=edit" % (m.group(1),m.group(2))
+    text = http_get_read(url)
+    for line in text.split("\n"):
+        if -1 != line.lower().find('{{imdb title'):
+            m = re.search("{{IMDb title *\| *(id=)?(tt)?(\d+) *(\|?.+}})?",
+                          line, re.IGNORECASE)
+            if m:
+                # Normalize URLs to 7 digit numbers, as some wikipedia
+                # pages have more or less digits.
+                imdburl = 'http://www.imdb.com/title/tt%07d/' % int(m.group(3))
+                return imdburl
+            else:
+                print("info: '%s' ignored" % line)
+    return None
 
 def get_movie_info(entryurl):
     try:
         root = lxml.html.fromstring(http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
-    for a in root.cssselect("div.content a[href]"):
+    imdburl = None
+    e = {}
+    for a in root.cssselect("a[href]"):
         #print a.attrib['href'], a.attrib['href'].find("imdb")
         if -1 != a.attrib['href'].find("imdb.com"):
             imdburl = a.attrib['href']
@@ -46,11 +71,14 @@ def get_movie_info(entryurl):
             if '/' != imdburl[-1]:
                 imdburl = imdburl + '/'
             #print imdburl
-            return imdburl
-    print("Unable to find IMDB id for %s" % entryurl)
-    return entryurl
+            e['imdb'] = imdburl
+        if -1 != a.attrib['href'].find("wikipedia.org/wiki") \
+           and -1 != a.text_content().lower().find('info'):
+            e['wp'] = a.attrib['href']
+            e['imdb'] =  wp_lookup(e['wp'])
+    return e
 
-def get_movie_list(l):
+def get_movie_list(summaryurl, l):
     print summaryurl
     try:
         root = lxml.html.fromstring(http_get_read(summaryurl))
@@ -60,18 +88,41 @@ def get_movie_list(l):
     for a in root.cssselect("ul.wsp-posts-list li.wsp-post a"):
         title = a.text_content()
         entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
-        print title, entryurl
-        #e = get_movie_info(entryurl)
-        e = entryurl
-        if e:
-            l[e] = {
-                'status' : 'free',
-                'freenessurl' : entryurl,
-                'title' : title,
-            }
-            count = count + 1
+        #print title, entryurl
+        e = get_movie_info(entryurl)
+        ref = entryurl
+        if 'imdb' in e: # There are no IMDB links at time of writing
+            ref = e['imdb']
+        l[ref] = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'title' : title,
+        }
+        if 'wp' in e:
+            l[ref]['wp'] = e['wp']
+        count = count + 1
     return count
 
-l = {}
-get_movie_list(l)
-savelist(l)
+def main():
+    summaryurl = 'http://publicdomainmovies.info/all-movies/'
+    l = {}
+    get_movie_list(summaryurl, l)
+    savelist(l)
+
+def test_match():
+    get_movie_info('http://publicdomainmovies.info/amazing-mr-x-full-movie/')
+    for line in [
+            '* {{IMDb title|0005339|A Fool There Was}}',
+            '*{{IMDb title|id=0013704|title=The Trap}}',
+            '*{{IMDb title|id=0036697|title=Captain America}}',
+    ]:
+        m = re.search("{{IMDb title\|(id=)?(\d+)(\|?.+}})?", line)
+        if m is not None:
+            imdburl = 'http://www.imdb.com/title/tt%s/' % m.group(2)
+            print imdburl
+        else:
+            print("Error %s" % line)
+
+if __name__ == '__main__':
+    #test_match()
+    main()
