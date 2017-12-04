@@ -52,6 +52,12 @@
         "title": "The Cake-Walk Infernal",
         "year": 1903
     },
+    "http://www.imdb.com/title/tt0000464/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/rip_van_winkle_1896",
+        "title": "Rip Van Winkle",
+        "year": 1903
+    },
     "http://www.imdb.com/title/tt0178812/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/PanoramaViewStreetCarMotorRoom1904",
@@ -69,6 +75,13 @@
         "status": "free",
         "title": "The Frog",
         "year": 1908
+    },
+    "http://www.imdb.com/title/tt0000682/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/Fantasmagorie",
+	"wp" : "https://en.wikipedia.org/wiki/Fantasmagorie_(1908_film)",
+	"title" : "A Fantasy",
+	"year" : 1908
     },
     "http://www.imdb.com/title/tt1726032/": {
         "freenessurl": "https://archive.org/details/LeVoleurInvisible",
@@ -249,6 +262,12 @@
         "status": "free",
         "title": "Tales of Tomorrow #15: The Dune Roller",
         "year": "1952"
+    },
+    "http://www.imdb.com/title/tt0152431/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/popeye_shuteye_popeye",
+	"title" : "Shuteye Popeye",
+	"year" : 1952
     },
     "http://www.imdb.com/title/tt0699412/": {
 	"status" : "free",
@@ -1143,6 +1162,13 @@
         "title": "Women Side by Side",
         "year": "1949"
     },
+    "http://www.imdb.com/title/tt0041866/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/she_wore_a_yellow_ribbon_1949",
+	"wp" : "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+	"title" : "She Wore A Yellow Ribbon",
+	"year" : 1949
+    },
     "http://www.imdb.com/title/tt0054033/": {
         "freenessurl": "https://archive.org/details/Little_ShopOf_Horrors.avi",
         "status": "free",
@@ -1178,6 +1204,14 @@
         "status": "free",
         "title": "1971 Der Sch\u00f6ne Sigmar (The beautiful Sigmar)",
         "year": "1970"
+    },
+    "http://www.imdb.com/title/tt0067038/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/EagleInACage",
+        "archive": "https://archive.org/details/EagleInACage_201511",
+        "archive2": "https://archive.org/details/EagleinaCage_201410",
+        "title": "Eagle in a Cage",
+        "year": "1972"
     },
     "http://www.imdb.com/title/tt1166827/": {
         "freenessurl": "https://archive.org/details/ZEITGEIST-REMASTERED",
