@@ -1,5 +1,11 @@
-#!/usr/bin/gnuplot -persist
+#!/bin/bash
+input="$1"
+if [ -z "$input" ] ; then
+    input=histogram-year.data
+fi
+cat <<EOF | /usr/bin/gnuplot -persist
 set terminal png large size 512,256
 set output 'histogram-year.png'
 set grid
-plot "histogram-year.data" with impulses notitle
+plot "$input" with impulses notitle
+EOF
