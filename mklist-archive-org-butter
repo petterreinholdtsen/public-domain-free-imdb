@@ -27,7 +27,9 @@ Removing the 'year' requirement result in several thousand entries more.
 """
     # Search term:
     term = """
-collection:moviesandfilms
+(collection:moviesandfilms
+OR collection:animationandcartoons
+OR collection:classic_cartoons)
 AND NOT collection:movie_trailers
 AND NOT collection:sabucat_trailers
 AND NOT collection:stock_footage
