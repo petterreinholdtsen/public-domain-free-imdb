@@ -133,6 +133,12 @@
         "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett",
 	"year" : 1913
     },
+    "http://www.imdb.com/title/tt0007361/": {
+	"status" : "free",
+	"freenessurl" : "https://upload.wikimedia.org/wikipedia/commons/9/9a/Snow_White_%281916%29.webm",
+	"title" : "Snow White",
+	"wp" : "https://en.wikipedia.org/wiki/Snow_White_(1916_film)"
+    },
     "http://www.imdb.com/title/tt0008975/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/CASACLBusterKeatonTheCook",
