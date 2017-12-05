@@ -36,11 +36,13 @@ def savelist(l, name = None):
                   separators=(',', ': '))
 def wp_lookup(wpurl):
     m = re.search('^(.*wikipedia.org)/wiki/(.+)', wpurl, re.IGNORECASE)
-    url = "%s/w/index.php?title=%s&action=edit" % (m.group(1),m.group(2))
+    url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
+    #print(url)
     text = http_get_read(url)
     for line in text.split("\n"):
+        #print line
         if -1 != line.lower().find('{{imdb title'):
-            m = re.search("{{IMDb title *\| *(id=)?(tt)?(\d+) *(\|?.+}})?",
+            m = re.search("\* ?{{IMDb title *\| *(id=)?(tt)?(\d+) *(\|?.+}})?",
                           line, re.IGNORECASE)
             if m:
                 # Normalize URLs to 7 digit numbers, as some wikipedia
@@ -48,7 +50,7 @@ def wp_lookup(wpurl):
                 imdburl = 'http://www.imdb.com/title/tt%07d/' % int(m.group(3))
                 return imdburl
             else:
-                print("info: '%s' ignored" % line)
+                print("info: '%s' ignored in %s" % (line, wpurl))
     return None
 
 def get_movie_info(entryurl):
@@ -111,10 +113,12 @@ def main():
 
 def test_match():
     get_movie_info('http://publicdomainmovies.info/amazing-mr-x-full-movie/')
+    print(get_movie_info('http://publicdomainmovies.info/brain-wouldnt-die-full-movie/'))
     for line in [
             '* {{IMDb title|0005339|A Fool There Was}}',
             '*{{IMDb title|id=0013704|title=The Trap}}',
             '*{{IMDb title|id=0036697|title=Captain America}}',
+            '* {{IMDb title|id=0052646}}',
     ]:
         m = re.search("{{IMDb title\|(id=)?(\d+)(\|?.+}})?", line)
         if m is not None:
