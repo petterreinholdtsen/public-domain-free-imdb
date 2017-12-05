@@ -38,7 +38,13 @@
 	"freenessurl" : "https://archive.org/details/LeDiableAuCouvent",
 	"wp" : "https://en.wikipedia.org/wiki/The_Devil_in_a_Convent",
 	"title" : "The Devil in a Convent",
-	"year" : 1999
+	"year" : 1899
+    },
+    "http://www.imdb.com/title/tt0000264/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/EvocationSpirite",
+	"title" : "Évocation spirite",
+	"year" : 1899
     },
     "http://www.imdb.com/title/tt0132534/" : {
 	"status" : "free",
