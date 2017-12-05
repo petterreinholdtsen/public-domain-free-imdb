@@ -71,6 +71,12 @@
         "title": "Alice in Wonderland (1915 film)",
         "wp": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1915_film)"
     },
+    "http://www.imdb.com/title/tt0004972/": {
+        "freenessurl": "http://publicdomainmovies.info/birth-nation-1915-originally-called-clansman/",
+        "status": "free",
+        "title": "The Birth of a Nation, 1915 (originally called The Clansman)",
+        "wp": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation"
+    },
     "http://www.imdb.com/title/tt0005060/": {
         "freenessurl": "http://publicdomainmovies.info/carmen-1915-directed-cecil-b-demille/",
         "status": "free",
@@ -112,12 +118,6 @@
         "status": "free",
         "title": "American Aristocracy, 1916 starring Douglas Fairbanks",
         "wp": "https://en.wikipedia.org/wiki/American_Aristocracy"
-    },
-    "http://www.imdb.com/title/tt0006664/": {
-        "freenessurl": "http://publicdomainmovies.info/birth-nation-1915-originally-called-clansman/",
-        "status": "free",
-        "title": "The Birth of a Nation, 1915 (originally called The Clansman)",
-        "wp": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation"
     },
     "http://www.imdb.com/title/tt0006780/": {
         "freenessurl": "http://publicdomainmovies.info/hells-hinges-1916/",
@@ -340,6 +340,12 @@
         "status": "free",
         "title": "West of Hot Dog, starring Stan Laurel",
         "wp": "https://en.wikipedia.org/wiki/West_of_Hot_Dog"
+    },
+    "http://www.imdb.com/title/tt0015758/": {
+        "freenessurl": "http://publicdomainmovies.info/don-q-son-zorro-1925-starring-douglas-fairbanks/",
+        "status": "free",
+        "title": "Don Q, Son of Zorro, 1925 starring Douglas Fairbanks",
+        "wp": "https://en.wikipedia.org/wiki/Don_Q,_Son_of_Zorro"
     },
     "http://www.imdb.com/title/tt0015864/": {
         "freenessurl": "http://publicdomainmovies.info/gold-rush-1925-charlie-chaplin/",
@@ -1019,6 +1025,12 @@
         "title": "Manos: The Hands of Fate, 1966",
         "wp": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
     },
+    "http://www.imdb.com/title/tt0063350/": {
+        "freenessurl": "http://publicdomainmovies.info/night-of-the-living-dead-1968/",
+        "status": "free",
+        "title": "Night of the Living Dead (1968)",
+        "wp": "http://en.wikipedia.org/wiki/Night_of_the_Living_Dead"
+    },
     "http://www.imdb.com/title/tt0086141/": {
         "freenessurl": "http://publicdomainmovies.info/prisoners-lost-universe-1983/",
         "status": "free",
@@ -1060,11 +1072,5 @@
         "status": "free",
         "title": "My Japan, 1945 propaganda film",
         "wp": "https://en.wikipedia.org/wiki/My_Japan"
-    },
-    "http://www.imdb.com/title/tt2006801/": {
-        "freenessurl": "http://publicdomainmovies.info/night-of-the-living-dead-1968/",
-        "status": "free",
-        "title": "Night of the Living Dead (1968)",
-        "wp": "http://en.wikipedia.org/wiki/Night_of_the_Living_Dead"
     }
 }
