@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 
 """
-Search for movies in the Internet Archive similar to how the Butter
-plugin do it, and output the list with IMDB title IDs similar to the
-other list of free movies.  Look for IMDB title references in the
-description and other relevant tags.
+Search for movies in the Internet Archive, and output the list with
+IMDB title IDs similar to the other list of free movies.  Look for
+IMDB title references in the description and other relevant tags.
+
+It is based on  how the Butter plugin search for movies, but extended
+to get more hits.
 
 If the search result do not return a IMDB ID, see if the wikidata set
 or the manually created data set have such ID and use this one.
@@ -77,11 +79,19 @@ def loadlist(l, path):
         with open(path, 'rt') as input:
             n = json.load(input)
             for id in n.keys():
+                freenessurl = []
+                for field in ['freenessurl', 'archive', 'archive1', 'archive2',
+                              'archive3', 'archive4', 'archive5', 'archive6']:
+                    if field in n[id] and n[id][field] not in freenessurl:
+                        freenessurl.append(n[id][field])
+                        del n[id][field]
+                n[id]['freenessurl'] = freenessurl
                 if not id in l:
                     l[id] = n[id]
                 else:
-                    if n[id]['freenessurl'] != l[id]['freenessurl']:
-                        l[id]['archive'] = n[id]['freenessurl']
+                    for url in n[id]['freenessurl']:
+                        if url not in l[id]['freenessurl']:
+                            l[id]['freenessurl'].append(url)
     except IOError as e:
         return {}
 
@@ -115,19 +125,23 @@ def main():
             if 'stripped_tags' in e:
                 for i in locate_imdb_refs(e['stripped_tags']):
                     imdbmap[i] = True
+                    # Pick the first title if the result is a list
+                    if list == type(e['title']):
+                        e['title'] = sorted(e['title'])[0]
             fle = {
                 'status' : 'free',
-                'freenessurl' : freenessurl,
+                'freenessurl' : [freenessurl],
                 'title' : e['title'],
                 }
             if 'year' in e:
                 fle['year'] = e['year']
+            # Check if the archive.org ID already have a known IMDB title ID
             if 0 == len(imdbmap.keys()):
                 for wpimdb in wplist.keys():
-                    for field in ['freenessurl', 'archive']:
-                        if field in wplist[wpimdb] \
-                           and wplist[wpimdb][field] == freenessurl:
-                            imdbmap[wpimdb] = True
+                    if 'freenessurl' in wplist[wpimdb] \
+                       and freenessurl in wplist[wpimdb]['freenessurl']:
+                        imdbmap[wpimdb] = True
+            # If not, use archive.org ID as unique ID
             if 0 == len(imdbmap.keys()):
                 imdbmap[freenessurl] = True
             for i in imdbmap.keys():
@@ -136,26 +150,27 @@ def main():
                 else:
                     if 'year' in fle and 'year' not in outlist[i]:
                         outlist[i]['year'] = fle['year']
-                    if 'archive' not in outlist[i]:
-                        outlist[i]['archive'] = fle['freenessurl']
-                    elif 'archive2' not in outlist[i]:
-                        outlist[i]['archive2'] = fle['freenessurl']
-                    elif 'archive3' not in outlist[i]:
-                        outlist[i]['archive3'] = fle['freenessurl']
-                    elif 'archive4' not in outlist[i]:
-                        outlist[i]['archive4'] = fle['freenessurl']
-                    elif 'archive5' not in outlist[i]:
-                        outlist[i]['archive5'] = fle['freenessurl']
-                    elif 'archive6' not in outlist[i]:
-                        outlist[i]['archive6'] = fle['freenessurl']
-                    elif 'archive7' not in outlist[i]:
-                        outlist[i]['archive7'] = fle['freenessurl']
-                    elif 'archive8' not in outlist[i]:
-                        outlist[i]['archive8'] = fle['freenessurl']
-                    else:
-                        outlist[i]['archive9'] = fle['freenessurl']
+                    if freenessurl not in outlist[i]['freenessurl']:
+                        outlist[i]['freenessurl'].append(freenessurl)
         page = page + 1
         time.sleep(3)
+    # Rewrite freenessurl array to individual fields (freenessurl,
+    # archive, archive1...) in predictable/sorted order
+    for i in outlist:
+        if 1 == len(outlist[i]['freenessurl']):
+            outlist[i]['freenessurl'] = outlist[i]['freenessurl'][0]
+        else:
+            sl = sorted(outlist[i]['freenessurl'])
+            outlist[i]['freenessurl'] = sl[0]
+            seq = 0
+            for u in sl[1:]:
+                if 0 == seq:
+                    field = 'archive'
+                else:
+                    field = "archive%d" % seq
+                outlist[i][field] = u
+                seq = seq + 1
+                
     savelist(outlist)
 
     print("Wrote %d" % len(outlist.keys()))
