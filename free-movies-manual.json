@@ -1085,6 +1085,14 @@
 	"title" : "Old Khottabych",
 	"year" : 1956
     },
+
+    "http://www.imdb.com/title/tt0443784/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/working_dollars",
+	"archive" : "https://archive.org/details/WorkingD1957",
+	"title" : "Working Dollar",
+	"year" : 1956
+    },
     "http://www.imdb.com/title/tt0027286/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/TheAmazingAdventure",
