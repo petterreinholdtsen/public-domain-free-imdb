@@ -5,11 +5,11 @@ stats:
 
 listupdate:
 	./mklist-wikidata-archive-org
+	./mklist-archive-org-search
 	./mklist-publicdomaintorrents
 	./mklist-vodo
 	./mklist-imdb-pd
 	./mklist-imdb-pd --dubious-list --output free-movies-imdb-dubious.json
-	./mklist-archive-org-butter
 	./mklist-icheckmovies-archive-mochard
 	./mklist-publicdomainmovies-net
 	./mklist-publicdomainreview

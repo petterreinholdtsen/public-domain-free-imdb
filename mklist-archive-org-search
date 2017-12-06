@@ -87,7 +87,7 @@ def loadlist(l, path):
 
 def savelist(l, name = None):
     if not name:
-        name = 'free-movies-archive-org-butter.json'
+        name = 'free-movies-archive-org-search.json'
     with open(name, 'wt') as out:
         json.dump(l,
                   out,
