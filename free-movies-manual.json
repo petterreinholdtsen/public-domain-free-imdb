@@ -1090,6 +1090,13 @@
         "title": "Now I'm Yours",
         "year": 2013
     },
+    "http://www.imdb.com/title/tt1629747/": {
+	"status" : "free",
+	"freenessurl" : "http://www.frostclick.com/wp/index.php/2013/05/18/the-cosmonaut/",
+	"wp" : "https://en.wikipedia.org/wiki/The_Cosmonaut",
+	"title" : "The Cosmonaut",
+	"year" : 2013
+    },
     "http://www.imdb.com/title/tt6114494/": {
         "freenessurl": "http://vodo.net/artistsmovingimage/selvesunknown/",
         "status": "free",
