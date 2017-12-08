@@ -37,6 +37,7 @@ AND NOT collection:sabucat_trailers
 AND NOT collection:stock_footage
 AND NOT collection:home_movies
 AND NOT collection:prelinger_mashups
+AND NOT collection:brick_films
 AND -mediatype:collection
 AND format:"Archive BitTorrent"
 """
