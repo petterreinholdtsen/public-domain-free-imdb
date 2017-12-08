@@ -126,9 +126,9 @@ def main():
             if 'stripped_tags' in e:
                 for i in locate_imdb_refs(e['stripped_tags']):
                     imdbmap[i] = True
-                    # Pick the first title if the result is a list
-                    if list == type(e['title']):
-                        e['title'] = sorted(e['title'])[0]
+            # Pick the first title if the result is a list
+            if list == type(e['title']):
+                e['title'] = sorted(e['title'])[0]
             fle = {
                 'status' : 'free',
                 'freenessurl' : [freenessurl],
