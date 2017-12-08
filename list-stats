@@ -7,61 +7,65 @@ Calculate and report some statistics for each data source JSON file.
 import argparse
 import json
 
-parser = argparse.ArgumentParser()
-parser.add_argument('files', metavar='N', type=str, nargs='*',
-                    default=['free-movies-manual.json'],
-                    help='input file(s)')
-parser.add_argument('--list-unique', action='store_true', default=False)
-args = parser.parse_args()
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('files', metavar='N', type=str, nargs='*',
+                        default=['free-movies-manual.json'],
+                        help='input file(s)')
+    parser.add_argument('--list-unique', action='store_true', default=False)
+    args = parser.parse_args()
 
-m = {}
-s = {}
-i = {}
+    m = {}
+    s = {}
+    i = {}
 
-for file in args.files:
-    with open(file, 'rt') as input:
-        l = json.load(input)
-        imdb = 0
-        noimdb = 0
-        for e in l:
-            if not dict is type(l[e]): # Ignore comment entries
-                continue
-            if 'status' in l[e] and "free" == l[e]['status']:
-               if -1 != e.find('/www.imdb.com/title/'):
-                  imdb = imdb + 1
-                  if e not in m:
-                      m[e] = []
-                  m[e].append(file)
-               else:
-                   noimdb = noimdb + 1
-               s[file] = {
-                   'imdb' : imdb,
-                   'noimdb' : noimdb,
-               }
-               i[e] = l[e]
+    for file in args.files:
+        with open(file, 'rt') as input:
+            l = json.load(input)
+            imdb = 0
+            noimdb = 0
+            for e in l:
+                if not dict is type(l[e]): # Ignore comment entries
+                    continue
+                if 'status' in l[e] and "free" == l[e]['status']:
+                   if -1 != e.find('/www.imdb.com/title/'):
+                      imdb = imdb + 1
+                      if e not in m:
+                          m[e] = []
+                      m[e].append(file)
+                   else:
+                       noimdb = noimdb + 1
+                   s[file] = {
+                       'imdb' : imdb,
+                       'noimdb' : noimdb,
+                   }
+                   i[e] = l[e]
 
-usum = 0
-for file in sorted(s.keys()):
-    unique = 0
-    for imdburl in m.keys():
-        if m[imdburl] == [file]:
-            unique = unique + 1
-    print("%5d entries (%5d unique) with and %5d without IMDB title ID in %s"
-          % (s[file]['imdb'], unique, s[file]['noimdb'], file))
-    usum = usum + unique
-    if args.list_unique:
-        for imdburl in sorted(m.keys()):
+    usum = 0
+    for file in sorted(s.keys()):
+        unique = 0
+        for imdburl in m.keys():
             if m[imdburl] == [file]:
-                if 'year' in i[imdburl]:
-                    y = i[imdburl]['year']
-                else:
-                    y = ""
-                if 'title' in i[imdburl]:
-                    t = i[imdburl]['title']
-                else:
-                    t = ""
-                msg = "        %s %4s %s" % (imdburl, y, t)
-                print(msg.encode('utf-8'))
+                unique = unique + 1
+        print("%5d entries (%5d unique) with and %5d without IMDB title ID in %s"
+              % (s[file]['imdb'], unique, s[file]['noimdb'], file))
+        usum = usum + unique
+        if args.list_unique:
+            for imdburl in sorted(m.keys()):
+                if m[imdburl] == [file]:
+                    if 'year' in i[imdburl]:
+                        y = i[imdburl]['year']
+                    else:
+                        y = ""
+                    if 'title' in i[imdburl]:
+                        t = i[imdburl]['title']
+                    else:
+                        t = ""
+                    msg = "        %s %4s %s" % (imdburl, y, t)
+                    print(msg.encode('utf-8'))
 
-print("%5d unique IMDB title IDs in total, %d only in one list" %
-      (len(m.keys()), usum))
+    print("%5d unique IMDB title IDs in total, %d only in one list" %
+          (len(m.keys()), usum))
+
+if __name__ == '__main__':
+    main()
