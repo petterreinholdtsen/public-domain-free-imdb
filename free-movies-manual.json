@@ -1,4 +1,22 @@
 {
+    "http://www.imdb.com/title/tt0000001/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/1894WilliamK.L.DicksonCarmencita.3gp",
+        "title": "Carmencita",
+	"year" : 1894
+    },
+    "http://www.imdb.com/title/tt0309396/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/1894WilliamK.L.DicksonWilliamHeiseBuckingBronco.3gp",
+        "title": "Bucking Bronco",
+	"year" : 1894
+    },
+    "http://www.imdb.com/title/tt0241715/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/1891WilliamK.L.DicksonWilliamHeiseMenBoxing.3gp",
+        "title": "Men Boxing",
+	"year" : 1991
+    },
     "http://www.imdb.com/title/tt0000005/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/blacksmith1893",
@@ -479,6 +497,12 @@
         "status": "free",
         "title": "Still Lover",
         "year": 2003
+    },
+    "http://www.imdb.com/title/tt1506230/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/RVB01",
+        "title": "Red vs. Blue Episode 01",
+	"year" : 2003
     },
     "http://www.imdb.com/title/tt1381678/": {
         "freenessurl": "http://vodo.net/schaferkotter/spaceman/",
