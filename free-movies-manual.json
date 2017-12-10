@@ -450,6 +450,12 @@
         "title": "Pentagon",
         "year": 2008
     },
+    "http://www.imdb.com/title/tt2113686/": {
+	"status" : "free",
+	"freenessurl" : "https://creativecommons.org/2011/11/18/first-spanish-cc-movie-premieres-in-spanish-cinema-interferencies/",
+	"title" : "Interferències",
+	"year" : 2011
+    },
     "http://www.imdb.com/title/tt2123145/": {
         "freenessurl": "http://vodo.net/robel-films/nodevil/",
         "status": "free",
@@ -894,7 +900,7 @@
         "title": "Half Empty",
         "year": 2010
     },
-    "": {
+    "http://www.imdb.com/title/tt1753743/": {
 	"status" : "free",
 	"freenessurl" : "https://www.aftenposten.no/kultur/i/vAVdL/Spillefilm-far-premiegravere-pa-The-Pirate-Bay",
 	"wp" :"https://sv.wikipedia.org/wiki/Du_sk%C3%B6na",
@@ -1291,6 +1297,12 @@
         "archive2": "https://archive.org/details/EagleinaCage_201410",
         "title": "Eagle in a Cage",
         "year": "1972"
+    },
+    "http://www.imdb.com/title/tt1265599/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/insecurity",
+        "title": "Insecurity",
+        "year": "2007"
     },
     "http://www.imdb.com/title/tt1166827/": {
         "freenessurl": "https://archive.org/details/ZEITGEIST-REMASTERED",
