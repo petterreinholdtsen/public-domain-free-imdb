@@ -807,6 +807,27 @@
 	"title" : "Freddy's Return: A Nightmare Reborn",
 	"year" : 2009
     },
+    "http://www.imdb.com/title/tt1199787/": {
+        "status": "free",
+	"freenessurl": "https://archive.org/details/OCEANIA-an-independent-film-from-the-San-Francisco-Bay-Area",
+        "title": "Oceania",
+        "year": "2008"
+    },
+    "http://www.imdb.com/title/tt0499004/": {
+	"status" : "free",
+	"freenessurl" : "https://waxy.org/2009/07/code_rush_in_the_creative_commons/",
+	"archive" : "https://archive.org/details/CodeRush",
+	"archive2" : "https://archive.org/details/CodeRush_616",
+	"wp" : "https://en.wikipedia.org/wiki/Code_Rush",
+	"title" : "Code Rush",
+	"year" : 2010
+    },
+    "http://www.imdb.com/title/tt1669706/": {
+        "status": "free",
+	"freenessurl" : "http://www.valkaama.com",
+        "title": "Valkaama",
+        "year": "2010"
+    },
     "http://www.imdb.com/title/tt1636631/": {
         "freenessurl": "http://vodo.net/twisty-headed-man-company/tenementghost/",
         "status": "free",
@@ -872,6 +893,13 @@
         "status": "free",
         "title": "Half Empty",
         "year": 2010
+    },
+    "": {
+	"status" : "free",
+	"freenessurl" : "https://www.aftenposten.no/kultur/i/vAVdL/Spillefilm-far-premiegravere-pa-The-Pirate-Bay",
+	"wp" :"https://sv.wikipedia.org/wiki/Du_sk%C3%B6na",
+	"title" : "Du sköna",
+	"year" : 2010
     },
     "http://www.imdb.com/title/tt1553290/": {
         "freenessurl": "http://vodo.net/theundergroundmultiplex/scumbabies/",
