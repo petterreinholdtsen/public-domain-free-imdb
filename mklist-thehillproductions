@@ -1,0 +1,78 @@
+#!/usr/bin/env python
+
+import json
+import lxml.html
+import re
+import urllib2
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'public-domain-movie-locator/0.0')]
+    # Try several times in case the first one fail
+    for tries in xrange(0,3):
+        try:
+            f = opener.open(url)
+            return f.read()
+        except:
+            print("Retrying %s in 20 seconds" % url)
+            time.sleep(20)
+
+def savelist(l, name = None):
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def fetch_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    retval = {}
+    for a in root.cssselect("a[href]"):
+        link = a.attrib['href']
+        if -1 != link.find('imdb.com/title/'):
+            retval['imdb'] = link
+    titleyear = root.cssselect("header h1")[0].text_content()
+    #print titleyear
+    m = re.search("^(.+) \((\d+)\)$", titleyear)
+    retval['title'] = m.group(1)
+    retval['year'] = int(m.group(2))
+    return retval
+    
+def fetch_movie_list(url):
+    list = {}
+    try:
+        root = lxml.html.fromstring(http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("div.symple-column a[onclick]"):
+        entryurl = a.attrib['href']
+        # Skip 'coming soon' entries
+        if 'http://www.thehillproductions.com/#' != entryurl:
+            # Add trailing slash if missing, to avoid HTTP redirect
+            if '/' != entryurl[-1]:
+                entryurl = entryurl + '/'
+            #print entryurl
+            info = fetch_movie_info(entryurl)
+            #print info
+            ref = entryurl
+            if 'imdb' in info:
+                ref = info['imdb']
+            list[ref] = {
+                'status' : 'free',
+                'freenessurl' : entryurl,
+                'title' : info['title'],
+                'year' : info['year'],
+                }
+    return list
+
+def main():
+    url = "http://www.thehillproductions.com/"
+    l = fetch_movie_list(url)
+    savelist(l, name='free-movies-thehillproductions.json')
+
+if __name__ == '__main__':
+    main()
