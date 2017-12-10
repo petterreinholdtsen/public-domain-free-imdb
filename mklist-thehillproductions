@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+"""
+Fetch list of movies made by The Hill Productions.  All their movies
+are Creative Commons licensed.
+
+"""
+
 import json
 import lxml.html
 import re
