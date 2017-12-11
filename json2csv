@@ -15,7 +15,7 @@ parser.add_argument('files', metavar='N', type=str, nargs='*',
                     help='input file(s)')
 args = parser.parse_args()
 
-keys = ['status', 'year', 'title', 'idurl', 'freenessurl', 'archive',
+keys = ['status', 'year', 'idurl', 'title', 'freenessurl', 'archive',
         'wp', 'wdurl', 'vodo', 'comment']
 
 completeset = {}
@@ -27,14 +27,14 @@ for file in args.files:
             if not id in completeset:
                 completeset[id] = j[id]
             else:
-                print(file,id)
+                #print(file,id)
                 if 'freenessurl' in completeset[id] \
                    and 'freenessurl' in j[id] \
                    and j[id]['freenessurl'] != completeset[id]['freenessurl']:
                     completeset[id]['archive'] = j[id]['freenessurl']
 
 #writer.writerow(keys)
-for id in completeset.keys():
+for id in sorted(completeset.keys()):
     if -1 == id.find("/www.imdb.com/title/"):
         continue
     if 'status' not in completeset[id] or 'free' != completeset[id]['status']:
