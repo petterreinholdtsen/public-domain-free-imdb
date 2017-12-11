@@ -12,18 +12,7 @@ import re
 import time
 import urllib2
 import urlparse
-
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'public-domain-movie-locator/0.0')]
-    # Try several times in case the first one fail
-    for tries in xrange(0,3):
-        try:
-            f = opener.open(url)
-            return f.read()
-        except:
-            print("Retrying %s in 20 seconds" % url)
-            time.sleep(20)
+import movielib
 
 def savelist(l, name = None):
     if not name:
@@ -34,28 +23,10 @@ def savelist(l, name = None):
                   sort_keys=True,
                   indent=4,
                   separators=(',', ': '))
-def wp_lookup(wpurl):
-    m = re.search('^(.*wikipedia.org)/wiki/(.+)', wpurl, re.IGNORECASE)
-    url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
-    #print(url)
-    text = http_get_read(url)
-    for line in text.split("\n"):
-        #print line
-        if -1 != line.lower().find('{{imdb title'):
-            m = re.search("\* ?{{IMDb title *\| *(id=)?(tt)?(\d+) *(\|?.+}})?",
-                          line, re.IGNORECASE)
-            if m:
-                # Normalize URLs to 7 digit numbers, as some wikipedia
-                # pages have more or less digits.
-                imdburl = 'http://www.imdb.com/title/tt%07d/' % int(m.group(3))
-                return imdburl
-            else:
-                print("info: '%s' ignored in %s" % (line, wpurl))
-    return None
 
 def get_movie_info(entryurl):
     try:
-        root = lxml.html.fromstring(http_get_read(entryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
     imdburl = None
@@ -77,13 +48,13 @@ def get_movie_info(entryurl):
         if -1 != a.attrib['href'].find("wikipedia.org/wiki") \
            and -1 != a.text_content().lower().find('info'):
             e['wp'] = a.attrib['href']
-            e['imdb'] =  wp_lookup(e['wp'])
+            e['imdb'] =  movielib.wikipedia_lookup(e['wp'])
     return e
 
 def get_movie_list(summaryurl, l):
     print summaryurl
     try:
-        root = lxml.html.fromstring(http_get_read(summaryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
         return "n/a"
     count = 0

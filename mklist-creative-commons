@@ -8,6 +8,8 @@ import json
 import lxml.html
 import re
 import urllib2
+import urlparse
+import movielib
 
 def http_get_read(url):
     opener = urllib2.build_opener()
@@ -29,8 +31,7 @@ def savelist(l, name = None):
                   indent=4,
                   separators=(',', ': '))
 
-def fetch_wikipedia_list(url):
-    list = {}
+def fetch_wikipedia_list(list, url):
     try:
         root = lxml.html.fromstring(http_get_read(url))
     except urllib2.HTTPError as e:
@@ -48,10 +49,42 @@ def fetch_wikipedia_list(url):
                 }
     return list
 
+def fetch_wikipedia_category(list, url):
+    try:
+        root = lxml.html.fromstring(http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("div#mw-pages div.mw-content-ltr a[href]"):
+        entryurl = urlparse.urljoin(url, a.attrib['href'])
+        imdb =  movielib.wikipedia_lookup(entryurl)
+        ref = entryurl
+        if imdb:
+            ref = imdb
+        if -1 != entryurl.find('/wiki/'):
+            print entryurl, ref
+            list[ref] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                'wp' : entryurl
+                #'title' : info['title'],
+                #'year' : info['year'],
+                }
+    return list
+
 def main():
     # List from English Wikipedia
     url = "https://en.wikipedia.org/wiki/List_of_open-source_films"
-    l = fetch_wikipedia_list(url)
+    l = {}
+    l = fetch_wikipedia_list(l, url)
+
+    # List of Creative Commons licenced movies on English Wikipedia
+    urls = [
+        "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+    ]
+    for c in urls:
+        l = fetch_wikipedia_category(l, c)
     savelist(l, name='free-movies-creative-commons.json')
 
 if __name__ == '__main__':
