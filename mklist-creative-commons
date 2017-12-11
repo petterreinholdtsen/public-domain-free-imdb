@@ -1,0 +1,58 @@
+#!/usr/bin/env python
+
+"""
+Fetch list of movies with Creative Commons licensing.
+"""
+
+import json
+import lxml.html
+import re
+import urllib2
+
+def http_get_read(url):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-Agent', 'public-domain-movie-locator/0.0')]
+    # Try several times in case the first one fail
+    for tries in xrange(0,3):
+        try:
+            f = opener.open(url)
+            return f.read()
+        except:
+            print("Retrying %s in 20 seconds" % url)
+            time.sleep(20)
+
+def savelist(l, name = None):
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
+
+def fetch_wikipedia_list(url):
+    list = {}
+    try:
+        root = lxml.html.fromstring(http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("a[href]"):
+        entryurl = a.attrib['href']
+        # Only pick imdb.com links
+        if -1 != entryurl.find('imdb.com/title/'):
+            print entryurl
+            list[entryurl] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                #'title' : info['title'],
+                #'year' : info['year'],
+                }
+    return list
+
+def main():
+    # List from English Wikipedia
+    url = "https://en.wikipedia.org/wiki/List_of_open-source_films"
+    l = fetch_wikipedia_list(url)
+    savelist(l, name='free-movies-creative-commons.json')
+
+if __name__ == '__main__':
+    main()
