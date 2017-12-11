@@ -4,7 +4,7 @@ stats:
 	./list-stats free-movies-*.json
 
 listupdate:
-	./mklist-wikidata-archive-org
+	./mklist-archive-org-wikidata
 	./mklist-archive-org-search
 	./mklist-publicdomaintorrents
 	./mklist-vodo
