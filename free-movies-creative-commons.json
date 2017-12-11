@@ -1,47 +1,156 @@
 {
+    "http://www.imdb.com/title/tt0094265/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/La_Vie_est_Belle_(1987_film)"
+    },
+    "http://www.imdb.com/title/tt0141858/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/A_Story_of_Healing"
+    },
+    "http://www.imdb.com/title/tt0162922/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/The_Draughtsmen_Clash"
+    },
     "http://www.imdb.com/title/tt0428288/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt0460402/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/BBS:_The_Documentary"
+    },
     "http://www.imdb.com/title/tt0472566/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Star_Wreck:_In_the_Pirkinning"
+    },
+    "http://www.imdb.com/title/tt0499004/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Code_Rush"
     },
     "http://www.imdb.com/title/tt0807840/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Elephants_Dream"
+    },
+    "http://www.imdb.com/title/tt0847001/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Kinshasa_palace"
+    },
+    "http://www.imdb.com/title/tt0856256/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Peuple_en_marche"
+    },
+    "http://www.imdb.com/title/tt0978717/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Star_Wreck"
+    },
+    "http://www.imdb.com/title/tt1043491/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Juju_Factory"
+    },
+    "http://www.imdb.com/title/tt1161861/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/A_Lonely_Place_for_Dying"
     },
     "http://www.imdb.com/title/tt1172203/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Sita_Sings_the_Blues"
     },
     "http://www.imdb.com/title/tt1199787/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
     "http://www.imdb.com/title/tt1254207/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Big_Buck_Bunny"
     },
     "http://www.imdb.com/title/tt1265599/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt1397511/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/RiP!:_A_Remix_Manifesto"
+    },
+    "http://www.imdb.com/title/tt1430076/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Cinderelas,_lobos_e_um_pr%C3%ADncipe_encantado"
+    },
     "http://www.imdb.com/title/tt1463780/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt1483748/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/BloodSpell"
+    },
+    "http://www.imdb.com/title/tt1492837/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Festival_panafricain_d%E2%80%99Alger_1969"
     },
     "http://www.imdb.com/title/tt1496426/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt1517165/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Ceux_de_la_colline"
+    },
+    "http://www.imdb.com/title/tt1527679/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Nasty_Old_People"
+    },
+    "http://www.imdb.com/title/tt1532568/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/The_Romantic_(film)"
+    },
+    "http://www.imdb.com/title/tt1563676/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/We_Too_Walked_on_the_Moon"
+    },
     "http://www.imdb.com/title/tt1563714/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt1625857/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Benda_Bilili!"
+    },
     "http://www.imdb.com/title/tt1669706/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt1727587/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Sintel"
+    },
+    "http://www.imdb.com/title/tt1748166/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Pioneer_One"
     },
     "http://www.imdb.com/title/tt1753743/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -51,13 +160,38 @@
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt1756529/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Get_Lamp"
+    },
+    "http://www.imdb.com/title/tt1756667/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Papy_(film)"
+    },
     "http://www.imdb.com/title/tt1764634/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt1782451/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Good_Copy_Bad_Copy"
+    },
+    "http://www.imdb.com/title/tt1806864/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Dans_le_silence,_je_sens_rouler_la_terre"
+    },
     "http://www.imdb.com/title/tt1830585/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt1890383/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Debtocracy"
     },
     "http://www.imdb.com/title/tt1941569/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -67,17 +201,57 @@
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt2071601/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Super_Demetrios"
+    },
     "http://www.imdb.com/title/tt2119562/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt2127350/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Sibi,_l%E2%80%99%C3%A2me_du_violon"
+    },
+    "http://www.imdb.com/title/tt2171937/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Jazz_Mama"
+    },
+    "http://www.imdb.com/title/tt2285752/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Tears_of_Steel"
+    },
+    "http://www.imdb.com/title/tt2351524/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/The_Forbidden_Education"
     },
     "http://www.imdb.com/title/tt2519692/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt2523692/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Decay_(film)"
+    },
+    "http://www.imdb.com/title/tt2608732/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/TPB_AFK"
+    },
     "http://www.imdb.com/title/tt2621832/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt3268458/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy"
     },
     "http://www.imdb.com/title/tt3574500/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -103,6 +277,11 @@
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt4957236/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Cosmos_Laundromat"
+    },
     "http://www.imdb.com/title/tt5189422/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
@@ -110,5 +289,160 @@
     "http://www.imdb.com/title/tt5373184/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt6059374/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Caminandes"
+    },
+    "https://en.wikipedia.org/wiki/A_Swarm_of_Angels": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/A_Swarm_of_Angels"
+    },
+    "https://en.wikipedia.org/wiki/Afro@Digital": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Afro@Digital"
+    },
+    "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire"
+    },
+    "https://en.wikipedia.org/wiki/Congo_in_Four_Acts": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Congo_in_Four_Acts"
+    },
+    "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma"
+    },
+    "https://en.wikipedia.org/wiki/Eldridge_Cleaver,_Black_Panther": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Eldridge_Cleaver,_Black_Panther"
+    },
+    "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre"
+    },
+    "https://en.wikipedia.org/wiki/Gerboise_bleue_(film)": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Gerboise_bleue_(film)"
+    },
+    "https://en.wikipedia.org/wiki/Indochine,_sur_les_traces_d%27une_m%C3%A8re": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Indochine,_sur_les_traces_d%27une_m%C3%A8re"
+    },
+    "https://en.wikipedia.org/wiki/Kafka_au_Congo": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Kafka_au_Congo"
+    },
+    "https://en.wikipedia.org/wiki/Kin_Kiesse": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Kin_Kiesse"
+    },
+    "https://en.wikipedia.org/wiki/Kinshasa_Septembre_noir": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Kinshasa_Septembre_noir"
+    },
+    "https://en.wikipedia.org/wiki/Ko_Bongisa_Mutu": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Ko_Bongisa_Mutu"
+    },
+    "https://en.wikipedia.org/wiki/Lamokowang": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Lamokowang"
+    },
+    "https://en.wikipedia.org/wiki/Le_Beurre_et_l%27argent_du_beurre": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Le_Beurre_et_l%27argent_du_beurre"
+    },
+    "https://en.wikipedia.org/wiki/Le_Congo,_quel_cin%C3%A9ma!": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Le_Congo,_quel_cin%C3%A9ma!"
+    },
+    "https://en.wikipedia.org/wiki/Le_Monsieur,_le_Vampire_et_Ren%C3%A9e_Marcelle": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Le_Monsieur,_le_Vampire_et_Ren%C3%A9e_Marcelle"
+    },
+    "https://en.wikipedia.org/wiki/List_of_open-source_films": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/List_of_open-source_films"
+    },
+    "https://en.wikipedia.org/wiki/Mieux_vaut_mal_vivre_que_mourir": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Mieux_vaut_mal_vivre_que_mourir"
+    },
+    "https://en.wikipedia.org/wiki/Moro_no_Brasil": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Moro_no_Brasil"
+    },
+    "https://en.wikipedia.org/wiki/Moseka": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Moseka"
+    },
+    "https://en.wikipedia.org/wiki/Muana_Mboka": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Muana_Mboka"
+    },
+    "https://en.wikipedia.org/wiki/Murnau_the_Vampire": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Murnau_the_Vampire"
+    },
+    "https://en.wikipedia.org/wiki/Sanctuary_(short_film)": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Sanctuary_(short_film)"
+    },
+    "https://en.wikipedia.org/wiki/Stray_Cinema": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Stray_Cinema"
+    },
+    "https://en.wikipedia.org/wiki/Sur_les_traces_du_Bembeya_Jazz": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Sur_les_traces_du_Bembeya_Jazz"
+    },
+    "https://en.wikipedia.org/wiki/Tango_Ya_Ba_Wendo": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Tango_Ya_Ba_Wendo"
+    },
+    "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)"
+    },
+    "https://en.wikipedia.org/wiki/Un_R%C3%AAve_d%E2%80%99ind%C3%A9pendance": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Un_R%C3%AAve_d%E2%80%99ind%C3%A9pendance"
+    },
+    "https://en.wikipedia.org/wiki/VODO": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/VODO"
     }
 }
