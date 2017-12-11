@@ -23,6 +23,12 @@
         "title": "The Wonderful Wizard of Oz (1910 film)",
         "wp": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_(1910_film)"
     },
+    "http://www.imdb.com/title/tt0002199/": {
+        "freenessurl": "http://publicdomainmovies.info/manger-cross-1912-story-jesus-life/",
+        "status": "free",
+        "title": "From the Manger to the Cross, 1912, the story of Jesus\u2019 life",
+        "wp": "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross"
+    },
     "http://www.imdb.com/title/tt0003772/": {
         "freenessurl": "http://publicdomainmovies.info/cinderella-1914-film-starring-mary-pickford/",
         "status": "free",
@@ -124,6 +130,12 @@
         "status": "free",
         "title": "Hell\u2019s Hinges, 1916",
         "wp": "https://en.wikipedia.org/wiki/Hell%27s_Hinges"
+    },
+    "http://www.imdb.com/title/tt0006826/": {
+        "freenessurl": "http://publicdomainmovies.info/hoodoo-ann-1916/",
+        "status": "free",
+        "title": "Hoodoo Ann, 1916",
+        "wp": "https://en.wikipedia.org/wiki/Hoodoo_Ann"
     },
     "http://www.imdb.com/title/tt0007361/": {
         "freenessurl": "http://publicdomainmovies.info/snow-white-1916-film/",
@@ -238,6 +250,18 @@
         "status": "free",
         "title": "The Nut, 1921 starring Douglas Fairbanks",
         "wp": "https://en.wikipedia.org/wiki/The_Nut_(1921_film)"
+    },
+    "http://www.imdb.com/title/tt0012532/": {
+        "freenessurl": "http://publicdomainmovies.info/orphans-storm-1921-d-w-griffith/",
+        "status": "free",
+        "title": "Orphans of the Storm, 1921 by D. W. Griffith",
+        "wp": "https://en.wikipedia.org/wiki/Orphans_of_the_Storm"
+    },
+    "http://www.imdb.com/title/tt0012675/": {
+        "freenessurl": "http://publicdomainmovies.info/sheik-1921-film-starring-rudolph-valentino/",
+        "status": "free",
+        "title": "The Sheik, 1921 film starring Rudolph Valentino",
+        "wp": "https://en.wikipedia.org/wiki/The_Sheik_(film)"
     },
     "http://www.imdb.com/title/tt0012739/": {
         "freenessurl": "http://publicdomainmovies.info/tangled-trails-1921/",
@@ -694,6 +718,12 @@
         "status": "free",
         "title": "Bowery at Midnight, 1942 movie with Bela Lugosi",
         "wp": "https://en.wikipedia.org/wiki/Bowery_at_Midnight"
+    },
+    "http://www.imdb.com/title/tt0034863/": {
+        "freenessurl": "http://publicdomainmovies.info/holt-secret-service-1941-serial-chapter-1-chaotic-greek/",
+        "status": "free",
+        "title": "Holt of the Secret Service, 1941 (serial) Chapter 1: Chaotic Greek",
+        "wp": "https://en.wikipedia.org/wiki/Holt_of_the_Secret_Service"
     },
     "http://www.imdb.com/title/tt0034928/": {
         "freenessurl": "http://publicdomainmovies.info/jungle-book1942-film/",
