@@ -1,5 +1,6 @@
 __AUTHOR__ = 'Petter Reinholdtsen <pere@hungry.com>'
 
+import json
 import re
 import time
 import urllib2
@@ -15,6 +16,14 @@ def http_get_read(url):
         except:
             print("Retrying %s in 2 seconds" % url)
             time.sleep(2)
+
+def savelist(l, name = None):
+    with open(name, 'wt') as out:
+        json.dump(l,
+                  out,
+                  sort_keys=True,
+                  indent=4,
+                  separators=(',', ': '))
 
 def test_wikipedia_lookup():
     for line in [
