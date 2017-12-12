@@ -13,14 +13,6 @@ import urllib2
 import urlparse
 import movielib
 
-def savelist(l, name = None):
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
-
 def fetch(entries, urlbase, page = 1):
     count = 0
     url = urlbase % start
@@ -88,4 +80,4 @@ for urlbase in urlbases:
     start = 1
     while 0 < fetch(entries, urlbase, start):
         start = start + 1
-savelist(entries, name=args.output)
+movielib.savelist(entries, name=args.output)
