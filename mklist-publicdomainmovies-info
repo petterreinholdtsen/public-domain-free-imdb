@@ -85,18 +85,6 @@ def main():
 def test_match():
     get_movie_info('http://publicdomainmovies.info/amazing-mr-x-full-movie/')
     print(get_movie_info('http://publicdomainmovies.info/brain-wouldnt-die-full-movie/'))
-    for line in [
-            '* {{IMDb title|0005339|A Fool There Was}}',
-            '*{{IMDb title|id=0013704|title=The Trap}}',
-            '*{{IMDb title|id=0036697|title=Captain America}}',
-            '* {{IMDb title|id=0052646}}',
-    ]:
-        m = re.search("{{IMDb title\|(id=)?(\d+)(\|?.+}})?", line)
-        if m is not None:
-            imdburl = 'http://www.imdb.com/title/tt%s/' % m.group(2)
-            print imdburl
-        else:
-            print("Error %s" % line)
 
 if __name__ == '__main__':
     #test_match()
