@@ -18,6 +18,7 @@ listupdate:
 	./mklist-letterboxd-pd --baseurl=https://letterboxd.com/robot2xl/list/looney-tunes-in-the-public-domain/ --output=free-movies-letterboxd-looney-tunes.json
 	./mklist-thehillproductions
 	./mklist-creative-commons
+	./mklist-imdb-c-expired-us
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@

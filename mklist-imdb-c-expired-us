@@ -1,0 +1,62 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+According to
+https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States,
+every movie published in the USA before 1923 are now public domain.
+
+Extract this list of movies from imdb.com.
+"""
+
+import argparse
+import json
+import lxml.html
+import time
+import urlparse
+import movielib
+
+def fetch_search_result(entries, urlbase, page):
+    count = 0
+    url = urlbase % page
+    print url
+    html = movielib.http_get_read(url)
+    root = lxml.html.fromstring(html)
+    for h in root.cssselect("div.lister-item-content h3.lister-item-header "):
+        t = h.cssselect("a[href]")
+        if t:
+            ta = t[0].cssselect("a")[0]
+            imdburl = urlparse.urljoin(url, ta.attrib['href'].split('?')[0])
+            title = t[0].text_content().strip()
+            y = h.cssselect("span.lister-item-year")
+            year = y[0].text_content().translate(None, '()I ')
+            print imdburl, year, title
+            entries[imdburl] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                'title' : title,
+                }
+            if '' != year:
+                entries[imdburl]['year'] = int(year)
+            count = count + 1
+    next = root.cssselect("a.lister-page-next")
+    if next:
+        return True
+    return False
+
+def usa_c_expired(entries):
+    # The oldest known movie was published in 1874
+    for y in xrange(1874, 1923):
+        urlbase = "http://www.imdb.com/search/title?title_type=feature&country_of_origin=us&year=%d&page=%%s" % y
+        page = 1
+        while fetch_search_result(entries, urlbase, page):
+            page = page + 1
+        movielib.savelist(entries, name="free-movies-imdb-c-expired.json")
+        time.sleep(10) # avoid overloading IMDB
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--output', default='free-movies-imdb-c-expired-us.json')
+args = parser.parse_args()
+
+entries = {}
+usa_c_expired(entries)
+movielib.savelist(entries, name=args.output)
