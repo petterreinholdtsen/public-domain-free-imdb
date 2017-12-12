@@ -115,7 +115,7 @@ def main():
         page = 1
         while fetch_search_result(entries, urlbase, page):
             page = page + 1
-        movielib.savelist(entries, name="free-movies-c-expired-no.json")
+        movielib.savelist(entries, name="free-movies-imdb-c-expired-no.json")
         time.sleep(10) # avoid overloading IMDB
 
 if __name__ == '__main__':
