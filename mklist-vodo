@@ -6,18 +6,13 @@ Extract list of free movies available from vodo.net.
 
 import json
 import lxml.html
+import movielib
 import urllib2
 import urlparse
 
-def get(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
-
 def parsepage(l, url):
     try:
-        html = get(url)
+        html = movielib.http_get_read(url)
         root = lxml.html.fromstring(html)
         imdburl = url
         for a in root.cssselect("a"):
@@ -42,21 +37,11 @@ def parsepage(l, url):
         pass
     return None
 
-def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-vodo.json'
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
-
 url = "http://vodo.net/films/"
-html = get(url)
+html = movielib.http_get_read(url)
 root = lxml.html.fromstring(html)
 entries = {}
 for a in root.cssselect("div.sticker a"):
     entryurl = urlparse.urljoin(url, a.attrib['href'])
     parsepage(entries, entryurl)
-savelist(entries)
+movielib.savelist(entries, 'free-movies-vodo.json')

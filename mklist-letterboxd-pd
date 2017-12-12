@@ -7,6 +7,7 @@ Extract IMDB IDs of public domain movies listed on LetterBoxd.
 import argparse
 import json
 import lxml.html
+import movielib
 import urllib2
 import urlparse
 
@@ -15,23 +16,9 @@ urlbases = [
     "https://letterboxd.com/graemehalifax/list/the-public-domain/detail/page/%d/",
 ]
 
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
-
-def savelist(l, name = None):
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
-
 def get_movie_info(entryurl):
     try:
-        root = lxml.html.fromstring(http_get_read(entryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("span.film-ext-links a[data-track-action=IMDb]"):
@@ -46,7 +33,7 @@ def get_movie_list(l, urlbase, page=1):
     summaryurl = urlbase % page
     print summaryurl
     try:
-        root = lxml.html.fromstring(http_get_read(summaryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
         return "n/a"
     count = 0
@@ -83,7 +70,7 @@ def main():
         page = 1
         while 0 < get_movie_list(l, urlbase=urlbase, page=page):
             page = page + 1
-    savelist(l, args.output)
+    movielib.savelist(l, args.output)
 
 if __name__ == '__main__':
     main()

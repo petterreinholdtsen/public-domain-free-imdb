@@ -8,20 +8,15 @@ www.publicdomaintorrents.info.
 
 import json
 import lxml.html
+import movielib
 import urllib2
 import urlparse
 
 summaryurl = 'http://www.publicdomaintorrents.info/nshowcat.html?category=ALL'
 
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
-
 def get_movie_info(entryurl):
     try:
-        root = lxml.html.fromstring(http_get_read(entryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("td a"):
@@ -36,7 +31,7 @@ def get_movie_info(entryurl):
     print("Unable to find IMDB id for %s" % entryurl)
 def get_movie_list():
     try:
-        root = lxml.html.fromstring(http_get_read(summaryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
         return "n/a"
     l = {}
@@ -55,14 +50,5 @@ def get_movie_list():
             }
     return l
 
-def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-publicdomaintorrents.json'
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
 l = get_movie_list()
-savelist(l)
+movielib.savelist(l, 'free-movies-publicdomaintorrents.json')

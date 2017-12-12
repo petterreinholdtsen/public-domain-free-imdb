@@ -7,6 +7,7 @@ www.publicdomainmoves.net.
 
 import json
 import lxml.html
+import movielib
 import urllib2
 import urlparse
 
@@ -14,17 +15,17 @@ urlbase = 'http://publicdomainmovies.net/?page=%d'
 #urlbase = 'http://publicdomainmovies.net/cartoons?page=%d'
 #http://publicdomainmovies.net/movie/million-dollar-weekend-0
 
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
-
 def get_movie_info(entryurl):
     try:
-        root = lxml.html.fromstring(http_get_read(entryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
-        return None
+        return None, None
+    #print entryurl
+    ytag =root.cssselect("span.date-display-single")
+    if ytag:
+        year = int(ytag[0].text_content())
+    else:
+        year = None
     for a in root.cssselect("div.content a[href]"):
         #print a.attrib['href'], a.attrib['href'].find("imdb")
         if -1 != a.attrib['href'].find("imdb.com"):
@@ -38,14 +39,14 @@ def get_movie_info(entryurl):
             if '/' != imdburl[-1]:
                 imdburl = imdburl + '/'
             #print imdburl
-            return imdburl
+            return imdburl, year
     print("Unable to find IMDB id for %s" % entryurl)
-    return entryurl
+    return entryurl, year
 
 def get_last_page():
     summaryurl = urlbase % 1
     try:
-        root = lxml.html.fromstring(http_get_read(summaryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
         return None
     lastref = root.cssselect("ul li.pager-last a")
@@ -57,7 +58,7 @@ def get_movie_list(l, page=1):
     summaryurl = urlbase % page
     print summaryurl
     try:
-        root = lxml.html.fromstring(http_get_read(summaryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
         return "n/a"
     count = 0
@@ -66,25 +67,16 @@ def get_movie_list(l, page=1):
         title = div.cssselect("div.info b")[0].text_content()
         if -1 != a.attrib['href'].find("/movie/"):
             entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
-            e = get_movie_info(entryurl)
+            e, year = get_movie_info(entryurl)
             if e:
                 l[e] = {
                     'status' : 'free',
                     'freenessurl' : entryurl,
                     'title' : title,
+                    'year' : year,
                 }
                 count = count + 1
     return count
-
-def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-publicdomainmovies-net.json'
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
 
 l = {}
 page = 1
@@ -93,4 +85,4 @@ while 0 < get_movie_list(l, page=page):
     page = page + 1
     if page > lastpage:
         break
-savelist(l)
+movielib.savelist(l, 'free-movies-publicdomainmovies-net.json')

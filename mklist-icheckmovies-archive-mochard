@@ -6,29 +6,14 @@ Extract list of icheckmovies claimed IMDB entries on the Internet Archive.
 
 import json
 import lxml.html
+import movielib
 import urllib2
 import urlparse
-
-def get(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
-
-def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-icheckmovies-archive-mochard.json'
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
 
 def fetch(entries, urlbase):
     count = 0
     url = urlbase
-    html = get(url)
+    html = movielib.http_get_read(url)
     root = lxml.html.fromstring(html)
     for tr in root.cssselect("li.movie"):
         t = tr.cssselect("h2 a")
@@ -51,4 +36,4 @@ def fetch(entries, urlbase):
 
 entries = {}
 fetch(entries, "https://www.icheckmovies.com/lists/internet+archive/mochard/")
-savelist(entries)
+movielib.savelist(entries, 'free-movies-icheckmovies-archive-mochard.json')

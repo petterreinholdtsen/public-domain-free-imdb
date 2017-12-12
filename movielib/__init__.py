@@ -16,6 +16,8 @@ def http_get_read(url):
         except:
             print("Retrying %s in 2 seconds" % url)
             time.sleep(2)
+    # Fake exception to keep callers happy
+    raise urllib2.HTTPError(url, None, "failure after 3 tries", {}, None)
 
 def savelist(l, name = None):
     with open(name, 'wt') as out:

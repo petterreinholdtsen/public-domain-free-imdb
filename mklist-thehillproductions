@@ -8,32 +8,13 @@ are Creative Commons licensed.
 
 import json
 import lxml.html
+import movielib
 import re
 import urllib2
 
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'public-domain-movie-locator/0.0')]
-    # Try several times in case the first one fail
-    for tries in xrange(0,3):
-        try:
-            f = opener.open(url)
-            return f.read()
-        except:
-            print("Retrying %s in 20 seconds" % url)
-            time.sleep(20)
-
-def savelist(l, name = None):
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
-
 def fetch_movie_info(entryurl):
     try:
-        root = lxml.html.fromstring(http_get_read(entryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
     retval = {}
@@ -51,7 +32,7 @@ def fetch_movie_info(entryurl):
 def fetch_movie_list(url):
     list = {}
     try:
-        root = lxml.html.fromstring(http_get_read(url))
+        root = lxml.html.fromstring(movielib.http_get_read(url))
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("div.symple-column a[onclick]"):
@@ -78,7 +59,7 @@ def fetch_movie_list(url):
 def main():
     url = "http://www.thehillproductions.com/"
     l = fetch_movie_list(url)
-    savelist(l, name='free-movies-thehillproductions.json')
+    movielib.savelist(l, name='free-movies-thehillproductions.json')
 
 if __name__ == '__main__':
     main()

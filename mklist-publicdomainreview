@@ -7,32 +7,19 @@ using the wikidata IMDB->archive.org map to look up IMDB IDs.
 
 import json
 import lxml.html
+import movielib
+import re
 import urllib2
 import urlparse
-import re
 
 urlbase = 'http://publicdomainreview.org/collections/page/%d/?medium=film'
 
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'curl/7.52.1')]
-    f = opener.open(url)
-    return f.read()
-
-def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-publicdomainreview.json'
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
-
 def get_movie_iaurl(entryurl):
     try:
-        root = lxml.html.fromstring(http_get_read(entryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
+        return None
+    if not root:
         return None
     for a in root.cssselect("td a"):
         if -1 != a.attrib['href'].find("archive.org/details/"):
@@ -53,8 +40,10 @@ def get_movie_list(l, urlbase, page=1):
     summaryurl = urlbase % page
     print summaryurl
     try:
-        root = lxml.html.fromstring(http_get_read(summaryurl))
+        root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
+        return 0
+    if not root:
         return 0
     count = 0
     for div in root.cssselect("article.medium-film"):
@@ -102,4 +91,4 @@ l = {}
 page = 1
 while 0 < get_movie_list(l, urlbase=urlbase, page=page):
     page = page + 1
-savelist(l)
+movielib.savelist(l, 'free-movies-publicdomainreview.json')
