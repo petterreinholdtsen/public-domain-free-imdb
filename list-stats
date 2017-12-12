@@ -13,6 +13,7 @@ def main():
                         default=['free-movies-manual.json'],
                         help='input file(s)')
     parser.add_argument('--list-unique', action='store_true', default=False)
+    parser.add_argument('--list-all', action='store_true', default=False)
     args = parser.parse_args()
 
     m = {}
@@ -27,7 +28,8 @@ def main():
             for e in l:
                 if not dict is type(l[e]): # Ignore comment entries
                     continue
-                if 'status' in l[e] and "free" == l[e]['status']:
+                if args.list_all or \
+                   ('status' in l[e] and "free" == l[e]['status']):
                    if -1 != e.find('/www.imdb.com/title/'):
                       imdb = imdb + 1
                       if e not in m:
