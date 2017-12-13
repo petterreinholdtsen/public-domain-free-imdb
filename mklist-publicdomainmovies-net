@@ -11,7 +11,7 @@ import movielib
 import urllib2
 import urlparse
 
-urlbase = 'http://publicdomainmovies.net/?page=%d'
+urlbase = 'http://publicdomainmovie.net/?page=%d'
 #urlbase = 'http://publicdomainmovies.net/cartoons?page=%d'
 #http://publicdomainmovies.net/movie/million-dollar-weekend-0
 
