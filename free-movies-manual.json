@@ -70,6 +70,12 @@
 	"title" : "Stop Thief!",
 	"year" : 1901
     },
+    "http://www.imdb.com/title/tt0225504/": {
+	"status" : "free",
+	"freenessurl": "https://archive.org/details/LeDiableGeantOuLeMircaleDeLaMadone",
+	"title" : "Le diable géant ou Le miracle de la madonne",
+	"year" : 1901
+    },
     "http://www.imdb.com/title/tt0222874/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/TheInfernalCake-walk1903",
@@ -88,11 +94,24 @@
         "title": "Panorama View, Street Car Motor Room",
         "year": 1904
     },
+    "http://www.imdb.com/title/tt0257990/": {
+        "status": "free",
+	"freenessurl" : "https://en.wikipedia.org/wiki/Copyright_law_of_the_United_Kingdom",
+        "title": "Over the Hedge",
+        "year": "1905"
+    },
     "http://www.imdb.com/title/tt0000554/": {
         "freenessurl": "https://archive.org/details/Humorous_Phases_of_Funny_Faces_1906",
         "status": "free",
         "title": "Humorous Phases of Funny Faces",
         "year": 1906
+    },
+    "http://www.imdb.com/title/tt0000567/": {
+	"status": "free",
+	"freenessurl" : "https://archive.org/details/LesQautreCentsFarcesDuDiable",
+	"wp" : "https://en.wikipedia.org/wiki/Les_quatre_cents_farces_du_diable",
+	"title" : "Les Quat'Cents Farces du diable",
+	"year" : 1906
     },
     "http://www.imdb.com/title/tt1821497/": {
         "freenessurl": "https://archive.org/details/LaGrenouille",
