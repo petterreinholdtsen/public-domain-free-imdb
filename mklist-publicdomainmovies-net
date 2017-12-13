@@ -21,7 +21,7 @@ def get_movie_info(entryurl):
     except urllib2.HTTPError as e:
         return None, None
     #print entryurl
-    ytag =root.cssselect("span.date-display-single")
+    ytag = root.cssselect("span.date-display-single")
     if ytag:
         year = int(ytag[0].text_content())
     else:
@@ -73,16 +73,23 @@ def get_movie_list(l, page=1):
                     'status' : 'free',
                     'freenessurl' : entryurl,
                     'title' : title,
-                    'year' : year,
                 }
+                if year:
+                    l[e]['year'] = year
                 count = count + 1
     return count
 
-l = {}
-page = 1
-lastpage = get_last_page()
-while 0 < get_movie_list(l, page=page):
-    page = page + 1
-    if page > lastpage:
-        break
-movielib.savelist(l, 'free-movies-publicdomainmovies-net.json')
+def main():
+    path = 'free-movies-publicdomainmovies-net.json'
+    l = {}
+    page = 1
+    lastpage = get_last_page()
+    while 0 < get_movie_list(l, page=page):
+        page = page + 1
+        movielib.savelist(l, path)
+        if page > lastpage:
+            break
+    movielib.savelist(l, path)
+
+if __name__ == '__main__':
+    main()
