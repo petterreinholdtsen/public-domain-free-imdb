@@ -15,9 +15,10 @@ Extract such lists of movies from imdb.com.
 import argparse
 import json
 import lxml.html
+import movielib
+import re
 import time
 import urlparse
-import movielib
 
 def fetch_search_result(entries, urlbase, page):
     count = 0
@@ -31,15 +32,19 @@ def fetch_search_result(entries, urlbase, page):
             ta = t[0].cssselect("a")[0]
             imdburl = urlparse.urljoin(url, ta.attrib['href'].split('?')[0])
             title = t[0].text_content().strip()
-            y = h.cssselect("span.lister-item-year")
-            year = y[0].text_content().translate(None, '()IVX ')
+            y = h.cssselect("span.lister-item-year")[0].text_content()
+            m = re.search("\((\d+)\)$", y)
+            if m:
+                year = m.group(1)
+            else:
+                year = None
             print imdburl, year, title
             entries[imdburl] = {
                 'status' : 'free',
                 'freenessurl' : url,
                 'title' : title,
                 }
-            if '' != year:
+            if year:
                 entries[imdburl]['year'] = int(year)
             count = count + 1
     next = root.cssselect("a.lister-page-next")
