@@ -32,7 +32,7 @@ def fetch_search_result(entries, urlbase, page):
             imdburl = urlparse.urljoin(url, ta.attrib['href'].split('?')[0])
             title = t[0].text_content().strip()
             y = h.cssselect("span.lister-item-year")
-            year = y[0].text_content().translate(None, '()IV ')
+            year = y[0].text_content().translate(None, '()IVX ')
             print imdburl, year, title
             entries[imdburl] = {
                 'status' : 'free',
