@@ -58,17 +58,20 @@ def imdb_c_expired(entries, country='us', start=1874, end=1923, path=None):
             movielib.savelist(entries, name=path)
         time.sleep(10) # avoid overloading IMDB
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--output', default='free-movies-imdb-c-expired-us.json')
-parser.add_argument('--country', default='us',
-                    help='the code for country of origin')
-parser.add_argument('--start', type=int, default=1874,
-                    help='the first year to search for in IMDB')
-parser.add_argument('--end', type=int, default=1923,
-                    help='stop searching before this year')
-args = parser.parse_args()
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output', default='free-movies-imdb-c-expired-us.json')
+    parser.add_argument('--country', default='us',
+                        help='the code for country of origin')
+    parser.add_argument('--start', type=int, default=1874,
+                        help='the first year to search for in IMDB')
+    parser.add_argument('--end', type=int, default=1923,
+                        help='stop searching before this year')
+    args = parser.parse_args()
 
-entries = {}
-imdb_c_expired(entries, country=args.country,
-               start=args.start, end=args.end, path=args.output)
-movielib.savelist(entries, name=args.output)
+    entries = {}
+    imdb_c_expired(entries, country=args.country,
+                   start=args.start, end=args.end, path=args.output)
+    movielib.savelist(entries, name=args.output)
+if __name__ == '__main__':
+    main()
