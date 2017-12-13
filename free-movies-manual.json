@@ -1253,6 +1253,12 @@
         "title": "Target Snafu",
         "year": "1944"
     },
+    "http://www.imdb.com/title/tt0037243/": {
+        "status": "free",
+	"freenessurl" : "https://archive.org/details/TheSanAntonioKid-BillElliott1944",
+        "title": "The San Antonio Kid",
+        "year": "1944"
+    },
     "http://www.imdb.com/title/tt0041187/": {
         "freenessurl": "https://archive.org/details/BlondeIce1948",
         "status": "free",
