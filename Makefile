@@ -19,7 +19,7 @@ listupdate:
 	./mklist-thehillproductions
 	./mklist-creative-commons
 	./mklist-imdb-c-expired-year --country=us --output=free-movies-imdb-c-expired-us.json
-	./mklist-imdb-c-expired-year --country=uk --output=free-movies-imdb-c-expired-uk.json --end=1912
+	./mklist-imdb-c-expired-year --country=gb --output=free-movies-imdb-c-expired-gb.json --end=1912
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
