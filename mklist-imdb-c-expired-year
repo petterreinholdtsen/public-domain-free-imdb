@@ -47,10 +47,13 @@ def fetch_search_result(entries, urlbase, page):
         return True
     return False
 
-def imdb_c_expired(entries, country='us', start=1874, end=1923, path=None):
+def imdb_c_expired(entries, country='us', start=1874, end=1923,
+                   all=False, path=None):
     # The oldest known movie was published in 1874
     for y in xrange(start, end):
-        urlbase = "http://www.imdb.com/search/title?title_type=feature&country_of_origin=%s&year=%d&page=%%s" % (country, y)
+        urlbase = "http://www.imdb.com/search/title?country_of_origin=%s&year=%d&page=%%s" % (country, y)
+        if not all:
+            urlbase = urlbase + '&title_type=feature'
         page = 1
         while fetch_search_result(entries, urlbase, page):
             page = page + 1
@@ -60,7 +63,9 @@ def imdb_c_expired(entries, country='us', start=1874, end=1923, path=None):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--output', default='free-movies-imdb-c-expired-us.json')
+    parser.add_argument('--output', default='free-movies-imdb-c-expired.json')
+    parser.add_argument('--all', action='store_true', default=False,
+                        help='list all movies, not only feature movies')
     parser.add_argument('--country', default='us',
                         help='the code for country of origin')
     parser.add_argument('--start', type=int, default=1874,
@@ -71,7 +76,8 @@ def main():
 
     entries = {}
     imdb_c_expired(entries, country=args.country,
-                   start=args.start, end=args.end, path=args.output)
+                   start=args.start, end=args.end, all=args.all,
+                   path=args.output)
     movielib.savelist(entries, name=args.output)
 if __name__ == '__main__':
     main()
