@@ -2,16 +2,18 @@
 # -*- coding: utf-8 -*-
 
 """
-Slå opp informasjon om norske filmer på IMDB og forsøk å beregne
-på om en film er falt i det fri i norge basert på dødspunkt for
-aktuelle personer involvert.
+Look up information about Norwegian movies in the IMDB and try to
+calculate if a movie is in the public domain in Norway based on the
+time of death for the relevant people.
 
-Tillat overstyring av dødsår fra lokal fil, for personer IMDB ikke
-vet når døde.
+Allow overriding the death year from a local file, for persons where
+IMDB is missing time of death.
 
-Filmer faller i det fri 70 år etter døden til lengstlevende av
-hovedregissøren, manusforfatteren, dialogforfatteren og komponisten
-av filmmusikken.  Utfordringen er å finne ut hvem de var og når de døde.
+Copyright status is according to Norwegian regulations affected by
+death year of main director, manus writer, dialog writer and composer
+of the film music.  In Norway, movies enter the public domain 70 years
+after the death of the longest living these.  The challenge is figuring
+out who they were and when they died.
 """
 
 import datetime
@@ -35,7 +37,7 @@ def fetch_person_info(personurl):
     global personcache
     if personurl in personcache:
         return personcache[personurl]
-    print personurl
+    #print personurl
     html = movielib.http_get_read(personurl)
     root = lxml.html.fromstring(html)
     name = root.cssselect("h1.header span.itemprop")[0].text_content()
@@ -53,20 +55,31 @@ def fetch_person_info(personurl):
     return info
 
 def fetch_title_info(titleurl):
-    # might consider using http://www.imdb.com/title/tt0011440/fullcredits
-    html = movielib.http_get_read(titleurl)
-    root = lxml.html.fromstring(html)
+    """
+Fetch information from the sources available (currently
+IMDB <title-URL>/fullcredits).
+"""
     titleinfo = {}
-    # Should consider main director, manus writer, dialog writer and
-    # composer of the film music according to norwegian regulations.
-    # FIXME Only main director and manus writer is available from
-    # title page.  Find source for the rest.
-    for contributor in ['director', 'creator']:
-        for a in root.cssselect("div.credit_summary_item span[itemprop=%s] a[href]" % contributor):
-            url = urlparse.urljoin(titleurl, a.attrib['href'].split('?')[0])
-            info = fetch_person_info(url)
-            #print info
-            titleinfo[contributor] = info
+    titlecreditsurl = titleurl + 'fullcredits'
+    #print titlecreditsurl
+    chtml = movielib.http_get_read(titlecreditsurl)
+    croot = lxml.html.fromstring(chtml)
+    for h in croot.cssselect("h4"):
+        #print h.text_content()
+        for prefix, contributor in \
+            [("Directed by", "director"),
+             ("Cinematography by", "photo"),
+             ("Writing Credits", "creator"),
+             ("Music by", "music")]:
+            if  -1 != h.text_content().find(prefix):
+                #print "MATCH"
+                for a in h.getnext().cssselect("a[href]"):
+                    url = urlparse.urljoin(titlecreditsurl,
+                                           a.attrib['href']).split("?")[0]
+                    info = fetch_person_info(url)
+                    if not contributor in titleinfo:
+                        titleinfo[contributor] = []
+                    titleinfo[contributor].append(info)
     return titleinfo
 
 def fetch_search_result(entries, urlbase, page):
@@ -82,18 +95,23 @@ def fetch_search_result(entries, urlbase, page):
             imdburl = urlparse.urljoin(url, ta.attrib['href'].split('?')[0])
             title = t[0].text_content().strip()
             y = h.cssselect("span.lister-item-year")
-            year = y[0].text_content().translate(None, '()I ')
+            year = int(y[0].text_content().translate(None, '()I '))
             print imdburl, year, title
             titleinfo = fetch_title_info(imdburl)
             titleinfo['title'] = title
             if '' != year:
                 titleinfo['year'] = int(year)
             lastdeath = 0
-            for c in ['director', 'creator']:
-                if c in titleinfo and 'dead' in titleinfo[c]:
-                    if lastdeath < titleinfo[c]['dead']:
-                        lastdeath = titleinfo[c]['dead']
-            if 0 != lastdeath and lastdeath + vernetid <= thisyear:
+            # Note, the photographer is not considered here
+            for c in ['director', 'creator', 'music']:
+                if c in titleinfo:
+                    for p in titleinfo[c]:
+                        if  'dead' in p and lastdeath < p['dead']:
+                            lastdeath = p['dead']
+            if 0 == lastdeath:
+                lastdeath = year
+            titleinfo['yearexpire'] = lastdeath + vernetid
+            if 0 != lastdeath and titleinfo['yearexpire'] <= thisyear:
                 titleinfo['status'] = 'expirecandidate'
             else:
                 titleinfo['status'] = 'unknown'
@@ -108,15 +126,20 @@ def fetch_search_result(entries, urlbase, page):
 def main():
     global personcache
     personcache = loadinfo("author-deaths.json")
+    all = False
     entries = {}
-    # oldest norwegian movie in IMDB is from 1907
-    for y in xrange(1907, thisyear - vernetid):
+    # Oldest norwegian movie in IMDB is from 1907.  It is not a feature film
+    start = 1907
+    end = thisyear - vernetid
+    for y in xrange(start, end):
         urlbase = "http://www.imdb.com/search/title?country_of_origin=no&year=%d&page=%%s" % y
+        if not all:
+            urlbase = urlbase + '&title_type=feature'
         page = 1
         while fetch_search_result(entries, urlbase, page):
             page = page + 1
         movielib.savelist(entries, name="free-movies-imdb-c-expired-no.json")
-        time.sleep(10) # avoid overloading IMDB
+        time.sleep(2) # avoid overloading IMDB
 
 if __name__ == '__main__':
     main()
