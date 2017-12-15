@@ -226,7 +226,7 @@
         "archive": "https://archive.org/details/AChristmasCarol_201508",
         "freenessurl": "https://archive.org/details/AChristmasCarol",
         "status": "free",
-        "title": "A Christmas Carol",
+        "title": "AChristmas Carol",
         "year": "1910"
     },
     "http://www.imdb.com/title/tt0001593/": {
@@ -755,7 +755,7 @@
         "archive7": "https://archive.org/details/lesVampires1915Episode9-thePoisoner",
         "freenessurl": "https://archive.org/details/LesVampires1915DirectedByLouisFeuillade",
         "status": "free",
-        "title": "\"LES VAMPIRES\" (1915) Episode 7-Satanus"
+        "title": "\"LES VAMPIRES\" (1915) Episode 9-The Poisoner"
     },
     "http://www.imdb.com/title/tt0006296/": {
         "freenessurl": "https://archive.org/details/WishedOnMabel1915",
@@ -859,7 +859,7 @@
         "archive": "https://archive.org/details/CharlieChaplinsTheRink",
         "freenessurl": "https://archive.org/details/CC_1916_12_04_TheRink",
         "status": "free",
-        "title": "Charlie Chaplin's The Rink",
+        "title": "Charlie Chaplin's \"The Rink\"",
         "year": "1916"
     },
     "http://www.imdb.com/title/tt0007476/": {
@@ -1026,7 +1026,7 @@
         "archive": "https://archive.org/details/brokenblossoms1919",
         "freenessurl": "https://archive.org/details/Broken.Blossoms",
         "status": "free",
-        "title": "Broken Blossoms",
+        "title": "broken blossoms (1919)",
         "year": "1919"
     },
     "http://www.imdb.com/title/tt0010103/": {
@@ -1719,7 +1719,7 @@
         "archive1": "https://archive.org/details/TheLodgerAStoryOfTheLondonFog_579",
         "freenessurl": "https://archive.org/details/AHtheLodger",
         "status": "free",
-        "title": "The Lodger - A Story Of The London Fog",
+        "title": "The Lodger: A Story of the London Fog",
         "year": "1926"
     },
     "http://www.imdb.com/title/tt0017128/": {
@@ -2034,7 +2034,7 @@
         "archive": "https://archive.org/details/Dixiana1930",
         "freenessurl": "https://archive.org/details/Dixiana",
         "status": "free",
-        "title": "Dixiana",
+        "title": "Dixiana (1930)",
         "year": "1930"
     },
     "http://www.imdb.com/title/tt0020866/": {
@@ -2392,7 +2392,7 @@
         "archive": "https://archive.org/details/farewell_to_arms_ipod",
         "freenessurl": "https://archive.org/details/farewell_to_arms",
         "status": "free",
-        "title": "Farewell to Arms",
+        "title": "Farewell to Arms, A",
         "year": "1932"
     },
     "http://www.imdb.com/title/tt0022883/": {
@@ -2435,7 +2435,7 @@
         "archive": "https://archive.org/details/hellfire_austin_ipod",
         "freenessurl": "https://archive.org/details/hellfire_austin",
         "status": "free",
-        "title": "Hellfire Austin",
+        "title": "Hell Fire Austin",
         "year": "1932"
     },
     "http://www.imdb.com/title/tt0022990/": {
@@ -2477,7 +2477,7 @@
         "archive9": "https://archive.org/details/MovieSerial-TheHurricaneExpress1932Chapter11WingsOfDeath",
         "freenessurl": "https://archive.org/details/MovieSerial-TheHurricaneExpress1932Chapter01TheWrecker",
         "status": "free",
-        "title": "Movie Serial - The Hurricane Express (1932) Chapter 07: Sealed Lips",
+        "title": "Movie Serial - The Hurricane Express (1932) Chapter 08: Outside the Law",
         "year": "1932"
     },
     "http://www.imdb.com/title/tt0023045/": {
@@ -2546,6 +2546,12 @@
         "title": "Midnight Warning",
         "year": "1932"
     },
+    "http://www.imdb.com/title/tt0023227/": {
+        "freenessurl": "https://archive.org/details/bb_minnie_the_moocher",
+        "status": "free",
+        "title": "Betty Boop: Minnie The Moocher",
+        "year": "1932"
+    },
     "http://www.imdb.com/title/tt0023236/": {
         "archive": "https://archive.org/details/monster_walks",
         "freenessurl": "https://archive.org/details/The_Monster_Walks",
@@ -2582,7 +2588,7 @@
         "archive": "https://archive.org/details/phantom_express",
         "freenessurl": "https://archive.org/details/The.Phantom.Express",
         "status": "free",
-        "title": "The Phantom Express",
+        "title": "Phantom Express",
         "year": "1932"
     },
     "http://www.imdb.com/title/tt0023366/": {
@@ -2654,7 +2660,7 @@
         "archive": "https://archive.org/details/thirteenth_guest",
         "freenessurl": "https://archive.org/details/The_Thirteenth_Guest",
         "status": "free",
-        "title": "The Thirteenth Guest",
+        "title": "Thirteenth Guest",
         "year": "1932"
     },
     "http://www.imdb.com/title/tt0023604/": {
@@ -2709,6 +2715,11 @@
         "status": "free",
         "title": "Without Honor",
         "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023800/": {
+        "freenessurl": "https://archive.org/details/BettyBoopHalloweenParty1933",
+        "status": "free",
+        "title": "Betty Boop Halloween Party 1933"
     },
     "http://www.imdb.com/title/tt0023808/": {
         "freenessurl": "https://archive.org/details/TheBigChance",
@@ -2865,7 +2876,7 @@
         "archive": "https://archive.org/details/The_Kennel_Murder_Case_1933",
         "freenessurl": "https://archive.org/details/PhiloVanceTheKennelMurderCase1933",
         "status": "free",
-        "title": "Philo Vance - The Kennel Murder Case",
+        "title": "The Kennel Murder Case",
         "year": "1933"
     },
     "http://www.imdb.com/title/tt0024212/": {
@@ -2905,7 +2916,7 @@
         "archive9": "https://archive.org/details/mystery_squadron_ep8",
         "freenessurl": "https://archive.org/details/mystery_squadron_ep1",
         "status": "free",
-        "title": "Mystery Squadron: Chapter 4 - Men of Steel",
+        "title": "Mystery Squadron: Chapter 9 - The Secret of the Mine",
         "year": "1933"
     },
     "http://www.imdb.com/title/tt0024405/": {
@@ -3073,7 +3084,7 @@
         "archive9": "https://archive.org/details/whispering_shadow_ep7",
         "freenessurl": "https://archive.org/details/PhotosbyHaroldWhisperingShadowCompilationofAll12Chapters",
         "status": "free",
-        "title": "The Whispering Shadow: Chapter 10 - The Death Warrant",
+        "title": "The Whispering Shadow: Chapter 2 - The Collapsing Room",
         "year": "1933"
     },
     "http://www.imdb.com/title/tt0024782/": {
@@ -3144,7 +3155,7 @@
         "archive9": "https://archive.org/details/burn_em_up_barnes_8",
         "freenessurl": "https://archive.org/details/burn_em_up_barnes_1",
         "status": "free",
-        "title": "Burn Em' Up Barnes: Chapter 2 - The News Reel Murder",
+        "title": "Burn Em' Up Barnes: Chapter 6 - The Crimson Alibi",
         "year": "1934"
     },
     "http://www.imdb.com/title/tt0024962/": {
@@ -3321,7 +3332,7 @@
         "archive9": "https://archive.org/details/TheLawOfTheWild1934Chapter11-WinnerTakeAll",
         "freenessurl": "https://archive.org/details/TheLawOfTheWild1934Chapter01-TheManKiller",
         "status": "free",
-        "title": "The Law of the Wild (1934) Chapter 11 - Winner Take All"
+        "title": "The Law of the Wild (1934) Chapter 09 - Robber's Roost"
     },
     "http://www.imdb.com/title/tt0025373/": {
         "freenessurl": "https://archive.org/details/TheLawlessFontier",
@@ -3569,7 +3580,7 @@
         "archive9": "https://archive.org/details/vanishing_shadow_ep8",
         "freenessurl": "https://archive.org/details/vanishing_shadow_ep1",
         "status": "free",
-        "title": "The Vanishing Shadow: Chapter 9 - Blazing Bulkheads",
+        "title": "The Vanishing Shadow: Chapter 7 - The Tragic Crash",
         "year": "1934"
     },
     "http://www.imdb.com/title/tt0025954/": {
@@ -3628,7 +3639,7 @@
         "archive9": "https://archive.org/details/TheAdventuresOfRexAndRinty1935Chapter11-NewGodsForOld",
         "freenessurl": "https://archive.org/details/MovieSerial-TheAdventuresOfRexAndRinty1935Chapter01-TheGod",
         "status": "free",
-        "title": "The Adventures of Rex and Rinty (1935) Chapter 07 - End of the Road"
+        "title": "The Adventures of Rex and Rinty (1935) Chapter 09 - The Stranger's Recall"
     },
     "http://www.imdb.com/title/tt0026040/": {
         "freenessurl": "https://archive.org/details/aerograd",
@@ -3920,7 +3931,7 @@
         "archive9": "https://archive.org/details/phantom_empire_chapter_8",
         "freenessurl": "https://archive.org/details/The_Phantom_Empire_1935",
         "status": "free",
-        "title": "Phantom Empire - Chapter 10: Rebellion",
+        "title": "Phantom Empire - Chapter 3: Lightning Chamber",
         "year": "1935"
     },
     "http://www.imdb.com/title/tt0026908/": {
@@ -4243,7 +4254,7 @@
         "archive9": "https://archive.org/details/clutching_hand_ep5",
         "freenessurl": "https://archive.org/details/clutching_hand_ep1",
         "status": "free",
-        "title": "The Clutching Hand: Chapter 7 - The Invisible Enemy",
+        "title": "The Clutching Hand: Chapter 15 - The Lone Hand.",
         "year": "1936"
     },
     "http://www.imdb.com/title/tt0027470/": {
@@ -4273,7 +4284,7 @@
         "archive": "https://archive.org/details/the_dark_hour",
         "freenessurl": "https://archive.org/details/The.Dark.Hour",
         "status": "free",
-        "title": "The Dark Hour",
+        "title": "Dark Hour, The",
         "year": "1936"
     },
     "http://www.imdb.com/title/tt0027504/": {
@@ -4621,7 +4632,7 @@
         "archive9": "https://archive.org/details/robinson_crusoe_of_clipper_island_ep6",
         "freenessurl": "https://archive.org/details/robinson_crusoe_of_clipper_island_ep1",
         "status": "free",
-        "title": "Robinson Crusoe of Clipper Island: Chapter 1 - The Mysterious Island",
+        "title": "Robinson Crusoe of Clipper Island: Chapter 7 - Trail's End",
         "year": "1936"
     },
     "http://www.imdb.com/title/tt0028199/": {
@@ -4709,7 +4720,7 @@
         "archive": "https://archive.org/details/things_to_come_ipod",
         "freenessurl": "https://archive.org/details/ClaCinOnl_ThingsToCome",
         "status": "free",
-        "title": "Things To Come",
+        "title": "Things to Come",
         "year": "1936"
     },
     "http://www.imdb.com/title/tt0028360/": {
@@ -4858,7 +4869,7 @@
         "archive": "https://archive.org/details/bride_for_henry_ipod",
         "freenessurl": "https://archive.org/details/bride_for_henry",
         "status": "free",
-        "title": "Bride for Henry",
+        "title": "A Bride for Henry",
         "year": "1937"
     },
     "http://www.imdb.com/title/tt0028666/": {
@@ -4943,7 +4954,7 @@
         "archive9": "https://archive.org/details/MovieSerial-DickTracy1938Chapter11HarborPursuits",
         "freenessurl": "https://archive.org/details/MovieSerial-DickTracy1937Chapter6DangerousWaters",
         "status": "free",
-        "title": "Movie Serial - Dick Tracy (1937) Chapter 10: The Gold Ship",
+        "title": "Movie Serial - Dick Tracy (1937) Chapter 12: The Trail of the Spider",
         "year": "1937"
     },
     "http://www.imdb.com/title/tt0028827/": {
@@ -4956,7 +4967,7 @@
         "archive": "https://archive.org/details/escape_by_night",
         "freenessurl": "https://archive.org/details/Escape.by.Night",
         "status": "free",
-        "title": "Escape by Night",
+        "title": "Escape By Night",
         "year": "1937"
     },
     "http://www.imdb.com/title/tt0028870/": {
@@ -5147,7 +5158,7 @@
         "archive": "https://archive.org/details/non_stop_new_york",
         "freenessurl": "https://archive.org/details/NonStopNewYork1937",
         "status": "free",
-        "title": "Non-Stop New York",
+        "title": "Non Stop New York 1937",
         "year": "1937"
     },
     "http://www.imdb.com/title/tt0029322/": {
@@ -5178,7 +5189,7 @@
         "archive": "https://archive.org/details/popeyepanelesswindowwasher",
         "freenessurl": "https://archive.org/details/Popeye_ThePanelessWindowWasher",
         "status": "free",
-        "title": "The Paneless Window Washer",
+        "title": "Popeye: The Paneless Window Washer",
         "year": "1937"
     },
     "http://www.imdb.com/title/tt0029373/": {
@@ -5618,7 +5629,7 @@
         "archive9": "https://archive.org/details/TheLoneRanger1938Chapter11-TheSilverBullet_674",
         "freenessurl": "https://archive.org/details/MovieSerial-TheLoneRanger1938Chapter01-Hi-yoSilver",
         "status": "free",
-        "title": "The Lone Ranger (1938) Chapter 03 - The Pitfall"
+        "title": "The Lone Ranger (1938) Chapter 11 - The Silver bullet"
     },
     "http://www.imdb.com/title/tt0030409/": {
         "freenessurl": "https://archive.org/details/ManfromMusicMountain",
@@ -5889,7 +5900,7 @@
         "archive": "https://archive.org/details/Bulldog_Drummonds_Bride",
         "freenessurl": "https://archive.org/details/BuDrummonds_Bride",
         "status": "free",
-        "title": "Bulldog Drummond's Bride",
+        "title": "Bulldog Drummonds Bride",
         "year": "1939"
     },
     "http://www.imdb.com/title/tt0031125/": {
@@ -5951,7 +5962,7 @@
         "archive": "https://archive.org/details/escape_to_paradise_ipod",
         "freenessurl": "https://archive.org/details/escape_to_paradise",
         "status": "free",
-        "title": "Escape to Paradise",
+        "title": "Escape To Paradise",
         "year": "1939"
     },
     "http://www.imdb.com/title/tt0031282/": {
@@ -6013,7 +6024,7 @@
         "archive1": "https://archive.org/details/the_gorilla",
         "freenessurl": "https://archive.org/details/The.Gorilla",
         "status": "free",
-        "title": "Gorilla, The",
+        "title": "The Gorilla",
         "year": "1939"
     },
     "http://www.imdb.com/title/tt0031394/": {
@@ -6032,7 +6043,7 @@
         "archive9": "https://archive.org/details/green_hornet_ep7",
         "freenessurl": "https://archive.org/details/green_hornet_ep1",
         "status": "free",
-        "title": "The Green Hornet: Chapter 9 - The Hornet Trapped",
+        "title": "The Green Hornet: Chapter 5 - The Time Bomb",
         "year": "1940"
     },
     "http://www.imdb.com/title/tt0031397/": {
@@ -6416,7 +6427,7 @@
         "archive1": "https://archive.org/details/fatal_hour_the",
         "freenessurl": "https://archive.org/details/The_Fatal_Hour",
         "status": "free",
-        "title": "Fatal Hour, The",
+        "title": "The Fatal Hour",
         "year": "1940"
     },
     "http://www.imdb.com/title/tt0032475/": {
@@ -6448,7 +6459,7 @@
         "archive9": "https://archive.org/details/green_archer_ep5",
         "freenessurl": "https://archive.org/details/green_archer_ep1",
         "status": "free",
-        "title": "Green Archer, The: Chapter 6 - The Necklace of Treachery",
+        "title": "Green Archer, The: Chapter 15 - The Green Archer Exposed",
         "year": "1940"
     },
     "http://www.imdb.com/title/tt0032559/": {
@@ -7190,7 +7201,7 @@
         "archive": "https://archive.org/details/the_battle_of_midway",
         "freenessurl": "https://archive.org/details/BattleOfMidway",
         "status": "free",
-        "title": "The Battle of Midway",
+        "title": "The Battle Of Midway",
         "year": "1942"
     },
     "http://www.imdb.com/title/tt0034515/": {
@@ -7409,7 +7420,7 @@
         "archive": "https://archive.org/details/mad_monster",
         "freenessurl": "https://archive.org/details/The.Mad.Monster",
         "status": "free",
-        "title": "Mad Monster, The",
+        "title": "The Mad Monster",
         "year": "1942"
     },
     "http://www.imdb.com/title/tt0035014/": {
@@ -7563,8 +7574,8 @@
         "archive1": "https://archive.org/details/smart_alecks_ipod",
         "freenessurl": "https://archive.org/details/10SmartAlecks",
         "status": "free",
-        "title": "10 Smart Alecks",
-        "year": "2015"
+        "title": "Smart Alecks",
+        "year": "1942"
     },
     "http://www.imdb.com/title/tt0035364/": {
         "freenessurl": "https://archive.org/details/south_of_santa_fe",
@@ -7962,7 +7973,7 @@
         "archive": "https://archive.org/details/the_outlaw",
         "freenessurl": "https://archive.org/details/ClaCinOnl_TheOutlaw",
         "status": "free",
-        "title": "The Outlaw",
+        "title": "Outlaw, The",
         "year": "1943"
     },
     "http://www.imdb.com/title/tt0036255/": {
@@ -8140,7 +8151,7 @@
         "archive9": "https://archive.org/details/captain_america_ep3",
         "freenessurl": "https://archive.org/details/Comicweb-CaptainAmericaChapter1",
         "status": "free",
-        "title": "Captain America, Chapter 10",
+        "title": "Captain America: Chapter 6 - Vault of Vengeance",
         "year": "1944"
     },
     "http://www.imdb.com/title/tt0036720/": {
@@ -8206,7 +8217,7 @@
         "archive": "https://archive.org/details/gamblers_choice",
         "freenessurl": "https://archive.org/details/gamblers-choice",
         "status": "free",
-        "title": "Gamblers Choice",
+        "title": "Gambler's Choice",
         "year": "1944"
     },
     "http://www.imdb.com/title/tt0036847/": {
@@ -8589,7 +8600,7 @@
         "archive1": "https://archive.org/details/ManhuntOfMysteryIsland_8",
         "freenessurl": "https://archive.org/details/ManhuntMysteryIsland_2",
         "status": "free",
-        "title": "Manhunt of Mystery Island, Chapter 2",
+        "title": "Manhunt of Mystery Island, Chapter 4",
         "year": "1945"
     },
     "http://www.imdb.com/title/tt0037901/": {
@@ -8737,7 +8748,7 @@
         "archive1": "https://archive.org/details/the_woman_in_green_1945",
         "freenessurl": "https://archive.org/details/SherlockHolmes-TheWomanInGreen",
         "status": "free",
-        "title": "Sherlock Holmes - The Woman In Green",
+        "title": "The Woman in Green",
         "year": "1945"
     },
     "http://www.imdb.com/title/tt0038284/": {
@@ -9118,7 +9129,7 @@
         "archive": "https://archive.org/details/my_favorite_brunette_ipod_version",
         "freenessurl": "https://archive.org/details/my_favorite_brunette",
         "status": "free",
-        "title": "My Favorite Brunette",
+        "title": "My Favorite Burnette iPod Version",
         "year": "1947"
     },
     "http://www.imdb.com/title/tt0039678/": {
@@ -9358,7 +9369,7 @@
         "archive1": "https://archive.org/details/amazing_mr_x_ipod",
         "freenessurl": "https://archive.org/details/TheAmazingMr.X1948Avi",
         "status": "free",
-        "title": "The Amazing Mr. X",
+        "title": "Amazing Mr. X , The",
         "year": "1948"
     },
     "http://www.imdb.com/title/tt0040851/": {
@@ -9437,7 +9448,7 @@
         "archive": "https://archive.org/details/BlondeIce1948",
         "freenessurl": "https://archive.org/details/BlondeIce",
         "status": "free",
-        "title": "Blonde Ice (1948)",
+        "title": "Blonde Ice",
         "year": "1948"
     },
     "http://www.imdb.com/title/tt0041218/": {
@@ -9668,8 +9679,8 @@
         "archive": "https://archive.org/details/TheManWhoCheatedHimself1950",
         "freenessurl": "https://archive.org/details/Man_Who_Cheated_Himself",
         "status": "free",
-        "title": "The Man Who Cheated Himself",
-        "year": "1951"
+        "title": "The man who cheated himself",
+        "year": "1950"
     },
     "http://www.imdb.com/title/tt0042782/": {
         "freenessurl": "https://archive.org/details/TheNevadan",
@@ -9740,7 +9751,7 @@
         "archive": "https://archive.org/details/cause_for_alarm_1951",
         "freenessurl": "https://archive.org/details/cause_for_alarm",
         "status": "free",
-        "title": "Cause for Alarm!",
+        "title": "Cause For Alarm!",
         "year": "1951"
     },
     "http://www.imdb.com/title/tt0043397/": {
@@ -9766,7 +9777,7 @@
         "archive": "https://archive.org/details/fatherslittledividend",
         "freenessurl": "https://archive.org/details/FathersLittleDividend1951",
         "status": "free",
-        "title": "Father's Little Dividend"
+        "title": "Father's Little Dividend (1951)"
     },
     "http://www.imdb.com/title/tt0043590/": {
         "freenessurl": "https://archive.org/details/go_for_broke_ACM",
@@ -9857,7 +9868,7 @@
         "archive": "https://archive.org/details/TheSunSetsAtDawn",
         "freenessurl": "https://archive.org/details/Sun_Sets_at_Dawn_movie",
         "status": "free",
-        "title": "The Sun Sets At Dawn",
+        "title": "The Sun Sets at Dawn (1950)",
         "year": "1950"
     },
     "http://www.imdb.com/title/tt0044125/": {
@@ -9960,7 +9971,7 @@
         "archive": "https://archive.org/details/VampireOverLondon1952",
         "freenessurl": "https://archive.org/details/Lugosi_Interview_1950",
         "status": "free",
-        "title": "Vampire Over London (1952)",
+        "title": "Ship's Reporter Interview with Bela Lugosi",
         "year": "1950"
     },
     "http://www.imdb.com/title/tt0044936/": {
@@ -9994,7 +10005,7 @@
         "archive9": "https://archive.org/details/radarmen8",
         "freenessurl": "https://archive.org/details/radarmen1",
         "status": "free",
-        "title": "Radar Men From the Moon - Chapter 9: Battle in the Stratosphere",
+        "title": "Radar Men From the Moon - Chapter 3: Bridge of Death",
         "year": "1952"
     },
     "http://www.imdb.com/title/tt0045094/": {
@@ -10025,7 +10036,7 @@
         "archive": "https://archive.org/details/the_bigamist",
         "freenessurl": "https://archive.org/details/bigamist_the",
         "status": "free",
-        "title": "Bigamist, The",
+        "title": "The Bigamist",
         "year": "1953"
     },
     "http://www.imdb.com/title/tt0045573/": {
@@ -10118,7 +10129,7 @@
         "archive": "https://archive.org/details/MesaOfLostWomenMPEG2",
         "freenessurl": "https://archive.org/details/MesaOfLostWomen",
         "status": "free",
-        "title": "Mesa Of Lost Women",
+        "title": "Mesa of Lost Women",
         "year": "1953"
     },
     "http://www.imdb.com/title/tt0046179/": {
@@ -10167,7 +10178,7 @@
         "archive": "https://archive.org/details/The_Fast_and_the_Furious",
         "freenessurl": "https://archive.org/details/TheFastandtheFuriousJohnIreland1954goofyrip",
         "status": "free",
-        "title": "The Fast and the Furious",
+        "title": "The Fast And The Furious",
         "year": "1955"
     },
     "http://www.imdb.com/title/tt0047127/": {
@@ -10194,7 +10205,7 @@
         "archive1": "https://archive.org/details/last_time_i_saw_paris",
         "freenessurl": "https://archive.org/details/cco2_TheLastTimeISawParis",
         "status": "free",
-        "title": "Last Time I Saw Paris, The",
+        "title": "The Last Time I Saw Paris",
         "year": "1954"
     },
     "http://www.imdb.com/title/tt0047178/": {
@@ -10572,7 +10583,7 @@
         "archive": "https://archive.org/details/wild_women_of_wongo_ipod",
         "freenessurl": "https://archive.org/details/The_Wild_Women_Of_Wongo",
         "status": "free",
-        "title": "Wild Women of Wongo, The",
+        "title": "The Wild Women of Wongo",
         "year": "1958"
     },
     "http://www.imdb.com/title/tt0052602/": {
@@ -10599,7 +10610,7 @@
         "archive2": "https://archive.org/details/the_brain_that_wouldnt_die",
         "freenessurl": "https://archive.org/details/TheBrainThatWouldntDieTheatricalVersion82Min.",
         "status": "free",
-        "title": "Brain That Wouldn't Die, The",
+        "title": "The Brain That Wouldn't Die Theatrical Version (82 min.)",
         "year": "1962"
     },
     "http://www.imdb.com/title/tt0052655/": {
@@ -10679,7 +10690,7 @@
         "archive": "https://archive.org/details/the_first_spaceship_on_venus",
         "freenessurl": "https://archive.org/details/FirstSpaceshipOnVenusMPEG",
         "status": "free",
-        "title": "First Spaceship on Venus",
+        "title": "First Spaceship on Venus, The (Schweigende Stern, Der)",
         "year": "1960"
     },
     "http://www.imdb.com/title/tt0053337/": {
@@ -10765,7 +10776,7 @@
         "archive1": "https://archive.org/details/last_woman_on_earth1960",
         "freenessurl": "https://archive.org/details/LastWonanOnEarthColor",
         "status": "free",
-        "title": "The Last Woman On Earth",
+        "title": "Last Woman on Earth",
         "year": "1960"
     },
     "http://www.imdb.com/title/tt0054033/": {
@@ -10852,7 +10863,7 @@
         "archive": "https://archive.org/details/AnatomyofaPsycho",
         "freenessurl": "https://archive.org/details/AnatomyOfAPsychoMPEG2",
         "status": "free",
-        "title": "Anatomy of a Psycho",
+        "title": "Anatomy Of A Psycho",
         "year": "1961"
     },
     "http://www.imdb.com/title/tt0054668/": {
@@ -10896,7 +10907,7 @@
         "archive": "https://archive.org/details/PublicDomainAnsaFilmandBeaverChampionAttactionsDavidandGoliath1960",
         "freenessurl": "https://archive.org/details/DavidandGoliath1960",
         "status": "free",
-        "title": "David and Goliath",
+        "title": "David and Goliath (1960)",
         "year": "1960"
     },
     "http://www.imdb.com/title/tt0054807/": {
@@ -10944,7 +10955,7 @@
         "archive": "https://archive.org/details/werewolf_in_a_girls_dormitory_ipod",
         "freenessurl": "https://archive.org/details/Werewolf_In_A_Girls_Dormitory",
         "status": "free",
-        "title": "Werewolf in a Girls' Dormitory",
+        "title": "Werewolf in a Girls' Dormitory iPod version",
         "year": "1962"
     },
     "http://www.imdb.com/title/tt0055117/": {
@@ -11089,7 +11100,7 @@
         "archive": "https://archive.org/details/RogerCormansDementiaThirteen720p",
         "freenessurl": "https://archive.org/details/Dementia_13",
         "status": "free",
-        "title": "Dementia 13",
+        "title": "Dementia 13 (Widescreen 720p HD)",
         "year": "1963"
     },
     "http://www.imdb.com/title/tt0056997/": {
@@ -11169,7 +11180,7 @@
         "archive": "https://archive.org/details/atomic_brain_1964",
         "freenessurl": "https://archive.org/details/TheAtomicBrain",
         "status": "free",
-        "title": "Monstrosity AKA / The Atomic Brain",
+        "title": "The Atomic Brain",
         "year": "1964"
     },
     "http://www.imdb.com/title/tt0057860/": {
@@ -11327,7 +11338,7 @@
         "archive": "https://archive.org/details/Jesse_James_Meets_Frankensteins_Daughter",
         "freenessurl": "https://archive.org/details/JesseJamesMeetsFrankensteinsDaughter1966",
         "status": "free",
-        "title": "Jesse James Meets Frankenstein's Daughter"
+        "title": "Jesse James Meets Frankenstein's Daughter (1966)"
     },
     "http://www.imdb.com/title/tt0060666/": {
         "archive": "https://archive.org/details/manos_the_hands_of_fate",
@@ -11398,7 +11409,7 @@
         "archive1": "https://archive.org/details/night_of_the_living_dead_ipod",
         "freenessurl": "https://archive.org/details/Night.Of.The.Living.Dead_1080p",
         "status": "free",
-        "title": "Night of the Living Dead",
+        "title": "Night of the Living Dead iPod and Flash video versions",
         "year": "1968"
     },
     "http://www.imdb.com/title/tt0063555/": {
@@ -11598,8 +11609,8 @@
         "archive": "https://archive.org/details/Horror_Express",
         "freenessurl": "https://archive.org/details/HorrorExpress_201303",
         "status": "free",
-        "title": "Horror Express (HD)",
-        "year": "1972"
+        "title": "Horror Express",
+        "year": "1973"
     },
     "http://www.imdb.com/title/tt0068837/": {
         "freenessurl": "https://archive.org/details/the_legend_of_boggy_creek",
@@ -11678,7 +11689,7 @@
         "archive": "https://archive.org/details/TheProudAndTheDamned-1972",
         "freenessurl": "https://archive.org/details/TheProudAndTheDamned",
         "status": "free",
-        "title": "The Proud and the Damned",
+        "title": "The Proud And The Damned-1972",
         "year": "1972"
     },
     "http://www.imdb.com/title/tt0070578/": {
@@ -11721,7 +11732,7 @@
         "archive": "https://archive.org/details/MessiahofEvil_avi",
         "freenessurl": "https://archive.org/details/Dead_People_movie",
         "status": "free",
-        "title": "Dead People",
+        "title": "Messiah of Evil",
         "year": "1973"
     },
     "http://www.imdb.com/title/tt0071413/": {
@@ -11881,8 +11892,8 @@
         "archive": "https://archive.org/details/CurseOfBigfoot_MPEG",
         "freenessurl": "https://archive.org/details/CurseOfBigfoot",
         "status": "free",
-        "title": "Curse of Bigfoot",
-        "year": "1972"
+        "title": "Curse Of Bigfoot",
+        "year": "1975"
     },
     "http://www.imdb.com/title/tt0074383/": {
         "freenessurl": "https://archive.org/details/DeathMachines",
@@ -12047,7 +12058,7 @@
         "archive": "https://archive.org/details/cco_virus",
         "freenessurl": "https://archive.org/details/VirusFukkatsuNoHi1980",
         "status": "free",
-        "title": "Virus",
+        "title": "Virus (Fukkatsu no hi \u5fa9\u6d3b\u306e\u65e5)",
         "year": "1980"
     },
     "http://www.imdb.com/title/tt0080990/": {
@@ -12680,7 +12691,7 @@
         "archive": "https://archive.org/details/RudolphTheRed-nosedReindeer1948",
         "freenessurl": "https://archive.org/details/RudolphTheRed-nosedReindeer",
         "status": "free",
-        "title": "Rudolph The Red-Nosed Reindeer (1948)",
+        "title": "Rudolph The Red-Nosed Reindeer",
         "year": "1948"
     },
     "http://www.imdb.com/title/tt0156078/": {
@@ -12781,7 +12792,7 @@
         "archive": "https://archive.org/details/Rawhide_Terror_The",
         "freenessurl": "https://archive.org/details/RawhideTerror",
         "status": "free",
-        "title": "Rawhide_Terror_The",
+        "title": "The Rawhide Terror",
         "year": "1934"
     },
     "http://www.imdb.com/title/tt0173742/": {
@@ -13074,7 +13085,7 @@
         "archive": "https://archive.org/details/The_Eclipse",
         "freenessurl": "https://archive.org/details/EclipseDeSoleilEnPleineLune",
         "status": "free",
-        "title": "Eclipse de Soleil en Pleine Lune",
+        "title": "The Eclipse",
         "year": "1907"
     },
     "http://www.imdb.com/title/tt0215749/": {
@@ -13659,7 +13670,7 @@
         "archive": "https://archive.org/details/Hemp_for_victory_1942_FIXED",
         "freenessurl": "https://archive.org/details/Hemp_for_victory_1942",
         "status": "free",
-        "title": "Hemp for Victory",
+        "title": "Hemp For Victory (Fixed version)",
         "year": "1942"
     },
     "http://www.imdb.com/title/tt0367898/": {
@@ -13702,6 +13713,12 @@
         "status": "free",
         "title": "Daybreak - \u5929\u660e",
         "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0401091/": {
+        "freenessurl": "https://archive.org/details/a_is_for_atom",
+        "status": "free",
+        "title": "A is for Atom",
+        "year": "1953"
     },
     "http://www.imdb.com/title/tt0406934/": {
         "freenessurl": "https://archive.org/details/TheLimejuiceMysteryOrWhoSpatInGrandfathersPorridge",
@@ -23572,11 +23589,6 @@
         "freenessurl": "https://archive.org/details/BettyBoopForPresident_629",
         "status": "free",
         "title": "Betty Boop For President"
-    },
-    "https://archive.org/details/BettyBoopHalloweenParty1933": {
-        "freenessurl": "https://archive.org/details/BettyBoopHalloweenParty1933",
-        "status": "free",
-        "title": "Betty Boop Halloween Party 1933"
     },
     "https://archive.org/details/BettyBoopInAHuntingWeWillGo": {
         "freenessurl": "https://archive.org/details/BettyBoopInAHuntingWeWillGo",
@@ -61141,12 +61153,6 @@
         "status": "free",
         "title": "A Great and Majestic Empire - Episode 09"
     },
-    "https://archive.org/details/a_is_for_atom": {
-        "freenessurl": "https://archive.org/details/a_is_for_atom",
-        "status": "free",
-        "title": "A is for Atom",
-        "year": "1953"
-    },
     "https://archive.org/details/a_letter_from_bataan": {
         "freenessurl": "https://archive.org/details/a_letter_from_bataan",
         "status": "free",
@@ -61896,12 +61902,6 @@
         "status": "free",
         "title": "Betty Boop: House Cleaning Blues",
         "year": "1937"
-    },
-    "https://archive.org/details/bb_minnie_the_moocher": {
-        "freenessurl": "https://archive.org/details/bb_minnie_the_moocher",
-        "status": "free",
-        "title": "Betty Boop: Minnie The Moocher",
-        "year": "1932"
     },
     "https://archive.org/details/bb_morning_noon_and_night": {
         "freenessurl": "https://archive.org/details/bb_morning_noon_and_night",
