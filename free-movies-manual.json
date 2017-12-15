@@ -291,6 +291,18 @@
 	"title" : "Horse Feathers",
 	"year" : 1932
     },
+    "http://www.imdb.com/title/tt0023227/": {
+        "status": "free",
+	"freenessurl": "https://archive.org/details/bb_minnie_the_moocher",
+        "title": "Minnie the Moocher",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0023800/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/BettyBoopHalloweenParty1933",
+        "title": "Betty Boop's Hallowe'en Party",
+        "year": "1933"
+    },
     "http://www.imdb.com/title/tt0024054/": {
 	"status" : "free",
 	"freenessurl" :"https://archive.org/details/TheGhostCamera1933",
@@ -353,6 +365,12 @@
 	"freenessurl" : "https://archive.org/details/popeye_shuteye_popeye",
 	"title" : "Shuteye Popeye",
 	"year" : 1952
+    },
+    "http://www.imdb.com/title/tt0401091/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/a_is_for_atom",
+        "title": "A is for Atom",
+        "year": "1953"
     },
     "http://www.imdb.com/title/tt0699412/": {
 	"status" : "free",
