@@ -44,6 +44,7 @@ def main():
                    i[e] = l[e]
 
     usum = 0
+    xsum = 0
     for file in sorted(s.keys()):
         unique = 0
         for imdburl in m.keys():
@@ -52,6 +53,7 @@ def main():
         print("%5d entries (%5d unique) with and %5d without IMDB title ID in %s"
               % (s[file]['imdb'], unique, s[file]['noimdb'], file))
         usum = usum + unique
+        xsum = xsum + s[file]['noimdb']
         if args.list_unique:
             for imdburl in sorted(m.keys()):
                 if m[imdburl] == [file]:
@@ -66,8 +68,8 @@ def main():
                     msg = "        %s %4s %s" % (imdburl, y, t)
                     print(msg.encode('utf-8'))
 
-    print("%5d unique IMDB title IDs in total, %d only in one list" %
-          (len(m.keys()), usum))
+    print("%5d unique IMDB title IDs in total, %d only in one list, %d without IMDB title ID" %
+          (len(m.keys()), usum, xsum))
 
 if __name__ == '__main__':
     main()
