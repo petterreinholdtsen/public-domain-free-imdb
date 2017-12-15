@@ -58,8 +58,10 @@ def fetch_movie_info(entryurl):
         if m:
             retval['year'] = int(m.group(2))
     else:
-        year = root.cssselect("tr.listing_category_year td")[1].text_content()
-        retval['year'] = int(year)
+        y = root.cssselect("tr.listing_category_year td")
+        if y:
+            year = y[1].text_content()
+            retval['year'] = int(year)
         c = root.cssselect("tr.listing_category_public-domain-movie-category td")[1].text_content()
         retval['category'] = c
     return retval
