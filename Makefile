@@ -23,7 +23,7 @@ listupdate:
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
-histogram-year.png: histogram-year.data
+histogram-year.png: histogram-year-plot histogram-year.data
 	./histogram-year-plot
 
 complete-imdb-list.csv: json2csv free-movies-*.json
