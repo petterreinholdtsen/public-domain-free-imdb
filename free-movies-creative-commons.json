@@ -142,6 +142,11 @@
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt1720074/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Congo_in_Four_Acts"
+    },
     "http://www.imdb.com/title/tt1727587/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -295,6 +300,11 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Caminandes"
     },
+    "http://www.imdb.com/title/tt7634344/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)"
+    },
     "https://en.wikipedia.org/wiki/A_Swarm_of_Angels": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -309,11 +319,6 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire"
-    },
-    "https://en.wikipedia.org/wiki/Congo_in_Four_Acts": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Congo_in_Four_Acts"
     },
     "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -429,11 +434,6 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Tango_Ya_Ba_Wendo"
-    },
-    "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)"
     },
     "https://en.wikipedia.org/wiki/Un_R%C3%AAve_d%E2%80%99ind%C3%A9pendance": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
