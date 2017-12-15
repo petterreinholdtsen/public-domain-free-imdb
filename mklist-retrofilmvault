@@ -9,6 +9,7 @@ assume it is the correct IMDB title ID for the movie.
 
 """
 
+import datetime
 import json
 import lxml.html
 import movielib
@@ -56,15 +57,22 @@ def fetch_movie_info(entryurl):
     if m:
         retval['year'] = int(m.group(2))
     return retval
+
+def is_in_list(list, url):
+    for e in list:
+        if url == list[e]['freenessurl']:
+            return True
+    return False
     
-def fetch_movie_list(url, name):
-    list = {}
+def fetch_movie_list(list, url, name):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(url))
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("a[href]"):
         entryurl = urlparse.urljoin(url, a.attrib['href'])
+        if is_in_list(list, entryurl):
+            continue
         title = a.text_content()
         print entryurl
         info = fetch_movie_info(entryurl)
@@ -83,6 +91,7 @@ def fetch_movie_list(url, name):
             'status' : 'free',
             'freenessurl' : entryurl,
             'title' : title,
+            'updated' : datetime.datetime.now().isoformat(),
             }
         if year:
             list[imdb]['year'] = year
@@ -90,10 +99,18 @@ def fetch_movie_list(url, name):
         movielib.savelist(list, name=name)
     return list
 
+def loadlist(path):
+    try:
+        with open(path, 'rt') as input:
+            return json.load(input)
+    except IOError as e:
+        return {}
+
 def main():
     url = "https://retrofilmvault.com/publicdomainfilms/"
     path='free-movies-retrofilmvault.json'
-    l = fetch_movie_list(url, name=path)
+    l = loadlist(path)
+    l = fetch_movie_list(l, url, name=path)
     movielib.savelist(l, name=path)
 
 if __name__ == '__main__':
