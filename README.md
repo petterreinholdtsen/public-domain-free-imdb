@@ -74,3 +74,13 @@ possible for easier validation of the field.
 The file `free-movies-manual.json` is manually generated, to have a
 place to store the status of free movies that are currently missing in
 the automatically generated lists.
+
+Copyright terms / license
+-------------------------
+
+As the generated lists consist of statements of facts, as well as I
+know them, I consider the content to be non-copyrightable / public
+domain / Creative Commons CC0 (pick whatever suit your legislation :).
+
+The program code used to generate the list is licensed under the GPL
+v2 or later versions.
