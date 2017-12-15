@@ -1,27 +1,17 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 Fetch list of movies with Creative Commons licensing.
 """
 
+import argparse
 import json
 import lxml.html
 import re
 import urllib2
 import urlparse
 import movielib
-
-def http_get_read(url):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-Agent', 'public-domain-movie-locator/0.0')]
-    # Try several times in case the first one fail
-    for tries in xrange(0,3):
-        try:
-            f = opener.open(url)
-            return f.read()
-        except:
-            print("Retrying %s in 20 seconds" % url)
-            time.sleep(20)
 
 def savelist(l, name = None):
     with open(name, 'wt') as out:
@@ -33,7 +23,7 @@ def savelist(l, name = None):
 
 def fetch_wikipedia_list(list, url):
     try:
-        root = lxml.html.fromstring(http_get_read(url))
+        root = lxml.html.fromstring(movielib.http_get_read(url))
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("a[href]"):
@@ -49,9 +39,13 @@ def fetch_wikipedia_list(list, url):
                 }
     return list
 
-def fetch_wikipedia_category(list, url):
+def fetch_wikipedia_category(list, url, baseinfo = {}):
     try:
-        root = lxml.html.fromstring(http_get_read(url))
+        html = movielib.http_get_read(url)
+        if html:
+            root = lxml.html.fromstring(html)
+        else:
+            return list
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("div#mw-pages div.mw-content-ltr a[href]"):
@@ -60,22 +54,45 @@ def fetch_wikipedia_category(list, url):
         ref = entryurl
         if imdb:
             ref = imdb
+        print list, ref, entryurl, imdb
         if -1 != entryurl.find('/wiki/'):
             print entryurl, ref
-            list[ref] = {
-                'status' : 'free',
-                'freenessurl' : url,
-                'wp' : entryurl
-                #'title' : info['title'],
-                #'year' : info['year'],
-                }
+            info = {}
+            for k, v in baseinfo.items():
+                info[k] = v
+            info['status'] = 'free'
+            info['freenessurl'] = url
+            info['wp'] = entryurl
+            #'title' : info['title'],
+            #'year' : info['year'],
+            list[ref] = info
     return list
 
+def oldfilms():
+    """
+According to
+https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States,
+every movie published in the USA before 1923 is now public domain.
+"""
+    l = {}
+    for y in xrange(1874, 1923):
+        url = 'https://en.wikipedia.org/wiki/Category:%d_films' % y
+        fetch_wikipedia_category(l, url, {'year' : y})
+    savelist(l, name='free-movies-wikipedia-oldfilms.json')
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output', default='free-movies-creative-commons.json')
+    parser.add_argument('--old', action='store_true', default=False,
+                        help='fetch list of old movies listed on wikipedia')
+    args = parser.parse_args()
+    if args.old:
+        return oldfilms()
+    
     # List from English Wikipedia
     url = "https://en.wikipedia.org/wiki/List_of_open-source_films"
     l = {}
-    l = fetch_wikipedia_list(l, url)
+    fetch_wikipedia_list(l, url)
 
     # List of Creative Commons licenced movies on English Wikipedia
     urls = [
@@ -84,8 +101,8 @@ def main():
         "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
     ]
     for c in urls:
-        l = fetch_wikipedia_category(l, c)
-    savelist(l, name='free-movies-creative-commons.json')
+        fetch_wikipedia_category(l, c)
+    savelist(l, name=args.output)
 
 if __name__ == '__main__':
     main()
