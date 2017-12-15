@@ -1,0 +1,100 @@
+#!/usr/bin/env python
+
+"""
+Fetch list of movies available from RetroFilmVault.  All their movies
+are claimed to be in the public domain.
+
+Look up each title +year in IMDB and if only one title is returned,
+assume it is the correct IMDB title ID for the movie.
+
+"""
+
+import json
+import lxml.html
+import movielib
+import re
+import urllib
+import urllib2
+import urlparse
+
+def imdb_find_one(title, year):
+    """
+Look up title and year in IMDB, and return the IMDB title ID if only
+one title was found in the search result.
+"""
+    if not year:
+        return None
+    url = "http://www.imdb.com/find?ref_=nv_sr_fn&q=%s+%d&s=all" % \
+          (urllib.quote_plus(title), year)
+    print url
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    res = root.cssselect("td.primary_photo a[href]")
+    print len(res)
+    if 1 == len(res):
+        imdb = urlparse.urljoin(url, res[0].attrib['href']).split("?")[0]
+        return imdb
+    else:
+        return None
+def fetch_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    retval = {}
+    title = root.cssselect("h1")[0].text_content().strip()
+    retval['title'] = title
+    cps = root.cssselect("div#content p")
+    stars = cps[0].text_content()
+    info = cps[1].text_content()
+    print info
+    retval['stars'] = stars
+    retval['info'] = info
+    m = re.search("^(.+) (\d+)$", info)
+    if m:
+        retval['year'] = int(m.group(2))
+    return retval
+    
+def fetch_movie_list(url, name):
+    list = {}
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("a[href]"):
+        entryurl = urlparse.urljoin(url, a.attrib['href'])
+        title = a.text_content()
+        print entryurl
+        info = fetch_movie_info(entryurl)
+        if not info:
+            print("error: found broken link %s" % entryurl)
+        #print info
+        if info and 'year' in info:
+            year = info['year']
+            imdb = imdb_find_one(title, year)
+        else:
+            year = None
+            imdb = None
+        if not imdb:
+            imdb = entryurl
+        list[imdb] = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'title' : title,
+            }
+        if year:
+            list[imdb]['year'] = year
+        print(imdb, list[imdb])
+        movielib.savelist(list, name=name)
+    return list
+
+def main():
+    url = "https://retrofilmvault.com/publicdomainfilms/"
+    path='free-movies-retrofilmvault.json'
+    l = fetch_movie_list(url, name=path)
+    movielib.savelist(l, name=path)
+
+if __name__ == '__main__':
+    main()
