@@ -9,7 +9,6 @@ listupdate:
 	./mklist-publicdomaintorrents
 	./mklist-vodo
 	./mklist-imdb-pd
-	./mklist-imdb-pd --dubious-list --output free-movies-imdb-dubious.json
 	./mklist-icheckmovies-archive-mochard
 	./mklist-publicdomainmovies-net
 	./mklist-publicdomainreview
