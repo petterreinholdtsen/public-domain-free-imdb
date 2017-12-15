@@ -45,17 +45,23 @@ def fetch_movie_info(entryurl):
     except urllib2.HTTPError as e:
         return None
     retval = {}
-    title = root.cssselect("h1")[0].text_content().strip()
-    retval['title'] = title
     cps = root.cssselect("div#content p")
-    stars = cps[0].text_content()
-    info = cps[1].text_content()
-    print info
-    retval['stars'] = stars
-    retval['info'] = info
-    m = re.search("^(.+) (\d+)$", info)
-    if m:
-        retval['year'] = int(m.group(2))
+    if cps:
+        title = root.cssselect("h1")[0].text_content().strip()
+        retval['title'] = title
+        stars = cps[0].text_content()
+        info = cps[1].text_content()
+        print info
+        retval['stars'] = stars
+        retval['info'] = info
+        m = re.search("^(.+) (\d+)$", info)
+        if m:
+            retval['year'] = int(m.group(2))
+    else:
+        year = root.cssselect("tr.listing_category_year td")[1].text_content()
+        retval['year'] = int(year)
+        c = root.cssselect("tr.listing_category_public-domain-movie-category td")[1].text_content()
+        retval['category'] = c
     return retval
 
 def is_in_list(list, url):
