@@ -1,9 +1,12 @@
 __AUTHOR__ = 'Petter Reinholdtsen <pere@hungry.com>'
 
 import json
+import lxml.html
 import re
 import time
+import urllib
 import urllib2
+import urlparse
 
 def http_get_read(url):
     opener = urllib2.build_opener()
@@ -26,6 +29,28 @@ def savelist(l, name = None):
                   sort_keys=True,
                   indent=4,
                   separators=(',', ': '))
+
+def imdb_find_one(title, year):
+    """
+Look up title and year in IMDB, and return the IMDB title ID if only
+one title was found in the search result.
+"""
+    if not year:
+        return None
+    url = "http://www.imdb.com/find?ref_=nv_sr_fn&q=%s+%d&s=all" % \
+          (urllib.quote_plus(title), year)
+    print url
+    try:
+        root = lxml.html.fromstring(http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    res = root.cssselect("td.primary_photo a[href]")
+    print len(res)
+    if 1 == len(res):
+        imdb = urlparse.urljoin(url, res[0].attrib['href']).split("?")[0]
+        return imdb
+    else:
+        return None
 
 def test_wikipedia_lookup():
     for line in [

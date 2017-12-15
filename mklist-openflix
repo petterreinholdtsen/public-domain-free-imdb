@@ -1,0 +1,80 @@
+#!/usr/bin/env python
+"""
+Fetch complete list of movies listed on openflix.com.
+
+Mapping to IMDB by searching for the title and year and
+assuming it is the right one if IMDB only find one matching entry.
+"""
+
+import lxml.html
+import movielib
+import urllib2
+import urlparse
+
+def extract_movies(l, genreurl):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(genreurl))
+    except urllib2.HTTPError as e:
+        return None
+    # FIXME this end up ignoring entries without iages
+    for img in root.cssselect("td a[href] img"):
+        a = img.getparent()
+        if -1 != a.attrib['href'].find('/movie/'):
+            movieurl = urlparse.urljoin(genreurl, a.attrib['href'])
+            title = img.attrib['alt']
+            for tr in img.iterancestors('tr'):
+                entry = tr
+                break
+            #print "  ", movieurl, title
+            info = {
+                'status' : 'free',
+                'title' : title,
+                'freenessurl' : genreurl,
+            }
+            d1 = entry.cssselect("table tr td.lab")[0]
+            d2 = d1.getnext()
+            s = (d1.text_content() + d2.text_content())
+            #print s
+            s = s.replace('Language:&nbsp', 'Language:n/a&nbsp')
+            s = s.replace(':&nbsp',':')
+            s.replace(':&nbsp&nbspC', ':&nbsp&nbsp&nbspC')
+            s = s.split("&nbsp&nbsp&nbsp")
+            #print s
+            for v in s:
+                key, value = v.split(':')
+                info[key.lower()] = value
+            print info
+            ref = movieurl
+            try:
+                imdb = movielib.imdb_find_one(info['title'], int(info['year']))
+                if imdb:
+                    ref = imdb
+            except KeyError: # hit this with mojobake and UTF-8 in 'Haxan')
+                pass
+            l[ref] = info
+    return l
+
+def fetch_genre_list(genrelisturl):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(genrelisturl))
+    except urllib2.HTTPError as e:
+        return None
+    g = []
+    for a in root.cssselect("li a[href]"):
+        if -1 != a.attrib['href'].find('/genre/'):
+            genreurl = urlparse.urljoin(genrelisturl, a.attrib['href'])
+            g.append(genreurl)
+    return g
+
+def main():
+    genrelisturl = "http://www.openflix.com/genre/"
+    g = fetch_genre_list(genrelisturl)
+    l = {}
+    for genreurl in g:
+        #print genreurl
+        l = extract_movies(l, genreurl)
+
+    movielib.savelist(l, name='free-movies-openflix.json')
+
+if __name__ == '__main__':
+    main()

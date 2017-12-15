@@ -20,6 +20,7 @@ listupdate:
 	./mklist-imdb-c-expired-year --country=us --output=free-movies-imdb-c-expired-us.json
 	./mklist-imdb-c-expired-year --country=gb --output=free-movies-imdb-c-expired-gb.json --end=1912
 	./mklist-retrofilmvault
+	./mklist-openflix
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
