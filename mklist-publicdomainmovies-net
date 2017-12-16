@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 Extract IMDB IDs of movies listed as in the public domain on
@@ -8,6 +9,7 @@ www.publicdomainmoves.net.
 import json
 import lxml.html
 import movielib
+import re
 import urllib2
 import urlparse
 
@@ -15,17 +17,22 @@ urlbase = 'http://publicdomainmovie.net/?page=%d'
 #urlbase = 'http://publicdomainmovies.net/cartoons?page=%d'
 #http://publicdomainmovies.net/movie/million-dollar-weekend-0
 
-def get_movie_info(entryurl):
+def get_movie_info(entryurl, title):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None, None
     #print entryurl
+    # title is also "div.field-item h2"
     ytag = root.cssselect("span.date-display-single")
     if ytag:
         year = int(ytag[0].text_content())
     else:
-        year = None
+        m = re.search("\((\d\d\d\d)\)$", title)
+        if m:
+            year = int(m.group(1))
+        else:
+            year = None
     for a in root.cssselect("div.content a[href]"):
         #print a.attrib['href'], a.attrib['href'].find("imdb")
         if -1 != a.attrib['href'].find("imdb.com"):
@@ -40,7 +47,14 @@ def get_movie_info(entryurl):
                 imdburl = imdburl + '/'
             #print imdburl
             return imdburl, year
-    print("Unable to find IMDB id for %s" % entryurl)
+    print("Unable to find IMDB id for %s, searching in IDMB" % entryurl)
+    try:
+        imdb = movielib.imdb_find_one(title, year)
+        if imdb:
+            return imdb, year
+    except KeyError: # hit this with mojobake and UTF-8 in 'Spring in a Small Town (小城之春)')
+        pass
+
     return entryurl, year
 
 def get_last_page():
@@ -67,7 +81,7 @@ def get_movie_list(l, page=1):
         title = div.cssselect("div.info b")[0].text_content()
         if -1 != a.attrib['href'].find("/movie/"):
             entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
-            e, year = get_movie_info(entryurl)
+            e, year = get_movie_info(entryurl, title)
             if e:
                 l[e] = {
                     'status' : 'free',
