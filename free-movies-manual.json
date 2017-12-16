@@ -1231,6 +1231,13 @@
 	"title" : "Working Dollar",
 	"year" : 1956
     },
+    "http://www.imdb.com/title/tt0049655/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/RamsbottomRidesAgain",
+        "wp": "https://en.wikipedia.org/wiki/Ramsbottom_Rides_Again",
+        "title" : "Ramsbottom Rides Again",
+        "year" : 1956
+    },
     "http://www.imdb.com/title/tt0027286/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/TheAmazingAdventure",
