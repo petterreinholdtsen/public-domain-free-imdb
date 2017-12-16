@@ -43,7 +43,7 @@ def fetch_search_result(entries, urlbase, page):
                 'status' : 'free',
                 'freenessurl' : url,
                 'title' : title,
-                }
+            }
             if year:
                 entries[imdburl]['year'] = int(year)
             count = count + 1
