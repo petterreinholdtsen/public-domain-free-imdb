@@ -9,7 +9,7 @@ Output year histogram for movies in IMDB, for use when creating a graph.
 import argparse
 import json
 
-def load(h, l, path, verbose=False):
+def load(h, l, stats, path, verbose=False, cutyear=None):
     with open(path, 'rt') as input:
     	 j = json.load(input)
 
@@ -24,6 +24,11 @@ def load(h, l, path, verbose=False):
                  year = 'n/a'
              else:
                  year = int(j[imdburl]['year'])
+                 if cutyear:
+                     if year < cutyear:
+                         stats['before'] = stats['before'] + 1
+                     else:
+                         stats['after'] = stats['after'] + 1
              if not year in h:
                      h[year] = 0
              if verbose:
@@ -35,16 +40,25 @@ parser = argparse.ArgumentParser()
 parser.add_argument('files', metavar='N', type=str, nargs='*',
                     default=['free-movies-manual.json'],
                     help='input file(s)')
+parser.add_argument('--cutyear', type=int, default=None,
+                    help='Report movie count before and after this year')
 parser.add_argument('--total', action='store_true', default=False)
 args = parser.parse_args()
 
 h = {}
 l = {}
+stats = {
+    'before' : 0,
+    'after' : 0
+}
 for file in args.files:
-    load(h, l, file)
+    load(h, l, stats, file, cutyear=args.cutyear)
 
 for y in sorted(h.keys()):
     print y, h[y]
 
 if args.total:
     print "Total:", len(l.keys())
+if args.cutyear:
+    print("Cutyear %d.  %d before, %d after" %
+          (args.cutyear, stats['before'], stats['after']))
