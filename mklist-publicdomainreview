@@ -43,7 +43,7 @@ def get_movie_list(l, urlbase, page=1):
         root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
         return 0
-    if not root:
+    if root is None:
         return 0
     count = 0
     for div in root.cssselect("article.medium-film"):
@@ -51,7 +51,7 @@ def get_movie_list(l, urlbase, page=1):
         m = re.search('^(.+)\s*\((\d+)\)$', titleyear)
         if m:
             title = m.group(1).strip()
-            year = m.group(2)
+            year = int(m.group(2))
         else:
             title = titleyear
             year = None
@@ -73,7 +73,7 @@ def get_movie_list(l, urlbase, page=1):
             if iaurl:
                 l[e]['archive'] = iaurl
             if year:
-                l[e]['year'] = int(year)
+                l[e]['year'] = year
             #print l[e]
             count = count + 1
     return count
