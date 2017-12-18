@@ -37,11 +37,15 @@ def parsepage(l, url):
         pass
     return None
 
-url = "http://vodo.net/films/"
-html = movielib.http_get_read(url)
-root = lxml.html.fromstring(html)
-entries = {}
-for a in root.cssselect("div.sticker a"):
-    entryurl = urlparse.urljoin(url, a.attrib['href'])
-    parsepage(entries, entryurl)
-movielib.savelist(entries, 'free-movies-vodo.json')
+def main():
+    url = "http://vodo.net/films/"
+    html = movielib.http_get_read(url)
+    root = lxml.html.fromstring(html)
+    entries = {}
+    for a in root.cssselect("div.sticker a"):
+        entryurl = urlparse.urljoin(url, a.attrib['href'])
+        parsepage(entries, entryurl)
+    movielib.savelist(entries, 'free-movies-vodo.json')
+
+if __name__ == '__main__':
+    main()
