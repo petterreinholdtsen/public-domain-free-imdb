@@ -21,11 +21,11 @@ def fetch_movie_info(entryurl):
         link = a.attrib['href']
         if -1 != link.find('imdb.com/title/'):
             retval['imdb'] = link
-    #titleyear = root.cssselect("header h1")[0].text_content()
-    #print titleyear
-    #m = re.search("^(.+) \((\d+)\)$", titleyear)
-    #retval['title'] = m.group(1)
-    #retval['year'] = int(m.group(2))
+    retval['title'] = root.cssselect("span.current")[0].text_content()
+    y = root.cssselect("div.two_third")[0].text_content()
+    m = re.search("Year: (\d+)", y)
+    retval['year'] = int(m.group(1))
+    print retval
     return retval
     
 def fetch_movie_list(url):
@@ -60,5 +60,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
