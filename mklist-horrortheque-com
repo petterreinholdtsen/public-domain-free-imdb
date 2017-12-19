@@ -1,0 +1,64 @@
+#!/usr/bin/env python
+
+"""
+Fetch list of movies made by Horrortheque.  All their movies
+are believed to be in the public domain.
+"""
+
+import json
+import lxml.html
+import movielib
+import re
+import urllib2
+
+def fetch_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    retval = {}
+    for a in root.cssselect("div.two_third a[href]"):
+        link = a.attrib['href']
+        if -1 != link.find('imdb.com/title/'):
+            retval['imdb'] = link
+    #titleyear = root.cssselect("header h1")[0].text_content()
+    #print titleyear
+    #m = re.search("^(.+) \((\d+)\)$", titleyear)
+    #retval['title'] = m.group(1)
+    #retval['year'] = int(m.group(2))
+    return retval
+    
+def fetch_movie_list(url):
+    list = {}
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for a in root.cssselect("div.azindex ul li a"):
+        entryurl = a.attrib['href']
+	# Add trailing slash if missing, to avoid HTTP redirect
+	if '/' != entryurl[-1]:
+	    entryurl = entryurl + '/'
+	#print entryurl
+	info = fetch_movie_info(entryurl)
+	#print info
+	ref = entryurl
+	if 'imdb' in info:
+	    ref = info['imdb']
+	list[ref] = {
+	    'status' : 'free',
+	    'freenessurl' : entryurl,
+	    }
+    #       'year' : info['year'],
+    #	    'title' : info['title'],
+    return list
+
+def main():
+    url = "http://www.horrortheque.com/movie-index/"
+    l = fetch_movie_list(url)
+    movielib.savelist(l, name='free-movies-horrortheque-com.json')
+
+if __name__ == '__main__':
+    main()
+
+
