@@ -21,6 +21,9 @@ def fetch_movie_info(entryurl):
         link = a.attrib['href']
         if -1 != link.find('imdb.com/title/'):
             retval['imdb'] = link
+            # Add trailing slash if missing, to normalize URL
+	    if '/' != retval['imdb'][-1]:
+	        retval['imdb'] = retval['imdb'] + '/'
     retval['title'] = root.cssselect("span.current")[0].text_content()
     y = root.cssselect("div.two_third")[0].text_content()
     m = re.search("Year: (\d+)", y)
@@ -48,9 +51,9 @@ def fetch_movie_list(url):
 	list[ref] = {
 	    'status' : 'free',
 	    'freenessurl' : entryurl,
-	    }
-    #       'year' : info['year'],
-    #	    'title' : info['title'],
+            'year' : info['year'],
+            'title' : info['title'],
+	}
     return list
 
 def main():
