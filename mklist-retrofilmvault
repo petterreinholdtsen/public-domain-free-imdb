@@ -7,6 +7,10 @@ are claimed to be in the public domain.
 Look up each title +year in IMDB and if only one title is returned,
 assume it is the correct IMDB title ID for the movie.
 
+Question: How does these two links add up?
+http://www.motherjones.com/politics/2013/08/mlk-intellectual-property-problems/
+https://retrofilmvault.com/listings/martin-luther-king-i-have-a-dream-1963/
+
 """
 
 import datetime
