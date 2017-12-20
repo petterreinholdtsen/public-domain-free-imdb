@@ -1,10 +1,4 @@
 {
-    "http://www.horrortheque.com/public-domain-horror-movies/vampyres/": {
-        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/vampyres/",
-        "status": "free",
-        "title": "Vampyres",
-        "year": 1974
-    },
     "http://www.imdb.com/title/tt0010323/": {
         "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/the-cabinet-of-dr-caligari/",
         "status": "free",
@@ -96,7 +90,7 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0033760/": {
-        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/jesse-james-meets-frankensteins-daughter/",
+        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/invisible-ghost/",
         "status": "free",
         "title": "Invisible Ghost",
         "year": 1941
@@ -245,6 +239,12 @@
         "title": "The Little Shop Of Horrors",
         "year": 1960
     },
+    "http://www.imdb.com/title/tt0054285/": {
+        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/atom-age-vampire/",
+        "status": "free",
+        "title": "Atom Age Vampire",
+        "year": 1960
+    },
     "http://www.imdb.com/title/tt0054393/": {
         "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/tormented/",
         "status": "free",
@@ -339,6 +339,12 @@
         "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/curse-of-the-swamp-creature/",
         "status": "free",
         "title": "Curse of the Swamp Creature",
+        "year": 1966
+    },
+    "http://www.imdb.com/title/tt0060558/": {
+        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/jesse-james-meets-frankensteins-daughter/",
+        "status": "free",
+        "title": "Jesse James Meets Frankenstein\u2019s Daughter",
         "year": 1966
     },
     "http://www.imdb.com/title/tt0061005/": {
@@ -467,6 +473,12 @@
         "title": "Devil Times Five",
         "year": 1974
     },
+    "http://www.imdb.com/title/tt0072354/": {
+        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/vampyres/",
+        "status": "free",
+        "title": "Vampyres",
+        "year": 1974
+    },
     "http://www.imdb.com/title/tt0072937/": {
         "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/encounter-with-the-unknown/",
         "status": "free",
@@ -492,7 +504,7 @@
         "year": 1976
     },
     "http://www.imdb.com/title/tt0076150/": {
-        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/atom-age-vampire/",
+        "freenessurl": "http://www.horrortheque.com/public-domain-horror-movies/alice-sweet-alice/",
         "status": "free",
         "title": "Alice Sweet Alice",
         "year": 1976
