@@ -76,6 +76,12 @@
 	"title" : "Le diable géant ou Le miracle de la madonne",
 	"year" : 1901
     },
+    "http://www.imdb.com/title/tt0000349/": {
+	"status" : "free",
+	"freenessurl" : "https://en.wikipedia.org/wiki/Cheese_Mites,_or_Lilliputians_in_a_London_Restaurant",
+	"title" : "Cheese Mites, or Lilliputians in a London Restaurant",
+	"year" : 1901
+    },
     "http://www.imdb.com/title/tt0222874/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/TheInfernalCake-walk1903",
