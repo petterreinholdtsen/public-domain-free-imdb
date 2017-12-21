@@ -1,10 +1,12 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 Extract IMDB IDs for films listed on the Public Domain Review,
 using the wikidata IMDB->archive.org map to look up IMDB IDs.
 """
 
+import argparse
 import json
 import lxml.html
 import movielib
@@ -12,14 +14,12 @@ import re
 import urllib2
 import urlparse
 
-urlbase = 'http://publicdomainreview.org/collections/page/%d/?medium=film'
-
 def get_movie_iaurl(entryurl):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
-    if not root:
+    if root is None:
         return None
     for a in root.cssselect("td a"):
         if -1 != a.attrib['href'].find("archive.org/details/"):
@@ -32,11 +32,11 @@ def map2imdb(iaurl):
     global wplist
     for wpimdb in wplist.keys():
         if wplist[wpimdb]['freenessurl'] == iaurl:
-            print "MATCH: ", wpimdb
+            print("found %s in archive.org: %s" % (iaurl, wpimdb))
             return wpimdb
     return None
 
-def get_movie_list(l, urlbase, page=1):
+def get_movie_list(l, args, urlbase, page=1):
     summaryurl = urlbase % page
     print summaryurl
     try:
@@ -62,8 +62,17 @@ def get_movie_list(l, urlbase, page=1):
         if imdburl:
             e = imdburl
         else:
-            print("Unable to find IMDB id for %s" % entryurl)
             e = entryurl
+            print("Unable to find IMDB id for %s" % entryurl)
+            if args.imdblookup:
+                try:
+                    imdburl = movielib.imdb_find_one(title, year)
+                    if imdburl:
+                        e = imdburl
+                except KeyError:
+                    # Ignore titles with non-ascii characters, like
+                    # http://publicdomainreview.org/collections/growing-things-a-film-lesson-in-nature-study-1928/
+                    pass
         if e:
             l[e] = {
                 'status' : 'free',
@@ -85,10 +94,22 @@ def loadlist():
     except IOError as e:
         return {}
 
-wplist = loadlist()
+def main():
+    global wplist
+    urlbase = 'http://publicdomainreview.org/collections/page/%d/?medium=film'
 
-l = {}
-page = 1
-while 0 < get_movie_list(l, urlbase=urlbase, page=page):
-    page = page + 1
-movielib.savelist(l, 'free-movies-publicdomainreview.json')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+
+    wplist = loadlist()
+
+    l = {}
+    page = 1
+    while 0 < get_movie_list(l, args, urlbase=urlbase, page=page):
+        page = page + 1
+    movielib.savelist(l, 'free-movies-publicdomainreview.json')
+
+if __name__ == '__main__':
+    main()
