@@ -1300,6 +1300,13 @@
 	"title" : "Always Tomorrow: The Portrait of an American Business",
 	"year" : 1941
     },
+    "http://www.imdb.com/title/tt0034247/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/superman_the_man_of_steele",
+        "archive": "https://archive.org/details/superman_1941",
+        "title": "Superman - Son of Krypton",
+        "year": "1941"
+    },
     "http://www.imdb.com/title/tt0035345/": {
         "freenessurl": "https://archive.org/details/10SmartAlecks",
         "status": "free",
