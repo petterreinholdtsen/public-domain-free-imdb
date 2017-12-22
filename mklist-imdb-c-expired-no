@@ -16,6 +16,7 @@ after the death of the longest living these.  The challenge is figuring
 out who they were and when they died.
 """
 
+import argparse
 import datetime
 import json
 import lxml.html
@@ -124,21 +125,28 @@ def fetch_search_result(entries, urlbase, page):
     return False
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output', type=str,
+                        default='free-movies-imdb-c-expired-no.json',
+                        help='output file')
+    parser.add_argument('--all', action='store_true', default=False,
+                        help='include also non-feature films')
+    args = parser.parse_args()
+    
     global personcache
     personcache = loadinfo("author-deaths.json")
-    all = False
     entries = {}
     # Oldest norwegian movie in IMDB is from 1907.  It is not a feature film
     start = 1907
     end = thisyear - vernetid
     for y in xrange(start, end):
         urlbase = "http://www.imdb.com/search/title?country_of_origin=no&year=%d&page=%%s" % y
-        if not all:
+        if not args.all:
             urlbase = urlbase + '&title_type=feature'
         page = 1
         while fetch_search_result(entries, urlbase, page):
             page = page + 1
-        movielib.savelist(entries, name="free-movies-imdb-c-expired-no.json")
+        movielib.savelist(entries, name=args.output)
         time.sleep(2) # avoid overloading IMDB
 
 if __name__ == '__main__':
