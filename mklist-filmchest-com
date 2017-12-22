@@ -1,0 +1,71 @@
+#!/usr/bin/env python
+
+"""
+Fetch list of public domain movies distributed by Film Chest.
+Fetch IMDB title ID by searching for the title and year in IMDB.
+"""
+
+import argparse
+import lxml.html
+import movielib
+import urllib2
+import urlparse
+
+def fetch_movie_list(args, list, url):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for e in root.cssselect("div.browse-item"):
+        titletag = e.cssselect("div.con-holder a h2")[0]
+        title = titletag.text_content()
+        y = e.cssselect("div.con-holder h3")[0].text_content()
+        year = int(y.split('-')[0].split('/')[0])
+        availability = \
+            e.cssselect("div.act-holder dl dd")[0].text_content()
+        entryurl = urlparse.urljoin(url,
+                                    titletag.getparent().attrib['href'])
+        ref = entryurl
+        if args.imdblookup:
+            imdb = movielib.imdb_find_one(title, year)
+            if imdb:
+                ref = imdb
+        print title, year, entryurl
+	list[ref] = {
+	    'status' : 'free',
+	    'freenessurl' : entryurl,
+            'year' : year,
+    	    'title' : title,
+            'availability' : availability,
+	}
+        print list[ref]
+    return list
+
+def fetch_movie_lists(args):
+    # FIXME should get this list of categories from the web
+    sections = [
+        "1930-and-Older",
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s",
+    ]
+    l = {}
+    for s in sections:
+        url = "http://www.filmchest.com/film-chest/films-by-date/filmlibrary/%s/?count=1000&start=1" % s
+        print url
+        l = fetch_movie_list(args, l, url)
+    return l
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    l = fetch_movie_lists(args)
+    movielib.savelist(l, name='free-movies-filmchest-com.json')
+
+if __name__ == '__main__':
+    main()

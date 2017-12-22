@@ -22,6 +22,7 @@ listupdate:
 	./mklist-retrofilmvault
 	./mklist-openflix
 	./mklist-horrortheque-com
+	./mklist-filmchest-com
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
