@@ -14,6 +14,11 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/The_Draughtsmen_Clash"
     },
+    "http://www.imdb.com/title/tt0196528/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Eldridge_Cleaver,_Black_Panther"
+    },
     "http://www.imdb.com/title/tt0311541/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
@@ -63,6 +68,11 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Juju_Factory"
     },
+    "http://www.imdb.com/title/tt1093803/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire"
+    },
     "http://www.imdb.com/title/tt1161861/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -85,6 +95,11 @@
     "http://www.imdb.com/title/tt1265599/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt1370372/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Gerboise_bleue_(film)"
     },
     "http://www.imdb.com/title/tt1397511/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
@@ -143,6 +158,11 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Benda_Bilili!"
     },
+    "http://www.imdb.com/title/tt1634123/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Kafka_au_Congo"
+    },
     "http://www.imdb.com/title/tt1669706/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
@@ -197,6 +217,11 @@
     "http://www.imdb.com/title/tt1830585/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt1833859/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Indochine,_sur_les_traces_d%27une_m%C3%A8re"
     },
     "http://www.imdb.com/title/tt1890383/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -296,6 +321,11 @@
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt5221552/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Le_Beurre_et_l%27argent_du_beurre"
+    },
     "http://www.imdb.com/title/tt5373184/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
@@ -330,40 +360,15 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Afro@Digital"
     },
-    "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire"
-    },
     "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma"
     },
-    "https://en.wikipedia.org/wiki/Eldridge_Cleaver,_Black_Panther": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Eldridge_Cleaver,_Black_Panther"
-    },
     "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre"
-    },
-    "https://en.wikipedia.org/wiki/Gerboise_bleue_(film)": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Gerboise_bleue_(film)"
-    },
-    "https://en.wikipedia.org/wiki/Indochine,_sur_les_traces_d%27une_m%C3%A8re": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Indochine,_sur_les_traces_d%27une_m%C3%A8re"
-    },
-    "https://en.wikipedia.org/wiki/Kafka_au_Congo": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Kafka_au_Congo"
     },
     "https://en.wikipedia.org/wiki/Kin_Kiesse": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -379,11 +384,6 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Lamokowang"
-    },
-    "https://en.wikipedia.org/wiki/Le_Beurre_et_l%27argent_du_beurre": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Le_Beurre_et_l%27argent_du_beurre"
     },
     "https://en.wikipedia.org/wiki/Le_Congo,_quel_cin%C3%A9ma!": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
