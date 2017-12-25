@@ -1377,6 +1377,12 @@
         "title": "The Brainiac",
         "year": "1962"
     },
+    "http://www.imdb.com/title/tt0060107/": {
+        "status": "free",
+        "freenessurl": "https://retrofilmvault.com/publicdomainfilms/andrei-roublev.html",
+        "title": "Andrei Roublev",
+        "year": 1965
+    },
     "http://www.imdb.com/title/tt0251221/": {
         "freenessurl": "https://archive.org/details/Marijuana_1968",
         "status": "free",
