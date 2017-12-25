@@ -1,0 +1,76 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Fetch list made by InfoDigi of public domain movies.
+
+Found via
+<URL: http://www.prattlibrary.org/locations/sightsandsounds/index.aspx?id=5661 >
+"""
+
+import argparse
+import lxml.html
+import movielib
+import re
+import urllib2
+
+def fetch_movie_list(args, list, url):
+    print(url)
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url).decode('ISO-8859-1'))
+    except urllib2.HTTPError as e:
+        return None
+#    print root
+    for tr in root.cssselect("table#Table45 tbody tr"):
+        #print tr
+        tds = tr.cssselect("td p.MsoNormal")
+        if tds:
+            tds = tr.cssselect("td")
+            #print(tr.text_content())
+            title = tds[0].text_content().strip()
+            title = title.replace(u'\xa0', ' ') # nobreak space
+            title = title.replace(u'\x0a', ' ') # newline
+            title = title.replace(u'\x0d', ' ') # carrige return
+            title = title.replace(u'¹', "'") # ¹ should be apostrope
+            if 'title' == title.lower():
+                continue
+            year = tds[1].text_content()
+            m = re.search("\((\d{4}).*\)", year)
+            if m:
+                year = int(m.group(1))
+            else:
+                year = None
+            names = tds[3].text_content()
+            print("'%s' - '%s'" % (title, year))
+            ref = title+names
+            if args.imdblookup:
+                imdb = movielib.imdb_find_one(title, year)
+                if imdb:
+                    ref = imdb
+            list[ref] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                'title' : title,
+                'year' : year,
+                }
+    return list
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    urls = [
+        "http://www.infodigi.com/Public_Domain/films.html",
+        "http://www.infodigi.com/Public_Domain/films_c_f.html",
+        "http://www.infodigi.com/Public_Domain/films_e_l.html",
+        "http://www.infodigi.com/Public_Domain/films_m_p.html",
+        "http://www.infodigi.com/Public_Domain/films_r_z.html",
+    ]
+    l = {}
+    for url in urls:
+        l = fetch_movie_list(args, l, url)
+    movielib.savelist(l, name='free-movies-infodigi-pd.json')
+
+if __name__ == '__main__':
+    main()
