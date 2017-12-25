@@ -19,7 +19,7 @@ listupdate:
 	./mklist-creative-commons
 	./mklist-imdb-c-expired-year --country=us --output=free-movies-imdb-c-expired-us.json
 	./mklist-imdb-c-expired-year --country=gb --output=free-movies-imdb-c-expired-gb.json --end=1912
-	./mklist-retrofilmvault
+	./mklist-retrofilmvault --imdblookup
 	./mklist-openflix
 	./mklist-horrortheque-com
 	./mklist-filmchest-com

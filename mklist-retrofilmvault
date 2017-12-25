@@ -13,6 +13,7 @@ https://retrofilmvault.com/listings/martin-luther-king-i-have-a-dream-1963/
 
 """
 
+import argparse
 import datetime
 import json
 import lxml.html
@@ -55,7 +56,7 @@ def is_in_list(list, url):
             return True
     return False
     
-def fetch_movie_list(list, url, name):
+def fetch_movie_list(args, list, url, name):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(url))
     except urllib2.HTTPError as e:
@@ -70,12 +71,13 @@ def fetch_movie_list(list, url, name):
         if not info:
             print("error: found broken link %s" % entryurl)
         #print info
+        imdb = None
         if info and 'year' in info:
             year = info['year']
-            imdb = movielib.imdb_find_one(title, year)
+            if args.imdblookup:
+                imdb = movielib.imdb_find_one(title, year)
         else:
             year = None
-            imdb = None
         if not imdb:
             imdb = entryurl
         list[imdb] = {
@@ -98,10 +100,14 @@ def loadlist(path):
         return {}
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
     url = "https://retrofilmvault.com/publicdomainfilms/"
     path='free-movies-retrofilmvault.json'
     l = loadlist(path)
-    l = fetch_movie_list(l, url, name=path)
+    l = fetch_movie_list(args, l, url, name=path)
     movielib.savelist(l, name=path)
 
 if __name__ == '__main__':
