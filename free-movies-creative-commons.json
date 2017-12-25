@@ -14,6 +14,11 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/The_Draughtsmen_Clash"
     },
+    "http://www.imdb.com/title/tt0311541/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Moro_no_Brasil"
+    },
     "http://www.imdb.com/title/tt0428288/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
@@ -295,6 +300,16 @@
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
     },
+    "http://www.imdb.com/title/tt5960062/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Kinshasa_Septembre_noir"
+    },
+    "http://www.imdb.com/title/tt5964444/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "wp": "https://en.wikipedia.org/wiki/Muana_Mboka"
+    },
     "http://www.imdb.com/title/tt6059374/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -355,11 +370,6 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Kin_Kiesse"
     },
-    "https://en.wikipedia.org/wiki/Kinshasa_Septembre_noir": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Kinshasa_Septembre_noir"
-    },
     "https://en.wikipedia.org/wiki/Ko_Bongisa_Mutu": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
@@ -395,20 +405,10 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Mieux_vaut_mal_vivre_que_mourir"
     },
-    "https://en.wikipedia.org/wiki/Moro_no_Brasil": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Moro_no_Brasil"
-    },
     "https://en.wikipedia.org/wiki/Moseka": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Moseka"
-    },
-    "https://en.wikipedia.org/wiki/Muana_Mboka": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
-        "status": "free",
-        "wp": "https://en.wikipedia.org/wiki/Muana_Mboka"
     },
     "https://en.wikipedia.org/wiki/Murnau_the_Vampire": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
