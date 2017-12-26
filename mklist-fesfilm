@@ -1,0 +1,71 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Extract movie data from Festival Films, http://www.fesfilms.com/.
+"""
+
+import argparse
+import lxml.html
+import movielib
+import re
+import urllib2
+import urlparse
+
+def fetch_movie_list(args, list, url):
+    print(url)
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url).decode('UTF-8'))
+    except urllib2.HTTPError as e:
+        return None
+#    print root
+    for s in root.cssselect("div#content p strong"):
+        title = s.text_content().strip()
+        title = title.replace(u"’", "'")
+        title = title.replace(u"‘", "'")
+        entry = s.getparent()
+        entrytext = entry.text_content()
+        m = re.search("\((\d{4}).*\)", entrytext)
+        if m:
+            year = int(m.group(1))
+        else:
+            year = None
+        print("'%s' - '%s'" % (title, year))
+        ref = title+'-'+str(year)
+        if args.imdblookup:
+            imdb = movielib.imdb_find_one(title, year)
+            if imdb:
+                ref = imdb
+        list[ref] = {
+            'status' : 'free',
+            'freenessurl' : url,
+            'title' : title,
+            'year' : year,
+        }
+    return list
+
+def get_pd_urllist(url):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url).decode('ISO-8859-1'))
+    except urllib2.HTTPError as e:
+        return None
+    urls = []
+    for d in root.cssselect("ul#leftnav li a[href='/public-domain/']+ul"):
+        for a in d.cssselect("a[href]"):
+            if -1 != a.attrib['href'].find('.html'):
+                urls.append(urlparse.urljoin(url, a.attrib['href']))
+        break
+    return urls
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    urls = get_pd_urllist("http://www.fesfilms.com/")
+    l = {}
+    for url in urls:
+        l = fetch_movie_list(args, l, url)
+    movielib.savelist(l, name='free-movies-fesfilm.json')
+
+if __name__ == '__main__':
+    main()

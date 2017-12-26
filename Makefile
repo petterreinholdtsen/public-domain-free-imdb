@@ -24,6 +24,7 @@ listupdate:
 	./mklist-horrortheque-com
 	./mklist-filmchest-com
 	./mklist-infodigi-pd --imdblookup
+	./mklist-fesfilm --imdblookup
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
