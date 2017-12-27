@@ -6,12 +6,13 @@ Mapping to IMDB by searching for the title and year and
 assuming it is the right one if IMDB only find one matching entry.
 """
 
+import argparse
 import lxml.html
 import movielib
 import urllib2
 import urlparse
 
-def extract_movies(l, genreurl):
+def extract_movies(args, l, genreurl):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(genreurl))
     except urllib2.HTTPError as e:
@@ -45,12 +46,13 @@ def extract_movies(l, genreurl):
                 info[key.lower()] = value
             print info
             ref = movieurl
-            try:
-                imdb = movielib.imdb_find_one(info['title'], int(info['year']))
-                if imdb:
-                    ref = imdb
-            except KeyError: # hit this with mojobake and UTF-8 in 'Haxan')
-                pass
+            if args.imdblookup:
+                try:
+                    imdb = movielib.imdb_find_one(info['title'], int(info['year']))
+                    if imdb:
+                        ref = imdb
+                except KeyError: # hit this with mojobake and UTF-8 in 'Haxan')
+                    pass
             l[ref] = info
     return l
 
@@ -67,12 +69,16 @@ def fetch_genre_list(genrelisturl):
     return g
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
     genrelisturl = "http://www.openflix.com/genre/"
     g = fetch_genre_list(genrelisturl)
     l = {}
     for genreurl in g:
         #print genreurl
-        l = extract_movies(l, genreurl)
+        l = extract_movies(args, l, genreurl)
 
     movielib.savelist(l, name='free-movies-openflix.json')
 
