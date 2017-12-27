@@ -12,8 +12,6 @@ import movielib
 import urllib2
 import urlparse
 
-summaryurl = 'http://www.publicdomaintorrents.info/nshowcat.html?category=ALL'
-
 def get_movie_info(entryurl):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(entryurl))
@@ -29,7 +27,8 @@ def get_movie_info(entryurl):
             #print imdburl
             return imdburl
     print("Unable to find IMDB id for %s" % entryurl)
-def get_movie_list():
+
+def get_movie_list(summaryurl):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(summaryurl))
     except urllib2.HTTPError as e:
@@ -50,5 +49,10 @@ def get_movie_list():
             }
     return l
 
-l = get_movie_list()
-movielib.savelist(l, 'free-movies-publicdomaintorrents.json')
+def main():
+    summaryurl = 'http://www.publicdomaintorrents.info/nshowcat.html?category=ALL'
+    l = get_movie_list(summaryurl)
+    movielib.savelist(l, 'free-movies-publicdomaintorrents.json')
+
+if __name__ == '__main__':
+    main()
