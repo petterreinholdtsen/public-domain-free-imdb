@@ -1,0 +1,64 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+ALL TITLES CONTAINED HEREIN ARE BELIEVED TO BE IN THE PUBLIC
+DOMAIN. THE PETER RODGERS ORGANIZATION WILL NOT BE RESPONSIBLE FOR
+TITLES LISTED WHICH MAY HAVE UNKNOWN, UNDERLYING RIGHTS [STORY, MUSIC,
+ETC.] AND MAY AT ANY TIME DELETE TITLES FROM THIS LIST. PETER RODGERS
+ORGANIZATION DOES NOT PHYSICALLY MAINTAIN MATERIAL ON ALL TITLES
+LISTED HEREIN, BUT ACQUIRES THEM FROM VARIOUS OUTSIDE SOURCES AND
+ACTUAL ELEMENTS ON THESE TITLES MAY NOT BE OF BROADCAST QUALITY. THIS
+LIST SHOULD BE USED AS REFERENCE ONLY AND AVAILABILITY WILL VARY
+ACCORDING TO THE ABOVE NOTED CIRCUMSTANCES.
+"""
+
+import argparse
+import lxml.etree
+import lxml.html
+import movielib
+import re
+import urllib2
+import urlparse
+
+def extract_movies(args, l, url):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    body = root.cssselect("div[itemprop='articleBody']")[0]
+    html = lxml.etree.tostring(body)
+    for e in html.split("<br/><br/>"):
+        print e
+        m = re.search("^(.+) (\d{4}).*<br/>", e)
+        if m:
+            title = m.group(1)
+            year = int(m.group(2))
+            ref = title + '-' + str(year)
+            if args.imdblookup:
+                imdb = movielib.imdb_find_one(title, year)
+                if imdb:
+                    ref = imdb
+            l[ref] = {
+                'status' : 'free',
+                'freenessurl' : url,
+                'title' : title,
+                'year' : year,
+            }
+    return l
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    url = "http://www.profilms.com/index.php/public-domain"
+    l = {}
+    l = extract_movies(args, l, url)
+    movielib.savelist(l, name='free-movies-profilms-pd.json')
+
+if __name__ == '__main__':
+    main()
+
+
+# "<br><br>"...
