@@ -72,7 +72,8 @@ def oldfilms():
     """
 According to
 https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States,
-every movie published in the USA before 1923 is now public domain.
+every movie published in the USA before 1923 is now in the public
+domain in USA.
 """
     l = {}
     for y in xrange(1874, 1923):
