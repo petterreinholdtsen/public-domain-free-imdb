@@ -10,6 +10,7 @@ import argparse
 import json
 
 def load(h, l, stats, path, verbose=False, cutyear=None):
+    #print("Loading %s" % path)
     with open(path, 'rt') as input:
     	 j = json.load(input)
 
@@ -23,6 +24,7 @@ def load(h, l, stats, path, verbose=False, cutyear=None):
              if 'year' not in j[imdburl]:
                  year = 'n/a'
              else:
+                 #print j[imdburl]
                  year = int(j[imdburl]['year'])
                  if cutyear:
                      if year < cutyear:
@@ -36,29 +38,33 @@ def load(h, l, stats, path, verbose=False, cutyear=None):
              h[year] = h[year] + 1
              l[imdburl] = j[imdburl]
 
-parser = argparse.ArgumentParser()
-parser.add_argument('files', metavar='N', type=str, nargs='*',
-                    default=['free-movies-manual.json'],
-                    help='input file(s)')
-parser.add_argument('--cutyear', type=int, default=None,
-                    help='Report movie count before and after this year')
-parser.add_argument('--total', action='store_true', default=False)
-args = parser.parse_args()
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('files', metavar='N', type=str, nargs='*',
+                        default=['free-movies-manual.json'],
+                        help='input file(s)')
+    parser.add_argument('--cutyear', type=int, default=None,
+                        help='Report movie count before and after this year')
+    parser.add_argument('--total', action='store_true', default=False)
+    args = parser.parse_args()
 
-h = {}
-l = {}
-stats = {
-    'before' : 0,
-    'after' : 0
-}
-for file in args.files:
-    load(h, l, stats, file, cutyear=args.cutyear)
+    h = {}
+    l = {}
+    stats = {
+        'before' : 0,
+        'after' : 0
+    }
+    for file in args.files:
+        load(h, l, stats, file, cutyear=args.cutyear)
 
-for y in sorted(h.keys()):
-    print y, h[y]
+    for y in sorted(h.keys()):
+        #print y
+        print("%s %s" % (y, h[y]))
 
-if args.total:
-    print "Total:", len(l.keys())
-if args.cutyear:
-    print("Cutyear %d.  %d before, %d after" %
-          (args.cutyear, stats['before'], stats['after']))
+    if args.total:
+        print "Total:", len(l.keys())
+    if args.cutyear:
+        print("Cutyear %d.  %d before, %d after" %
+              (args.cutyear, stats['before'], stats['after']))
+if __name__ == '__main__':
+    main()
