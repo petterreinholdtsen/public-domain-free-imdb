@@ -141,10 +141,18 @@ def main():
                 if i not in outlist:
                     outlist[i] = fle
                 else:
-                    if 'year' in fle and 'year' not in outlist[i]:
-                        outlist[i]['year'] = fle['year']
+                    # Make stored year predictable, select oldest one.
+                    if 'year' in fle:
+                        if 'year' not in outlist[i]:
+                            outlist[i]['year'] = fle['year']
+                        elif outlist[i]['year'] > fle['year']:
+                            outlist[i]['year'] = fle['year']
                     if freenessurl not in outlist[i]['freenessurl']:
                         outlist[i]['freenessurl'].append(freenessurl)
+                    # Make stored title predictable, select one
+                    # using sorting order.
+                    if fle['title'] < outlist[i]['title']:
+                        outlist[i]['title'] = fle['title']
         page = page + 1
         time.sleep(3)
     # Rewrite freenessurl array to individual fields (freenessurl,
