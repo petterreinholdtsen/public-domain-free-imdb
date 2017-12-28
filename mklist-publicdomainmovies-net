@@ -71,18 +71,30 @@ def get_movie_list(args, l, urlbase, page=1):
                 imdburl = movielib.imdb_find_one(title, year)
                 if imdburl:
                     e = imdburl
-            except KeyError: # hit this with mojobake and UTF-8 in 'Spring in a Small Town (小城之春)')
+            except KeyError:
+                # hit this with mojobake and UTF-8 in 'Spring in a
+                # Small Town (小城之春)'),
+                # http://publicdomainmovies.net/movie/spring-in-a-small-town-%E5%B0%8F%E5%9F%8E%E4%B9%8B%E6%98%A5
                 pass
         if not e:
             e = entryurl
-        l[e] = {
-            'status' : 'free',
-            'freenessurl' : entryurl,
-            'title' : title,
-        }
-        if year:
-            l[e]['year'] = year
-        print e, l[e]
+        if e in l:
+            for f in ['freenessurl', 'freenessurl2',
+                      'freenessurl3', 'freenessurl4']:
+                if f in l[e] and l[e][f] == entryurl:
+                    break
+                if f not in l[e]:
+                    l[e][f] = entryurl
+                    break
+        else:
+            l[e] = {
+                'status' : 'free',
+                'freenessurl' : entryurl,
+                'title' : title,
+            }
+            if year:
+                l[e]['year'] = year
+        #print e, l[e]
         count = count + 1
     return count
 
