@@ -32,6 +32,8 @@ def fetch_movie_list(args, list, url):
             title = title.replace(u'\x0a', ' ') # newline
             title = title.replace(u'\x0d', ' ') # carrige return
             title = title.replace(u'¹', "'") # ¹ should be apostrope
+            while -1 != title.find("  "):
+                title = title.replace("  ", " ")
             if 'title' == title.lower():
                 continue
             year = tds[1].text_content()
