@@ -3,115 +3,155 @@
         "freenessurl": "http://publicdomainmovies.info/brain-wouldnt-die-full-movie/",
         "status": "free",
         "title": "The Brain That Wouldn\u2019t Die \u2013 Full Movie",
-        "wp": "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die"
+        "wp": "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
+        "year": 1962
     },
     "http://www.imdb.com/title/tt0000417/": {
         "freenessurl": "http://publicdomainmovies.info/trip-moon-georges-melies-1902/",
         "status": "free",
         "title": "A Trip to the Moon (Georges M\u00e9li\u00e8s, 1902)",
-        "wp": "https://en.wikipedia.org/wiki/A_Trip_to_the_Moon"
+        "wp": "https://en.wikipedia.org/wiki/A_Trip_to_the_Moon",
+        "year": 1902
     },
     "http://www.imdb.com/title/tt0001223/": {
         "freenessurl": "http://publicdomainmovies.info/frankenstein-1910-film/",
         "status": "free",
         "title": "Frankenstein (1910 film)",
-        "wp": "https://en.wikipedia.org/wiki/Frankenstein_(1910_film)"
+        "wp": "https://en.wikipedia.org/wiki/Frankenstein_(1910_film)",
+        "year": 1910
     },
     "http://www.imdb.com/title/tt0001463/": {
         "freenessurl": "http://publicdomainmovies.info/wonderful-wizard-oz-1910-film/",
         "status": "free",
         "title": "The Wonderful Wizard of Oz (1910 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_(1910_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_(1910_film)",
+        "year": 1910
     },
     "http://www.imdb.com/title/tt0002199/": {
         "freenessurl": "http://publicdomainmovies.info/manger-cross-1912-story-jesus-life/",
         "status": "free",
         "title": "From the Manger to the Cross, 1912, the story of Jesus\u2019 life",
-        "wp": "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross"
+        "wp": "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross",
+        "year": 1912
     },
     "http://www.imdb.com/title/tt0003772/": {
         "freenessurl": "http://publicdomainmovies.info/cinderella-1914-film-starring-mary-pickford/",
         "status": "free",
         "title": "Cinderella 1914 film starring Mary Pickford",
-        "wp": "https://en.wikipedia.org/wiki/Cinderella_(1914_film)"
+        "wp": "https://en.wikipedia.org/wiki/Cinderella_(1914_film)",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004099/": {
         "freenessurl": "http://publicdomainmovies.info/majesty-scarecrow-oz-1914/",
         "status": "free",
         "title": "His Majesty, the Scarecrow of Oz, 1914",
-        "wp": "https://en.wikipedia.org/wiki/His_Majesty,_the_Scarecrow_of_Oz"
+        "wp": "https://en.wikipedia.org/wiki/His_Majesty,_the_Scarecrow_of_Oz",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004113/": {
+        "freenessurl": "http://publicdomainmovies.info/home-sweet-home-1914/",
+        "status": "free",
+        "title": "Home, Sweet Home, 1914",
+        "wp": "https://en.wikipedia.org/wiki/Home,_Sweet_Home_(1914_film)",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004150/": {
         "freenessurl": "http://publicdomainmovies.info/land-head-hunters-1914/",
         "status": "free",
         "title": "In the Land of the Head Hunters, 1914",
-        "wp": "https://en.wikipedia.org/wiki/In_the_Land_of_the_Head_Hunters"
+        "wp": "https://en.wikipedia.org/wiki/In_the_Land_of_the_Head_Hunters",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004189/": {
         "freenessurl": "http://publicdomainmovies.info/charlie-chaplin-kid-auto-race-venice/",
         "status": "free",
         "title": "Charlie Chaplin: The Kid Auto Race in Venice",
-        "wp": "https://en.wikipedia.org/wiki/Kid_Auto_Races_at_Venice"
+        "wp": "https://en.wikipedia.org/wiki/Kid_Auto_Races_at_Venice",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004288/": {
         "freenessurl": "http://publicdomainmovies.info/charlie-chaplin-making-living/",
         "status": "free",
         "title": "Charlie Chaplin: Making a Living",
-        "wp": "https://en.wikipedia.org/wiki/Making_a_Living"
+        "wp": "https://en.wikipedia.org/wiki/Making_a_Living",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004630/": {
+        "freenessurl": "http://publicdomainmovies.info/the-spoilers-1914/",
+        "status": "free",
+        "title": "The Spoilers, 1914",
+        "wp": "https://en.wikipedia.org/wiki/The_Spoilers_(1914_film)",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004635/": {
+        "freenessurl": "http://publicdomainmovies.info/squaw-man-1914-film-directed-cecil-b-demille/",
+        "status": "free",
+        "title": "The Squaw Man, 1914 film directed by Cecil B. DeMille",
+        "wp": "https://en.wikipedia.org/wiki/The_Squaw_Man_(1914_film)",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004670/": {
         "freenessurl": "http://publicdomainmovies.info/tango-tangles-1914-charles-chaplin-roscoe-arbuckle/",
         "status": "free",
         "title": "Tango Tangles (1914) \u2013 Charles Chaplin and Roscoe Arbuckle",
-        "wp": "https://en.wikipedia.org/wiki/Tango_Tangles"
+        "wp": "https://en.wikipedia.org/wiki/Tango_Tangles",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004766/": {
         "freenessurl": "http://publicdomainmovies.info/virginian-1914-film-directed-cecil-b-demille/",
         "status": "free",
         "title": "The Virginian (1914 film), directed by Cecil B. DeMille",
-        "wp": "https://en.wikipedia.org/wiki/The_Virginian_(1914_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Virginian_(1914_film)",
+        "year": 1914
     },
     "http://www.imdb.com/title/tt0004873/": {
         "freenessurl": "http://publicdomainmovies.info/alice-wonderland-1915-film/",
         "status": "free",
         "title": "Alice in Wonderland (1915 film)",
-        "wp": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1915_film)"
+        "wp": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1915_film)",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0004972/": {
         "freenessurl": "http://publicdomainmovies.info/birth-nation-1915-originally-called-clansman/",
         "status": "free",
         "title": "The Birth of a Nation, 1915 (originally called The Clansman)",
-        "wp": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation"
+        "wp": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0005060/": {
         "freenessurl": "http://publicdomainmovies.info/carmen-1915-directed-cecil-b-demille/",
         "status": "free",
         "title": "Carmen, 1915 directed by Cecil B. DeMille",
-        "wp": "https://en.wikipedia.org/wiki/Carmen_(1915_Cecil_B._DeMille_film)"
+        "wp": "https://en.wikipedia.org/wiki/Carmen_(1915_Cecil_B._DeMille_film)",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0005078/": {
         "freenessurl": "http://publicdomainmovies.info/cheat-1915-directed-cecil-b-demille/",
         "status": "free",
         "title": "The Cheat, 1915 directed by Cecil B. DeMille",
-        "wp": "https://en.wikipedia.org/wiki/The_Cheat_(1915_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Cheat_(1915_film)",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0005339/": {
         "freenessurl": "http://publicdomainmovies.info/fool-1915-film/",
         "status": "free",
         "title": "A Fool There Was, 1915 film",
-        "wp": "https://en.wikipedia.org/wiki/A_Fool_There_Was_(1915_film)"
+        "wp": "https://en.wikipedia.org/wiki/A_Fool_There_Was_(1915_film)",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0005557/": {
         "freenessurl": "http://publicdomainmovies.info/italian-1915-film/",
         "status": "free",
         "title": "The Italian (1915 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Italian_(1915_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Italian_(1915_film)",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0005960/": {
         "freenessurl": "http://publicdomainmovies.info/regeneration-1915-film/",
         "status": "free",
         "title": "Regeneration, 1915 film",
-        "wp": "https://en.wikipedia.org/wiki/Regeneration_(1915_film)"
+        "wp": "https://en.wikipedia.org/wiki/Regeneration_(1915_film)",
+        "year": 1915
     },
     "http://www.imdb.com/title/tt0006333/": {
         "freenessurl": "http://publicdomainmovies.info/20000-leagues-sea-1916-film/",
@@ -123,961 +163,1205 @@
         "freenessurl": "http://publicdomainmovies.info/american-aristocracy-1916-starring-douglas-fairbanks/",
         "status": "free",
         "title": "American Aristocracy, 1916 starring Douglas Fairbanks",
-        "wp": "https://en.wikipedia.org/wiki/American_Aristocracy"
+        "wp": "https://en.wikipedia.org/wiki/American_Aristocracy",
+        "year": 1916
     },
     "http://www.imdb.com/title/tt0006780/": {
         "freenessurl": "http://publicdomainmovies.info/hells-hinges-1916/",
         "status": "free",
         "title": "Hell\u2019s Hinges, 1916",
-        "wp": "https://en.wikipedia.org/wiki/Hell%27s_Hinges"
+        "wp": "https://en.wikipedia.org/wiki/Hell%27s_Hinges",
+        "year": 1916
     },
     "http://www.imdb.com/title/tt0006826/": {
         "freenessurl": "http://publicdomainmovies.info/hoodoo-ann-1916/",
         "status": "free",
         "title": "Hoodoo Ann, 1916",
-        "wp": "https://en.wikipedia.org/wiki/Hoodoo_Ann"
+        "wp": "https://en.wikipedia.org/wiki/Hoodoo_Ann",
+        "year": 1916
+    },
+    "http://www.imdb.com/title/tt0006864/": {
+        "freenessurl": "http://publicdomainmovies.info/intolerance-1916-d-w-griffith/",
+        "status": "free",
+        "title": "Intolerance, 1916 by D. W. Griffith",
+        "wp": "https://en.wikipedia.org/wiki/Intolerance_(film)",
+        "year": 1916
+    },
+    "http://www.imdb.com/title/tt0007260/": {
+        "freenessurl": "http://publicdomainmovies.info/return-draw-egan-1916/",
+        "status": "free",
+        "title": "The Return of Draw Egan, 1916",
+        "wp": "https://en.wikipedia.org/wiki/The_Return_of_Draw_Egan",
+        "year": 1916
     },
     "http://www.imdb.com/title/tt0007361/": {
         "freenessurl": "http://publicdomainmovies.info/snow-white-1916-film/",
         "status": "free",
         "title": "Snow White, 1916 film",
-        "wp": "https://en.wikipedia.org/wiki/Snow_White_(1916_film)"
+        "wp": "https://en.wikipedia.org/wiki/Snow_White_(1916_film)",
+        "year": 1916
     },
     "http://www.imdb.com/title/tt0008150/": {
         "freenessurl": "http://publicdomainmovies.info/joan-woman-1916-directed-cecil-b-demille/",
         "status": "free",
         "title": "Joan the Woman, 1916 directed by Cecil B. DeMille",
-        "wp": "https://en.wikipedia.org/wiki/Joan_the_Woman"
+        "wp": "https://en.wikipedia.org/wiki/Joan_the_Woman",
+        "year": 1916
     },
     "http://www.imdb.com/title/tt0008259/": {
         "freenessurl": "http://publicdomainmovies.info/man-without-country-1917-film/",
         "status": "free",
         "title": "The Man Without a Country, 1917 film",
-        "wp": "https://en.wikipedia.org/wiki/The_Man_Without_a_Country_(1917_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Man_Without_a_Country_(1917_film)",
+        "year": 1917
     },
     "http://www.imdb.com/title/tt0008319/": {
         "freenessurl": "http://publicdomainmovies.info/mormon-maid-1917/",
         "status": "free",
         "title": "A Mormon Maid, 1917",
-        "wp": "https://en.wikipedia.org/wiki/A_Mormon_Maid"
+        "wp": "https://en.wikipedia.org/wiki/A_Mormon_Maid",
+        "year": 1917
     },
     "http://www.imdb.com/title/tt0008458/": {
         "freenessurl": "http://publicdomainmovies.info/pride-clan-1917-starring-mary-pickford/",
         "status": "free",
         "title": "The Pride of the Clan, 1917 starring Mary Pickford",
-        "wp": "https://en.wikipedia.org/wiki/The_Pride_of_the_Clan"
+        "wp": "https://en.wikipedia.org/wiki/The_Pride_of_the_Clan",
+        "year": 1917
     },
     "http://www.imdb.com/title/tt0008519/": {
         "freenessurl": "http://publicdomainmovies.info/romance-redwoods-1917-directed-cecil-b-demille/",
         "status": "free",
         "title": "A Romance of the Redwoods, 1917 directed by Cecil B. DeMille",
-        "wp": "https://en.wikipedia.org/wiki/A_Romance_of_the_Redwoods"
+        "wp": "https://en.wikipedia.org/wiki/A_Romance_of_the_Redwoods",
+        "year": 1917
     },
     "http://www.imdb.com/title/tt0008687/": {
         "freenessurl": "http://publicdomainmovies.info/tom-sawyer-1917-film-starring-jack-pickford/",
         "status": "free",
         "title": "Tom Sawyer, 1917 film starring Jack Pickford",
-        "wp": "https://en.wikipedia.org/wiki/Tom_Sawyer_(1917_film)"
+        "wp": "https://en.wikipedia.org/wiki/Tom_Sawyer_(1917_film)",
+        "year": 1917
     },
     "http://www.imdb.com/title/tt0009682/": {
         "freenessurl": "http://publicdomainmovies.info/tarzan-apes-1918-film/",
         "status": "free",
         "title": "Tarzan of the Apes (1918 film)",
-        "wp": "https://en.wikipedia.org/wiki/Tarzan_of_the_Apes_(1918_film)"
+        "wp": "https://en.wikipedia.org/wiki/Tarzan_of_the_Apes_(1918_film)",
+        "year": 1918
     },
     "http://www.imdb.com/title/tt0010040/": {
         "freenessurl": "http://publicdomainmovies.info/daddy-long-legs-1919-film/",
         "status": "free",
         "title": "Daddy-Long-Legs (1919 film)",
-        "wp": "https://en.wikipedia.org/wiki/Daddy-Long-Legs_(1919_film)"
+        "wp": "https://en.wikipedia.org/wiki/Daddy-Long-Legs_(1919_film)",
+        "year": 1919
     },
     "http://www.imdb.com/title/tt0011130/": {
         "freenessurl": "http://publicdomainmovies.info/dr-jekyll-mr-hyde-1920-film/",
         "status": "free",
         "title": "Dr. Jekyll and Mr. Hyde (1920 film)",
-        "wp": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1920_film)"
+        "wp": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1920_film)",
+        "year": 1920
     },
     "http://www.imdb.com/title/tt0011193/": {
         "freenessurl": "http://publicdomainmovies.info/the-flapper-1920/",
         "status": "free",
         "title": "The Flapper, 1920",
-        "wp": "https://en.wikipedia.org/wiki/The_Flapper"
+        "wp": "https://en.wikipedia.org/wiki/The_Flapper",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011267/": {
+        "freenessurl": "http://publicdomainmovies.info/heading-home-1920-starring-baseball-player-babe-ruth/",
+        "status": "free",
+        "title": "Heading Home, 1920 starring baseball player Babe Ruth",
+        "wp": "https://en.wikipedia.org/wiki/Heading_Home",
+        "year": 1920
     },
     "http://www.imdb.com/title/tt0011387/": {
         "freenessurl": "http://publicdomainmovies.info/last-mohicans-1920-american-film/",
         "status": "free",
         "title": "The Last of the Mohicans (1920 American film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans_(1920_American_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans_(1920_American_film)",
+        "year": 1920
     },
     "http://www.imdb.com/title/tt0011439/": {
         "freenessurl": "http://publicdomainmovies.info/mark-zorro-1920-film-starring-douglas-fairbanks-noah-beery/",
         "status": "free",
         "title": "The Mark of Zorro (1920 film), starring Douglas Fairbanks and Noah Beery",
-        "wp": "https://en.wikipedia.org/wiki/The_Mark_of_Zorro_(1920_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Mark_of_Zorro_(1920_film)",
+        "year": 1920
     },
     "http://www.imdb.com/title/tt0011565/": {
         "freenessurl": "http://publicdomainmovies.info/penalty-1920-film/",
         "status": "free",
         "title": "The Penalty (1920 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Penalty_(1920_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Penalty_(1920_film)",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011904/": {
+        "freenessurl": "http://publicdomainmovies.info/ace-hearts-1921-film-starring-lon-chaney/",
+        "status": "free",
+        "title": "The Ace of Hearts, 1921 film starring Lon Chaney",
+        "wp": "https://en.wikipedia.org/wiki/The_Ace_of_Hearts_(1921_film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012122/": {
         "freenessurl": "http://publicdomainmovies.info/dream-street-1921-directed-d-w-griffith/",
         "status": "free",
         "title": "Dream Street, 1921 directed by D. W. Griffith",
-        "wp": "https://en.wikipedia.org/wiki/Dream_Street_(film)"
+        "wp": "https://en.wikipedia.org/wiki/Dream_Street_(film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012190/": {
         "freenessurl": "http://publicdomainmovies.info/four-horsemen-apocalypse-1921-starring-rudolph-valentino/",
         "status": "free",
         "title": "The Four Horsemen of the Apocalypse, 1921 starring Rudolph Valentino",
-        "wp": "https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012349/": {
         "freenessurl": "http://publicdomainmovies.info/charlie-chaplins-kid-1921-film-one-greatest-films-silent-era/",
         "status": "free",
         "title": "Charlie Chaplin\u2019s The Kid (1921 film), one of the greatest films of the silent era",
-        "wp": "https://en.wikipedia.org/wiki/The_Kid_(1921_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Kid_(1921_film)",
+        "year": 1921
+    },
+    "http://www.imdb.com/title/tt0012408/": {
+        "freenessurl": "http://publicdomainmovies.info/love-light-1921/",
+        "status": "free",
+        "title": "The Love Light, 1921",
+        "wp": "https://en.wikipedia.org/wiki/The_Love_Light",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012465/": {
         "freenessurl": "http://publicdomainmovies.info/miss-lulu-bett-film-1921/",
         "status": "free",
         "title": "Miss Lulu Bett (film), 1921",
-        "wp": "https://en.wikipedia.org/wiki/Miss_Lulu_Bett_(film)"
+        "wp": "https://en.wikipedia.org/wiki/Miss_Lulu_Bett_(film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012513/": {
         "freenessurl": "http://publicdomainmovies.info/nut-1921-starring-douglas-fairbanks/",
         "status": "free",
         "title": "The Nut, 1921 starring Douglas Fairbanks",
-        "wp": "https://en.wikipedia.org/wiki/The_Nut_(1921_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Nut_(1921_film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012532/": {
         "freenessurl": "http://publicdomainmovies.info/orphans-storm-1921-d-w-griffith/",
         "status": "free",
         "title": "Orphans of the Storm, 1921 by D. W. Griffith",
-        "wp": "https://en.wikipedia.org/wiki/Orphans_of_the_Storm"
+        "wp": "https://en.wikipedia.org/wiki/Orphans_of_the_Storm",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012675/": {
         "freenessurl": "http://publicdomainmovies.info/sheik-1921-film-starring-rudolph-valentino/",
         "status": "free",
         "title": "The Sheik, 1921 film starring Rudolph Valentino",
-        "wp": "https://en.wikipedia.org/wiki/The_Sheik_(film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Sheik_(film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012739/": {
         "freenessurl": "http://publicdomainmovies.info/tangled-trails-1921/",
         "status": "free",
         "title": "Tangled Trails, 1921",
-        "wp": "https://en.wikipedia.org/wiki/Tangled_Trails"
+        "wp": "https://en.wikipedia.org/wiki/Tangled_Trails",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012752/": {
         "freenessurl": "http://publicdomainmovies.info/three-musketeers-1921-film/",
         "status": "free",
         "title": "The Three Musketeers (1921 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1921_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1921_film)",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012755/": {
         "freenessurl": "http://publicdomainmovies.info/through-the-back-door/",
         "status": "free",
         "title": "Through the Back Door",
-        "wp": "https://en.wikipedia.org/wiki/Through_the_Back_Door"
+        "wp": "https://en.wikipedia.org/wiki/Through_the_Back_Door",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0012952/": {
         "freenessurl": "http://publicdomainmovies.info/blood-sand-1922-film-starring-rudolph-valentino/",
         "status": "free",
         "title": "Blood and Sand (1922 film), starring Rudolph Valentino",
-        "wp": "https://en.wikipedia.org/wiki/Blood_and_Sand_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/Blood_and_Sand_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013140/": {
         "freenessurl": "http://publicdomainmovies.info/foolish-wives-1922/",
         "status": "free",
         "title": "Foolish Wives, 1922",
-        "wp": "https://en.wikipedia.org/wiki/Foolish_Wives"
+        "wp": "https://en.wikipedia.org/wiki/Foolish_Wives",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013427/": {
         "freenessurl": "http://publicdomainmovies.info/nanook-north-1922/",
         "status": "free",
         "title": "Nanook of the North, 1922",
-        "wp": "https://en.wikipedia.org/wiki/Nanook_of_the_North"
+        "wp": "https://en.wikipedia.org/wiki/Nanook_of_the_North",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013450/": {
         "freenessurl": "http://publicdomainmovies.info/oliver-twist-1922-film-featuring-lon-chaney/",
         "status": "free",
         "title": "Oliver Twist (1922 film), featuring Lon Chaney",
-        "wp": "https://en.wikipedia.org/wiki/Oliver_Twist_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/Oliver_Twist_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013556/": {
         "freenessurl": "http://publicdomainmovies.info/robin-hood-1922-film-starring-douglas-fairbanks/",
         "status": "free",
         "title": "Robin Hood (1922 film), starring Douglas Fairbanks",
-        "wp": "https://en.wikipedia.org/wiki/Robin_Hood_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/Robin_Hood_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013592/": {
         "freenessurl": "http://publicdomainmovies.info/shadows-1922-film-starring-lon-chaney/",
         "status": "free",
         "title": "Shadows (1922 film), starring Lon Chaney",
-        "wp": "https://en.wikipedia.org/wiki/Shadows_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/Shadows_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013597/": {
         "freenessurl": "http://publicdomainmovies.info/sherlock-holmes-1922-film/",
         "status": "free",
         "title": "Sherlock Holmes (1922 film)",
-        "wp": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013607/": {
         "freenessurl": "http://publicdomainmovies.info/sky-high-1922-film/",
         "status": "free",
         "title": "Sky High (1922 film)",
-        "wp": "https://en.wikipedia.org/wiki/Sky_High_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/Sky_High_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013688/": {
         "freenessurl": "http://publicdomainmovies.info/toll-sea-1922-first-color-feature-made-hollywood/",
         "status": "free",
         "title": "The Toll of the Sea, 1922 first color feature made in Hollywood",
-        "wp": "https://en.wikipedia.org/wiki/The_Toll_of_the_Sea"
+        "wp": "https://en.wikipedia.org/wiki/The_Toll_of_the_Sea",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013704/": {
         "freenessurl": "http://publicdomainmovies.info/trap-1922-film/",
         "status": "free",
         "title": "The Trap (1922 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Trap_(1922_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Trap_(1922_film)",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013792/": {
         "freenessurl": "http://publicdomainmovies.info/worldly-madonna-1922/",
         "status": "free",
         "title": "The Worldly Madonna, 1922",
-        "wp": "https://en.wikipedia.org/wiki/The_Worldly_Madonna"
+        "wp": "https://en.wikipedia.org/wiki/The_Worldly_Madonna",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0014142/": {
         "freenessurl": "http://publicdomainmovies.info/hunchback-notre-dame-1923/",
         "status": "free",
         "title": "The Hunchback of Notre Dame (1923)",
-        "wp": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1923_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1923_film)",
+        "year": 1923
     },
     "http://www.imdb.com/title/tt0014702/": {
         "freenessurl": "http://publicdomainmovies.info/beau-brummel-1924/",
         "status": "free",
         "title": "Beau Brummel (1924)",
-        "wp": "https://en.wikipedia.org/wiki/Beau_Brummel_(1924_film)"
+        "wp": "https://en.wikipedia.org/wiki/Beau_Brummel_(1924_film)",
+        "year": 1924
+    },
+    "http://www.imdb.com/title/tt0015400/": {
+        "freenessurl": "http://publicdomainmovies.info/thief-bagdad-1924-starring-douglas-fairbanks/",
+        "status": "free",
+        "title": "The Thief of Bagdad, 1924 starring Douglas Fairbanks",
+        "wp": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1924_film)",
+        "year": 1924
     },
     "http://www.imdb.com/title/tt0015477/": {
         "freenessurl": "http://publicdomainmovies.info/west-hot-dog-starring-stan-laurel/",
         "status": "free",
         "title": "West of Hot Dog, starring Stan Laurel",
-        "wp": "https://en.wikipedia.org/wiki/West_of_Hot_Dog"
+        "wp": "https://en.wikipedia.org/wiki/West_of_Hot_Dog",
+        "year": 1924
     },
     "http://www.imdb.com/title/tt0015758/": {
         "freenessurl": "http://publicdomainmovies.info/don-q-son-zorro-1925-starring-douglas-fairbanks/",
         "status": "free",
         "title": "Don Q, Son of Zorro, 1925 starring Douglas Fairbanks",
-        "wp": "https://en.wikipedia.org/wiki/Don_Q,_Son_of_Zorro"
+        "wp": "https://en.wikipedia.org/wiki/Don_Q,_Son_of_Zorro",
+        "year": 1925
     },
     "http://www.imdb.com/title/tt0015864/": {
         "freenessurl": "http://publicdomainmovies.info/gold-rush-1925-charlie-chaplin/",
         "status": "free",
         "title": "The Gold Rush, 1925 by Charlie Chaplin",
-        "wp": "https://en.wikipedia.org/wiki/The_Gold_Rush"
+        "wp": "https://en.wikipedia.org/wiki/The_Gold_Rush",
+        "year": 1925
     },
     "http://www.imdb.com/title/tt0016039/": {
         "freenessurl": "http://publicdomainmovies.info/lost-world-1925-film/",
         "status": "free",
         "title": "The Lost World (1925 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)",
+        "year": 1925
     },
     "http://www.imdb.com/title/tt0016220/": {
         "freenessurl": "http://publicdomainmovies.info/phantom-opera-1925-film/",
         "status": "free",
         "title": "The Phantom of the Opera (1925 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1925_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1925_film)",
+        "year": 1925
     },
     "http://www.imdb.com/title/tt0016361/": {
         "freenessurl": "http://publicdomainmovies.info/smouldering-fires-film/",
         "status": "free",
         "title": "Smouldering Fires (film)",
-        "wp": "https://en.wikipedia.org/wiki/Smouldering_Fires_(film)"
+        "wp": "https://en.wikipedia.org/wiki/Smouldering_Fires_(film)",
+        "year": 1925
     },
     "http://www.imdb.com/title/tt0016629/": {
         "freenessurl": "http://publicdomainmovies.info/bat-1926-film/",
         "status": "free",
         "title": "The Bat (1926 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Bat_(1926_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Bat_(1926_film)",
+        "year": 1926
     },
     "http://www.imdb.com/title/tt0016654/": {
         "freenessurl": "http://publicdomainmovies.info/black-pirate-starring-douglas-fairbanks/",
         "status": "free",
         "title": "The Black Pirate, starring Douglas Fairbanks",
-        "wp": "https://en.wikipedia.org/wiki/The_Black_Pirate"
+        "wp": "https://en.wikipedia.org/wiki/The_Black_Pirate",
+        "year": 1926
     },
     "http://www.imdb.com/title/tt0017925/": {
         "freenessurl": "http://publicdomainmovies.info/general-buster-keaton-1926-film/",
         "status": "free",
         "title": "The General \u2013 Buster Keaton (1926 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_General_%281926_film%29"
+        "wp": "https://en.wikipedia.org/wiki/The_General_%281926_film%29",
+        "year": 1926
     },
     "http://www.imdb.com/title/tt0019421/": {
         "freenessurl": "http://publicdomainmovies.info/steamboat-bill-jr-1928-buster-keaton/",
         "status": "free",
         "title": "Steamboat Bill, Jr., 1928 with Buster Keaton",
-        "wp": "https://en.wikipedia.org/wiki/Steamboat_Bill,_Jr."
+        "wp": "https://en.wikipedia.org/wiki/Steamboat_Bill,_Jr.",
+        "year": 1928
     },
     "http://www.imdb.com/title/tt0019798/": {
         "freenessurl": "http://publicdomainmovies.info/dance-life-1929-full-movie/",
         "status": "free",
         "title": "The Dance of Life (1929) \u2013 Full Movie",
-        "wp": "https://en.wikipedia.org/wiki/The_Dance_of_Life"
+        "wp": "https://en.wikipedia.org/wiki/The_Dance_of_Life",
+        "year": 1929
     },
     "http://www.imdb.com/title/tt0019983/": {
         "freenessurl": "http://publicdomainmovies.info/high-voltage-1929-film-starring-carole-lombard/",
         "status": "free",
         "title": "High Voltage, 1929 film starring Carole Lombard",
-        "wp": "https://en.wikipedia.org/wiki/High_Voltage_(1929_film)"
+        "wp": "https://en.wikipedia.org/wiki/High_Voltage_(1929_film)",
+        "year": 1929
     },
     "http://www.imdb.com/title/tt0020620/": {
         "freenessurl": "http://publicdomainmovies.info/abraham-lincoln-1930-film/",
         "status": "free",
         "title": "Abraham Lincoln (1930 film)",
-        "wp": "https://en.wikipedia.org/wiki/Abraham_Lincoln_(1930_film)"
+        "wp": "https://en.wikipedia.org/wiki/Abraham_Lincoln_(1930_film)",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0020673/": {
         "freenessurl": "http://publicdomainmovies.info/beau-ideal-1931-full-adventure-movie/",
         "status": "free",
         "title": "Beau Ideal (1931) \u2013 full adventure movie",
-        "wp": "https://en.wikipedia.org/wiki/Beau_Ideal"
+        "wp": "https://en.wikipedia.org/wiki/Beau_Ideal",
+        "year": 1931
     },
     "http://www.imdb.com/title/tt0020703/": {
         "freenessurl": "http://publicdomainmovies.info/borrowed-wives-1930/",
         "status": "free",
         "title": "Borrowed Wives, 1930",
-        "wp": "https://en.wikipedia.org/wiki/Borrowed_Wives"
+        "wp": "https://en.wikipedia.org/wiki/Borrowed_Wives",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0020758/": {
         "freenessurl": "http://publicdomainmovies.info/check-double-check/",
         "status": "free",
         "title": "Check and Double Check",
-        "wp": "https://en.wikipedia.org/wiki/Check_and_Double_Check"
+        "wp": "https://en.wikipedia.org/wiki/Check_and_Double_Check",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0020785/": {
         "freenessurl": "http://publicdomainmovies.info/conspiracy-1930-film/",
         "status": "free",
         "title": "Conspiracy (1930 film)",
-        "wp": "https://en.wikipedia.org/wiki/Conspiracy_(1930_film)"
+        "wp": "https://en.wikipedia.org/wiki/Conspiracy_(1930_film)",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0020806/": {
         "freenessurl": "http://publicdomainmovies.info/danger-lights/",
         "status": "free",
         "title": "Danger Lights",
-        "wp": "https://en.wikipedia.org/wiki/Danger_Lights"
+        "wp": "https://en.wikipedia.org/wiki/Danger_Lights",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0020828/": {
         "freenessurl": "http://publicdomainmovies.info/dixiana-film/",
         "status": "free",
         "title": "Dixiana (film)",
-        "wp": "https://en.wikipedia.org/wiki/Dixiana_(film)"
+        "wp": "https://en.wikipedia.org/wiki/Dixiana_(film)",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0020945/": {
         "freenessurl": "http://publicdomainmovies.info/half-shot-sunrise-american-comedy-film-starring-comedy-duo-wheeler-woolsey/",
         "status": "free",
         "title": "Half Shot at Sunrise, American comedy film starring the comedy duo Wheeler & Woolsey",
-        "wp": "https://en.wikipedia.org/wiki/Half_Shot_at_Sunrise"
+        "wp": "https://en.wikipedia.org/wiki/Half_Shot_at_Sunrise",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0020987/": {
         "freenessurl": "http://publicdomainmovies.info/hook-line-sinker-1930-film/",
         "status": "free",
         "title": "Hook, Line and Sinker (1930 film)",
-        "wp": "https://en.wikipedia.org/wiki/Hook,_Line_and_Sinker_(1930_film)"
+        "wp": "https://en.wikipedia.org/wiki/Hook,_Line_and_Sinker_(1930_film)",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0021001/": {
         "freenessurl": "http://publicdomainmovies.info/inside-lines-1930/",
         "status": "free",
         "title": "Inside the Lines, 1930",
-        "wp": "https://en.wikipedia.org/wiki/Inside_the_Lines"
+        "wp": "https://en.wikipedia.org/wiki/Inside_the_Lines",
+        "year": 1930
     },
     "http://www.imdb.com/title/tt0021649/": {
         "freenessurl": "http://publicdomainmovies.info/behind-office-doors/",
         "status": "free",
         "title": "Behind Office Doors",
-        "wp": "https://en.wikipedia.org/wiki/Behind_Office_Doors"
+        "wp": "https://en.wikipedia.org/wiki/Behind_Office_Doors",
+        "year": 1931
     },
     "http://www.imdb.com/title/tt0022021/": {
         "freenessurl": "http://publicdomainmovies.info/kept-husbands-1931/",
         "status": "free",
         "title": "Kept Husbands, 1931",
-        "wp": "https://en.wikipedia.org/wiki/Kept_Husbands"
+        "wp": "https://en.wikipedia.org/wiki/Kept_Husbands",
+        "year": 1931
     },
     "http://www.imdb.com/title/tt0022628/": {
         "freenessurl": "http://publicdomainmovies.info/the-animal-kingdom/",
         "status": "free",
         "title": "The Animal Kingdom",
-        "wp": "https://en.wikipedia.org/wiki/The_Animal_Kingdom"
+        "wp": "https://en.wikipedia.org/wiki/The_Animal_Kingdom",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0022689/": {
         "freenessurl": "http://publicdomainmovies.info/bird-paradise-1932/",
         "status": "free",
         "title": "Bird of Paradise (1932)",
-        "wp": "https://en.wikipedia.org/wiki/Bird_of_Paradise_%281932_film%29"
+        "wp": "https://en.wikipedia.org/wiki/Bird_of_Paradise_%281932_film%29",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0022961/": {
         "freenessurl": "http://publicdomainmovies.info/greeks-word-full-movie/",
         "status": "free",
         "title": "The Greeks Had a Word for Them, full movie",
-        "wp": "https://en.wikipedia.org/wiki/The_Greeks_Had_a_Word_for_Them"
+        "wp": "https://en.wikipedia.org/wiki/The_Greeks_Had_a_Word_for_Them",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0023238/": {
         "freenessurl": "http://publicdomainmovies.info/dangerous-game-big-game-hunter-hunts-humans-sport/",
         "status": "free",
         "title": "The Most Dangerous Game, a big game hunter who hunts humans for sport",
-        "wp": "https://en.wikipedia.org/wiki/The_Most_Dangerous_Game_(film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Most_Dangerous_Game_(film)",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0023369/": {
         "freenessurl": "http://publicdomainmovies.info/rain-1932-film-starring-joan-crawford-prostitute/",
         "status": "free",
         "title": "Rain (1932 film), starring Joan Crawford as a prostitute",
-        "wp": "https://en.wikipedia.org/wiki/Rain_(1932_film)"
+        "wp": "https://en.wikipedia.org/wiki/Rain_(1932_film)",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0023694/": {
         "freenessurl": "http://publicdomainmovies.info/white-zombie-full-movie-1932-bela-lugosi/",
         "status": "free",
         "title": "White Zombie (full movie, 1932), with Bela Lugosi",
-        "wp": "https://en.wikipedia.org/wiki/White_Zombie_(film)"
+        "wp": "https://en.wikipedia.org/wiki/White_Zombie_(film)",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0024500/": {
         "freenessurl": "http://publicdomainmovies.info/riders-destiny-1933-john-wayne-singing-cowboy/",
         "status": "free",
         "title": "Riders of Destiny (1933), with John Wayne as a singing cowboy",
-        "wp": "https://en.wikipedia.org/wiki/Riders_of_Destiny"
+        "wp": "https://en.wikipedia.org/wiki/Riders_of_Destiny",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0024805/": {
+        "freenessurl": "http://publicdomainmovies.info/neath-arizona-skies-1934-western-film-starring-john-wayne/",
+        "status": "free",
+        "title": "\u2018Neath the Arizona Skies, 1934 Western film starring John Wayne",
+        "wp": "https://en.wikipedia.org/wiki/%27Neath_the_Arizona_Skies",
+        "year": 1934
     },
     "http://www.imdb.com/title/tt0024902/": {
         "freenessurl": "http://publicdomainmovies.info/blue-steel-1934-film-john-wayne-u-s-marshal/",
         "status": "free",
         "title": "Blue Steel (1934), film with John Wayne as U.S. Marshal",
-        "wp": "https://en.wikipedia.org/wiki/Blue_Steel_(1934_film)"
+        "wp": "https://en.wikipedia.org/wiki/Blue_Steel_(1934_film)",
+        "year": 1934
     },
     "http://www.imdb.com/title/tt0025440/": {
         "freenessurl": "http://publicdomainmovies.info/lucky-texan-1934-john-wayne/",
         "status": "free",
         "title": "The Lucky Texan (1934), with John Wayne",
-        "wp": "https://en.wikipedia.org/wiki/The_Lucky_Texan"
+        "wp": "https://en.wikipedia.org/wiki/The_Lucky_Texan",
+        "year": 1934
     },
     "http://www.imdb.com/title/tt0025455/": {
         "freenessurl": "http://publicdomainmovies.info/man-utah-1934-western-movie-starring-john-wayne/",
         "status": "free",
         "title": "The Man from Utah, 1934 Western movie starring John Wayne",
-        "wp": "https://en.wikipedia.org/wiki/The_Man_from_Utah"
+        "wp": "https://en.wikipedia.org/wiki/The_Man_from_Utah",
+        "year": 1934
     },
     "http://www.imdb.com/title/tt0025543/": {
         "freenessurl": "http://publicdomainmovies.info/mystery-liner-1934/",
         "status": "free",
         "title": "Mystery Liner, 1934",
-        "wp": "https://en.wikipedia.org/wiki/Mystery_Liner"
+        "wp": "https://en.wikipedia.org/wiki/Mystery_Liner",
+        "year": 1934
     },
     "http://www.imdb.com/title/tt0025586/": {
         "freenessurl": "http://publicdomainmovies.info/human-bondage-1934-bette-davis/",
         "status": "free",
         "title": "Of Human Bondage (1934), with Bette Davis",
-        "wp": "https://en.wikipedia.org/wiki/Of_Human_Bondage_(1934_film)"
+        "wp": "https://en.wikipedia.org/wiki/Of_Human_Bondage_(1934_film)",
+        "year": 1934
+    },
+    "http://www.imdb.com/title/tt0025940/": {
+        "freenessurl": "http://publicdomainmovies.info/vanishing-shadow-1934-serial-chapter-1-accused-murder/",
+        "status": "free",
+        "title": "The Vanishing Shadow, 1934 (serial) Chapter 1: Accused of Murder",
+        "wp": "https://en.wikipedia.org/wiki/The_Vanishing_Shadow",
+        "year": 1934
     },
     "http://www.imdb.com/title/tt0025969/": {
         "freenessurl": "http://publicdomainmovies.info/west-divide-1934-starring-john-wayne/",
         "status": "free",
         "title": "West of the Divide, 1934 starring John Wayne",
-        "wp": "https://en.wikipedia.org/wiki/West_of_the_Divide"
+        "wp": "https://en.wikipedia.org/wiki/West_of_the_Divide",
+        "year": 1934
+    },
+    "http://www.imdb.com/title/tt0026038/": {
+        "freenessurl": "http://publicdomainmovies.info/adventures-rex-rinty-1935-serial-chapter-1-god-horse-sujan-starring-rex-rin-tin-tin/",
+        "status": "free",
+        "title": "The Adventures of Rex and Rinty, 1935 (serial) Chapter 1: God Horse of Sujan, starring Rex and Rin Tin Tin",
+        "wp": "https://en.wikipedia.org/wiki/The_Adventures_of_Rex_and_Rinty",
+        "year": 1935
     },
     "http://www.imdb.com/title/tt0026867/": {
         "freenessurl": "http://publicdomainmovies.info/phantom-empire-70-mins-feature-film/",
         "status": "free",
         "title": "The Phantom Empire, 70 mins feature film",
-        "wp": "https://en.wikipedia.org/wiki/The_Phantom_Empire"
+        "wp": "https://en.wikipedia.org/wiki/The_Phantom_Empire",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0027421/": {
         "freenessurl": "http://publicdomainmovies.info/captain-january-1936-starring-shirley-temple/",
         "status": "free",
         "title": "Captain January (1936), starring Shirley Temple",
-        "wp": "https://en.wikipedia.org/wiki/Captain_January_(1936_film)"
+        "wp": "https://en.wikipedia.org/wiki/Captain_January_(1936_film)",
+        "year": 1936
     },
     "http://www.imdb.com/title/tt0027529/": {
         "freenessurl": "http://publicdomainmovies.info/three-stooges-disorder-court/",
         "status": "free",
         "title": "Three Stooges: Disorder In The Court",
-        "wp": "https://en.wikipedia.org/wiki/Disorder_in_the_Court"
+        "wp": "https://en.wikipedia.org/wiki/Disorder_in_the_Court",
+        "year": 1936
     },
     "http://www.imdb.com/title/tt0027697/": {
         "freenessurl": "http://publicdomainmovies.info/great-guy-1936-movie-starring-james-cagney-mae-clarke/",
         "status": "free",
         "title": "Great Guy, 1936 movie starring James Cagney and Mae Clarke",
-        "wp": "https://en.wikipedia.org/wiki/Great_Guy"
+        "wp": "https://en.wikipedia.org/wiki/Great_Guy",
+        "year": 1936
     },
     "http://www.imdb.com/title/tt0028346/": {
         "freenessurl": "http://publicdomainmovies.info/reefer-madness-one-worst-films-ever-made/",
         "status": "free",
         "title": "Reefer Madness, \u201cone of the worst films ever made\u201d",
-        "wp": "https://en.wikipedia.org/wiki/Reefer_Madness"
+        "wp": "https://en.wikipedia.org/wiki/Reefer_Madness",
+        "year": 1936
     },
     "http://www.imdb.com/title/tt0028785/": {
         "freenessurl": "http://publicdomainmovies.info/dick-tracy-1937-serial-chapter-1-spider-strikes/",
         "status": "free",
         "title": "Dick Tracy, 1937 (serial) chapter 1: The Spider Strikes",
-        "wp": "https://en.wikipedia.org/wiki/Dick_Tracy_(serial)"
+        "wp": "https://en.wikipedia.org/wiki/Dick_Tracy_(serial)",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0029606/": {
         "freenessurl": "http://publicdomainmovies.info/star-born-1937-full-movie/",
         "status": "free",
         "title": "A Star Is Born (1937 full movie)",
-        "wp": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1937_film)"
+        "wp": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1937_film)",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0029818/": {
         "freenessurl": "http://publicdomainmovies.info/zorro-rides-again1937-serial-chapter-1-death-sky/",
         "status": "free",
         "title": "Zorro Rides Again, 1937 (serial) Chapter 1: Death from the Sky",
-        "wp": "https://en.wikipedia.org/wiki/Zorro_Rides_Again"
+        "wp": "https://en.wikipedia.org/wiki/Zorro_Rides_Again",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0029855/": {
         "freenessurl": "http://publicdomainmovies.info/algiers-1938-charles-boyer/",
         "status": "free",
         "title": "Algiers (1938), with Charles Boyer",
-        "wp": "https://en.wikipedia.org/wiki/Algiers_(film)"
+        "wp": "https://en.wikipedia.org/wiki/Algiers_(film)",
+        "year": 1938
     },
     "http://www.imdb.com/title/tt0030382/": {
         "freenessurl": "http://publicdomainmovies.info/lone-ranger-tv-serial-chapter-1-hi-yo-silver/",
         "status": "free",
         "title": "The Lone Ranger (serial), chapter 1: Hi-Yo Silver",
-        "wp": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(serial)"
+        "wp": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(serial)",
+        "year": 1938
+    },
+    "http://www.imdb.com/title/tt0030845/": {
+        "freenessurl": "http://publicdomainmovies.info/terror-tiny-town-1938-worlds-musical-western-midget-cast/",
+        "status": "free",
+        "title": "The Terror of Tiny Town, 1938 the world\u2019s only musical Western with an all-midget cast",
+        "wp": "https://en.wikipedia.org/wiki/The_Terror_of_Tiny_Town",
+        "year": 1938
     },
     "http://www.imdb.com/title/tt0031387/": {
         "freenessurl": "http://publicdomainmovies.info/gorilla-1939-film/",
         "status": "free",
         "title": "The Gorilla (1939 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Gorilla_(1939_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Gorilla_(1939_film)",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0031397/": {
         "freenessurl": "http://publicdomainmovies.info/gullivers-travels-1939/",
         "status": "free",
         "title": "Gullivers Travels (1939)",
-        "wp": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels_(1939_film)"
+        "wp": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels_(1939_film)",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0031580/": {
         "freenessurl": "http://publicdomainmovies.info/little-princess-1939-film-starring-shirley-temple/",
         "status": "free",
         "title": "The Little Princess (1939 film), starring Shirley Temple",
-        "wp": "https://en.wikipedia.org/wiki/The_Little_Princess_(1939_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Little_Princess_(1939_film)",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0031593/": {
         "freenessurl": "http://publicdomainmovies.info/love-affair-1939-film/",
         "status": "free",
         "title": "Love Affair (1939 film)",
-        "wp": "https://en.wikipedia.org/wiki/Love_Affair_(1939_film)"
+        "wp": "https://en.wikipedia.org/wiki/Love_Affair_(1939_film)",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0032164/": {
         "freenessurl": "http://publicdomainmovies.info/zorros-fighting-legion-1939-serial-chapter-1-golden-god/",
         "status": "free",
         "title": "Zorro\u2019s Fighting Legion, 1939 (serial) Chapter 1: Golden God",
-        "wp": "https://en.wikipedia.org/wiki/Zorro%27s_Fighting_Legion"
+        "wp": "https://en.wikipedia.org/wiki/Zorro%27s_Fighting_Legion",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0032390/": {
         "freenessurl": "http://publicdomainmovies.info/devil-bat-starring-bela-lugosi-pre-vampire-movie/",
         "status": "free",
         "title": "The Devil Bat, starring Bela Lugosi in a pre-vampire movie!",
-        "wp": "https://en.wikipedia.org/wiki/The_Devil_Bat"
+        "wp": "https://en.wikipedia.org/wiki/The_Devil_Bat",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0032475/": {
         "freenessurl": "http://publicdomainmovies.info/flash-gordon-conquers-universe-tv-serial-chapter-1-purple-death/",
         "status": "free",
         "title": "Flash Gordon Conquers the Universe (serial), chapter 1: The Purple Death",
-        "wp": "https://en.wikipedia.org/wiki/Flash_Gordon_Conquers_the_Universe"
+        "wp": "https://en.wikipedia.org/wiki/Flash_Gordon_Conquers_the_Universe",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0032599/": {
         "freenessurl": "http://publicdomainmovies.info/girl-friday-1940-directed-howard-hawks-starring-cary-grant-rosalind-russell/",
         "status": "free",
         "title": "His Girl Friday, 1940 directed by Howard Hawks and starring Cary Grant and Rosalind Russell",
-        "wp": "https://en.wikipedia.org/wiki/His_Girl_Friday"
+        "wp": "https://en.wikipedia.org/wiki/His_Girl_Friday",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0033021/": {
         "freenessurl": "http://publicdomainmovies.info/santa-fe-trail-1940-ronald-reagan-errol-flynn-olivia-de-havilland/",
         "status": "free",
         "title": "Santa Fe Trail (1940) \u2013 Ronald Reagan, Errol Flynn and Olivia de Havilland",
-        "wp": "https://en.wikipedia.org/wiki/Santa_Fe_Trail_%28film%29"
+        "wp": "https://en.wikipedia.org/wiki/Santa_Fe_Trail_%28film%29",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0033317/": {
         "freenessurl": "http://publicdomainmovies.info/adventures-captain-marvel-1941-serial-chapter-1-curse-scorpion/",
         "status": "free",
         "title": "Adventures of Captain Marvel, 1941 (serial) Chapter 1: Curse of the Scorpion",
-        "wp": "https://en.wikipedia.org/wiki/Adventures_of_Captain_Marvel"
+        "wp": "https://en.wikipedia.org/wiki/Adventures_of_Captain_Marvel",
+        "year": 1941
     },
     "http://www.imdb.com/title/tt0033891/": {
         "freenessurl": "http://publicdomainmovies.info/frank-capras-meet-john-doe/",
         "status": "free",
         "title": "Frank Capra\u2019s Meet John Doe",
-        "wp": "https://en.wikipedia.org/wiki/Meet_John_Doe"
+        "wp": "https://en.wikipedia.org/wiki/Meet_John_Doe",
+        "year": 1941
+    },
+    "http://www.imdb.com/title/tt0034012/": {
+        "freenessurl": "http://publicdomainmovies.info/penny-serenade-1941-starring-irene-dunne-cary-grant/",
+        "status": "free",
+        "title": "Penny Serenade, 1941 starring Irene Dunne and Cary Grant",
+        "wp": "https://en.wikipedia.org/wiki/Penny_Serenade",
+        "year": 1941
     },
     "http://www.imdb.com/title/tt0034274/": {
         "freenessurl": "http://publicdomainmovies.info/uncertain-feeling-1941-directed-ernst-lubitsch/",
         "status": "free",
         "title": "That Uncertain Feeling, 1941 directed by Ernst Lubitsch",
-        "wp": "https://en.wikipedia.org/wiki/That_Uncertain_Feeling_(film)"
+        "wp": "https://en.wikipedia.org/wiki/That_Uncertain_Feeling_(film)",
+        "year": 1941
     },
     "http://www.imdb.com/title/tt0034546/": {
         "freenessurl": "http://publicdomainmovies.info/bowery-midnight-1942-movie-bela-lugosi/",
         "status": "free",
         "title": "Bowery at Midnight, 1942 movie with Bela Lugosi",
-        "wp": "https://en.wikipedia.org/wiki/Bowery_at_Midnight"
+        "wp": "https://en.wikipedia.org/wiki/Bowery_at_Midnight",
+        "year": 1942
     },
     "http://www.imdb.com/title/tt0034863/": {
         "freenessurl": "http://publicdomainmovies.info/holt-secret-service-1941-serial-chapter-1-chaotic-greek/",
         "status": "free",
         "title": "Holt of the Secret Service, 1941 (serial) Chapter 1: Chaotic Greek",
-        "wp": "https://en.wikipedia.org/wiki/Holt_of_the_Secret_Service"
+        "wp": "https://en.wikipedia.org/wiki/Holt_of_the_Secret_Service",
+        "year": 1941
     },
     "http://www.imdb.com/title/tt0034928/": {
         "freenessurl": "http://publicdomainmovies.info/jungle-book1942-film/",
         "status": "free",
         "title": "Jungle Book,1942 film",
-        "wp": "https://en.wikipedia.org/wiki/Jungle_Book_(1942_film)"
+        "wp": "https://en.wikipedia.org/wiki/Jungle_Book_(1942_film)",
+        "year": 1942
     },
     "http://www.imdb.com/title/tt0035317/": {
         "freenessurl": "http://publicdomainmovies.info/sherlock-holmes-secret-weapon-1942-basil-rathbone-nigel-bruce/",
         "status": "free",
         "title": "Sherlock Holmes and the Secret Weapon (1942) with Basil Rathbone & Nigel Bruce",
-        "wp": "https://en.wikipedia.org/wiki/Sherlock_Holmes_and_the_Secret_Weapon"
+        "wp": "https://en.wikipedia.org/wiki/Sherlock_Holmes_and_the_Secret_Weapon",
+        "year": 1942
     },
     "http://www.imdb.com/title/tt0035745/": {
         "freenessurl": "http://publicdomainmovies.info/combat-america-clark-gable/",
         "status": "free",
         "title": "Combat America with Clark Gable",
-        "wp": "https://en.wikipedia.org/wiki/Combat_America"
+        "wp": "https://en.wikipedia.org/wiki/Combat_America",
+        "year": 1943
     },
     "http://www.imdb.com/title/tt0036241/": {
         "freenessurl": "http://publicdomainmovies.info/outlaw-1943-directed-howard-hughes-starring-jane-russell/",
         "status": "free",
         "title": "The Outlaw (1943), directed by Howard Hughes and starring Jane Russell",
-        "wp": "https://en.wikipedia.org/wiki/The_Outlaw"
+        "wp": "https://en.wikipedia.org/wiki/The_Outlaw",
+        "year": 1943
     },
     "http://www.imdb.com/title/tt0036697/": {
         "freenessurl": "http://publicdomainmovies.info/captain-america-1944-serial-chapter-1-purple-death/",
         "status": "free",
         "title": "Captain America, 1944 (serial) chapter 1: The Purple Death",
-        "wp": "https://en.wikipedia.org/wiki/Captain_America_(serial)"
+        "wp": "https://en.wikipedia.org/wiki/Captain_America_(serial)",
+        "year": 1944
     },
     "http://www.imdb.com/title/tt0037215/": {
         "freenessurl": "http://publicdomainmovies.info/resisting-enemy-interrogation-1944/",
         "status": "free",
         "title": "Resisting Enemy Interrogation, 1944",
-        "wp": "https://en.wikipedia.org/wiki/Resisting_Enemy_Interrogation"
+        "wp": "https://en.wikipedia.org/wiki/Resisting_Enemy_Interrogation",
+        "year": 1944
     },
     "http://www.imdb.com/title/tt0037481/": {
         "freenessurl": "http://publicdomainmovies.info/zorros-black-whip-1944-tv-serial-chapter-1-masked-avenger/",
         "status": "free",
         "title": "Zorro\u2019s Black Whip, 1944 (serial), chapter 1: The Masked Avenger",
-        "wp": "https://en.wikipedia.org/wiki/Zorro%27s_Black_Whip"
+        "wp": "https://en.wikipedia.org/wiki/Zorro%27s_Black_Whip",
+        "year": 1944
     },
     "http://www.imdb.com/title/tt0037547/": {
         "freenessurl": "http://publicdomainmovies.info/blood-sun-starring-james-cagney/",
         "status": "free",
         "title": "Blood on the Sun, starring James Cagney",
-        "wp": "https://en.wikipedia.org/wiki/Blood_on_the_Sun"
+        "wp": "https://en.wikipedia.org/wiki/Blood_on_the_Sun",
+        "year": 1945
     },
     "http://www.imdb.com/title/tt0037607/": {
         "freenessurl": "http://publicdomainmovies.info/colonel-effinghams-raid-charles-coburn-joan-bennett-william-eythe/",
         "status": "free",
         "title": "Colonel Effingham\u2019s Raid, with Charles Coburn, Joan Bennett and William Eythe",
-        "wp": "https://en.wikipedia.org/wiki/Colonel_Effingham%27s_Raid"
+        "wp": "https://en.wikipedia.org/wiki/Colonel_Effingham%27s_Raid",
+        "year": 1946
     },
     "http://www.imdb.com/title/tt0037636/": {
         "freenessurl": "http://publicdomainmovies.info/delightfully-dangerous-1945/",
         "status": "free",
         "title": "Delightfully Dangerous, 1945",
-        "wp": "https://en.wikipedia.org/wiki/Delightfully_Dangerous"
+        "wp": "https://en.wikipedia.org/wiki/Delightfully_Dangerous",
+        "year": 1945
     },
     "http://www.imdb.com/title/tt0037638/": {
         "freenessurl": "http://publicdomainmovies.info/detour-1945-film-movie/",
         "status": "free",
         "title": "Detour (1945 film) [Full Movie]",
-        "wp": "https://en.wikipedia.org/wiki/Detour_%281945_film%29"
+        "wp": "https://en.wikipedia.org/wiki/Detour_%281945_film%29",
+        "year": 1945
     },
     "http://www.imdb.com/title/tt0038259/": {
         "freenessurl": "http://publicdomainmovies.info/woman-green-basil-rathbone-sherlock-holmes-nigel-bruce-dr-watson/",
         "status": "free",
         "title": "The Woman in Green, with Basil Rathbone as Sherlock Holmes and Nigel Bruce as Dr. Watson",
-        "wp": "https://en.wikipedia.org/wiki/The_Woman_in_Green"
+        "wp": "https://en.wikipedia.org/wiki/The_Woman_in_Green",
+        "year": 1945
     },
     "http://www.imdb.com/title/tt0038494/": {
         "freenessurl": "http://publicdomainmovies.info/dressed-kill-1946-starring-basil-rathbone-sherlock-holmes/",
         "status": "free",
         "title": "Dressed to Kill, 1946 starring Basil Rathbone as Sherlock Holmes",
-        "wp": "https://en.wikipedia.org/wiki/Dressed_to_Kill_(1946_film)"
+        "wp": "https://en.wikipedia.org/wiki/Dressed_to_Kill_(1946_film)",
+        "year": 1946
     },
     "http://www.imdb.com/title/tt0038991/": {
         "freenessurl": "http://publicdomainmovies.info/stranger-1946-orson-wells-directs-edward-g-robinson/",
         "status": "free",
         "title": "The Stranger (1946), Orson Wells directs Edward G. Robinson",
-        "wp": "https://en.wikipedia.org/wiki/The_Stranger_%281946_film%29"
+        "wp": "https://en.wikipedia.org/wiki/The_Stranger_%281946_film%29",
+        "year": 1946
     },
     "http://www.imdb.com/title/tt0039035/": {
         "freenessurl": "http://publicdomainmovies.info/till-clouds-roll-1946-judy-garland-frank-sinatra/",
         "status": "free",
         "title": "Till The Clouds Roll by (1946), with Judy Garland and Frank Sinatra",
-        "wp": "https://en.wikipedia.org/wiki/Till_the_Clouds_Roll_By"
+        "wp": "https://en.wikipedia.org/wiki/Till_the_Clouds_Roll_By",
+        "year": 1946
     },
     "http://www.imdb.com/title/tt0039152/": {
         "freenessurl": "http://publicdomainmovies.info/angel-badman-1947-starring-john-wayne/",
         "status": "free",
         "title": "Angel and the Badman (1947), starring John Wayne",
-        "wp": "https://en.wikipedia.org/wiki/Angel_and_the_Badman"
+        "wp": "https://en.wikipedia.org/wiki/Angel_and_the_Badman",
+        "year": 1947
     },
     "http://www.imdb.com/title/tt0039219/": {
         "freenessurl": "http://publicdomainmovies.info/three-stooges-brideless-groom/",
         "status": "free",
         "title": "The Three Stooges: Brideless Groom",
-        "wp": "https://en.wikipedia.org/wiki/Brideless_Groom"
+        "wp": "https://en.wikipedia.org/wiki/Brideless_Groom",
+        "year": 1947
     },
     "http://www.imdb.com/title/tt0039324/": {
         "freenessurl": "http://publicdomainmovies.info/dishonored-lady-1947-starring-hedy-lamarr/",
         "status": "free",
         "title": "Dishonored Lady, 1947 starring Hedy Lamarr",
-        "wp": "https://en.wikipedia.org/wiki/Dishonored_Lady"
+        "wp": "https://en.wikipedia.org/wiki/Dishonored_Lady",
+        "year": 1947
     },
     "http://www.imdb.com/title/tt0039389/": {
         "freenessurl": "http://publicdomainmovies.info/for-you-i-die-1947/",
         "status": "free",
         "title": "For You I Die, 1947",
-        "wp": "https://en.wikipedia.org/wiki/For_You_I_Die"
+        "wp": "https://en.wikipedia.org/wiki/For_You_I_Die",
+        "year": 1947
     },
     "http://www.imdb.com/title/tt0039460/": {
         "freenessurl": "http://publicdomainmovies.info/hi-de-ho-1947-musical/",
         "status": "free",
         "title": "Hi-De-Ho (1947 musical)",
-        "wp": "https://en.wikipedia.org/wiki/Hi-De-Ho_(1947_film)"
+        "wp": "https://en.wikipedia.org/wiki/Hi-De-Ho_(1947_film)",
+        "year": 1947
     },
     "http://www.imdb.com/title/tt0040829/": {
         "freenessurl": "http://publicdomainmovies.info/amazing-mr-x-full-movie/",
         "status": "free",
         "title": "The Amazing Mr. X [Full Movie]",
-        "wp": "https://en.wikipedia.org/wiki/The_Amazing_Mr._X"
+        "wp": "https://en.wikipedia.org/wiki/The_Amazing_Mr._X",
+        "year": 1948
     },
     "http://www.imdb.com/title/tt0041098/": {
         "freenessurl": "http://publicdomainmovies.info/abbott-costellos-africa-screams/",
         "status": "free",
         "title": "Abbott and Costello\u2019s Africa Screams",
-        "wp": "https://en.wikipedia.org/wiki/Africa_Screams"
+        "wp": "https://en.wikipedia.org/wiki/Africa_Screams",
+        "year": 1949
     },
     "http://www.imdb.com/title/tt0041175/": {
         "freenessurl": "http://publicdomainmovies.info/big-cat-1949-film/",
         "status": "free",
         "title": "The Big Cat (1949 film)",
-        "wp": "https://en.wikipedia.org/wiki/The_Big_Cat_(film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Big_Cat_(film)",
+        "year": 1949
     },
     "http://www.imdb.com/title/tt0041179/": {
         "freenessurl": "http://publicdomainmovies.info/big-wheel-film-starring-mickey-rooney/",
         "status": "free",
         "title": "The Big Wheel (film), starring Mickey Rooney",
-        "wp": "https://en.wikipedia.org/wiki/The_Big_Wheel_(film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Big_Wheel_(film)",
+        "year": 1949
     },
     "http://www.imdb.com/title/tt0041623/": {
         "freenessurl": "http://publicdomainmovies.info/three-stooges-malice-palace/",
         "status": "free",
         "title": "Three Stooges: Malice In The Palace",
-        "wp": "https://en.wikipedia.org/wiki/Malice_in_the_Palace"
+        "wp": "https://en.wikipedia.org/wiki/Malice_in_the_Palace",
+        "year": 1949
     },
     "http://www.imdb.com/title/tt0041865/": {
         "freenessurl": "http://publicdomainmovies.info/shoulda-said-no-1949-exploitation-film/",
         "status": "free",
         "title": "She Shoulda Said No!, 1949 exploitation film",
-        "wp": "https://en.wikipedia.org/wiki/She_Shoulda_Said_No!"
+        "wp": "https://en.wikipedia.org/wiki/She_Shoulda_Said_No!",
+        "year": 1949
     },
     "http://www.imdb.com/title/tt0042367/": {
         "freenessurl": "http://publicdomainmovies.info/cyrano-de-bergerac-1950/",
         "status": "free",
         "title": "Cyrano de Bergerac (1950)",
-        "wp": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(1950_film)"
+        "wp": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(1950_film)",
+        "year": 1950
     },
     "http://www.imdb.com/title/tt0043526/": {
         "freenessurl": "http://publicdomainmovies.info/fathers-little-dividend-1951-starring-spencer-tracy-joan-bennett-elizabeth-taylor/",
         "status": "free",
         "title": "Father\u2019s Little Dividend, 1951 \u2013 starring Spencer Tracy, Joan Bennett and Elizabeth Taylor",
-        "wp": "https://en.wikipedia.org/wiki/Father%27s_Little_Dividend"
+        "wp": "https://en.wikipedia.org/wiki/Father%27s_Little_Dividend",
+        "year": 1951
     },
     "http://www.imdb.com/title/tt0043590/": {
         "freenessurl": "http://publicdomainmovies.info/go-broke-1951-film-starring-van-johnson/",
         "status": "free",
         "title": "Go for Broke! (1951 film), starring Van Johnson",
-        "wp": "https://en.wikipedia.org/wiki/Go_for_Broke!_(1951_film)"
+        "wp": "https://en.wikipedia.org/wiki/Go_for_Broke!_(1951_film)",
+        "year": 1951
     },
     "http://www.imdb.com/title/tt0044420/": {
         "freenessurl": "http://publicdomainmovies.info/big-trees-1952-western-film-starring-kirk-douglas/",
         "status": "free",
         "title": "The Big Trees, 1952 Western film starring Kirk Douglas",
-        "wp": "https://en.wikipedia.org/wiki/The_Big_Trees"
+        "wp": "https://en.wikipedia.org/wiki/The_Big_Trees",
+        "year": 1952
     },
     "http://www.imdb.com/title/tt0045064/": {
         "freenessurl": "http://publicdomainmovies.info/radar-men-moon-1952-serial-chapter-1-moon-rocket/",
         "status": "free",
         "title": "Radar Men from the Moon, 1952 (serial) chapter 1: Moon Rocket",
-        "wp": "https://en.wikipedia.org/wiki/Radar_Men_from_the_Moon"
+        "wp": "https://en.wikipedia.org/wiki/Radar_Men_from_the_Moon",
+        "year": 1952
     },
     "http://www.imdb.com/title/tt0045094/": {
         "freenessurl": "http://publicdomainmovies.info/road-bali-1952-starring-bing-crosby-bob-hope-dorothy-lamour/",
         "status": "free",
         "title": "Road To Bali (1952), starring Bing Crosby, Bob Hope, Dorothy Lamour",
-        "wp": "https://en.wikipedia.org/wiki/Road_to_Bali"
+        "wp": "https://en.wikipedia.org/wiki/Road_to_Bali",
+        "year": 1952
     },
     "http://www.imdb.com/title/tt0045162/": {
         "freenessurl": "http://publicdomainmovies.info/snows-kilimanjaro-1952-starring-gregory-peck-susan-hayward-ava-gardner/",
         "status": "free",
         "title": "The Snows of Kilimanjaro (1952), starring Gregory Peck, Susan Hayward and Ava Gardner",
-        "wp": "https://en.wikipedia.org/wiki/The_Snows_of_Kilimanjaro_(1952_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Snows_of_Kilimanjaro_(1952_film)",
+        "year": 1952
     },
     "http://www.imdb.com/title/tt0045826/": {
         "freenessurl": "http://publicdomainmovies.info/glen-glenda-1953-ed-wood/",
         "status": "free",
         "title": "Glen or Glenda \u2013 1953 \u2013 Ed Wood",
-        "wp": "https://en.wikipedia.org/wiki/Glen_or_Glenda"
+        "wp": "https://en.wikipedia.org/wiki/Glen_or_Glenda",
+        "year": 1953
     },
     "http://www.imdb.com/title/tt0046969/": {
         "freenessurl": "http://publicdomainmovies.info/fast-furious-1955-film-john-ireland-dorothy-malone/",
         "status": "free",
         "title": "The Fast and the Furious, 1955 film with John Ireland and Dorothy Malone",
-        "wp": "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(1955_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(1955_film)",
+        "year": 1955
     },
     "http://www.imdb.com/title/tt0047162/": {
         "freenessurl": "http://publicdomainmovies.info/last-time-saw-paris-1954-starring-elizabeth-taylor-van-johnson/",
         "status": "free",
         "title": "The Last Time I Saw Paris (1954), starring Elizabeth Taylor and Van Johnson",
-        "wp": "https://en.wikipedia.org/wiki/The_Last_Time_I_Saw_Paris"
+        "wp": "https://en.wikipedia.org/wiki/The_Last_Time_I_Saw_Paris",
+        "year": 1954
     },
     "http://www.imdb.com/title/tt0047898/": {
         "freenessurl": "http://publicdomainmovies.info/ed-woods-bride-monster-1955-starring-bela-lugosi/",
         "status": "free",
         "title": "Ed Wood\u2019s Bride of the Monster, 1955 starring Bela Lugosi",
-        "wp": "https://en.wikipedia.org/wiki/Bride_of_the_Monster"
+        "wp": "https://en.wikipedia.org/wiki/Bride_of_the_Monster",
+        "year": 1955
     },
     "http://www.imdb.com/title/tt0049363/": {
         "freenessurl": "http://publicdomainmovies.info/indestructible-man/",
         "status": "free",
         "title": "Indestructible Man, 1956",
-        "wp": "https://en.wikipedia.org/wiki/Indestructible_Man"
+        "wp": "https://en.wikipedia.org/wiki/Indestructible_Man",
+        "year": 1956
     },
     "http://www.imdb.com/title/tt0049684/": {
         "freenessurl": "http://publicdomainmovies.info/rock-rock-rock-film-chuck-berry-flamingos-teenagers-frankie-lymon/",
         "status": "free",
         "title": "Rock, Rock, Rock (film), with Chuck Berry, the Flamingos, and the Teenagers with Frankie Lymon",
-        "wp": "https://en.wikipedia.org/wiki/Rock,_Rock,_Rock_(film)"
+        "wp": "https://en.wikipedia.org/wiki/Rock,_Rock,_Rock_(film)",
+        "year": 1956
     },
     "http://www.imdb.com/title/tt0049922/": {
         "freenessurl": "http://publicdomainmovies.info/violent-years-1956/",
         "status": "free",
         "title": "The Violent Years, 1956",
-        "wp": "https://en.wikipedia.org/wiki/The_Violent_Years"
+        "wp": "https://en.wikipedia.org/wiki/The_Violent_Years",
+        "year": 1956
     },
     "http://www.imdb.com/title/tt0051666/": {
         "freenessurl": "http://publicdomainmovies.info/gods-little-acre-film/",
         "status": "free",
         "title": "God\u2019s Little Acre (film)",
-        "wp": "https://en.wikipedia.org/wiki/God%27s_Little_Acre_(film)"
+        "wp": "https://en.wikipedia.org/wiki/God%27s_Little_Acre_(film)",
+        "year": 1958
     },
     "http://www.imdb.com/title/tt0051744/": {
         "freenessurl": "http://publicdomainmovies.info/house-haunted-hill-vincent-price-carol-ohmart/",
         "status": "free",
         "title": "House on Haunted Hill, with Vincent Price and Carol Ohmart",
-        "wp": "https://en.wikipedia.org/wiki/House_on_Haunted_Hill"
+        "wp": "https://en.wikipedia.org/wiki/House_on_Haunted_Hill",
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0052077/": {
         "freenessurl": "http://publicdomainmovies.info/plan-9-outer-space-1959-worst-movie-ever-made-starring-bela-lugosi/",
         "status": "free",
         "title": "Plan 9 from Outer Space (1959) \u2013 \u201cworst movie ever made\u201d, starring Bela Lugosi",
-        "wp": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space"
+        "wp": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space",
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0053337/": {
         "freenessurl": "http://publicdomainmovies.info/teenagers-outer-space/",
         "status": "free",
         "title": "Teenagers From Outer Space",
-        "wp": "https://en.wikipedia.org/wiki/Teenagers_from_Outer_Space"
+        "wp": "https://en.wikipedia.org/wiki/Teenagers_from_Outer_Space",
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0053611/": {
         "freenessurl": "http://publicdomainmovies.info/attack-giant-leeches-full-movie-public-domain/",
         "status": "free",
         "title": "The Attack of the Giant Leeches \u2013 Full Movie in the Public Domain",
-        "wp": "https://en.wikipedia.org/wiki/Attack_of_the_Giant_Leeches"
+        "wp": "https://en.wikipedia.org/wiki/Attack_of_the_Giant_Leeches",
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0054033/": {
         "freenessurl": "http://publicdomainmovies.info/little-shop-horrors/",
         "status": "free",
         "title": "The Little Shop Of Horrors",
-        "wp": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
+        "wp": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors",
+        "year": 1960
+    },
+    "http://www.imdb.com/title/tt0054285/": {
+        "freenessurl": "http://publicdomainmovies.info/atom-age-vampire-1960/",
+        "status": "free",
+        "title": "Atom Age Vampire, 1960",
+        "wp": "https://en.wikipedia.org/wiki/Atom_Age_Vampire",
+        "year": 1960
     },
     "http://www.imdb.com/title/tt0054795/": {
         "freenessurl": "http://publicdomainmovies.info/deadly-companions-starring-maureen-ohara-directed-sam-peckinpah/",
         "status": "free",
         "title": "The Deadly Companions, starring Maureen O\u2019Hara and directed by Sam Peckinpah",
-        "wp": "https://en.wikipedia.org/wiki/The_Deadly_Companions"
+        "wp": "https://en.wikipedia.org/wiki/The_Deadly_Companions",
+        "year": 1961
     },
     "http://www.imdb.com/title/tt0054817/": {
         "freenessurl": "http://publicdomainmovies.info/five-minutes-live-1961-johnny-cash/",
         "status": "free",
         "title": "Five Minutes to Live, 1961 with Johnny Cash",
-        "wp": "https://en.wikipedia.org/wiki/Five_Minutes_to_Live"
+        "wp": "https://en.wikipedia.org/wiki/Five_Minutes_to_Live",
+        "year": 1961
     },
     "http://www.imdb.com/title/tt0055830/": {
         "freenessurl": "http://publicdomainmovies.info/carnival-souls-1962/",
         "status": "free",
         "title": "Carnival of Souls (1962)",
-        "wp": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
+        "wp": "https://en.wikipedia.org/wiki/Carnival_of_Souls",
+        "year": 1962
     },
     "http://www.imdb.com/title/tt0056923/": {
         "freenessurl": "http://publicdomainmovies.info/charade-1963-cary-grant-audrey-hepburn-best-hitchcock-movie-hitchcock-never-made/",
         "status": "free",
         "title": "Charade (1963), Cary Grant and Audrey Hepburn in the \u201cthe best Hitchcock movie that Hitchcock never made\u201d",
-        "wp": "https://en.wikipedia.org/wiki/Charade_(1963_film)"
+        "wp": "https://en.wikipedia.org/wiki/Charade_(1963_film)",
+        "year": 1963
     },
     "http://www.imdb.com/title/tt0056983/": {
         "freenessurl": "http://publicdomainmovies.info/francis-ford-coppolas-dementia-13/",
         "status": "free",
         "title": "Francis Ford Coppola\u2019s Dementia 13",
-        "wp": "https://en.wikipedia.org/wiki/Dementia_13"
+        "wp": "https://en.wikipedia.org/wiki/Dementia_13",
+        "year": 1963
     },
     "http://www.imdb.com/title/tt0057569/": {
         "freenessurl": "http://publicdomainmovies.info/terror-1963-film-boris-karloff-jack-nicholson/",
         "status": "free",
         "title": "The Terror (1963 film), with Boris Karloff and Jack Nicholson",
-        "wp": "https://en.wikipedia.org/wiki/The_Terror_(1963_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Terror_(1963_film)",
+        "year": 1963
     },
     "http://www.imdb.com/title/tt0058548/": {
         "freenessurl": "http://publicdomainmovies.info/santa-claus-conquers-martians/",
         "status": "free",
         "title": "Santa Claus Conquers the Martians",
-        "wp": "https://en.wikipedia.org/wiki/Santa_Claus_Conquers_the_Martians"
+        "wp": "https://en.wikipedia.org/wiki/Santa_Claus_Conquers_the_Martians",
+        "year": 1964
     },
     "http://www.imdb.com/title/tt0058700/": {
         "freenessurl": "http://publicdomainmovies.info/last-man-earth-vincent-price-1964-hd/",
         "status": "free",
         "title": "LAST MAN ON EARTH with Vincent Price 1964 HD",
-        "wp": "https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(1964_film)"
+        "wp": "https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(1964_film)",
+        "year": 1964
     },
     "http://www.imdb.com/title/tt0060666/": {
         "freenessurl": "http://publicdomainmovies.info/manos-hands-fate-1966/",
         "status": "free",
         "title": "Manos: The Hands of Fate, 1966",
-        "wp": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+        "wp": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate",
+        "year": 1966
     },
     "http://www.imdb.com/title/tt0063350/": {
         "freenessurl": "http://publicdomainmovies.info/night-of-the-living-dead-1968/",
         "status": "free",
         "title": "Night of the Living Dead (1968)",
-        "wp": "http://en.wikipedia.org/wiki/Night_of_the_Living_Dead"
+        "wp": "http://en.wikipedia.org/wiki/Night_of_the_Living_Dead",
+        "year": 1968
     },
     "http://www.imdb.com/title/tt0086141/": {
         "freenessurl": "http://publicdomainmovies.info/prisoners-lost-universe-1983/",
         "status": "free",
         "title": "Prisoners of the Lost Universe, 1983",
-        "wp": "https://en.wikipedia.org/wiki/Prisoners_of_the_Lost_Universe"
+        "wp": "https://en.wikipedia.org/wiki/Prisoners_of_the_Lost_Universe",
+        "year": 1983
     },
     "http://www.imdb.com/title/tt0156843/": {
         "freenessurl": "http://publicdomainmovies.info/night-ghouls-1958-movie-directed-ed-wood/",
         "status": "free",
         "title": "Night of the Ghouls, 1958 movie directed by Ed Wood",
-        "wp": "https://en.wikipedia.org/wiki/Night_of_the_Ghouls"
+        "wp": "https://en.wikipedia.org/wiki/Night_of_the_Ghouls",
+        "year": 1958
     },
     "http://www.imdb.com/title/tt0160835/": {
         "freenessurl": "http://publicdomainmovies.info/seven-years-bad-luck-1921/",
         "status": "free",
         "title": "Seven Years Bad Luck, 1921",
-        "wp": "https://en.wikipedia.org/wiki/Seven_Years_Bad_Luck"
+        "wp": "https://en.wikipedia.org/wiki/Seven_Years_Bad_Luck",
+        "year": 1921
     },
     "http://www.imdb.com/title/tt0173827/": {
         "freenessurl": "http://publicdomainmovies.info/fight-sky-narrated-ronald-reagan/",
@@ -1089,18 +1373,21 @@
         "freenessurl": "http://publicdomainmovies.info/attack-battle-new-britain/",
         "status": "free",
         "title": "Attack! The Battle of New Britain",
-        "wp": "https://en.wikipedia.org/wiki/Attack!_The_Battle_of_New_Britain"
+        "wp": "https://en.wikipedia.org/wiki/Attack!_The_Battle_of_New_Britain",
+        "year": 1944
     },
     "http://www.imdb.com/title/tt0246747/": {
         "freenessurl": "http://publicdomainmovies.info/last-clear-chance-1959/",
         "status": "free",
         "title": "Last Clear Chance (1959)",
-        "wp": "https://en.wikipedia.org/wiki/Last_Clear_Chance"
+        "wp": "https://en.wikipedia.org/wiki/Last_Clear_Chance",
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0881291/": {
         "freenessurl": "http://publicdomainmovies.info/japan-1945-propaganda-film/",
         "status": "free",
         "title": "My Japan, 1945 propaganda film",
-        "wp": "https://en.wikipedia.org/wiki/My_Japan"
+        "wp": "https://en.wikipedia.org/wiki/My_Japan",
+        "year": 1945
     }
 }
