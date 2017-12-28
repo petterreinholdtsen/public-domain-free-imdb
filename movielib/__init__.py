@@ -39,13 +39,13 @@ one title was found in the search result.
         return None
     url = "http://www.imdb.com/find?ref_=nv_sr_fn&q=%s+%d&s=all" % \
           (urllib.quote_plus(title), year)
-    print(url)
+    #print(url)
     try:
         root = lxml.html.fromstring(http_get_read(url))
     except urllib2.HTTPError as e:
         return None
     res = root.cssselect("td.primary_photo a[href]")
-    print(len(res))
+    #print(len(res))
     if 1 == len(res):
         imdb = urlparse.urljoin(url, res[0].attrib['href']).split("?")[0]
         # Verify the years are the same +-2.  Not verifying title, as the
