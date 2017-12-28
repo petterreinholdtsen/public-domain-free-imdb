@@ -8,6 +8,9 @@ copyright protected (aka public domain) or because they are licenced
 using a license allowing such distribution (for example with a
 [Creative Commons](https://creativecommons.org/) license).
 
+The latest version of these tools and data sets can be found in
+https://github.com/petterreinholdtsen/public-domain-free-imdb .
+
 Various sources are consulted, and here is a year histogram for the
 unique IMDB title IDs identified so far:
 
