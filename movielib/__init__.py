@@ -48,12 +48,14 @@ one title was found in the search result.
     print(len(res))
     if 1 == len(res):
         imdb = urlparse.urljoin(url, res[0].attrib['href']).split("?")[0]
-        # Verify the year is the same.  Not verifying title, as the
+        # Verify the years are the same +-2.  Not verifying title, as the
         # shown title might not be in the same language as the search
         # term.
         info = res[0].getparent().getparent().text_content()
         m = re.search("\((\d{4})\)", info)
-        if m and int(m.group(1)) == int(year):
+        if m \
+           and int(year)-2 <= int(m.group(1)) \
+           and int(m.group(1)) <= int(year)+2:
             return imdb
         else:
             print("warning: Ignoring %s (%s) for %s (%d)" % (imdb, m.group(1),
