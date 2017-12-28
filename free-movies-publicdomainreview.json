@@ -229,12 +229,6 @@
         "title": "Live footage of King Alexander\u2019s Assassination",
         "year": 1934
     },
-    "http://publicdomainreview.org/collections/mary-and-gretel-1917/": {
-        "freenessurl": "http://publicdomainreview.org/collections/mary-and-gretel-1917/",
-        "status": "free",
-        "title": "Mary and Gretel",
-        "year": 1917
-    },
     "http://publicdomainreview.org/collections/new-york-worlds-fair-1939-40/": {
         "archive": "https://archive.org/details/prelinger",
         "freenessurl": "http://publicdomainreview.org/collections/new-york-worlds-fair-1939-40/",
@@ -369,13 +363,6 @@
         "status": "free",
         "title": "Stella Maris",
         "year": 1918
-    },
-    "http://publicdomainreview.org/collections/stop-driving-us-crazy-1959/": {
-        "archive": "https://archive.org/details/StopDriv1959",
-        "freenessurl": "http://publicdomainreview.org/collections/stop-driving-us-crazy-1959/",
-        "status": "free",
-        "title": "Stop Driving Us Crazy!",
-        "year": 1959
     },
     "http://publicdomainreview.org/collections/the-burning-stable-1896/": {
         "freenessurl": "http://publicdomainreview.org/collections/the-burning-stable-1896/",
@@ -758,6 +745,12 @@
         "title": "Maniac Chase",
         "year": 1904
     },
+    "http://www.imdb.com/title/tt0245267/": {
+        "freenessurl": "http://publicdomainreview.org/collections/mary-and-gretel-1917/",
+        "status": "free",
+        "title": "Mary and Gretel",
+        "year": 1917
+    },
     "http://www.imdb.com/title/tt0273542/": {
         "archive": "https://www.archive.org/details/DogFactory1904EdisonManufacturingCompanyUsa",
         "freenessurl": "http://publicdomainreview.org/collections/dog-factory-1904/",
@@ -792,6 +785,13 @@
         "status": "free",
         "title": "Trapeze Disrobing Act",
         "year": 1901
+    },
+    "http://www.imdb.com/title/tt0334422/": {
+        "archive": "https://archive.org/details/StopDriv1959",
+        "freenessurl": "http://publicdomainreview.org/collections/stop-driving-us-crazy-1959/",
+        "status": "free",
+        "title": "Stop Driving Us Crazy!",
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0392728/": {
         "archive": "https://archive.org/details/Roundhay_Garden_Scene",

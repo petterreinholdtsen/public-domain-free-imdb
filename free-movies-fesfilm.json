@@ -1,19 +1,9 @@
 {
-    "\"Exploitation\" Films!-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
-        "status": "free",
-        "title": "\"Exploitation\" Films!"
-    },
     "\"Max\"\n\t\t\t\"Out of Step Time.\"\n\t\t \"Juggernaut\"\n\t\t\"Rogues.\"-1978": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
         "status": "free",
         "title": "\"Max\"\n\t\t\t\"Out of Step Time.\"\n\t\t \"Juggernaut\"\n\t\t\"Rogues.\"",
         "year": 1978
-    },
-    "-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": ""
     },
     "A Farewell to Arms-1932": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -622,6 +612,12 @@
         "title": "Dementia 13",
         "year": 1963
     },
+    "Desert Commandos-1977": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
+        "status": "free",
+        "title": "Desert Commandos",
+        "year": 1977
+    },
     "Devil Times Five-1974": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
@@ -740,6 +736,12 @@
         "status": "free",
         "title": "Drums of Jeopardy",
         "year": 1931
+    },
+    "Duke of the Navy-1947": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "status": "free",
+        "title": "Duke of the Navy",
+        "year": 1947
     },
     "Dungeon of Harrow-1962": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -935,6 +937,12 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
         "status": "free",
         "title": "GREEN HORNET STRIKES AGAIN"
+    },
+    "Gamera - Attack of the Monsters-1965": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "status": "free",
+        "title": "Gamera - Attack of the Monsters",
+        "year": 1965
     },
     "Gamera - Destroy All Planets-1968": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -1636,6 +1644,12 @@
         "title": "Marihuana",
         "year": 1936
     },
+    "Masks and Memories-1943": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "status": "free",
+        "title": "Masks and Memories",
+        "year": 1943
+    },
     "Meet John Doe-1941": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
@@ -1647,6 +1661,12 @@
         "status": "free",
         "title": "Meet the Boy Friend",
         "year": 1937
+    },
+    "Melody in May-1943": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "status": "free",
+        "title": "Melody in May",
+        "year": 1943
     },
     "Meoldy for Three-1941": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -1773,6 +1793,12 @@
         "title": "Murder by Invitation",
         "year": 1941
     },
+    "Murder in Soho-1940": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "status": "free",
+        "title": "Murder in Soho",
+        "year": 1940
+    },
     "Murder in the Museum-1934": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "status": "free",
@@ -1859,6 +1885,12 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "New Arrival"
+    },
+    "New Faces-1953": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "status": "free",
+        "title": "New Faces",
+        "year": 1953
     },
     "Next Door Neighbors-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -2115,11 +2147,6 @@
         "status": "free",
         "title": "RIDERS OF DEATH VALLEY 1941 Dick Foran, Buck Jones 15 Chapters"
     },
-    "RIDERS OF DEATH VALLEY-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
-        "status": "free",
-        "title": "RIDERS OF DEATH VALLEY"
-    },
     "Racing Blood-1936": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
@@ -2153,6 +2180,12 @@
         "status": "free",
         "title": "Reefer Madness",
         "year": 1936
+    },
+    "Reg'lar Fellers-1931": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "status": "free",
+        "title": "Reg'lar Fellers",
+        "year": 1931
     },
     "Rescue from Gilligan's Island-1978": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -3076,6 +3109,12 @@
         "title": "The Kid",
         "year": 1921
     },
+    "The Lady Confesses-1949": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "status": "free",
+        "title": "The Lady Confesses",
+        "year": 1949
+    },
     "The Last Man on Earth-1964": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
         "status": "free",
@@ -3129,6 +3168,12 @@
         "status": "free",
         "title": "The Magic Sword",
         "year": 1960
+    },
+    "The Marines Are Coming-1930": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
+        "status": "free",
+        "title": "The Marines Are Coming",
+        "year": 1930
     },
     "The Master-1978": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -3657,6 +3702,12 @@
         "title": "White Gorilla",
         "year": 1947
     },
+    "White Huntress-1957": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "status": "free",
+        "title": "White Huntress",
+        "year": 1957
+    },
     "White Orchid-1954": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "status": "free",
@@ -4024,12 +4075,6 @@
         "title": "Chandu on the Magic Isle",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0026684/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
-        "status": "free",
-        "title": "The Marines Are Coming",
-        "year": 1930
-    },
     "http://www.imdb.com/title/tt0026741/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
@@ -4125,12 +4170,6 @@
         "status": "free",
         "title": "Kelly of the Secret Service",
         "year": 1936
-    },
-    "http://www.imdb.com/title/tt0027953/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "status": "free",
-        "title": "Melody in May",
-        "year": 1943
     },
     "http://www.imdb.com/title/tt0027969/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -4612,12 +4651,6 @@
         "title": "Power Dive",
         "year": 1941
     },
-    "http://www.imdb.com/title/tt0034089/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Reg'lar Fellers",
-        "year": 1931
-    },
     "http://www.imdb.com/title/tt0034117/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "status": "free",
@@ -4665,12 +4698,6 @@
         "status": "free",
         "title": "Dawn Express",
         "year": 1942
-    },
-    "http://www.imdb.com/title/tt0034689/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "status": "free",
-        "title": "Duke of the Navy",
-        "year": 1947
     },
     "http://www.imdb.com/title/tt0034754/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -4911,12 +4938,6 @@
         "status": "free",
         "title": "The Great Flamarion",
         "year": 1945
-    },
-    "http://www.imdb.com/title/tt0037858/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "status": "free",
-        "title": "The Lady Confesses",
-        "year": 1949
     },
     "http://www.imdb.com/title/tt0037985/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
@@ -5398,12 +5419,6 @@
         "title": "The Smallest Show on Earth",
         "year": 1957
     },
-    "http://www.imdb.com/title/tt0051190/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "status": "free",
-        "title": "White Huntress",
-        "year": 1957
-    },
     "http://www.imdb.com/title/tt0051396/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
@@ -5566,12 +5581,6 @@
         "title": "Hercules and the Princess of Troy",
         "year": 1965
     },
-    "http://www.imdb.com/title/tt0061693/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
-        "status": "free",
-        "title": "Desert Commandos",
-        "year": 1977
-    },
     "http://www.imdb.com/title/tt0064135/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "status": "free",
@@ -5710,12 +5719,6 @@
         "title": "Casablanca Express",
         "year": 1989
     },
-    "http://www.imdb.com/title/tt0121526/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "status": "free",
-        "title": "Masks and Memories",
-        "year": 1943
-    },
     "http://www.imdb.com/title/tt0121557/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
@@ -5847,24 +5850,6 @@
         "status": "free",
         "title": "Murder with Music",
         "year": 1941
-    },
-    "http://www.imdb.com/title/tt0659987/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "status": "free",
-        "title": "New Faces",
-        "year": 1953
-    },
-    "http://www.imdb.com/title/tt1264398/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "status": "free",
-        "title": "Murder in Soho",
-        "year": 1940
-    },
-    "http://www.imdb.com/title/tt1465298/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Gamera - Attack of the Monsters",
-        "year": 1965
     },
     "http://www.imdb.com/title/tt4756172/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
