@@ -18,10 +18,12 @@ def fetch_movie_list(args, list, url):
     except urllib2.HTTPError as e:
         return None
 #    print root
-    for s in root.cssselect("div#content p strong"):
+    for s in root.cssselect("div#content p > strong"):
         title = s.text_content().strip()
         title = title.replace(u"’", "'")
         title = title.replace(u"‘", "'")
+        if '' == title: # Skip empty entries
+            continue
         entry = s.getparent()
         entrytext = entry.text_content()
         m = re.search("\((\d{4}).*\)", entrytext)
