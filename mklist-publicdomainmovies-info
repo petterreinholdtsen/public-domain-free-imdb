@@ -49,7 +49,12 @@ def get_movie_info(entryurl):
            and -1 != a.text_content().lower().find('info'):
             e['wp'] = a.attrib['href']
             e['imdb'] =  movielib.wikipedia_lookup(e['wp'])
-    return e
+    year = None
+    for a in root.cssselect("span.post_tag a[rel='tag']"):
+        m = re.search("(\d{4})", a.text_content())
+        if m:
+            year = int(m.group(1))
+    return e, year
 
 def get_movie_list(summaryurl, l):
     print summaryurl
@@ -62,7 +67,7 @@ def get_movie_list(summaryurl, l):
         title = a.text_content()
         entryurl = urlparse.urljoin(summaryurl, a.attrib['href'])
         #print title, entryurl
-        e = get_movie_info(entryurl)
+        e, year = get_movie_info(entryurl)
         ref = entryurl
         if 'imdb' in e: # There are no IMDB links at time of writing
             ref = e['imdb']
@@ -71,6 +76,8 @@ def get_movie_list(summaryurl, l):
             'freenessurl' : entryurl,
             'title' : title,
         }
+        if year:
+            l[ref]['year'] = year
         if 'wp' in e:
             l[ref]['wp'] = e['wp']
         count = count + 1
