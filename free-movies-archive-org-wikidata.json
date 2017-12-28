@@ -9805,6 +9805,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q7756852",
         "year": "1945"
     },
+    "http://www.imdb.com/title/tt0037988/": {
+        "freenessurl": "https://archive.org/details/ThePictureOfDorianGray1945",
+        "status": "free",
+        "title": "The Picture of Dorian Gray",
+        "wdurl": "http://www.wikidata.org/entity/Q1167299",
+        "year": "1945"
+    },
     "http://www.imdb.com/title/tt0038034/": {
         "freenessurl": "https://archive.org/details/rogues_gallery",
         "status": "free",
