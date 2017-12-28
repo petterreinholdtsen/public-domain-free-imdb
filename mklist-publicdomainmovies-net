@@ -18,6 +18,7 @@ def filter_imdb_ref(imdburl):
     imdburl = imdburl.replace('/imdb.com/', '/www.imdb.com/')
     imdburl = imdburl.replace('/us.imdb.com/', '/www.imdb.com/')
     imdburl = imdburl.split('?')[0]
+    imdburl = imdburl.split('#')[0]
     imdburl = imdburl.replace('/plotsummary', '/')
     imdburl = imdburl.replace('/combined', '/')
     imdburl = imdburl.replace('/fullcredits', '/')
