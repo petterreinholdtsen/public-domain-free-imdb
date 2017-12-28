@@ -10352,9 +10352,10 @@
         "year": 1913
     },
     "http://www.imdb.com/title/tt0003679/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/between-showers",
+        "freenessurl": "http://publicdomainmovie.net/movie/charlie-chaplins-between-showers",
+        "freenessurl2": "http://publicdomainmovie.net/movie/between-showers",
         "status": "free",
-        "title": "Between Showers",
+        "title": "Charlie Chaplin's \"Between Showers\"",
         "year": 1914
     },
     "http://www.imdb.com/title/tt0003733/": {
@@ -10394,7 +10395,8 @@
         "year": 1914
     },
     "http://www.imdb.com/title/tt0003949/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/fattys-suitless-day-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/fattys-suitless-day",
+        "freenessurl2": "http://publicdomainmovie.net/movie/fattys-suitless-day-0",
         "status": "free",
         "title": "Fatty's Suitless Day",
         "year": 1914
@@ -10436,9 +10438,10 @@
         "year": 1914
     },
     "http://www.imdb.com/title/tt0004101/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/his-new-profession",
+        "freenessurl": "http://publicdomainmovie.net/movie/charlie-chaplins-the-good-for-nothing",
+        "freenessurl2": "http://publicdomainmovie.net/movie/his-new-profession",
         "status": "free",
-        "title": "His New Profession",
+        "title": "Charlie Chaplin's \"The Good For Nothing\"",
         "year": 1914
     },
     "http://www.imdb.com/title/tt0004102/": {
@@ -10454,9 +10457,10 @@
         "year": 1914
     },
     "http://www.imdb.com/title/tt0004189/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-kid-auto-race-in-venice",
+        "freenessurl": "http://publicdomainmovie.net/movie/charlie-chaplins-kids-auto-race-at-venice",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-kid-auto-race-in-venice",
         "status": "free",
-        "title": "The Kid Auto Race in Venice",
+        "title": "Charlie Chaplin's \"Kids Auto Race At Venice\"",
         "year": 1914
     },
     "http://www.imdb.com/title/tt0004194/": {
@@ -10677,6 +10681,7 @@
     },
     "http://www.imdb.com/title/tt0007264/": {
         "freenessurl": "http://publicdomainmovie.net/movie/charlie-chaplins-the-rink-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/charlie-chaplins-the-rink",
         "status": "free",
         "title": "Charlie Chaplin's The Rink",
         "year": 1916
@@ -10730,10 +10735,11 @@
         "year": 1919
     },
     "http://www.imdb.com/title/tt0010057/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-idle-class",
+        "freenessurl": "http://publicdomainmovie.net/movie/a-days-pleasure",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-idle-class",
         "status": "free",
-        "title": "The Idle Class",
-        "year": 1921
+        "title": "A Day's Pleasure",
+        "year": 1919
     },
     "http://www.imdb.com/title/tt0010193/": {
         "freenessurl": "http://publicdomainmovie.net/movie/thegreatestquestion",
@@ -10790,7 +10796,8 @@
         "year": 1920
     },
     "http://www.imdb.com/title/tt0011541/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/one-week-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/one-week",
+        "freenessurl2": "http://publicdomainmovie.net/movie/one-week-0",
         "status": "free",
         "title": "One Week",
         "year": 1920
@@ -10999,9 +11006,10 @@
         "year": 1927
     },
     "http://www.imdb.com/title/tt0019421/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/steamboat-bill-jr-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/steamboat-bill-jr",
+        "freenessurl2": "http://publicdomainmovie.net/movie/steamboat-bill-jr-0",
         "status": "free",
-        "title": "Steamboat Bill Jr.",
+        "title": "Steamboat Bill, Jr.",
         "year": 1928
     },
     "http://www.imdb.com/title/tt0019682/": {
@@ -11041,9 +11049,10 @@
         "year": 1929
     },
     "http://www.imdb.com/title/tt0020451/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-general-line-staroye-i-novoye",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-general-line",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-general-line-staroye-i-novoye",
         "status": "free",
-        "title": "The General Line (Staroye I Novoye)",
+        "title": "The General Line",
         "year": 1929
     },
     "http://www.imdb.com/title/tt0020500/": {
@@ -11226,9 +11235,10 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0022879/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/farewell-to-arms-a",
+        "freenessurl": "http://publicdomainmovie.net/movie/farewell-to-arms",
+        "freenessurl2": "http://publicdomainmovie.net/movie/farewell-to-arms-a",
         "status": "free",
-        "title": "Farewell to Arms, A",
+        "title": "Farewell to Arms",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0022883/": {
@@ -11256,19 +11266,22 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0022961/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/three-broadway-girls",
+        "freenessurl": "http://publicdomainmovie.net/movie/three-broadway-girls-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/three-broadway-girls",
         "status": "free",
         "title": "Three Broadway Girls",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0022988/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/hell-fire-austin",
+        "freenessurl": "http://publicdomainmovie.net/movie/hellfire-austin",
+        "freenessurl2": "http://publicdomainmovie.net/movie/hell-fire-austin",
         "status": "free",
-        "title": "Hell Fire Austin",
+        "title": "Hellfire Austin",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0022991/": {
         "freenessurl": "http://publicdomainmovie.net/movie/hells-house-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/hells-house",
         "status": "free",
         "title": "Hell's House",
         "year": 1932
@@ -11286,7 +11299,8 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023096/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/klondike",
+        "freenessurl": "http://publicdomainmovie.net/movie/klondike-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/klondike",
         "status": "free",
         "title": "Klondike",
         "year": 1932
@@ -11341,6 +11355,7 @@
     },
     "http://www.imdb.com/title/tt0023236/": {
         "freenessurl": "http://publicdomainmovie.net/movie/monster-walks-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-monster-walks",
         "status": "free",
         "title": "Monster Walks, The",
         "year": 1932
@@ -11364,9 +11379,10 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023333/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-phantom-express-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/phantom-express",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-phantom-express-0",
         "status": "free",
-        "title": "The Phantom Express",
+        "title": "Phantom Express",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023369/": {
@@ -11394,7 +11410,8 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023498/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/speak-easily-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/speak-easily",
+        "freenessurl2": "http://publicdomainmovie.net/movie/speak-easily-0",
         "status": "free",
         "title": "Speak Easily",
         "year": 1932
@@ -11418,10 +11435,10 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023604/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/tombstone-canyon-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/tombstone-canyon",
+        "freenessurl2": "http://publicdomainmovie.net/movie/tombstone-canyon-0",
         "status": "free",
-        "title": "Tombstone Canyon",
-        "year": 1932
+        "title": "Tombstone Canyon"
     },
     "http://www.imdb.com/title/tt0023616/": {
         "freenessurl": "http://publicdomainmovie.net/movie/call-of-the-wilderness",
@@ -11448,7 +11465,8 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023694/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/white-zombie-2",
+        "freenessurl": "http://publicdomainmovie.net/movie/white-zombie-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/white-zombie-2",
         "status": "free",
         "title": "White Zombie",
         "year": 1932
@@ -11466,7 +11484,8 @@
         "year": 1933
     },
     "http://www.imdb.com/title/tt0023801/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/betty-boops-ker-choo-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/betty-boops-ker-choo",
+        "freenessurl2": "http://publicdomainmovie.net/movie/betty-boops-ker-choo-0",
         "status": "free",
         "title": "Betty Boop's Ker-Choo",
         "year": 1932
@@ -11514,7 +11533,8 @@
         "year": 1933
     },
     "http://www.imdb.com/title/tt0024122/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/his-double-life-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/his-double-life",
+        "freenessurl2": "http://publicdomainmovie.net/movie/his-double-life-0",
         "status": "free",
         "title": "His Double Life",
         "year": 1933
@@ -11586,7 +11606,8 @@
         "year": 1933
     },
     "http://www.imdb.com/title/tt0024554/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/a-shriek-in-the-night-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/a-shriek-in-the-night",
+        "freenessurl2": "http://publicdomainmovie.net/movie/a-shriek-in-the-night-0",
         "status": "free",
         "title": "A Shriek in the Night",
         "year": 1933
@@ -11617,6 +11638,7 @@
     },
     "http://www.imdb.com/title/tt0024625/": {
         "freenessurl": "http://publicdomainmovie.net/movie/a-study-in-scarlet",
+        "freenessurl2": "http://publicdomainmovie.net/movie/study-in-scarlet",
         "status": "free",
         "title": "A Study In Scarlet",
         "year": 1933
@@ -11664,7 +11686,8 @@
         "year": 1934
     },
     "http://www.imdb.com/title/tt0024870/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/beggars-in-ermine-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/beggars-in-ermine",
+        "freenessurl2": "http://publicdomainmovie.net/movie/beggars-in-ermine-0",
         "status": "free",
         "title": "Beggars in Ermine",
         "year": 1934
@@ -11719,6 +11742,7 @@
     },
     "http://www.imdb.com/title/tt0025177/": {
         "freenessurl": "http://publicdomainmovie.net/movie/girl-o-my-dreams-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/girl-o-my-dreams",
         "status": "free",
         "title": "Girl O' My Dreams",
         "year": 1934
@@ -11802,7 +11826,8 @@
         "year": 1934
     },
     "http://www.imdb.com/title/tt0025465/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/maniac-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/maniac",
+        "freenessurl2": "http://publicdomainmovie.net/movie/maniac-0",
         "status": "free",
         "title": "Maniac",
         "year": 1934
@@ -11814,7 +11839,8 @@
         "year": 1934
     },
     "http://www.imdb.com/title/tt0025533/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/murder-on-the-campus-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/murder-on-the-campus",
+        "freenessurl2": "http://publicdomainmovie.net/movie/murder-on-the-campus-0",
         "status": "free",
         "title": "Murder on the Campus",
         "year": 1933
@@ -12042,7 +12068,8 @@
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026755/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/mysterious-mr-wong-the-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/mysterious-mr-wong-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/mysterious-mr-wong-the-0",
         "status": "free",
         "title": "Mysterious Mr. Wong, The",
         "year": 1934
@@ -12072,10 +12099,11 @@
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026857/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/pecos-kid-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/pecos-kid",
+        "freenessurl2": "http://publicdomainmovie.net/movie/pecos-kid-0",
         "status": "free",
         "title": "Pecos Kid",
-        "year": 1935
+        "year": 1936
     },
     "http://www.imdb.com/title/tt0026867/": {
         "freenessurl": "http://publicdomainmovie.net/movie/the-phantom-empire",
@@ -12186,15 +12214,17 @@
         "year": 1935
     },
     "http://www.imdb.com/title/tt0027184/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/waterfront-lady-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/waterfront-lady",
+        "freenessurl2": "http://publicdomainmovie.net/movie/waterfront-lady-0",
         "status": "free",
         "title": "Waterfront Lady",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0027255/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/aces-and-eights-ipod-version",
+        "freenessurl": "http://publicdomainmovie.net/movie/aces-and-eights",
+        "freenessurl2": "http://publicdomainmovie.net/movie/aces-and-eights-ipod-version",
         "status": "free",
-        "title": "Aces and Eights iPod Version",
+        "title": "Aces and Eights",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027289/": {
@@ -12216,9 +12246,10 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027361/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-big-show",
+        "freenessurl": "http://publicdomainmovie.net/movie/big-show-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-big-show",
         "status": "free",
-        "title": "The Big Show",
+        "title": "Big Show, The",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027366/": {
@@ -12234,7 +12265,8 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027377/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-bold-caballero-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-bold-caballero",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-bold-caballero-0",
         "status": "free",
         "title": "The Bold Caballero",
         "year": 1936
@@ -12259,6 +12291,7 @@
     },
     "http://www.imdb.com/title/tt0027420/": {
         "freenessurl": "http://publicdomainmovie.net/movie/captain-calamity-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/captain-calamity",
         "status": "free",
         "title": "Captain Calamity",
         "year": 1936
@@ -12294,9 +12327,10 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027501/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-dark-hour",
+        "freenessurl": "http://publicdomainmovie.net/movie/dark-hour-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-dark-hour",
         "status": "free",
-        "title": "The Dark Hour",
+        "title": "Dark Hour, The",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027504/": {
@@ -12312,7 +12346,8 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027517/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/devil-diamond-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/devil-diamond",
+        "freenessurl2": "http://publicdomainmovie.net/movie/devil-diamond-0",
         "status": "free",
         "title": "Devil Diamond",
         "year": 1937
@@ -12330,7 +12365,8 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027562/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/earthworm-tractors-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/earthworm-tractors",
+        "freenessurl2": "http://publicdomainmovie.net/movie/earthworm-tractors-0",
         "status": "free",
         "title": "Earthworm Tractors",
         "year": 1936
@@ -12486,7 +12522,8 @@
         "year": 1935
     },
     "http://www.imdb.com/title/tt0028098/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/phantom-patrol-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/phantom-patrol",
+        "freenessurl2": "http://publicdomainmovie.net/movie/phantom-patrol-0",
         "status": "free",
         "title": "Phantom Patrol",
         "year": 1936
@@ -12516,7 +12553,8 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028181/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/ride-ranger-ride-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/ride-ranger-ride",
+        "freenessurl2": "http://publicdomainmovie.net/movie/ride-ranger-ride-0",
         "status": "free",
         "title": "Ride Ranger Ride",
         "year": 1936
@@ -12528,7 +12566,8 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028192/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/roamin-wild-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/roamin-wild",
+        "freenessurl2": "http://publicdomainmovie.net/movie/roamin-wild-0",
         "status": "free",
         "title": "Roamin' Wild",
         "year": 1936
@@ -12546,15 +12585,17 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028199/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/rogue-of-the-range-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/rogue-of-the-range",
+        "freenessurl2": "http://publicdomainmovie.net/movie/rogue-of-the-range-0",
         "status": "free",
-        "title": "Rogue of the Range",
+        "title": "Rogue Of The Range",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028200/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-rogues-tavern",
+        "freenessurl": "http://publicdomainmovie.net/movie/rogues-tavern-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-rogues-tavern",
         "status": "free",
-        "title": "The Rogue's Tavern",
+        "title": "Rogue's Tavern",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028212/": {
@@ -12630,10 +12671,11 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028557/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/affairs-of-cappy-ricks",
+        "freenessurl": "http://publicdomainmovie.net/movie/affairs-of-cappy-ricks-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/affairs-of-cappy-ricks",
         "status": "free",
         "title": "Affairs of Cappy Ricks",
-        "year": 1938
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0028583/": {
         "freenessurl": "http://publicdomainmovie.net/movie/arizona-gunfighter-the",
@@ -12654,7 +12696,8 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028607/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/bank-alarm-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/bank-alarm",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bank-alarm-0",
         "status": "free",
         "title": "Bank Alarm",
         "year": 1937
@@ -12696,9 +12739,10 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028662/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/bride-for-henry",
+        "freenessurl": "http://publicdomainmovie.net/movie/a-bride-for-henry",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bride-for-henry",
         "status": "free",
-        "title": "Bride for Henry",
+        "title": "A Bride for Henry",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028667/": {
@@ -12738,9 +12782,10 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028836/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/escape-by-night-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/escape-by-night",
+        "freenessurl2": "http://publicdomainmovie.net/movie/escape-by-night-0",
         "status": "free",
-        "title": "Escape by Night",
+        "title": "Escape By Night",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028845/": {
@@ -12757,6 +12802,7 @@
     },
     "http://www.imdb.com/title/tt0028876/": {
         "freenessurl": "http://publicdomainmovie.net/movie/fit-for-a-king",
+        "freenessurl2": "http://publicdomainmovie.net/movie/fit-for-a-king-0",
         "status": "free",
         "title": "Fit for a King",
         "year": 1937
@@ -12774,13 +12820,15 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028971/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/gunsmoke-ranch-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/gunsmoke-ranch",
+        "freenessurl2": "http://publicdomainmovie.net/movie/gunsmoke-ranch-0",
         "status": "free",
         "title": "Gunsmoke Ranch",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028994/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/heres-flash-casey",
+        "freenessurl": "http://publicdomainmovie.net/movie/heres-flash-casey-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/heres-flash-casey",
         "status": "free",
         "title": "Here's Flash Casey",
         "year": 1938
@@ -12798,7 +12846,8 @@
         "year": 1938
     },
     "http://www.imdb.com/title/tt0029019/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/hoosier-schoolboy",
+        "freenessurl": "http://publicdomainmovie.net/movie/hoosier-schoolboy-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/hoosier-schoolboy",
         "status": "free",
         "title": "Hoosier Schoolboy",
         "year": 1937
@@ -12858,7 +12907,8 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029266/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/mr-boggs-steps-out",
+        "freenessurl": "http://publicdomainmovie.net/movie/mr-boggs-steps-out-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/mr-boggs-steps-out",
         "status": "free",
         "title": "Mr. Boggs Steps Out",
         "year": 1938
@@ -12877,6 +12927,7 @@
     },
     "http://www.imdb.com/title/tt0029319/": {
         "freenessurl": "http://publicdomainmovie.net/movie/non-stop-new-york",
+        "freenessurl2": "http://publicdomainmovie.net/movie/non-stop-new-york-1937",
         "status": "free",
         "title": "Non-Stop New York",
         "year": 1937
@@ -12900,9 +12951,10 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029370/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-paneless-window-washer",
+        "freenessurl": "http://publicdomainmovie.net/movie/popeye-the-paneless-window-washer",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-paneless-window-washer",
         "status": "free",
-        "title": "The Paneless Window Washer",
+        "title": "Popeye: The Paneless Window Washer",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029373/": {
@@ -12954,9 +13006,10 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0029475/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/renfrew-of-the-royal-mounted-ipod",
+        "freenessurl": "http://publicdomainmovie.net/movie/renfrew-of-the-royal-mounted",
+        "freenessurl2": "http://publicdomainmovie.net/movie/renfrew-of-the-royal-mounted-ipod",
         "status": "free",
-        "title": "Renfrew of the Royal Mounted iPod",
+        "title": "Renfrew of the Royal Mounted",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029482/": {
@@ -12996,7 +13049,8 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029544/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/shadows-of-the-orient-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/shadows-of-the-orient",
+        "freenessurl2": "http://publicdomainmovie.net/movie/shadows-of-the-orient-0",
         "status": "free",
         "title": "Shadows of the Orient",
         "year": 1935
@@ -13074,9 +13128,10 @@
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029812/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/youth-on-parole-ipod",
+        "freenessurl": "http://publicdomainmovie.net/movie/youth-on-parole",
+        "freenessurl2": "http://publicdomainmovie.net/movie/youth-on-parole-ipod",
         "status": "free",
-        "title": "Youth on Parole iPod",
+        "title": "Youth On Parole",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029853/": {
@@ -13086,7 +13141,8 @@
         "year": 1938
     },
     "http://www.imdb.com/title/tt0029898/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/barefoot-boy-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/barefoot-boy",
+        "freenessurl2": "http://publicdomainmovie.net/movie/barefoot-boy-0",
         "status": "free",
         "title": "Barefoot Boy",
         "year": 1938
@@ -13117,6 +13173,7 @@
     },
     "http://www.imdb.com/title/tt0029961/": {
         "freenessurl": "http://publicdomainmovie.net/movie/call-of-the-yukon-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/call-of-the-yukon",
         "status": "free",
         "title": "Call of the Yukon",
         "year": 1938
@@ -13164,7 +13221,9 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0030168/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/gang-bullets-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/gang-bullets",
+        "freenessurl2": "http://publicdomainmovie.net/movie/gang-bullets-1",
+        "freenessurl3": "http://publicdomainmovie.net/movie/gang-bullets-0",
         "status": "free",
         "title": "Gang Bullets",
         "year": 1938
@@ -13200,7 +13259,8 @@
         "year": 1938
     },
     "http://www.imdb.com/title/tt0030273/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/international-crime-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/international-crime",
+        "freenessurl2": "http://publicdomainmovie.net/movie/international-crime-0",
         "status": "free",
         "title": "International Crime",
         "year": 1938
@@ -13236,9 +13296,10 @@
         "year": 1938
     },
     "http://www.imdb.com/title/tt0030484/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/mark-of-the-avenger",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-mysterious-rider-aka-mark-of-the-avenger",
+        "freenessurl2": "http://publicdomainmovie.net/movie/mark-of-the-avenger",
         "status": "free",
-        "title": "Mark of the Avenger",
+        "title": "The Mysterious Rider AKA Mark of the Avenger",
         "year": 1938
     },
     "http://www.imdb.com/title/tt0030565/": {
@@ -13303,6 +13364,7 @@
     },
     "http://www.imdb.com/title/tt0030694/": {
         "freenessurl": "http://publicdomainmovie.net/movie/romance-on-the-run-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/romance-on-the-run",
         "status": "free",
         "title": "Romance on the Run",
         "year": 1938
@@ -13411,6 +13473,7 @@
     },
     "http://www.imdb.com/title/tt0031068/": {
         "freenessurl": "http://publicdomainmovie.net/movie/back-door-to-heaven-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/back-door-to-heaven",
         "status": "free",
         "title": "Back Door to Heaven",
         "year": 1939
@@ -13434,9 +13497,10 @@
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031124/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/bulldog-drummonds-bride-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/bulldog-drummonds-bride",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bulldog-drummonds-bride-0",
         "status": "free",
-        "title": "Bulldog Drummonds Bride",
+        "title": "Bulldog Drummond's Bride",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031125/": {
@@ -13488,9 +13552,10 @@
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031278/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/escape-to-paradise-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/escape-to-paradise",
+        "freenessurl2": "http://publicdomainmovie.net/movie/escape-to-paradise-0",
         "status": "free",
-        "title": "Escape to Paradise",
+        "title": "Escape To Paradise",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031286/": {
@@ -13518,9 +13583,11 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0031397/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/gullivers-travels-2",
+        "freenessurl": "http://publicdomainmovie.net/movie/gullivers-travels-720p",
+        "freenessurl2": "http://publicdomainmovie.net/movie/gullivers-travels-2",
         "status": "free",
-        "title": "Gullivers Travels"
+        "title": "Gulliver's Travels [720p]",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0031406/": {
         "freenessurl": "http://publicdomainmovie.net/movie/harlem-rides-the-range",
@@ -13541,7 +13608,8 @@
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031495/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/irish-luck",
+        "freenessurl": "http://publicdomainmovie.net/movie/irish-luck-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/irish-luck",
         "status": "free",
         "title": "Irish Luck",
         "year": 1939
@@ -13554,6 +13622,7 @@
     },
     "http://www.imdb.com/title/tt0031580/": {
         "freenessurl": "http://publicdomainmovie.net/movie/the-little-princess-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/little-princess-the",
         "status": "free",
         "title": "The Little Princess",
         "year": 1939
@@ -13571,7 +13640,8 @@
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031599/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/lying-lips",
+        "freenessurl": "http://publicdomainmovie.net/movie/lying-lips-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/lying-lips",
         "status": "free",
         "title": "Lying Lips",
         "year": 1939
@@ -13654,7 +13724,8 @@
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031880/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/rough-riders-round-up",
+        "freenessurl": "http://publicdomainmovie.net/movie/rough-riders-round-up-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/rough-riders-round-up",
         "status": "free",
         "title": "Rough Riders' Round-up",
         "year": 1939
@@ -13720,7 +13791,8 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032277/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/boys-of-the-city-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/boys-of-the-city",
+        "freenessurl2": "http://publicdomainmovie.net/movie/boys-of-the-city-0",
         "status": "free",
         "title": "Boys of the City",
         "year": 1940
@@ -13732,10 +13804,12 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032329/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/dementia-13-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/chasing-trouble-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/dementia-13-1",
+        "freenessurl3": "http://publicdomainmovie.net/movie/chasing-trouble",
         "status": "free",
-        "title": "Dementia 13",
-        "year": 1963
+        "title": "Chasing Trouble",
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0032364/": {
         "freenessurl": "http://publicdomainmovie.net/movie/cowboy-from-sundown",
@@ -13744,7 +13818,8 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032404/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/doomed-to-die-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/doomed-to-die",
+        "freenessurl2": "http://publicdomainmovie.net/movie/doomed-to-die-0",
         "status": "free",
         "title": "Doomed to Die",
         "year": 1940
@@ -13756,9 +13831,11 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032457/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/fatal-hour-the",
+        "freenessurl": "http://publicdomainmovie.net/movie/fatal-hour",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-fatal-hour",
+        "freenessurl3": "http://publicdomainmovie.net/movie/fatal-hour-the",
         "status": "free",
-        "title": "Fatal Hour, The",
+        "title": "Fatal Hour",
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032511/": {
@@ -13858,7 +13935,8 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032903/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/phantom-of-chinatown-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/phantom-of-chinatown",
+        "freenessurl2": "http://publicdomainmovie.net/movie/phantom-of-chinatown-1",
         "status": "free",
         "title": "Phantom of Chinatown",
         "year": 1940
@@ -13876,7 +13954,8 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0033029/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/second-chorus",
+        "freenessurl": "http://publicdomainmovie.net/movie/second-chorus-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/second-chorus",
         "status": "free",
         "title": "Second Chorus",
         "year": 1940
@@ -13888,7 +13967,8 @@
         "year": 1940
     },
     "http://www.imdb.com/title/tt0033060/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/sky-patrol-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/sky-patrol",
+        "freenessurl2": "http://publicdomainmovie.net/movie/sky-patrol-0",
         "status": "free",
         "title": "Sky Patrol",
         "year": 1939
@@ -13972,7 +14052,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0033428/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/bowery-blitzkrieg-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/bowery-blitzkrieg",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bowery-blitzkrieg-0",
         "status": "free",
         "title": "Bowery Blitzkrieg",
         "year": 1941
@@ -14057,6 +14138,7 @@
     },
     "http://www.imdb.com/title/tt0033757/": {
         "freenessurl": "http://publicdomainmovie.net/movie/inspector-hornleigh-goes-to-it-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/inspector-hornleigh-goes-to-it",
         "status": "free",
         "title": "Inspector Hornleigh Goes to It",
         "year": 1941
@@ -14110,7 +14192,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0033891/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/meet-john-doe-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/meet-john-doe",
+        "freenessurl2": "http://publicdomainmovie.net/movie/meet-john-doe-0",
         "status": "free",
         "title": "Meet John Doe",
         "year": 1941
@@ -14128,7 +14211,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0033944/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/nevada-city",
+        "freenessurl": "http://publicdomainmovie.net/movie/nevada-city-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/nevada-city",
         "status": "free",
         "title": "Nevada City",
         "year": 1941
@@ -14147,6 +14231,7 @@
     },
     "http://www.imdb.com/title/tt0034012/": {
         "freenessurl": "http://publicdomainmovie.net/movie/penny-serenade-1",
+        "freenessurl2": "http://publicdomainmovie.net/movie/penny-serenade",
         "status": "free",
         "title": "Penny Serenade",
         "year": 1941
@@ -14158,7 +14243,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0034056/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/power-dive-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/power-dive",
+        "freenessurl2": "http://publicdomainmovie.net/movie/power-dive-0",
         "status": "free",
         "title": "Power Dive",
         "year": 1941
@@ -14176,7 +14262,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0034117/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/roar-of-the-press",
+        "freenessurl": "http://publicdomainmovie.net/movie/roar-of-the-press-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/roar-of-the-press",
         "status": "free",
         "title": "Roar of the Press",
         "year": 1941
@@ -14188,7 +14275,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0034183/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/sheriff-of-tombstone-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/sheriff-of-tombstone",
+        "freenessurl2": "http://publicdomainmovie.net/movie/sheriff-of-tombstone-0",
         "status": "free",
         "title": "Sheriff of Tombstone",
         "year": 1941
@@ -14236,7 +14324,8 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0034338/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/underground-rustlers-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/underground-rustlers",
+        "freenessurl2": "http://publicdomainmovie.net/movie/underground-rustlers-0",
         "status": "free",
         "title": "Underground Rustlers",
         "year": 1941
@@ -14272,7 +14361,9 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0034486/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/baby-face-morgan-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/baby-face-morgan",
+        "freenessurl2": "http://publicdomainmovie.net/movie/baby-face-morgan-0",
+        "freenessurl3": "http://publicdomainmovie.net/movie/baby-face-morgan-1",
         "status": "free",
         "title": "Baby Face Morgan",
         "year": 1942
@@ -14284,9 +14375,11 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0034515/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/superman-billion-dollar-limited",
+        "freenessurl": "http://publicdomainmovie.net/movie/billion-dollar-limited",
+        "freenessurl2": "http://publicdomainmovie.net/movie/billion-dollar-limited-1",
+        "freenessurl3": "http://publicdomainmovie.net/movie/superman-billion-dollar-limited",
         "status": "free",
-        "title": "Superman - Billion Dollar Limited",
+        "title": "Billion Dollar Limited",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0034538/": {
@@ -14392,7 +14485,8 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0034943/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/king-arthur-was-a-gentleman",
+        "freenessurl": "http://publicdomainmovie.net/movie/king-arthur-was-a-gentleman-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/king-arthur-was-a-gentleman",
         "status": "free",
         "title": "King Arthur Was a Gentleman",
         "year": 1942
@@ -14404,9 +14498,10 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035009/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-mad-monster",
+        "freenessurl": "http://publicdomainmovie.net/movie/mad-monster-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-mad-monster",
         "status": "free",
-        "title": "The Mad Monster",
+        "title": "Mad Monster, The",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035014/": {
@@ -14416,13 +14511,15 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035051/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/sos-your-aunt-emma",
+        "freenessurl": "http://publicdomainmovie.net/movie/sos-your-aunt-emma-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/sos-your-aunt-emma",
         "status": "free",
         "title": "So's Your Aunt Emma",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035067/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/miracle-kid-the-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/miracle-kid-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/miracle-kid-the-0",
         "status": "free",
         "title": "Miracle Kid, The",
         "year": 1941
@@ -14434,20 +14531,24 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035152/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/horace-takes-over-aka-one-thrilling-night",
+        "freenessurl": "http://publicdomainmovie.net/movie/horace-takes-over",
+        "freenessurl2": "http://publicdomainmovie.net/movie/horace-takes-over-aka-one-thrilling-night",
         "status": "free",
-        "title": "HORACE TAKES OVER a.k.a. One Thrilling Night."
+        "title": "Horace Takes Over",
+        "year": 1942
     },
     "http://www.imdb.com/title/tt0035162/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/outlaws-of-boulder-pass",
+        "freenessurl": "http://publicdomainmovie.net/movie/outlaws-of-boulder-pass-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/outlaws-of-boulder-pass",
         "status": "free",
         "title": "Outlaws of Boulder Pass",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035171/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/panthers-claw-the-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/panthers-claw-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/panthers-claw-the-0",
         "status": "free",
-        "title": "Panther's Claw, The",
+        "title": "Panthers Claw, The",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035208/": {
@@ -14457,13 +14558,15 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035218/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/private-buckaroo",
+        "freenessurl": "http://publicdomainmovie.net/movie/private-buckaroo-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/private-buckaroo",
         "status": "free",
         "title": "Private Buckaroo",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035220/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/private-snuffy-smith",
+        "freenessurl": "http://publicdomainmovie.net/movie/private-snuffy-smith-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/private-snuffy-smith",
         "status": "free",
         "title": "Private Snuffy Smith",
         "year": 1942
@@ -14487,7 +14590,8 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035280/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/saddle-mountain-roundup",
+        "freenessurl": "http://publicdomainmovie.net/movie/saddle-mountain-roundup-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/saddle-mountain-roundup",
         "status": "free",
         "title": "Saddle Mountain Roundup",
         "year": 1941
@@ -14505,7 +14609,8 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035345/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/smart-alecks",
+        "freenessurl": "http://publicdomainmovie.net/movie/smart-alecks-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/smart-alecks",
         "status": "free",
         "title": "Smart Alecks",
         "year": 1942
@@ -14535,7 +14640,8 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035425/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/texas-to-bataan",
+        "freenessurl": "http://publicdomainmovie.net/movie/texas-to-bataan-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/texas-to-bataan",
         "status": "free",
         "title": "Texas to Bataan",
         "year": 1942
@@ -14547,9 +14653,11 @@
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035464/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/trail-riders-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/trail-riders",
+        "freenessurl2": "http://publicdomainmovie.net/movie/trail-riders-0",
         "status": "free",
-        "title": "Trail Riders"
+        "title": "Trail Riders",
+        "year": 1942
     },
     "http://www.imdb.com/title/tt0035476/": {
         "freenessurl": "http://publicdomainmovie.net/movie/tulips-shall-grow-madcap-models-no-u1-5",
@@ -14601,6 +14709,7 @@
     },
     "http://www.imdb.com/title/tt0035679/": {
         "freenessurl": "http://publicdomainmovie.net/movie/black-raven",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-black-raven",
         "status": "free",
         "title": "Black Raven",
         "year": 1943
@@ -14798,9 +14907,10 @@
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036368/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/so-this-is-washington",
+        "freenessurl": "http://publicdomainmovie.net/movie/so-this-is-washingtom",
+        "freenessurl2": "http://publicdomainmovie.net/movie/so-this-is-washington",
         "status": "free",
-        "title": "So This Is Washington",
+        "title": "So This is Washingtom",
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036397/": {
@@ -14851,7 +14961,8 @@
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036635/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/bees-in-paradise",
+        "freenessurl": "http://publicdomainmovie.net/movie/bees-in-paradise-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bees-in-paradise",
         "status": "free",
         "title": "Bees in Paradise",
         "year": 1944
@@ -14918,12 +15029,14 @@
     },
     "http://www.imdb.com/title/tt0036845/": {
         "freenessurl": "http://publicdomainmovie.net/movie/gamblers-choice-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/gamblers-choice",
         "status": "free",
         "title": "Gamblers Choice",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0036847/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/gangsters-of-the-frontier",
+        "freenessurl": "http://publicdomainmovie.net/movie/gangsters-of-the-frontier-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/gangsters-of-the-frontier",
         "status": "free",
         "title": "Gangsters of the Frontier",
         "year": 1944
@@ -14983,31 +15096,36 @@
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037084/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-monster-maker",
+        "freenessurl": "http://publicdomainmovie.net/movie/monster-maker-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-monster-maker",
         "status": "free",
-        "title": "The Monster Maker",
+        "title": "Monster Maker, The",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037115/": {
         "freenessurl": "http://publicdomainmovie.net/movie/nabonga",
+        "freenessurl2": "http://publicdomainmovie.net/movie/nabonga-0",
         "status": "free",
         "title": "Nabonga",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037121/": {
         "freenessurl": "http://publicdomainmovie.net/movie/the-navy-way",
+        "freenessurl2": "http://publicdomainmovie.net/movie/navy-way-the",
         "status": "free",
         "title": "The Navy Way",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037142/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/oath-of-vengence",
+        "freenessurl": "http://publicdomainmovie.net/movie/oath-of-vengence-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/oath-of-vengence",
         "status": "free",
         "title": "Oath of Vengence",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037151/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/one-body-too-many-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/one-body-too-many",
+        "freenessurl2": "http://publicdomainmovie.net/movie/one-body-too-many-0",
         "status": "free",
         "title": "One Body Too Many",
         "year": 1944
@@ -15044,6 +15162,7 @@
     },
     "http://www.imdb.com/title/tt0037388/": {
         "freenessurl": "http://publicdomainmovie.net/movie/the-town-went-wild",
+        "freenessurl2": "http://publicdomainmovie.net/movie/town-went-wild-the",
         "status": "free",
         "title": "The Town Went Wild",
         "year": 1944
@@ -15103,7 +15222,8 @@
         "year": 1945
     },
     "http://www.imdb.com/title/tt0037638/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/detour",
+        "freenessurl": "http://publicdomainmovie.net/movie/detour-1",
+        "freenessurl2": "http://publicdomainmovie.net/movie/detour",
         "status": "free",
         "title": "Detour",
         "year": 1945
@@ -15157,7 +15277,8 @@
         "year": 1945
     },
     "http://www.imdb.com/title/tt0037949/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/northwest-trail-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/northwest-trail",
+        "freenessurl2": "http://publicdomainmovie.net/movie/northwest-trail-0",
         "status": "free",
         "title": "Northwest Trail",
         "year": 1945
@@ -15199,7 +15320,8 @@
         "year": 1945
     },
     "http://www.imdb.com/title/tt0038057/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/scarlet-street",
+        "freenessurl": "http://publicdomainmovie.net/movie/scarlet-street-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/scarlet-street",
         "status": "free",
         "title": "Scarlet Street",
         "year": 1945
@@ -15247,7 +15369,8 @@
         "year": 1945
     },
     "http://www.imdb.com/title/tt0038259/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-woman-in-green-2",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-woman-in-green-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-woman-in-green-2",
         "status": "free",
         "title": "The Woman in Green",
         "year": 1945
@@ -15331,7 +15454,8 @@
         "year": 1946
     },
     "http://www.imdb.com/title/tt0038704/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/love-laughs-at-andy-hardy-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/love-laughs-at-andy-hardy",
+        "freenessurl2": "http://publicdomainmovie.net/movie/love-laughs-at-andy-hardy-0",
         "status": "free",
         "title": "Love Laughs at Andy Hardy",
         "year": 1946
@@ -15350,6 +15474,7 @@
     },
     "http://www.imdb.com/title/tt0038877/": {
         "freenessurl": "http://publicdomainmovie.net/movie/renegade-girl-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/renegade-girl",
         "status": "free",
         "title": "Renegade Girl",
         "year": 1946
@@ -15385,9 +15510,10 @@
         "year": 1946
     },
     "http://www.imdb.com/title/tt0039017/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/terror-by-night-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/terror-by-night-1",
+        "freenessurl2": "http://publicdomainmovie.net/movie/terror-by-night-0",
         "status": "free",
-        "title": "Terror by Night",
+        "title": "Terror By Night",
         "year": 1946
     },
     "http://www.imdb.com/title/tt0039020/": {
@@ -15491,7 +15617,8 @@
         "year": 1947
     },
     "http://www.imdb.com/title/tt0039530/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/killer-dill-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/killer-dill",
+        "freenessurl2": "http://publicdomainmovie.net/movie/killer-dill-0",
         "status": "free",
         "title": "Killer Dill",
         "year": 1947
@@ -15527,7 +15654,8 @@
         "year": 1946
     },
     "http://www.imdb.com/title/tt0039757/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-red-house",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-red-house-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-red-house",
         "status": "free",
         "title": "The Red House",
         "year": 1947
@@ -15539,7 +15667,8 @@
         "year": 1947
     },
     "http://www.imdb.com/title/tt0039782/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/rolling-home-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/rolling-home",
+        "freenessurl2": "http://publicdomainmovie.net/movie/rolling-home-0",
         "status": "free",
         "title": "Rolling Home",
         "year": 1946
@@ -15623,7 +15752,8 @@
         "year": 1948
     },
     "http://www.imdb.com/title/tt0040590/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/million-dollar-weekend",
+        "freenessurl": "http://publicdomainmovie.net/movie/million-dollar-weekend-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/million-dollar-weekend",
         "status": "free",
         "title": "Million Dollar Weekend",
         "year": 1948
@@ -15665,9 +15795,10 @@
         "year": 1948
     },
     "http://www.imdb.com/title/tt0040829/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/amazing-mr-x-the-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/amazing-mr-x-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/amazing-mr-x-the-0",
         "status": "free",
-        "title": "Amazing Mr. X, The",
+        "title": "Amazing Mr. X , The",
         "year": 1948
     },
     "http://www.imdb.com/title/tt0040851/": {
@@ -15719,7 +15850,8 @@
         "year": 1949
     },
     "http://www.imdb.com/title/tt0041503/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/impact-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/impact",
+        "freenessurl2": "http://publicdomainmovie.net/movie/impact-0",
         "status": "free",
         "title": "Impact",
         "year": 1949
@@ -15762,6 +15894,7 @@
     },
     "http://www.imdb.com/title/tt0041733/": {
         "freenessurl": "http://publicdomainmovie.net/movie/parole-inc-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/parole-inc",
         "status": "free",
         "title": "Parole Inc.",
         "year": 1948
@@ -15785,7 +15918,8 @@
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042249/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-big-lift-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-big-lift",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-big-lift-0",
         "status": "free",
         "title": "The Big Lift",
         "year": 1950
@@ -15797,15 +15931,17 @@
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042313/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-capture",
+        "freenessurl": "http://publicdomainmovie.net/movie/capture-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-capture",
         "status": "free",
-        "title": "The Capture",
+        "title": "Capture, The",
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042367/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/cyrano-debergerac",
+        "freenessurl": "http://publicdomainmovie.net/movie/cyrano-de-bergerac",
+        "freenessurl2": "http://publicdomainmovie.net/movie/cyrano-debergerac",
         "status": "free",
-        "title": "Cyrano DeBergerac",
+        "title": "Cyrano De Bergerac",
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042524/": {
@@ -15834,6 +15970,7 @@
     },
     "http://www.imdb.com/title/tt0042869/": {
         "freenessurl": "http://publicdomainmovie.net/movie/quicksand-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/quicksand",
         "status": "free",
         "title": "Quicksand",
         "year": 1950
@@ -15846,6 +15983,7 @@
     },
     "http://www.imdb.com/title/tt0043041/": {
         "freenessurl": "http://publicdomainmovie.net/movie/three-came-home-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/three-came-home",
         "status": "free",
         "title": "Three Came Home",
         "year": 1950
@@ -15886,9 +16024,11 @@
         "title": "Father's Little Dividend"
     },
     "http://www.imdb.com/title/tt0043590/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/go-for-broke-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/go-for-broke",
+        "freenessurl2": "http://publicdomainmovie.net/movie/go-for-broke-0",
+        "freenessurl3": "http://publicdomainmovie.net/movie/go-for-broke-1",
         "status": "free",
-        "title": "Go For Broke",
+        "title": "Go for Broke",
         "year": 1951
     },
     "http://www.imdb.com/title/tt0043651/": {
@@ -15952,15 +16092,17 @@
         "year": 1951
     },
     "http://www.imdb.com/title/tt0044414/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-curious-adventures-of-mr-wonderbird",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-curious-adventures-of-mr-wonderbird-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-curious-adventures-of-mr-wonderbird",
         "status": "free",
         "title": "The Curious Adventures of Mr. Wonderbird",
         "year": 1952
     },
     "http://www.imdb.com/title/tt0044420/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-big-trees",
+        "freenessurl": "http://publicdomainmovie.net/movie/big-trees-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-big-trees",
         "status": "free",
-        "title": "The Big Trees",
+        "title": "Big Trees, The",
         "year": 1952
     },
     "http://www.imdb.com/title/tt0044614/": {
@@ -15976,7 +16118,8 @@
         "year": 1952
     },
     "http://www.imdb.com/title/tt0044762/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/jack-and-the-beanstalk-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/jack-and-the-beanstalk",
+        "freenessurl2": "http://publicdomainmovie.net/movie/jack-and-the-beanstalk-0",
         "status": "free",
         "title": "Jack and the Beanstalk",
         "year": 1952
@@ -16025,6 +16168,7 @@
     },
     "http://www.imdb.com/title/tt0045557/": {
         "freenessurl": "http://publicdomainmovie.net/movie/the-bigamist",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bigamist-the",
         "status": "free",
         "title": "The Bigamist",
         "year": 1953
@@ -16061,6 +16205,8 @@
     },
     "http://www.imdb.com/title/tt0045954/": {
         "freenessurl": "http://publicdomainmovie.net/movie/kansas-pacific-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/kansas-pacific",
+        "freenessurl3": "http://publicdomainmovie.net/movie/kansas-pacific-1",
         "status": "free",
         "title": "Kansas Pacific",
         "year": 1953
@@ -16103,14 +16249,16 @@
     },
     "http://www.imdb.com/title/tt0047149/": {
         "freenessurl": "http://publicdomainmovie.net/movie/killers-from-space",
+        "freenessurl2": "http://publicdomainmovie.net/movie/killers-from-space-1",
         "status": "free",
         "title": "Killers From Space",
         "year": 1954
     },
     "http://www.imdb.com/title/tt0047162/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-last-time-i-saw-paris",
+        "freenessurl": "http://publicdomainmovie.net/movie/last-time-i-saw-paris-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-last-time-i-saw-paris",
         "status": "free",
-        "title": "The Last Time I Saw Paris",
+        "title": "Last Time I Saw Paris, The",
         "year": 1954
     },
     "http://www.imdb.com/title/tt0047178/": {
@@ -16126,7 +16274,9 @@
         "year": 1954
     },
     "http://www.imdb.com/title/tt0047542/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/suddenly-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/suddenly-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/suddenly",
+        "freenessurl3": "http://publicdomainmovie.net/movie/suddenly-1",
         "status": "free",
         "title": "Suddenly",
         "year": 1954
@@ -16138,7 +16288,8 @@
         "year": 1955
     },
     "http://www.imdb.com/title/tt0047878/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-big-combo",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-big-combo-1",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-big-combo",
         "status": "free",
         "title": "The Big Combo",
         "year": 1955
@@ -16150,13 +16301,15 @@
         "year": 1955
     },
     "http://www.imdb.com/title/tt0048094/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/fresh-from-paris",
+        "freenessurl": "http://publicdomainmovie.net/movie/fresh-from-paris-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/fresh-from-paris",
         "status": "free",
         "title": "Fresh From Paris",
         "year": 1955
     },
     "http://www.imdb.com/title/tt0048535/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/rage-at-dawn-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/rage-at-dawn",
+        "freenessurl2": "http://publicdomainmovie.net/movie/rage-at-dawn-1",
         "status": "free",
         "title": "Rage at Dawn",
         "year": 1955
@@ -16186,7 +16339,8 @@
         "year": 1957
     },
     "http://www.imdb.com/title/tt0049335/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/hot-rod-girl",
+        "freenessurl": "http://publicdomainmovie.net/movie/hot-rod-girl-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/hot-rod-girl",
         "status": "free",
         "title": "Hot Rod Girl",
         "year": 1956
@@ -16198,10 +16352,11 @@
         "year": 1956
     },
     "http://www.imdb.com/title/tt0049363/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/indestructible-man-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/indestructible-man",
+        "freenessurl2": "http://publicdomainmovie.net/movie/indestructible-man-0",
         "status": "free",
         "title": "Indestructible Man",
-        "year": 1956
+        "year": 1955
     },
     "http://www.imdb.com/title/tt0049437/": {
         "freenessurl": "http://publicdomainmovie.net/movie/liane-das-m%C3%A4dchen-aus-dem-urwaldliane-jungle-goddess",
@@ -16234,9 +16389,11 @@
         "year": 1956
     },
     "http://www.imdb.com/title/tt0049900/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/warning-from-space-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/warning-from-space",
+        "freenessurl2": "http://publicdomainmovie.net/movie/warning-from-space-2",
+        "freenessurl3": "http://publicdomainmovie.net/movie/warning-from-space-0",
         "status": "free",
-        "title": "Warning from Space",
+        "title": "Warning From Space",
         "year": 1956
     },
     "http://www.imdb.com/title/tt0050200/": {
@@ -16324,9 +16481,11 @@
         "year": 1959
     },
     "http://www.imdb.com/title/tt0052646/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-brain-that-wouldnt-die-theatrical-version-82-min",
+        "freenessurl": "http://publicdomainmovie.net/movie/brain-that-wouldnt-die-the",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-brain-that-wouldnt-die-1",
+        "freenessurl3": "http://publicdomainmovie.net/movie/the-brain-that-wouldnt-die-theatrical-version-82-min",
         "status": "free",
-        "title": "The Brain That Wouldn't Die Theatrical Version (82 min.)",
+        "title": "Brain That Wouldn't Die, The",
         "year": 1962
     },
     "http://www.imdb.com/title/tt0052782/": {
@@ -16348,9 +16507,10 @@
         "year": 1959
     },
     "http://www.imdb.com/title/tt0052969/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-killer-shrews",
+        "freenessurl": "http://publicdomainmovie.net/movie/killer-shrews",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-killer-shrews",
         "status": "free",
-        "title": "The Killer Shrews",
+        "title": "Killer Shrews",
         "year": 1959
     },
     "http://www.imdb.com/title/tt0053103/": {
@@ -16366,9 +16526,10 @@
         "year": 1959
     },
     "http://www.imdb.com/title/tt0053250/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/first-spaceship-on-venus-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/first-spaceship-on-venus-the-schweigende-stern-der",
+        "freenessurl2": "http://publicdomainmovie.net/movie/first-spaceship-on-venus-0",
         "status": "free",
-        "title": "First Spaceship on Venus",
+        "title": "First Spaceship on Venus, The (Schweigende Stern, Der)",
         "year": 1960
     },
     "http://www.imdb.com/title/tt0053337/": {
@@ -16383,7 +16544,8 @@
         "year": 1960
     },
     "http://www.imdb.com/title/tt0053611/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/attack-of-the-giant-leeches-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/attack-of-the-giant-leeches",
+        "freenessurl2": "http://publicdomainmovie.net/movie/attack-of-the-giant-leeches-0",
         "status": "free",
         "title": "Attack of the Giant Leeches",
         "year": 1959
@@ -16437,7 +16599,8 @@
         "year": 1960
     },
     "http://www.imdb.com/title/tt0054285/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/atom-age-vampire-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/atom-age-vampire",
+        "freenessurl2": "http://publicdomainmovie.net/movie/atom-age-vampire-0",
         "status": "free",
         "title": "Atom Age Vampire",
         "year": 1960
@@ -16515,9 +16678,10 @@
         "year": 1960
     },
     "http://www.imdb.com/title/tt0055106/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/werewolf-in-a-girls-dormitory-ipod-version",
+        "freenessurl": "http://publicdomainmovie.net/movie/werewolf-in-a-girls-dormitory",
+        "freenessurl2": "http://publicdomainmovie.net/movie/werewolf-in-a-girls-dormitory-ipod-version",
         "status": "free",
-        "title": "Werewolf in a Girls' Dormitory iPod version",
+        "title": "Werewolf in a Girls' Dormitory",
         "year": 1962
     },
     "http://www.imdb.com/title/tt0055294/": {
@@ -16540,6 +16704,7 @@
     },
     "http://www.imdb.com/title/tt0055946/": {
         "freenessurl": "http://publicdomainmovie.net/movie/eegah-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/eegah",
         "status": "free",
         "title": "Eegah",
         "year": 1962
@@ -16587,9 +16752,10 @@
         "year": 1963
     },
     "http://www.imdb.com/title/tt0057859/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-atomic-brain",
+        "freenessurl": "http://publicdomainmovie.net/movie/monstrosity-aka-the-atomic-brain",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-atomic-brain",
         "status": "free",
-        "title": "The Atomic Brain",
+        "title": "Monstrosity AKA / The Atomic Brain",
         "year": 1964
     },
     "http://www.imdb.com/title/tt0058063/": {
@@ -16599,7 +16765,8 @@
         "year": 1964
     },
     "http://www.imdb.com/title/tt0058311/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/hercules-against-the-moon-men-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/hercules-against-the-moon-men",
+        "freenessurl2": "http://publicdomainmovie.net/movie/hercules-against-the-moon-men-0",
         "status": "free",
         "title": "Hercules Against the Moon Men",
         "year": 1964
@@ -16617,13 +16784,15 @@
         "year": 1964
     },
     "http://www.imdb.com/title/tt0058983/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/bloody-pit-of-horror-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/bloody-pit-of-horror",
+        "freenessurl2": "http://publicdomainmovie.net/movie/bloody-pit-of-horror-0",
         "status": "free",
         "title": "Bloody Pit of Horror",
         "year": 1965
     },
     "http://www.imdb.com/title/tt0059171/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-fat-spy-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-fat-spy",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-fat-spy-0",
         "status": "free",
         "title": "The Fat Spy",
         "year": 1966
@@ -16665,9 +16834,10 @@
         "year": 1968
     },
     "http://www.imdb.com/title/tt0063350/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/night-of-the-living-dead-ipod-and-flash-video-versions",
+        "freenessurl": "http://publicdomainmovie.net/movie/night-of-the-living-dead-2",
+        "freenessurl2": "http://publicdomainmovie.net/movie/night-of-the-living-dead-ipod-and-flash-video-versions",
         "status": "free",
-        "title": "Night of the Living Dead iPod and Flash video versions",
+        "title": "Night of the Living Dead",
         "year": 1968
     },
     "http://www.imdb.com/title/tt0064360/": {
@@ -16706,7 +16876,8 @@
         "year": 1971
     },
     "http://www.imdb.com/title/tt0067069/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/evel-knievel-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/evel-knievel",
+        "freenessurl2": "http://publicdomainmovie.net/movie/evel-knievel-0",
         "status": "free",
         "title": "Evel Knievel",
         "year": 1971
@@ -16760,7 +16931,8 @@
         "year": 1973
     },
     "http://www.imdb.com/title/tt0070908/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/werewolf-of-washington-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/werewolf-of-washington",
+        "freenessurl2": "http://publicdomainmovie.net/movie/werewolf-of-washington-1",
         "status": "free",
         "title": "Werewolf of Washington",
         "year": 1973
@@ -16772,7 +16944,8 @@
         "year": 1974
     },
     "http://www.imdb.com/title/tt0071396/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/dead-people-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/dead-people",
+        "freenessurl2": "http://publicdomainmovie.net/movie/dead-people-0",
         "status": "free",
         "title": "Dead People",
         "year": 1973
@@ -16985,7 +17158,8 @@
         "year": 1924
     },
     "http://www.imdb.com/title/tt0141018/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/felix-finds-out",
+        "freenessurl": "http://publicdomainmovie.net/movie/felix-finds-out-0",
+        "freenessurl2": "http://publicdomainmovie.net/movie/felix-finds-out",
         "status": "free",
         "title": "Felix Finds Out",
         "year": 1924
@@ -17189,7 +17363,8 @@
         "year": 1932
     },
     "http://www.imdb.com/title/tt0152431/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/shuteye-popeye-0",
+        "freenessurl": "http://publicdomainmovie.net/movie/shuteye-popeye",
+        "freenessurl2": "http://publicdomainmovie.net/movie/shuteye-popeye-0",
         "status": "free",
         "title": "Shuteye Popeye",
         "year": 1952
@@ -17201,7 +17376,9 @@
         "year": 1949
     },
     "http://www.imdb.com/title/tt0152497/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/the-snow-man-1",
+        "freenessurl": "http://publicdomainmovie.net/movie/the-snow-man",
+        "freenessurl2": "http://publicdomainmovie.net/movie/the-snow-man-0",
+        "freenessurl3": "http://publicdomainmovie.net/movie/the-snow-man-1",
         "status": "free",
         "title": "The Snow Man",
         "year": 1940
@@ -17315,9 +17492,10 @@
         "year": 1934
     },
     "http://www.imdb.com/title/tt0174450/": {
-        "freenessurl": "http://publicdomainmovie.net/movie/africa-speaks-ipod-version",
+        "freenessurl": "http://publicdomainmovie.net/movie/africa-speaks",
+        "freenessurl2": "http://publicdomainmovie.net/movie/africa-speaks-ipod-version",
         "status": "free",
-        "title": "Africa Speaks iPod version",
+        "title": "Africa Speaks",
         "year": 1930
     },
     "http://www.imdb.com/title/tt0176564/": {
