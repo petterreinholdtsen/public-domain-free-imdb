@@ -992,6 +992,12 @@
 	"title" : "Du sköna",
 	"year" : 2010
     },
+    "http://www.imdb.com/title/tt1826641/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/CrossroadsBlues_EnglishVersion",
+	"title" : "Crossroads Blues",
+	"year" : 2010
+    },
     "http://www.imdb.com/title/tt1553290/": {
         "freenessurl": "http://vodo.net/theundergroundmultiplex/scumbabies/",
         "status": "free",
