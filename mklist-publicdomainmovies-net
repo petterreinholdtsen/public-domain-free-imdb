@@ -22,6 +22,7 @@ def filter_imdb_ref(imdburl):
     imdburl = imdburl.replace('/plotsummary', '/')
     imdburl = imdburl.replace('/combined', '/')
     imdburl = imdburl.replace('/fullcredits', '/')
+    imdburl = imdburl.replace('/rg/title-tease//title/', '/title/')
     if '/' != imdburl[-1]:
         imdburl = imdburl + '/'
     return imdburl
