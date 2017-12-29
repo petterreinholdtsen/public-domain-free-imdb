@@ -27,6 +27,12 @@
         "wp": "https://en.wikipedia.org/wiki/Eldridge_Cleaver,_Black_Panther",
         "year": "1969"
     },
+    "http://www.imdb.com/title/tt0251861/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/More_milk,_Yvette",
+        "year": "1966"
+    },
     "http://www.imdb.com/title/tt0311541/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
@@ -34,9 +40,16 @@
         "wp": "https://en.wikipedia.org/wiki/Moro_no_Brasil",
         "year": "2002"
     },
+    "http://www.imdb.com/title/tt0411204/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Cactuses"
+    },
     "http://www.imdb.com/title/tt0419100/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Route_66_-_An_American_(bad)_Dream",
+        "year": "2004"
     },
     "http://www.imdb.com/title/tt0428288/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -48,6 +61,17 @@
         "title": "BBS: The Documentary",
         "wp": "https://en.wikipedia.org/wiki/BBS:_The_Documentary",
         "year": "2005"
+    },
+    "http://www.imdb.com/title/tt0469153/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Panorama_Ephemera",
+        "year": "2004"
+    },
+    "http://www.imdb.com/title/tt0472566": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Star_Wreck"
     },
     "http://www.imdb.com/title/tt0472566/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
@@ -113,8 +137,10 @@
         "year": "2008"
     },
     "http://www.imdb.com/title/tt1199787/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Oceania",
+        "year": "2008"
     },
     "http://www.imdb.com/title/tt1254207/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
@@ -124,8 +150,22 @@
         "year": "2008"
     },
     "http://www.imdb.com/title/tt1265599/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Insecurity",
+        "year": "2007"
+    },
+    "http://www.imdb.com/title/tt1316066/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/The_Master_Plan",
+        "year": "2010"
+    },
+    "http://www.imdb.com/title/tt1334226/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Dead_Man_Drinking",
+        "year": "2008"
     },
     "http://www.imdb.com/title/tt1370372/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -133,6 +173,17 @@
         "title": "Gerboise bleue",
         "wp": "https://en.wikipedia.org/wiki/Gerboise_bleue_(film)",
         "year": "2009"
+    },
+    "http://www.imdb.com/title/tt1374890/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Here._My_Explosion..",
+        "year": "2009"
+    },
+    "http://www.imdb.com/title/tt1382718/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Deadlock"
     },
     "http://www.imdb.com/title/tt1397511/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
@@ -149,8 +200,9 @@
         "year": "2009"
     },
     "http://www.imdb.com/title/tt1463780/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Seven_Dead_Men"
     },
     "http://www.imdb.com/title/tt1483748/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
@@ -165,8 +217,10 @@
         "year": "1969"
     },
     "http://www.imdb.com/title/tt1496426/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Pentagon",
+        "year": "2008"
     },
     "http://www.imdb.com/title/tt1517165/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -197,8 +251,16 @@
         "year": "2009"
     },
     "http://www.imdb.com/title/tt1563714/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Dozer.",
+        "year": "2009"
+    },
+    "http://www.imdb.com/title/tt1578709/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Snowblind",
+        "year": "2010"
     },
     "http://www.imdb.com/title/tt1625857/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -215,8 +277,10 @@
         "year": "2010"
     },
     "http://www.imdb.com/title/tt1669706/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Case_Studies/Valkaama",
+        "year": "2010"
     },
     "http://www.imdb.com/title/tt1720074/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -328,6 +392,12 @@
         "wp": "https://en.wikipedia.org/wiki/Jazz_Mama",
         "year": "2010"
     },
+    "http://www.imdb.com/title/tt2279462/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Beware",
+        "year": "2012"
+    },
     "http://www.imdb.com/title/tt2285752/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
         "status": "free",
@@ -346,6 +416,12 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_science_fiction_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Star_Wreck"
+    },
+    "http://www.imdb.com/title/tt2495100/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Goodnight_Sofia",
+        "year": "2012"
     },
     "http://www.imdb.com/title/tt2519692/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -368,6 +444,12 @@
     "http://www.imdb.com/title/tt2621832/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
+    },
+    "http://www.imdb.com/title/tt2787834/": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Muito_Al%C3%A9m_do_Peso",
+        "year": "2012"
     },
     "http://www.imdb.com/title/tt3268458/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -573,5 +655,114 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/VODO"
+    },
+    "https://wiki.creativecommons.org/wiki/A_Greater_Purpose": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/A_Greater_Purpose",
+        "year": "2012"
+    },
+    "https://wiki.creativecommons.org/wiki/Babajaga_-_Witches_in_updraft!": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Babajaga_-_Witches_in_updraft!",
+        "year": "2009"
+    },
+    "https://wiki.creativecommons.org/wiki/Babylon_System": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Babylon_System",
+        "year": "2010"
+    },
+    "https://wiki.creativecommons.org/wiki/BloodSpell": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/BloodSpell"
+    },
+    "https://wiki.creativecommons.org/wiki/Cafun%C3%A9": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Cafun%C3%A9",
+        "year": "2006"
+    },
+    "https://wiki.creativecommons.org/wiki/Field_Trip_West_Siberia": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Field_Trip_West_Siberia"
+    },
+    "https://wiki.creativecommons.org/wiki/Films": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Films"
+    },
+    "https://wiki.creativecommons.org/wiki/Good_Copy_Bad_Copy": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Good_Copy_Bad_Copy",
+        "year": "2007"
+    },
+    "https://wiki.creativecommons.org/wiki/Honey": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Honey",
+        "year": "1999"
+    },
+    "https://wiki.creativecommons.org/wiki/Maderlengue": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Maderlengue",
+        "year": "2009"
+    },
+    "https://wiki.creativecommons.org/wiki/Matar_al_Gato_2.0_Ekpyr%C3%B3tica": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Matar_al_Gato_2.0_Ekpyr%C3%B3tica",
+        "year": "2011"
+    },
+    "https://wiki.creativecommons.org/wiki/Point_Of_Departure": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Point_Of_Departure",
+        "year": "2006"
+    },
+    "https://wiki.creativecommons.org/wiki/Schr%C3%B6dinger%27s_room": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Schr%C3%B6dinger%27s_room",
+        "year": "2007"
+    },
+    "https://wiki.creativecommons.org/wiki/TERMINUS": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/TERMINUS",
+        "year": "2012"
+    },
+    "https://wiki.creativecommons.org/wiki/Teach": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Teach"
+    },
+    "https://wiki.creativecommons.org/wiki/The_Dabbler...": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/The_Dabbler...",
+        "year": "2009"
+    },
+    "https://wiki.creativecommons.org/wiki/The_Forbidden_Education": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/The_Forbidden_Education"
+    },
+    "https://wiki.creativecommons.org/wiki/The_Immortals": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/The_Immortals",
+        "year": "2007"
+    },
+    "https://wiki.creativecommons.org/wiki/Torno_Subito": {
+        "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
+        "status": "free",
+        "wp": "https://wiki.creativecommons.org/wiki/Torno_Subito",
+        "year": "2008"
     }
 }
