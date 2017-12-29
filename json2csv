@@ -9,40 +9,44 @@ import csv
 import json
 import sys
 
-parser = argparse.ArgumentParser()
-parser.add_argument('files', metavar='N', type=str, nargs='*',
-                    default=['free-movies-manual.json'],
-                    help='input file(s)')
-args = parser.parse_args()
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('files', metavar='N', type=str, nargs='*',
+                        default=['free-movies-manual.json'],
+                        help='input file(s)')
+    args = parser.parse_args()
 
-keys = ['status', 'year', 'idurl', 'title', 'freenessurl', 'archive',
-        'wp', 'wdurl', 'vodo', 'comment']
+    keys = ['status', 'year', 'idurl', 'title', 'freenessurl', 'archive',
+            'wp', 'wdurl', 'vodo', 'comment']
 
-completeset = {}
-writer = csv.DictWriter(sys.stdout, keys)
-for file in args.files:
-    with open(file, 'rt', encoding='utf-8') as input:
-        j = json.load(input)
-        for id in j.keys():
-            if not id in completeset:
-                completeset[id] = j[id]
-            else:
-                #print(file,id)
-                if 'freenessurl' in completeset[id] \
-                   and 'freenessurl' in j[id] \
-                   and j[id]['freenessurl'] != completeset[id]['freenessurl']:
-                    completeset[id]['archive'] = j[id]['freenessurl']
+    completeset = {}
+    writer = csv.DictWriter(sys.stdout, keys)
+    for file in args.files:
+        with open(file, 'rt', encoding='utf-8') as input:
+            j = json.load(input)
+            for id in j.keys():
+                if not id in completeset:
+                    completeset[id] = j[id]
+                else:
+                    #print(file,id)
+                    if 'freenessurl' in completeset[id] \
+                       and 'freenessurl' in j[id] \
+                       and j[id]['freenessurl'] != completeset[id]['freenessurl']:
+                        completeset[id]['archive'] = j[id]['freenessurl']
 
-#writer.writerow(keys)
-for id in sorted(completeset.keys()):
-    if -1 == id.find("/www.imdb.com/title/"):
-        continue
-    if 'status' not in completeset[id] or 'free' != completeset[id]['status']:
-        continue
-    completeset[id]['idurl'] = id
-    #print(j[e])
-    fields = list(completeset[id].keys())
-    for k in fields:
-        if k not in keys:
-            del completeset[id][k]
-    writer.writerow(completeset[id])
+    #writer.writerow(keys)
+    for id in sorted(completeset.keys()):
+        if -1 == id.find("/www.imdb.com/title/"):
+            continue
+        if 'status' not in completeset[id] or 'free' != completeset[id]['status']:
+            continue
+        completeset[id]['idurl'] = id
+        #print(j[e])
+        fields = list(completeset[id].keys())
+        for k in fields:
+            if k not in keys:
+                del completeset[id][k]
+        writer.writerow(completeset[id])
+
+if __name__ == '__main__':
+    main()
