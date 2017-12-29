@@ -80,9 +80,19 @@ def test_wikipedia_lookup():
         else:
             print("Error %s" % line)
 
+def imdb_url_clean(url):
+    url = url.replace('/us.imdb.com/', '/www.imdb.com/')
+    url = url.split('?')[0]
+    url = url.split('#')[0]
+    return url
+
 def wikipedia_lookup(wpurl):
-    m = re.search('^(.*wikipedia.org)/wiki/(.+)', wpurl, re.IGNORECASE)
-    url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
+    m = re.search('^(https?://[^/]+)/wiki/(.+)', wpurl, re.IGNORECASE)
+    print m.group(1)
+    if -1 != m.group(1).find('wikipedia.org'):
+        url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
+    else:
+        url = wpurl + '?action=raw'
     #print(url)
     text = http_get_read(url)
     info = {}
@@ -98,12 +108,17 @@ def wikipedia_lookup(wpurl):
                 info['imdb'] = imdburl
             else:
                 print("info: '%s' ignored in %s" % (line, wpurl))
-                m = re.search("^ *\| *name *= *(.+)", line, re.IGNORECASE)
+        # Used on wiki.creativecommons.org
+        m = re.search("^ *\| *imdburl *= *(.+)", line, re.IGNORECASE)
+        if m:
+            info['imdb'] = imdb_url_clean(m.group(1))
+        m = re.search("^ *\| *name *= *(.+)", line, re.IGNORECASE)
         if m:
             info['title'] = m.group(1)
-            m = re.search("^ *\| *released *= *.+(\d{4}).*", line, re.IGNORECASE)
+        m = re.search("^ *\| *(released|releasedate) *= *.*(\d{4}).*", line,
+                      re.IGNORECASE)
         if m:
-            info['year'] = m.group(1)
+            info['year'] = m.group(2)
     return info
 
 if __name__ == '__main__':

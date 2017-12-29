@@ -89,6 +89,13 @@ def main():
     l = {}
     fetch_wikipedia_list(l, url)
 
+    # List of CC movies on CC wiki
+    ccurls = [
+        "https://wiki.creativecommons.org/wiki/Category:Film",
+    ]
+    for c in ccurls:
+        fetch_wikipedia_category(l, c)
+
     # List of Creative Commons licenced movies on English Wikipedia
     urls = [
         "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
