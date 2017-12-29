@@ -13,14 +13,6 @@ import urllib2
 import urlparse
 import movielib
 
-def savelist(l, name = None):
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
-
 def fetch_wikipedia_list(list, url):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(url))
@@ -50,21 +42,23 @@ def fetch_wikipedia_category(list, url, baseinfo = {}):
         return None
     for a in root.cssselect("div#mw-pages div.mw-content-ltr a[href]"):
         entryurl = urlparse.urljoin(url, a.attrib['href'])
-        imdb =  movielib.wikipedia_lookup(entryurl)
+        wpinfo =  movielib.wikipedia_lookup(entryurl)
         ref = entryurl
-        if imdb:
-            ref = imdb
-        print list, ref, entryurl, imdb
+        if 'imdb' in wpinfo:
+            ref = wpinfo['imdb']
+        #print list, ref, entryurl
         if -1 != entryurl.find('/wiki/'):
-            print entryurl, ref
+            print  entryurl, ref
             info = {}
             for k, v in baseinfo.items():
                 info[k] = v
             info['status'] = 'free'
             info['freenessurl'] = url
             info['wp'] = entryurl
-            #'title' : info['title'],
-            #'year' : info['year'],
+            if 'title' in wpinfo:
+                info['title'] = wpinfo['title']
+            if 'year' in wpinfo:
+                info['year'] = wpinfo['year']
             list[ref] = info
     return list
 
@@ -79,7 +73,7 @@ domain in USA.
     for y in xrange(1874, 1923):
         url = 'https://en.wikipedia.org/wiki/Category:%d_films' % y
         fetch_wikipedia_category(l, url, {'year' : y})
-    savelist(l, name='free-movies-wikipedia-oldfilms.json')
+    movielib.savelist(l, name='free-movies-wikipedia-oldfilms.json')
 
 def main():
     parser = argparse.ArgumentParser()
@@ -103,7 +97,7 @@ def main():
     ]
     for c in urls:
         fetch_wikipedia_category(l, c)
-    savelist(l, name=args.output)
+    movielib.savelist(l, name=args.output)
 
 if __name__ == '__main__':
     main()

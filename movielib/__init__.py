@@ -85,6 +85,7 @@ def wikipedia_lookup(wpurl):
     url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
     #print(url)
     text = http_get_read(url)
+    info = {}
     for line in text.split("\n"):
         #print line
         if -1 != line.lower().find('{{imdb title'):
@@ -94,10 +95,16 @@ def wikipedia_lookup(wpurl):
                 # Normalize URLs to 7 digit numbers, as some wikipedia
                 # pages have more or less digits.
                 imdburl = 'http://www.imdb.com/title/tt%07d/' % int(m.group(3))
-                return imdburl
+                info['imdb'] = imdburl
             else:
                 print("info: '%s' ignored in %s" % (line, wpurl))
-    return None
+                m = re.search("^ *\| *name *= *(.+)", line, re.IGNORECASE)
+        if m:
+            info['title'] = m.group(1)
+            m = re.search("^ *\| *released *= *.+(\d{4}).*", line, re.IGNORECASE)
+        if m:
+            info['year'] = m.group(1)
+    return info
 
 if __name__ == '__main__':
     test_wikipedia_lookup()

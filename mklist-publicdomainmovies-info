@@ -48,7 +48,9 @@ def get_movie_info(entryurl):
         if -1 != a.attrib['href'].find("wikipedia.org/wiki") \
            and -1 != a.text_content().lower().find('info'):
             e['wp'] = a.attrib['href']
-            e['imdb'] =  movielib.wikipedia_lookup(e['wp'])
+            wpinfo = movielib.wikipedia_lookup(e['wp'])
+            if 'imdb' in wpinfo:
+                e['imdb'] =  wpinfo['imdb']
     year = None
     for a in root.cssselect("span.post_tag a[rel='tag']"):
         m = re.search("(\d{4})", a.text_content())
