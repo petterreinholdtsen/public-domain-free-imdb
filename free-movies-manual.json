@@ -368,6 +368,14 @@
 	"title" : "Hill Number One: A Story of Faith and Inspiration",
 	"year" : 1951
     },
+    "http://www.imdb.com/title/tt0044876/": {
+	"status": "free",
+        "freenessurl": "https://archive.org/details/TheManInTheWhiteSuit1951_201709",
+	"wp": "https://en.wikipedia.org/wiki/Man_in_the_white_suit",
+	"title" : "The Man in the White Suit",
+	"year" : 1951
+	
+    },
     "http://www.imdb.com/title/tt5172084/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/TheRealMissAmerica",
