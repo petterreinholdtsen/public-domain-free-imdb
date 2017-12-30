@@ -4,8 +4,9 @@
 Fetch list of movies available from RetroFilmVault.  All their movies
 are claimed to be in the public domain.
 
-Look up each title +year in IMDB and if only one title is returned,
-assume it is the correct IMDB title ID for the movie.
+Look up each title + year in IMDB and if only one title is returned
+with the correct year, assume it is the correct IMDB title ID for
+the movie.
 
 Question: How does these two links add up?
 http://www.motherjones.com/politics/2013/08/mlk-intellectual-property-problems/
@@ -50,20 +51,14 @@ def fetch_movie_info(entryurl):
         retval['category'] = c
     return retval
 
-def is_in_list(list, url):
-    for e in list:
-        if url == list[e]['freenessurl']:
-            return True
-    return False
-    
-def fetch_movie_list(args, list, url, name):
+def fetch_movie_list(args, l, url, name):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(url))
     except urllib2.HTTPError as e:
         return None
     for a in root.cssselect("a[href]"):
         entryurl = urlparse.urljoin(url, a.attrib['href'])
-        if is_in_list(list, entryurl):
+        if is_in_list(l, entryurl):
             continue
         title = a.text_content()
         print entryurl
@@ -78,28 +73,55 @@ def fetch_movie_list(args, list, url, name):
             year = None
         entry = {
             'status' : 'free',
-            'freenessurl' : entryurl,
+            'freenessurl' : [entryurl],
             'title' : title,
             'updated' : datetime.datetime.now().isoformat(),
         }
         if args.imdblookup:
             imdb = movielib.imdb_find_one(title, year)
-            info['imdblookup'] = '%s %d' % (title, year)
+            entry['imdblookup'] = '%s %d' % (title, year)
         if not imdb:
             imdb = entryurl
         if year:
             entry['year'] = year
-        list[imdb] = entry
-        print(imdb, list[imdb])
-        movielib.savelist(list, name=name)
-    return list
+        if imdb not in l:
+            l[imdb] = entry
+        else:
+            if entryurl not in l[imdb]['freenessurl']:
+                l[imdb]['freenessurl'].append(entryurl)
+            for f in ['updated', 'imdblookup']:
+                l[imdb][f] = entry[f]
+        print(imdb, l[imdb])
+        movielib.savelist(l, name=name)
+    return l
 
-def loadlist(path):
+def is_in_list(list, url):
+    for e in list:
+        if url in list[e]['freenessurl']:
+            return True
+    return False
+
+def loadlist(l, path):
     try:
         with open(path, 'rt') as input:
-            return json.load(input)
+            n = json.load(input)
+            for id in n.keys():
+                freenessurl = []
+                for field in ['freenessurl', 'freenessurl2', 'freenessurl3',
+                              'freenessurl4']:
+                    if field in n[id] and n[id][field] not in freenessurl:
+                        freenessurl.append(n[id][field])
+                        del n[id][field]
+                n[id]['freenessurl'] = freenessurl
+                if not id in l:
+                    l[id] = n[id]
+                else:
+                    for url in n[id]['freenessurl']:
+                        if url not in l[id]['freenessurl']:
+                            l[id]['freenessurl'].append(url)
+        return l
     except IOError as e:
-        return {}
+        return l
 
 def main():
     parser = argparse.ArgumentParser()
@@ -108,9 +130,25 @@ def main():
     args = parser.parse_args()
     url = "https://retrofilmvault.com/publicdomainfilms/"
     path='free-movies-retrofilmvault.json'
-    l = loadlist(path)
-    l = fetch_movie_list(args, l, url, name=path)
-    movielib.savelist(l, name=path)
+    outlist = {}
+    outlist = loadlist(outlist, path)
+    outlist = fetch_movie_list(args, outlist, url, name=path)
+    
+    # Rewrite freenessurl array to individual fields (freenessurl,
+    # freenessurl2, freenessurl3...) in predictable/sorted order
+    for i in outlist:
+        if 1 == len(outlist[i]['freenessurl']):
+            outlist[i]['freenessurl'] = outlist[i]['freenessurl'][0]
+        else:
+            sl = sorted(outlist[i]['freenessurl'])
+            outlist[i]['freenessurl'] = sl[0]
+            seq = 0
+            for u in sl[1:]:
+                field = "freenessurl%d" % (seq + 2)
+                outlist[i][field] = u
+                seq = seq + 1
+                
+    movielib.savelist(outlist, name=path)
 
 if __name__ == '__main__':
     main()
