@@ -66,11 +66,17 @@ def get_movie_list(args, l, urlbase, page=1):
             if -1 != a.attrib['href'].find("imdb.com/"):
                 imdburl = filter_imdb_ref(a.attrib['href'])
                 e = imdburl
+        info = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'title' : title,
+        }
         if not e and args.imdblookup:
             try:
                 imdburl = movielib.imdb_find_one(title, year)
                 if imdburl:
                     e = imdburl
+                    info['imdblookup'] = '%s %d' % (title, year)
             except KeyError:
                 # hit this with mojobake and UTF-8 in 'Spring in a
                 # Small Town (小城之春)'),
@@ -87,11 +93,7 @@ def get_movie_list(args, l, urlbase, page=1):
                     l[e][f] = entryurl
                     break
         else:
-            l[e] = {
-                'status' : 'free',
-                'freenessurl' : entryurl,
-                'title' : title,
-            }
+            l[e] = info
             if year:
                 l[e]['year'] = year
         #print e, l[e]

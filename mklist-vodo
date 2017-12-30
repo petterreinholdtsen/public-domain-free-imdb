@@ -4,16 +4,28 @@
 Extract list of free movies available from vodo.net.
 """
 
+import argparse
 import json
 import lxml.html
 import movielib
 import urllib2
 import urlparse
 
-def parsepage(l, url):
+def parsepage(args, l, url):
     try:
         html = movielib.http_get_read(url)
         root = lxml.html.fromstring(html)
+        title = root.cssselect('meta[property="og:title"]')[0].get('content')
+        year = root.cssselect('div.title-holder span.alt')[0].text_content().strip('()')
+        info = {
+            'status' : 'free',
+            'freenessurl' : url,
+            'title' : title,
+        }
+        if '' != year:
+            year = int(year)
+        else:
+            year = None
         imdburl = url
         for a in root.cssselect("a"):
             if -1 != a.attrib['href'].find("imdb.com/title/"):
@@ -22,15 +34,17 @@ def parsepage(l, url):
                     imdburl = imdburl + '/'
         if imdburl == url:
             print "warning: missing imdb link for %s" % url
-        title = root.cssselect('meta[property="og:title"]')[0].get('content')
-        year = root.cssselect('div.title-holder span.alt')[0].text_content().strip('()')
-        l[imdburl] = {
-            'status' : 'free',
-            'freenessurl' : url,
-            'title' : title,
-            }
-        if '' != year:
-            l[imdburl]['year'] = int(year)
+            if args.imdblookup:
+                try:
+                    imdb = movielib.imdb_find_one(title, year)
+                    if imdb:
+                        imdburl = imdb
+                        info['imdblookup'] = '%s %d' % (title, year)
+                except KeyError: # hit this with mojobake and UTF-8 in 'Haxan')
+                    pass
+        if year:
+            info['year'] = year
+        l[imdburl] = info
 
         #print(l[imdburl])
     except urllib2.HTTPError as e:
@@ -38,13 +52,18 @@ def parsepage(l, url):
     return None
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+
     url = "http://vodo.net/films/"
     html = movielib.http_get_read(url)
     root = lxml.html.fromstring(html)
     entries = {}
     for a in root.cssselect("div.sticker a"):
         entryurl = urlparse.urljoin(url, a.attrib['href'])
-        parsepage(entries, entryurl)
+        parsepage(args, entries, entryurl)
     movielib.savelist(entries, 'free-movies-vodo.json')
 
 if __name__ == '__main__':

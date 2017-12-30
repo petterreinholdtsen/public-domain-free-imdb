@@ -70,6 +70,10 @@ The JSON fields are as follows:
 
  * wdurl - link to the wikidata page about the movie.
 
+ * imdblookup - indicate the IMDB title ID is from a IMDB search, not
+   a link found in the source.  The content of the field is the search
+   term used.
+
 Only the 'status' field is required, and the 'freenessurl' field if
 the status is 'free'.  One should try to fill in as many fields as
 possible for easier validation of the field.

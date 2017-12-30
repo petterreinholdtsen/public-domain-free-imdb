@@ -25,19 +25,21 @@ def fetch_movie_list(args, list, url):
             e.cssselect("div.act-holder dl dd")[0].text_content()
         entryurl = urlparse.urljoin(url,
                                     titletag.getparent().attrib['href'])
+        info = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'year' : year,
+            'title' : title,
+            'availability' : availability,
+        }
         ref = entryurl
         if args.imdblookup:
             imdb = movielib.imdb_find_one(title, year)
             if imdb:
                 ref = imdb
+                info['imdblookup'] = '%s %d' % (title, year)
         print title, year, entryurl
-	list[ref] = {
-	    'status' : 'free',
-	    'freenessurl' : entryurl,
-            'year' : year,
-    	    'title' : title,
-            'availability' : availability,
-	}
+        list[ref] = info
         print list[ref]
     return list
 

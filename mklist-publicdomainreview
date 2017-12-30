@@ -57,6 +57,11 @@ def get_movie_list(l, args, urlbase, page=1):
             year = None
         entryurl = urlparse.urljoin(summaryurl,
                                     div.cssselect("h2.entry-title a")[0].attrib['href'])
+        info = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'title' : title,
+        }
         iaurl = get_movie_iaurl(entryurl)
         imdburl = map2imdb(iaurl)
         if imdburl:
@@ -69,20 +74,17 @@ def get_movie_list(l, args, urlbase, page=1):
                     imdburl = movielib.imdb_find_one(title, year)
                     if imdburl:
                         e = imdburl
+                        info['imdblookup'] = '%s %d' % (title, year)
                 except KeyError:
                     # Ignore titles with non-ascii characters, like
                     # http://publicdomainreview.org/collections/growing-things-a-film-lesson-in-nature-study-1928/
                     pass
         if e:
-            l[e] = {
-                'status' : 'free',
-                'freenessurl' : entryurl,
-                'title' : title,
-            }
             if iaurl:
-                l[e]['archive'] = iaurl
+                info['archive'] = iaurl
             if year:
-                l[e]['year'] = year
+                info['year'] = year
+            l[e] = info
             #print l[e]
             count = count + 1
     return count

@@ -34,17 +34,19 @@ def extract_movies(args, l, url):
         if m:
             title = m.group(1)
             year = int(m.group(2))
-            ref = title + '-' + str(year)
-            if args.imdblookup:
-                imdb = movielib.imdb_find_one(title, year)
-                if imdb:
-                    ref = imdb
-            l[ref] = {
+            info = {
                 'status' : 'free',
                 'freenessurl' : url,
                 'title' : title,
                 'year' : year,
             }
+            ref = title + '-' + str(year)
+            if args.imdblookup:
+                imdb = movielib.imdb_find_one(title, year)
+                if imdb:
+                    ref = imdb
+                    info['imdblookup'] = '%s %d' % (title, year)
+            l[ref] = info
     return l
 
 def main():

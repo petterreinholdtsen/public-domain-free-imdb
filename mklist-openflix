@@ -51,6 +51,7 @@ def extract_movies(args, l, genreurl):
                     imdb = movielib.imdb_find_one(info['title'], int(info['year']))
                     if imdb:
                         ref = imdb
+                        info['imdblookup'] = '%s %d' % (info['title'], int(info['year']))
                 except KeyError: # hit this with mojobake and UTF-8 in 'Haxan')
                     pass
             l[ref] = info

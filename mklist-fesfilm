@@ -24,6 +24,11 @@ def fetch_movie_list(args, list, url):
         title = title.replace(u"‘", "'")
         if '' == title: # Skip empty entries
             continue
+        info ={
+            'status' : 'free',
+            'freenessurl' : url,
+            'title' : title,
+        }
         entry = s.getparent()
         entrytext = entry.text_content()
         m = re.search("\((\d{4}).*\)", entrytext)
@@ -37,13 +42,10 @@ def fetch_movie_list(args, list, url):
             imdb = movielib.imdb_find_one(title, year)
             if imdb:
                 ref = imdb
-        list[ref] = {
-            'status' : 'free',
-            'freenessurl' : url,
-            'title' : title,
-        }
+                info['imdblookup'] = '%s %d' % (title, year)
         if year:
-            list[ref]['year'] = year
+            info['year'] = year
+        list[ref] = info
     return list
 
 def get_pd_urllist(url):
