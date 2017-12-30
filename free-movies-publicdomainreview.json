@@ -548,12 +548,14 @@
     "http://www.imdb.com/title/tt0000300/": {
         "archive": "https://archive.org/details/TheEnchantedDrawing1900",
         "freenessurl": "http://publicdomainreview.org/collections/the-enchanted-drawing-1900/",
+        "imdblookup": "The Enchanted Drawing 1900",
         "status": "free",
         "title": "The Enchanted Drawing",
         "year": 1900
     },
     "http://www.imdb.com/title/tt0000349/": {
         "freenessurl": "http://publicdomainreview.org/collections/the-cheese-mites-or-lilliputians-in-a-london-restaurant-1901/",
+        "imdblookup": "The Cheese Mites or, Lilliputians in a London Restaurant 1901",
         "status": "free",
         "title": "The Cheese Mites or, Lilliputians in a London Restaurant",
         "year": 1901
@@ -568,6 +570,7 @@
     "http://www.imdb.com/title/tt0000554/": {
         "archive": "https://archive.org/details/HumorousPhasesOfFunnyFaces",
         "freenessurl": "http://publicdomainreview.org/collections/humorous-phases-of-funny-faces/",
+        "imdblookup": "Humorous Phases Of Funny Faces 1906",
         "status": "free",
         "title": "Humorous Phases Of Funny Faces",
         "year": 1906
@@ -575,6 +578,7 @@
     "http://www.imdb.com/title/tt0001009/": {
         "archive": "https://www.archive.org/details/princess_nicotine_1909",
         "freenessurl": "http://publicdomainreview.org/collections/princess-nicotine-1909/",
+        "imdblookup": "Princess Nicotine 1909",
         "status": "free",
         "title": "Princess Nicotine",
         "year": 1909
@@ -582,6 +586,7 @@
     "http://www.imdb.com/title/tt0002101/": {
         "archive": "https://archive.org/details/Cleopatra_1912",
         "freenessurl": "http://publicdomainreview.org/collections/cleopatra-1912/",
+        "imdblookup": "Cleopatra 1912",
         "status": "free",
         "title": "Cleopatra",
         "year": 1912
@@ -596,6 +601,7 @@
     "http://www.imdb.com/title/tt0004189/": {
         "archive": "https://archive.org/details/CC_1914_02_07_KidsAutoRaceAtVenice",
         "freenessurl": "http://publicdomainreview.org/collections/kid-auto-races-at-venice-1914/",
+        "imdblookup": "Kid Auto Races at Venice 1914",
         "status": "free",
         "title": "Kid Auto Races at Venice",
         "year": 1914
@@ -638,6 +644,7 @@
     "http://www.imdb.com/title/tt0017075/": {
         "archive": "https://www.archive.org/details/TheLodgerAStoryOfTheLondonFog_579",
         "freenessurl": "http://publicdomainreview.org/collections/the-lodger-a-story-of-the-london-fog-1927/",
+        "imdblookup": "The Lodger: A Story of the London Fog 1927",
         "status": "free",
         "title": "The Lodger: A Story of the London Fog",
         "year": 1927
@@ -659,6 +666,7 @@
     "http://www.imdb.com/title/tt0036630/": {
         "archive": "https://www.archive.org/details/battle_of_san_pietro",
         "freenessurl": "http://publicdomainreview.org/collections/the-battle-of-san-pietro-1945/",
+        "imdblookup": "The Battle of San Pietro 1945",
         "status": "free",
         "title": "The Battle of San Pietro",
         "year": 1945
@@ -666,6 +674,7 @@
     "http://www.imdb.com/title/tt0038057/": {
         "archive": "https://www.archive.org/details/ScarletStreet",
         "freenessurl": "http://publicdomainreview.org/collections/scarlet-street-1945/",
+        "imdblookup": "Scarlet Street 1945",
         "status": "free",
         "title": "Scarlet Street",
         "year": 1945
@@ -680,6 +689,7 @@
     "http://www.imdb.com/title/tt0042869/": {
         "archive": "https://www.archive.org/details/Quicksand_clear",
         "freenessurl": "http://publicdomainreview.org/collections/quicksand-1950/",
+        "imdblookup": "Quicksand 1950",
         "status": "free",
         "title": "Quicksand",
         "year": 1950
@@ -687,6 +697,7 @@
     "http://www.imdb.com/title/tt0047542/": {
         "archive": "https://www.archive.org/details/suddenly",
         "freenessurl": "http://publicdomainreview.org/collections/suddenly-1954/",
+        "imdblookup": "Suddenly 1954",
         "status": "free",
         "title": "Suddenly",
         "year": 1954
@@ -701,6 +712,7 @@
     "http://www.imdb.com/title/tt0135180/": {
         "archive": "https://archive.org/details/LeChaudronInfernal#",
         "freenessurl": "http://publicdomainreview.org/collections/the-infernal-cauldron-1903/",
+        "imdblookup": "The Infernal Cauldron 1903",
         "status": "free",
         "title": "The Infernal Cauldron",
         "year": 1903
@@ -708,18 +720,21 @@
     "http://www.imdb.com/title/tt0139738/": {
         "archive": "https://www.archive.org/details/Irwin-RiceKiss",
         "freenessurl": "http://publicdomainreview.org/collections/the-kiss-1896/",
+        "imdblookup": "The Kiss 1896",
         "status": "free",
         "title": "The Kiss",
         "year": 1896
     },
     "http://www.imdb.com/title/tt0166609/": {
         "freenessurl": "http://publicdomainreview.org/collections/the-first-circus-1921/",
+        "imdblookup": "The First Circus 1921",
         "status": "free",
         "title": "The First Circus",
         "year": 1921
     },
     "http://www.imdb.com/title/tt0212411/": {
         "freenessurl": "http://publicdomainreview.org/collections/the-over-incubated-baby-1901/",
+        "imdblookup": "The Over-Incubated Baby 1901",
         "status": "free",
         "title": "The Over-Incubated Baby",
         "year": 1901
@@ -741,12 +756,14 @@
     "http://www.imdb.com/title/tt0235568/": {
         "archive": "https://archive.org/details/ManiacChase1904EdwinS.PorterUsa",
         "freenessurl": "http://publicdomainreview.org/collections/maniac-chase-1904/",
+        "imdblookup": "Maniac Chase 1904",
         "status": "free",
         "title": "Maniac Chase",
         "year": 1904
     },
     "http://www.imdb.com/title/tt0245267/": {
         "freenessurl": "http://publicdomainreview.org/collections/mary-and-gretel-1917/",
+        "imdblookup": "Mary and Gretel 1917",
         "status": "free",
         "title": "Mary and Gretel",
         "year": 1917
@@ -754,6 +771,7 @@
     "http://www.imdb.com/title/tt0273542/": {
         "archive": "https://www.archive.org/details/DogFactory1904EdisonManufacturingCompanyUsa",
         "freenessurl": "http://publicdomainreview.org/collections/dog-factory-1904/",
+        "imdblookup": "Dog Factory 1904",
         "status": "free",
         "title": "Dog Factory",
         "year": 1904
@@ -768,6 +786,7 @@
     "http://www.imdb.com/title/tt0298525/": {
         "archive": "https://archive.org/details/LesRosesMagique",
         "freenessurl": "http://publicdomainreview.org/collections/the-magic-roses-1906/",
+        "imdblookup": "The Magic Roses 1906",
         "status": "free",
         "title": "The Magic Roses",
         "year": 1906
@@ -775,6 +794,7 @@
     "http://www.imdb.com/title/tt0309402/": {
         "archive": "https://www.archive.org/details/SF126",
         "freenessurl": "http://publicdomainreview.org/collections/buffalo-dance-1894/",
+        "imdblookup": "Buffalo Dance 1894",
         "status": "free",
         "title": "Buffalo Dance",
         "year": 1894
@@ -782,6 +802,7 @@
     "http://www.imdb.com/title/tt0324308/": {
         "archive": "https://www.archive.org/details/princess_nicotine_1909",
         "freenessurl": "http://publicdomainreview.org/collections/trapeze-disrobing-act-1901/",
+        "imdblookup": "Trapeze Disrobing Act 1901",
         "status": "free",
         "title": "Trapeze Disrobing Act",
         "year": 1901
@@ -789,6 +810,7 @@
     "http://www.imdb.com/title/tt0334422/": {
         "archive": "https://archive.org/details/StopDriv1959",
         "freenessurl": "http://publicdomainreview.org/collections/stop-driving-us-crazy-1959/",
+        "imdblookup": "Stop Driving Us Crazy! 1959",
         "status": "free",
         "title": "Stop Driving Us Crazy!",
         "year": 1959
@@ -803,6 +825,7 @@
     "http://www.imdb.com/title/tt0409414/": {
         "archive": "https://www.archive.org/details/TheUnappreciatedJoke",
         "freenessurl": "http://publicdomainreview.org/collections/the-unappreciated-joke-1903/",
+        "imdblookup": "The Unappreciated Joke 1903",
         "status": "free",
         "title": "The Unappreciated Joke",
         "year": 1903
@@ -817,6 +840,7 @@
     "http://www.imdb.com/title/tt0496925/": {
         "archive": "https://archive.org/details/Alcohola1949",
         "freenessurl": "http://publicdomainreview.org/collections/alcohol-and-the-human-body-1949/",
+        "imdblookup": "Alcohol and the Human Body 1949",
         "status": "free",
         "title": "Alcohol and the Human Body",
         "year": 1949
@@ -831,6 +855,7 @@
     "http://www.imdb.com/title/tt1393735/": {
         "archive": "https://archive.org/details/HowtoUse1927",
         "freenessurl": "http://publicdomainreview.org/collections/how-to-use-the-dial-telephone-1927/",
+        "imdblookup": "How to use the Dial Telephone 1927",
         "status": "free",
         "title": "How to use the Dial Telephone",
         "year": 1927
@@ -838,6 +863,7 @@
     "http://www.imdb.com/title/tt1708438/": {
         "archive": "https://archive.org/details/RelaxedW1957",
         "freenessurl": "http://publicdomainreview.org/collections/the-relaxed-wife-1957/",
+        "imdblookup": "The Relaxed Wife 1957",
         "status": "free",
         "title": "The Relaxed Wife",
         "year": 1957
@@ -845,6 +871,7 @@
     "http://www.imdb.com/title/tt3487952/": {
         "archive": "https://archive.org/details/Despotis1946",
         "freenessurl": "http://publicdomainreview.org/collections/despotism-1946/",
+        "imdblookup": "Despotism 1946",
         "status": "free",
         "title": "Despotism",
         "year": 1946
@@ -852,6 +879,7 @@
     "http://www.imdb.com/title/tt5147384/": {
         "archive": "https://archive.org/details/ParkCons1938",
         "freenessurl": "http://publicdomainreview.org/collections/park-conscious-1938/",
+        "imdblookup": "Park Conscious 1938",
         "status": "free",
         "title": "Park Conscious",
         "year": 1938
@@ -859,6 +887,7 @@
     "http://www.imdb.com/title/tt7386782/": {
         "archive": "https://archive.org/details/CEP_00_071",
         "freenessurl": "http://publicdomainreview.org/collections/operation-cue-1955/",
+        "imdblookup": "Operation Cue 1955",
         "status": "free",
         "title": "Operation Cue",
         "year": 1955

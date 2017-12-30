@@ -2,6 +2,7 @@
     "http://www.imdb.com/title/tt0004026/": {
         "country": "Germany",
         "freenessurl": "http://www.openflix.com/genre/monster.html",
+        "imdblookup": "Golem, Der 1915",
         "language": "German",
         "status": "free",
         "title": "Golem, Der",
@@ -10,6 +11,7 @@
     "http://www.imdb.com/title/tt0013086/": {
         "country": "Germany",
         "freenessurl": "http://www.openflix.com/genre/thriller.html",
+        "imdblookup": "Dr Mabuse 1922",
         "language": "German",
         "status": "free",
         "title": "Dr Mabuse",
@@ -18,6 +20,7 @@
     "http://www.imdb.com/title/tt0016654/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/adventure.html",
+        "imdblookup": "Black Pirate, The 1926",
         "language": "English",
         "status": "free",
         "title": "Black Pirate, The",
@@ -26,6 +29,7 @@
     "http://www.imdb.com/title/tt0019421/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/comedy.html",
+        "imdblookup": "Steamboat Bill Jr. 1928",
         "language": "English",
         "status": "free",
         "title": "Steamboat Bill Jr.",
@@ -34,6 +38,7 @@
     "http://www.imdb.com/title/tt0020673/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/adventure.html",
+        "imdblookup": "Beau Ideal 1931",
         "language": "English",
         "status": "free",
         "title": "Beau Ideal",
@@ -42,6 +47,7 @@
     "http://www.imdb.com/title/tt0021374/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/drama.html",
+        "imdblookup": "Silver Horde, The 1930",
         "language": "English",
         "status": "free",
         "title": "Silver Horde, The",
@@ -50,6 +56,7 @@
     "http://www.imdb.com/title/tt0022326/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/comedy.html",
+        "imdblookup": "Royal Bed, The 1931",
         "language": "English",
         "status": "free",
         "title": "Royal Bed, The",
@@ -58,6 +65,7 @@
     "http://www.imdb.com/title/tt0022879/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/war.html",
+        "imdblookup": "Farewell to Arms, A 1932",
         "language": "English",
         "status": "free",
         "title": "Farewell to Arms, A",
@@ -66,6 +74,7 @@
     "http://www.imdb.com/title/tt0023498/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/comedy.html",
+        "imdblookup": "Speak Easily 1932",
         "language": "English",
         "status": "free",
         "title": "Speak Easily",
@@ -74,6 +83,7 @@
     "http://www.imdb.com/title/tt0024500/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Riders of Destiny 1933",
         "language": "English",
         "status": "free",
         "title": "Riders of Destiny",
@@ -82,6 +92,7 @@
     "http://www.imdb.com/title/tt0024902/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Blue Steel 1934",
         "language": "English",
         "status": "free",
         "title": "Blue Steel",
@@ -90,6 +101,7 @@
     "http://www.imdb.com/title/tt0025455/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Man From Utah, The 1934",
         "language": "English",
         "status": "free",
         "title": "Man From Utah, The",
@@ -98,6 +110,7 @@
     "http://www.imdb.com/title/tt0025699/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Randy Rides Alone 1934",
         "language": "English",
         "status": "free",
         "title": "Randy Rides Alone",
@@ -106,6 +119,7 @@
     "http://www.imdb.com/title/tt0025830/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Star Packer, The 1934",
         "language": "English",
         "status": "free",
         "title": "Star Packer, The",
@@ -114,6 +128,7 @@
     "http://www.imdb.com/title/tt0025903/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Trail Beyond, The 1934",
         "language": "English",
         "status": "free",
         "title": "Trail Beyond, The",
@@ -122,6 +137,7 @@
     "http://www.imdb.com/title/tt0027697/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Great Guy 1936",
         "language": "English",
         "status": "free",
         "title": "Great Guy",
@@ -130,6 +146,7 @@
     "http://www.imdb.com/title/tt0028510/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Winds of the Wasteland 1936",
         "language": "English",
         "status": "free",
         "title": "Winds of the Wasteland",
@@ -138,6 +155,7 @@
     "http://www.imdb.com/title/tt0028511/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/drama.html",
+        "imdblookup": "Winterset 1936",
         "language": "English",
         "status": "free",
         "title": "Winterset",
@@ -146,6 +164,7 @@
     "http://www.imdb.com/title/tt0031322/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/comedy.html",
+        "imdblookup": "Flying Deuces, The 1939",
         "language": "English",
         "status": "free",
         "title": "Flying Deuces, The",
@@ -154,6 +173,7 @@
     "http://www.imdb.com/title/tt0031971/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Stagecoach 1939",
         "language": "English",
         "status": "free",
         "title": "Stagecoach",
@@ -162,6 +182,7 @@
     "http://www.imdb.com/title/tt0032762/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Mark of Zorro, The 1940",
         "language": "English",
         "status": "free",
         "title": "Mark of Zorro, The",
@@ -170,6 +191,7 @@
     "http://www.imdb.com/title/tt0033367/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Bad Man Of Deadwood 1941",
         "language": "English",
         "status": "free",
         "title": "Bad Man Of Deadwood",
@@ -178,6 +200,7 @@
     "http://www.imdb.com/title/tt0034242/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/thriller.html",
+        "imdblookup": "Sundown 1941",
         "language": "English",
         "status": "free",
         "title": "Sundown",
@@ -186,6 +209,7 @@
     "http://www.imdb.com/title/tt0034486/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/comedy.html",
+        "imdblookup": "Baby Face Morgan 1942",
         "language": "English",
         "status": "free",
         "title": "Baby Face Morgan",
@@ -194,6 +218,7 @@
     "http://www.imdb.com/title/tt0037638/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Detour 1945",
         "language": "English",
         "status": "free",
         "title": "Detour",
@@ -202,6 +227,7 @@
     "http://www.imdb.com/title/tt0038057/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Scarlet Street 1945",
         "language": "English",
         "status": "free",
         "title": "Scarlet Street",
@@ -210,6 +236,7 @@
     "http://www.imdb.com/title/tt0038107/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/drama.html",
+        "imdblookup": "Southerner, The 1945",
         "language": "English",
         "status": "free",
         "title": "Southerner, The",
@@ -218,6 +245,7 @@
     "http://www.imdb.com/title/tt0038235/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/war.html",
+        "imdblookup": "Walk in the Sun, A 1945",
         "language": "English",
         "status": "free",
         "title": "Walk in the Sun, A",
@@ -226,6 +254,7 @@
     "http://www.imdb.com/title/tt0038284/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Abilene Town 1946",
         "language": "English",
         "status": "free",
         "title": "Abilene Town",
@@ -234,6 +263,7 @@
     "http://www.imdb.com/title/tt0038988/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Strange Love of Martha Ivers, The 1946",
         "language": "English",
         "status": "free",
         "title": "Strange Love of Martha Ivers, The",
@@ -242,6 +272,7 @@
     "http://www.imdb.com/title/tt0039757/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Red House, The 1947",
         "language": "English",
         "status": "free",
         "title": "Red House, The",
@@ -250,6 +281,7 @@
     "http://www.imdb.com/title/tt0040829/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/horror.html",
+        "imdblookup": "Amazing Mr X, The 1948",
         "language": "English",
         "status": "free",
         "title": "Amazing Mr X, The",
@@ -258,6 +290,7 @@
     "http://www.imdb.com/title/tt0041426/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/drama.html",
+        "imdblookup": "Great Dan Patch, The 1949",
         "language": "English",
         "status": "free",
         "title": "Great Dan Patch, The",
@@ -266,6 +299,7 @@
     "http://www.imdb.com/title/tt0041503/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Impact 1949",
         "language": "English",
         "status": "free",
         "title": "Impact",
@@ -274,6 +308,7 @@
     "http://www.imdb.com/title/tt0041994/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/romance.html",
+        "imdblookup": "Tulsa 1949",
         "language": "English",
         "status": "free",
         "title": "Tulsa",
@@ -282,6 +317,7 @@
     "http://www.imdb.com/title/tt0042249/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/war.html",
+        "imdblookup": "Big Lift, The 1950",
         "language": "English",
         "status": "free",
         "title": "Big Lift, The",
@@ -290,6 +326,7 @@
     "http://www.imdb.com/title/tt0043895/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/children~&~family.html",
+        "imdblookup": "Painted Hills, The 1951",
         "language": "English",
         "status": "free",
         "title": "Painted Hills, The",
@@ -298,6 +335,7 @@
     "http://www.imdb.com/title/tt0044186/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Vengeance Valley 1951",
         "language": "English",
         "status": "free",
         "title": "Vengeance Valley",
@@ -306,6 +344,7 @@
     "http://www.imdb.com/title/tt0044400/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/western.html",
+        "imdblookup": "Battles Of Chief Pontiac 1952",
         "language": "English",
         "status": "free",
         "title": "Battles Of Chief Pontiac",
@@ -314,6 +353,7 @@
     "http://www.imdb.com/title/tt0044420/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/drama.html",
+        "imdblookup": "Big Trees, The 1952",
         "language": "English",
         "status": "free",
         "title": "Big Trees, The",
@@ -322,6 +362,7 @@
     "http://www.imdb.com/title/tt0047542/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/film-noir.html",
+        "imdblookup": "Suddenly 1954",
         "language": "English",
         "status": "free",
         "title": "Suddenly",
@@ -330,6 +371,7 @@
     "http://www.imdb.com/title/tt0076150/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/horror.html",
+        "imdblookup": "Communion 1976",
         "language": "English",
         "status": "free",
         "title": "Communion",
@@ -338,6 +380,7 @@
     "http://www.imdb.com/title/tt0168492/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/war.html",
+        "imdblookup": "Battle of Blood Island 1960",
         "language": "English",
         "status": "free",
         "title": "Battle of Blood Island",
@@ -346,6 +389,7 @@
     "http://www.imdb.com/title/tt5503754/": {
         "country": "USA",
         "freenessurl": "http://www.openflix.com/genre/war.html",
+        "imdblookup": "General, The 1927",
         "language": "English",
         "status": "free",
         "title": "General, The",
