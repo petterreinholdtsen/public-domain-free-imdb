@@ -182,6 +182,14 @@
         "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett",
 	"year" : 1913
     },
+    "http://www.imdb.com/title/tt0006177/": {
+        "archive": "https://archive.org/details/TheTramp1915",
+        "freenessurl": "https://archive.org/details/THETRAMP1915CharlieChaplinEdnaPurviance",
+        "status": "free",
+        "title": "The Tramp",
+        "wdurl": "http://www.wikidata.org/entity/Q641474",
+        "year": "1915"
+    },
     "http://www.imdb.com/title/tt0007361/": {
 	"status" : "free",
 	"freenessurl" : "https://upload.wikimedia.org/wikipedia/commons/9/9a/Snow_White_%281916%29.webm",
@@ -1013,6 +1021,14 @@
 	"freenessurl" : "https://archive.org/details/CrossroadsBlues_EnglishVersion",
 	"title" : "Crossroads Blues",
 	"year" : 2010
+    },
+    "http://www.imdb.com/title/tt1825163/": {
+        "archive" : "https://archive.org/details/PlannedObsolescenceDocumentary",
+        "freenessurl": "https://archive.org/details/PretAJeterLobsolescenceProgrammee",
+        "status": "free",
+        "title": "The Light Bulb Conspiracy",
+        "wdurl": "http://www.wikidata.org/entity/Q774474",
+        "year": "2010"
     },
     "http://www.imdb.com/title/tt1553290/": {
         "freenessurl": "http://vodo.net/theundergroundmultiplex/scumbabies/",
