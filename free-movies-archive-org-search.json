@@ -746,9 +746,10 @@
         "year": "1915"
     },
     "http://www.imdb.com/title/tt0006177/": {
+        "archive": "https://archive.org/details/TheTramp1915",
         "freenessurl": "https://archive.org/details/THETRAMP1915CharlieChaplinEdnaPurviance",
         "status": "free",
-        "title": "THE TRAMP ( 1915) Charlie Chaplin, Edna Purviance"
+        "title": "Charlie Chaplin's \"The Tramp\" (1915)"
     },
     "http://www.imdb.com/title/tt0006206/": {
         "archive": "https://archive.org/details/lesVampires1915Episode10-theTerribleWedding",
@@ -798,6 +799,7 @@
         "year": "1916"
     },
     "http://www.imdb.com/title/tt0006562/": {
+        "archive": "https://archive.org/details/THEDANGERGIRL1916GloriaSwansonBobbyVernon",
         "freenessurl": "https://archive.org/details/GloriaSwanson1916",
         "status": "free",
         "title": "Gloria Swanson 1916"
@@ -44199,6 +44201,11 @@
         "status": "free",
         "title": "\"Beauty's Worth\" (1922) starring Marion Davies"
     },
+    "https://archive.org/details/MyMovie_201801": {
+        "freenessurl": "https://archive.org/details/MyMovie_201801",
+        "status": "free",
+        "title": "\"Our Hospitality\" (1923) starring Buster Keaton and Joe Roberts"
+    },
     "https://archive.org/details/MySpiritBeJoyful": {
         "freenessurl": "https://archive.org/details/MySpiritBeJoyful",
         "status": "free",
@@ -52864,11 +52871,6 @@
         "freenessurl": "https://archive.org/details/THECHAMPION1915CharlieChaplinEdnaPurviance",
         "status": "free",
         "title": "THE CHAMPION ( 1915) Charlie Chaplin, Edna Purviance"
-    },
-    "https://archive.org/details/THEDANGERGIRL1916GloriaSwansonBobbyVernon": {
-        "freenessurl": "https://archive.org/details/THEDANGERGIRL1916GloriaSwansonBobbyVernon",
-        "status": "free",
-        "title": "THE DANGER GIRL ( 1916) Gloria Swanson, Bobby Vernon"
     },
     "https://archive.org/details/THEDUCHESSOFBUFFALO1926ConstanceTalmadge": {
         "freenessurl": "https://archive.org/details/THEDUCHESSOFBUFFALO1926ConstanceTalmadge",
