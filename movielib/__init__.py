@@ -79,6 +79,13 @@ def test_wikipedia_lookup():
             print(imdburl)
         else:
             print("Error %s" % line)
+    urls = [
+        "https://en.wikipedia.org/wiki/D.O.A._%281950_film%29",
+        "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
+        "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
+    ]
+    for url in urls:
+        print(wikipedia_lookup(url))
 
 def imdb_url_clean(url):
     url = url.replace('/us.imdb.com/', '/www.imdb.com/')
@@ -88,7 +95,7 @@ def imdb_url_clean(url):
 
 def wikipedia_lookup(wpurl):
     m = re.search('^(https?://[^/]+)/wiki/(.+)', wpurl, re.IGNORECASE)
-    print m.group(1)
+    #print m.group(1)
     if -1 != m.group(1).find('wikipedia.org'):
         url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
     else:
@@ -97,7 +104,12 @@ def wikipedia_lookup(wpurl):
     text = http_get_read(url)
     info = {}
     for line in text.split("\n"):
-        #print line
+        print line
+        m = re.search('#REDIRECT \[\[(.+)\]\]', line)
+        if m:
+            print m.group(1)
+            newurl = urlparse.urljoin(wpurl, m.group(1).replace(" ", "_"))
+            return wikipedia_lookup(newurl)
         if -1 != line.lower().find('{{imdb title'):
             m = re.search("\* ?{{IMDb title *\| *(id *=)?(tt)?(\d+) *(\|?.+}})?",
                           line, re.IGNORECASE)
