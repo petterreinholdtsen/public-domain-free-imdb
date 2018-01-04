@@ -1,37 +1,9 @@
 {
-    "http://publicdomainmovies.info/brain-wouldnt-die-full-movie/": {
-        "freenessurl": "http://publicdomainmovies.info/brain-wouldnt-die-full-movie/",
-        "status": "free",
-        "title": "The Brain That Wouldn\u2019t Die \u2013 Full Movie",
-        "wp": "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
-        "year": 1962
-    },
-    "http://publicdomainmovies.info/d-o-a-1949/": {
-        "freenessurl": "http://publicdomainmovies.info/d-o-a-1949/",
-        "status": "free",
-        "title": "D.O.A. (1949)",
-        "wp": "https://en.wikipedia.org/wiki/D.O.A._%281950_film%29",
-        "year": 1949
-    },
     "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/": {
         "freenessurl": "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/",
         "status": "free",
         "title": "The Hurricane Express, 1932 (serial) Chapter 1: The Wrecker starring John Wayne",
         "year": 1932
-    },
-    "http://publicdomainmovies.info/leopard-woman-1920/": {
-        "freenessurl": "http://publicdomainmovies.info/leopard-woman-1920/",
-        "status": "free",
-        "title": "The Leopard Woman, 1920",
-        "wp": "https://en.wikipedia.org/wiki/The_Leopard_Woman",
-        "year": 1920
-    },
-    "http://publicdomainmovies.info/lonely-wives-full-movie/": {
-        "freenessurl": "http://publicdomainmovies.info/lonely-wives-full-movie/",
-        "status": "free",
-        "title": "Lonely Wives \u2013 full movie",
-        "wp": "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
-        "year": 1931
     },
     "http://www.imdb.com/title/tt0000417/": {
         "freenessurl": "http://publicdomainmovies.info/trip-moon-georges-melies-1902/",
@@ -310,6 +282,13 @@
         "status": "free",
         "title": "The Last of the Mohicans (1920 American film)",
         "wp": "https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans_(1920_American_film)",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011396/": {
+        "freenessurl": "http://publicdomainmovies.info/leopard-woman-1920/",
+        "status": "free",
+        "title": "The Leopard Woman, 1920",
+        "wp": "https://en.wikipedia.org/wiki/The_Leopard_Woman",
         "year": 1920
     },
     "http://www.imdb.com/title/tt0011439/": {
@@ -695,6 +674,13 @@
         "status": "free",
         "title": "Kept Husbands, 1931",
         "wp": "https://en.wikipedia.org/wiki/Kept_Husbands",
+        "year": 1931
+    },
+    "http://www.imdb.com/title/tt0022086/": {
+        "freenessurl": "http://publicdomainmovies.info/lonely-wives-full-movie/",
+        "status": "free",
+        "title": "Lonely Wives \u2013 full movie",
+        "wp": "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
         "year": 1931
     },
     "http://www.imdb.com/title/tt0022628/": {
@@ -1201,6 +1187,13 @@
         "wp": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(1950_film)",
         "year": 1950
     },
+    "http://www.imdb.com/title/tt0042369/": {
+        "freenessurl": "http://publicdomainmovies.info/d-o-a-1949/",
+        "status": "free",
+        "title": "D.O.A. (1949)",
+        "wp": "https://en.wikipedia.org/wiki/D.O.A._%281950_film%29",
+        "year": 1949
+    },
     "http://www.imdb.com/title/tt0043526/": {
         "freenessurl": "http://publicdomainmovies.info/fathers-little-dividend-1951-starring-spencer-tracy-joan-bennett-elizabeth-taylor/",
         "status": "free",
@@ -1312,6 +1305,13 @@
         "title": "Plan 9 from Outer Space (1959) \u2013 \u201cworst movie ever made\u201d, starring Bela Lugosi",
         "wp": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space",
         "year": 1959
+    },
+    "http://www.imdb.com/title/tt0052646/": {
+        "freenessurl": "http://publicdomainmovies.info/brain-wouldnt-die-full-movie/",
+        "status": "free",
+        "title": "The Brain That Wouldn\u2019t Die \u2013 Full Movie",
+        "wp": "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
+        "year": 1962
     },
     "http://www.imdb.com/title/tt0053337/": {
         "freenessurl": "http://publicdomainmovies.info/teenagers-outer-space/",
