@@ -1,10 +1,37 @@
 {
-    "http://www.imdb.com/title/tt0052646/": {
+    "http://publicdomainmovies.info/brain-wouldnt-die-full-movie/": {
         "freenessurl": "http://publicdomainmovies.info/brain-wouldnt-die-full-movie/",
         "status": "free",
         "title": "The Brain That Wouldn\u2019t Die \u2013 Full Movie",
         "wp": "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
         "year": 1962
+    },
+    "http://publicdomainmovies.info/d-o-a-1949/": {
+        "freenessurl": "http://publicdomainmovies.info/d-o-a-1949/",
+        "status": "free",
+        "title": "D.O.A. (1949)",
+        "wp": "https://en.wikipedia.org/wiki/D.O.A._%281950_film%29",
+        "year": 1949
+    },
+    "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/": {
+        "freenessurl": "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/",
+        "status": "free",
+        "title": "The Hurricane Express, 1932 (serial) Chapter 1: The Wrecker starring John Wayne",
+        "year": 1932
+    },
+    "http://publicdomainmovies.info/leopard-woman-1920/": {
+        "freenessurl": "http://publicdomainmovies.info/leopard-woman-1920/",
+        "status": "free",
+        "title": "The Leopard Woman, 1920",
+        "wp": "https://en.wikipedia.org/wiki/The_Leopard_Woman",
+        "year": 1920
+    },
+    "http://publicdomainmovies.info/lonely-wives-full-movie/": {
+        "freenessurl": "http://publicdomainmovies.info/lonely-wives-full-movie/",
+        "status": "free",
+        "title": "Lonely Wives \u2013 full movie",
+        "wp": "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
+        "year": 1931
     },
     "http://www.imdb.com/title/tt0000417/": {
         "freenessurl": "http://publicdomainmovies.info/trip-moon-georges-melies-1902/",
@@ -306,6 +333,20 @@
         "wp": "https://en.wikipedia.org/wiki/The_Ace_of_Hearts_(1921_film)",
         "year": 1921
     },
+    "http://www.imdb.com/title/tt0012027/": {
+        "freenessurl": "http://publicdomainmovies.info/camille-1921-film-starring-alla-nazimova-rudolph-valentino/",
+        "status": "free",
+        "title": "Camille, 1921 film starring Alla Nazimova and Rudolph Valentino",
+        "wp": "https://en.wikipedia.org/wiki/Camille_(1921_film)",
+        "year": 1921
+    },
+    "http://www.imdb.com/title/tt0012068/": {
+        "freenessurl": "http://publicdomainmovies.info/conquering-power-1921-starring-rudolph-valentino/",
+        "status": "free",
+        "title": "The Conquering Power, 1921 starring Rudolph Valentino",
+        "wp": "https://en.wikipedia.org/wiki/The_Conquering_Power",
+        "year": 1921
+    },
     "http://www.imdb.com/title/tt0012122/": {
         "freenessurl": "http://publicdomainmovies.info/dream-street-1921-directed-d-w-griffith/",
         "status": "free",
@@ -523,6 +564,13 @@
         "wp": "https://en.wikipedia.org/wiki/Smouldering_Fires_(film)",
         "year": 1925
     },
+    "http://www.imdb.com/title/tt0016545/": {
+        "freenessurl": "http://publicdomainmovies.info/wolf-blood-1925/",
+        "status": "free",
+        "title": "Wolf Blood, 1925",
+        "wp": "https://en.wikipedia.org/wiki/Wolf_Blood",
+        "year": 1925
+    },
     "http://www.imdb.com/title/tt0016629/": {
         "freenessurl": "http://publicdomainmovies.info/bat-1926-film/",
         "status": "free",
@@ -684,6 +732,13 @@
         "wp": "https://en.wikipedia.org/wiki/Rain_(1932_film)",
         "year": 1932
     },
+    "http://www.imdb.com/title/tt0023498/": {
+        "freenessurl": "http://publicdomainmovies.info/speak-easily-1932-starring-buster-keaton/",
+        "status": "free",
+        "title": "Speak Easily, 1932 starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/Speak_Easily",
+        "year": 1932
+    },
     "http://www.imdb.com/title/tt0023694/": {
         "freenessurl": "http://publicdomainmovies.info/white-zombie-full-movie-1932-bela-lugosi/",
         "status": "free",
@@ -710,6 +765,13 @@
         "status": "free",
         "title": "Blue Steel (1934), film with John Wayne as U.S. Marshal",
         "wp": "https://en.wikipedia.org/wiki/Blue_Steel_(1934_film)",
+        "year": 1934
+    },
+    "http://www.imdb.com/title/tt0025373/": {
+        "freenessurl": "http://publicdomainmovies.info/lawless-frontier-1934-starring-john-wayne/",
+        "status": "free",
+        "title": "The Lawless Frontier, 1934 starring John Wayne",
+        "wp": "https://en.wikipedia.org/wiki/The_Lawless_Frontier",
         "year": 1934
     },
     "http://www.imdb.com/title/tt0025440/": {
@@ -794,6 +856,13 @@
         "status": "free",
         "title": "Reefer Madness, \u201cone of the worst films ever made\u201d",
         "wp": "https://en.wikipedia.org/wiki/Reefer_Madness",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028444/": {
+        "freenessurl": "http://publicdomainmovies.info/undersea-kingdom-1936-serial-chapter-1-beneath-ocean-floor/",
+        "status": "free",
+        "title": "Undersea Kingdom, 1936 (serial) Chapter 1: Beneath the Ocean Floor",
+        "wp": "https://en.wikipedia.org/wiki/Undersea_Kingdom",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028785/": {
@@ -1328,13 +1397,6 @@
         "wp": "https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(1964_film)",
         "year": 1964
     },
-    "http://www.imdb.com/title/tt0060666/": {
-        "freenessurl": "http://publicdomainmovies.info/manos-hands-fate-1966/",
-        "status": "free",
-        "title": "Manos: The Hands of Fate, 1966",
-        "wp": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate",
-        "year": 1966
-    },
     "http://www.imdb.com/title/tt0063350/": {
         "freenessurl": "http://publicdomainmovies.info/night-of-the-living-dead-1968/",
         "status": "free",
@@ -1382,6 +1444,13 @@
         "title": "Last Clear Chance (1959)",
         "wp": "https://en.wikipedia.org/wiki/Last_Clear_Chance",
         "year": 1959
+    },
+    "http://www.imdb.com/title/tt0757564/": {
+        "freenessurl": "http://publicdomainmovies.info/manos-hands-fate-1966/",
+        "status": "free",
+        "title": "Manos: The Hands of Fate, 1966",
+        "wp": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate",
+        "year": 1966
     },
     "http://www.imdb.com/title/tt0881291/": {
         "freenessurl": "http://publicdomainmovies.info/japan-1945-propaganda-film/",
