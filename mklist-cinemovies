@@ -1,0 +1,168 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Fetch list of movies listed on CineMovies.  It should only include
+public domain movies.
+
+More information on the site (since renamed from Moovies), is
+available from
+http://caferoxy.blogspot.no/2010/06/free-moovies-online.html.
+
+"""
+
+import argparse
+import json
+import lxml.html
+import movielib
+import re
+import urllib2
+
+def got_movie(l, ref):
+    if ref in l:
+        return True
+    else:
+        for e in l.keys():
+            if ref == l[e]['freenessurl']:
+                return True
+    return False
+
+def process_genre_page(args, l, root):
+    for m in root.cssselect("article.movies"):
+        entryurl = m.cssselect("a[href]")[0].attrib['href']
+        if got_movie(l, entryurl):
+            return
+        title = m.cssselect('img[src]')[0].attrib['alt']
+        title = title.replace(u'’', "'")
+        title = title.replace(u'‘', "'")
+        title = title.replace(u'–', "-")
+        year = None
+        for mspan in m.cssselect('div.metadata span'):
+            m = re.search("(\d{4})", mspan.text_content())
+            if m:
+                year = int(m.group(1))
+        print title, year, entryurl
+        info = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'title' : title,
+            'year' : year,
+        }
+        ref = entryurl
+        if args.imdblookup:
+            imdb = movielib.imdb_find_one(title, year)
+            if imdb:
+                ref = imdb
+                info['imdblookup'] = '%s %d' % (title, year)
+        l[ref] = info
+
+def fetch_movie_genre(args, l, url):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    process_genre_page(args, l, root)
+    
+    maxpage = None
+    p = root.cssselect('div.pagination span')
+    if p:
+        m = re.search("Page \d+ of (\d+)", p[0].text_content())
+        if m:
+            maxpage = int(m.group(1))
+    if 1 < maxpage:
+        for page in range(2, maxpage+1):
+            pageurl = url + "/page/%d/" % page
+            print pageurl
+            try:
+                root = lxml.html.fromstring(movielib.http_get_read(pageurl))
+            except urllib2.HTTPError as e:
+                return None
+            process_genre_page(args, l, root)
+    return l
+
+def fetch_json_list(args, l):
+    #term = '09' a-z
+    terms = ['09']
+    terms.extend(map(chr, xrange(ord('a'), ord('z'))))
+    for term in terms:
+        for type in ['movies', 'tvshows']:
+            url = 'https://www.cinemovies.video/wp-json/dooplay/glossary/?term=%s&nonce=834d14234c&type=%s' % (term, type)
+            s = movielib.http_get_read(url)
+            j = json.loads(s)
+            if u'error' in j:
+                continue
+            #print j
+            for id in j.keys():
+                if got_movie(l, j[id]['url']):
+                    continue
+                title = j[id]['title']
+                info = {
+                    'title'       : title,
+                    'status'      : 'free',
+                    'freenessurl' : j[id]['url'],
+                }
+                if 'year' in j[id]:
+                    # try/except as workaround for year == '02-1'
+                    try:
+                        year =  int(j[id]['year'])
+                        info['year'] = year
+                    except ValueError:
+                        year = None
+                else:
+                    year = None
+                ref = j[id]['url']
+                if args.imdblookup:
+                    imdb = movielib.imdb_find_one(title, year)
+                    if imdb:
+                        ref = imdb
+                        info['imdblookup'] = '%s %d' % (title, year)
+                l[ref] = info
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    
+    # First fetch what can be fetched using a JSON source
+    l = {}
+    fetch_json_list(args, l)
+
+    # Next, scrape the rest using the genre pages 
+    genres = [
+        "animation",
+        "action",
+        "action-adventure",
+        "animated-feature",
+        "comedy",
+        "crime",
+        "documentary",
+        "drama",
+        "family",
+        "fantasy",
+        "foreign",
+        "history",
+        "horror",
+        "kids",
+        "martial-arts",
+        "music",
+        "mystery",
+        "religious",
+        "romance",
+        "science-fiction",
+        "serial",
+        "short",
+        "silent",
+        "thriller",
+        "tv-movie",
+        "tv-series",
+        "war",
+        "western",
+        "xmas",
+    ]
+    for g in genres:
+        genreurl = "https://www.cinemovies.video/genre/%s/" % g
+        print genreurl
+        l = fetch_movie_genre(args, l, genreurl)
+    movielib.savelist(l, name='free-movies-cinemovies.json')
+
+if __name__ == '__main__':
+    main()
