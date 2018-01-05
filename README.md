@@ -82,6 +82,10 @@ The file `free-movies-manual.json` is manually generated, to have a
 place to store the status of free movies that are currently missing in
 the automatically generated lists.
 
+A complete list of IMDb title IDs can be downloaded from
+[IMDb](https://datasets.imdbws.com/).  Details about the format is
+available [on the IMDb interface page](http://www.imdb.com/interfaces/).
+
 Copyright terms / license
 -------------------------
 
