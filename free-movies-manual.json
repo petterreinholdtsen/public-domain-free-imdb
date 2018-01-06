@@ -402,6 +402,12 @@
 	"title" : "Shuteye Popeye",
 	"year" : 1952
     },
+    "http://www.imdb.com/title/tt0498131/": {
+        "freenessurl": "https://archive.org/details/what_makes_us_tick",
+        "status": "free",
+        "title": "What Makes us Tick",
+        "year": "1952"
+    },
     "http://www.imdb.com/title/tt0401091/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/a_is_for_atom",
@@ -1446,6 +1452,14 @@
         "archive2": "https://archive.org/details/EagleinaCage_201410",
         "title": "Eagle in a Cage",
         "year": "1972"
+    },
+    "http://www.imdb.com/title/tt0070908/": {
+        "freenessurl": "https://archive.org/details/Werewolf_of_Washington",
+        "archive" : "https://archive.org/details/werewolf_of_washington_201511",
+        "status": "free",
+        "title": "The Werewolf of Washington",
+        "wdurl": "http://www.wikidata.org/entity/Q1198035",
+        "year": "1973"
     },
     "http://www.imdb.com/title/tt1265599/": {
         "status": "free",
