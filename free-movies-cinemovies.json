@@ -27,6 +27,13 @@
         "title": "Gentlemen of Nerve",
         "year": 1914
     },
+    "http://www.imdb.com/title/tt0004026/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-golem/",
+        "imdblookup": "The Golem 1915",
+        "status": "free",
+        "title": "The Golem",
+        "year": 1915
+    },
     "http://www.imdb.com/title/tt0004100/": {
         "freenessurl": "https://www.cinemovies.video/movies/his-musical-career/",
         "imdblookup": "His Musical Career 1914",
@@ -41,32 +48,11 @@
         "title": "His New Profession",
         "year": 1914
     },
-    "http://www.imdb.com/title/tt0004194/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-knockout/",
-        "imdblookup": "The Knockout 1914",
-        "status": "free",
-        "title": "The Knockout",
-        "year": 1914
-    },
     "http://www.imdb.com/title/tt0004282/": {
         "freenessurl": "https://www.cinemovies.video/movies/mabels-married-life/",
         "imdblookup": "Mabel's Married Life 1914",
         "status": "free",
         "title": "Mabel's Married Life",
-        "year": 1914
-    },
-    "http://www.imdb.com/title/tt0004284/": {
-        "freenessurl": "https://www.cinemovies.video/movies/mabels-strange-predicament/",
-        "imdblookup": "Mabel's Strange Predicament 1914",
-        "status": "free",
-        "title": "Mabel's Strange Predicament",
-        "year": 1914
-    },
-    "http://www.imdb.com/title/tt0004546/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-rounders/",
-        "imdblookup": "The Rounders 1914",
-        "status": "free",
-        "title": "The Rounders",
         "year": 1914
     },
     "http://www.imdb.com/title/tt0005077/": {
@@ -76,26 +62,26 @@
         "title": "Burlesque on Carmen",
         "year": 1915
     },
-    "http://www.imdb.com/title/tt0005571/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-jitney-elopement/",
-        "imdblookup": "A Jitney Elopement 1915",
-        "status": "free",
-        "title": "A Jitney Elopement",
-        "year": 1915
-    },
-    "http://www.imdb.com/title/tt0005812/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-night-in-the-show/",
-        "imdblookup": "A Night in the Show 1915",
-        "status": "free",
-        "title": "A Night in the Show",
-        "year": 1915
-    },
     "http://www.imdb.com/title/tt0008874/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-bell-boy/",
         "imdblookup": "The Bell Boy 1918",
         "status": "free",
         "title": "The Bell Boy",
         "year": 1918
+    },
+    "http://www.imdb.com/title/tt0009887/": {
+        "freenessurl": "https://www.cinemovies.video/movies/ask-father/",
+        "imdblookup": "Ask Father 1919",
+        "status": "free",
+        "title": "Ask Father",
+        "year": 1919
+    },
+    "http://www.imdb.com/title/tt0009973/": {
+        "freenessurl": "https://www.cinemovies.video/movies/bumping-into-broadway/",
+        "imdblookup": "Bumping Into Broadway 1919",
+        "status": "free",
+        "title": "Bumping Into Broadway",
+        "year": 1919
     },
     "http://www.imdb.com/title/tt0010146/": {
         "freenessurl": "https://www.cinemovies.video/movies/from-hand-to-mouth/",
@@ -104,11 +90,39 @@
         "title": "From Hand to Mouth",
         "year": 1919
     },
+    "http://www.imdb.com/title/tt0010311/": {
+        "freenessurl": "https://www.cinemovies.video/movies/a-jazzed-honeymoon/",
+        "imdblookup": "A Jazzed Honeymoon 1919",
+        "status": "free",
+        "title": "A Jazzed Honeymoon",
+        "year": 1919
+    },
+    "http://www.imdb.com/title/tt0010632/": {
+        "freenessurl": "https://www.cinemovies.video/movies/ring-up-the-curtain/",
+        "imdblookup": "Ring Up the Curtain 1919",
+        "status": "free",
+        "title": "Ring Up the Curtain",
+        "year": 1919
+    },
+    "http://www.imdb.com/title/tt0011071/": {
+        "freenessurl": "https://www.cinemovies.video/movies/convict-13/",
+        "imdblookup": "Convict 13 1920",
+        "status": "free",
+        "title": "Convict 13",
+        "year": 1920
+    },
     "http://www.imdb.com/title/tt0011263/": {
         "freenessurl": "https://www.cinemovies.video/movies/haunted-spooks/",
         "imdblookup": "Haunted Spooks 1920",
         "status": "free",
         "title": "Haunted Spooks",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011508/": {
+        "freenessurl": "https://www.cinemovies.video/movies/neighbors/",
+        "imdblookup": "Neighbors 1920",
+        "status": "free",
+        "title": "Neighbors",
         "year": 1920
     },
     "http://www.imdb.com/title/tt0012304/": {
@@ -124,6 +138,13 @@
         "status": "free",
         "title": "Never Weaken",
         "year": 1921
+    },
+    "http://www.imdb.com/title/tt0013055/": {
+        "freenessurl": "https://www.cinemovies.video/movies/day-dreams/",
+        "imdblookup": "Day Dreams 1922",
+        "status": "free",
+        "title": "Day Dreams",
+        "year": 1922
     },
     "http://www.imdb.com/title/tt0013099/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-electric-house/",
@@ -174,6 +195,13 @@
         "title": "Skating Hounds",
         "year": 1929
     },
+    "http://www.imdb.com/title/tt0020481/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/tarzan-the-tiger/",
+        "imdblookup": "Tarzan the Tiger 1929",
+        "status": "free",
+        "title": "Tarzan the Tiger",
+        "year": 1929
+    },
     "http://www.imdb.com/title/tt0021274/": {
         "freenessurl": "https://www.cinemovies.video/movies/puddle-pranks/",
         "imdblookup": "Puddle Pranks 1930",
@@ -202,11 +230,11 @@
         "title": "In My Merry Oldsmobile",
         "year": 1931
     },
-    "http://www.imdb.com/title/tt0022045/": {
-        "freenessurl": "https://www.cinemovies.video/movies/lady-play-your-mandolin/",
-        "imdblookup": "Lady, Play Your Mandolin! 1931",
+    "http://www.imdb.com/title/tt0022078/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-lightning-warrior/",
+        "imdblookup": "The Lightning Warrior 1931",
         "status": "free",
-        "title": "Lady, Play Your Mandolin!",
+        "title": "The Lightning Warrior",
         "year": 1931
     },
     "http://www.imdb.com/title/tt0022405/": {
@@ -223,12 +251,12 @@
         "title": "Funny Face",
         "year": 1932
     },
-    "http://www.imdb.com/title/tt0023799/": {
-        "freenessurl": "https://www.cinemovies.video/movies/betty-boops-crazy-inventions/",
-        "imdblookup": "Betty Boop's Crazy Inventions 1933",
+    "http://www.imdb.com/title/tt0023038/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-hurricane-express/",
+        "imdblookup": "The Hurricane Express 1932",
         "status": "free",
-        "title": "Betty Boop's Crazy Inventions",
-        "year": 1933
+        "title": "The Hurricane Express",
+        "year": 1932
     },
     "http://www.imdb.com/title/tt0023801/": {
         "freenessurl": "https://www.cinemovies.video/movies/betty-boops-ker-choo/",
@@ -244,18 +272,18 @@
         "title": "Goofy Goat Antics",
         "year": 1931
     },
-    "http://www.imdb.com/title/tt0024089/": {
-        "freenessurl": "https://www.cinemovies.video/movies/happy-hoboes/",
-        "imdblookup": "Happy Hoboes 1933",
-        "status": "free",
-        "title": "Happy Hoboes",
-        "year": 1933
-    },
     "http://www.imdb.com/title/tt0024187/": {
         "freenessurl": "https://www.cinemovies.video/movies/is-my-palm-read/",
         "imdblookup": "Is My Palm Read 1933",
         "status": "free",
         "title": "Is My Palm Read",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0024367/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-mystery-squadron/",
+        "imdblookup": "The Mystery Squadron 1933",
+        "status": "free",
+        "title": "The Mystery Squadron",
         "year": 1933
     },
     "http://www.imdb.com/title/tt0024500/": {
@@ -265,40 +293,12 @@
         "title": "Riders of Destiny",
         "year": 1933
     },
-    "http://www.imdb.com/title/tt0024547/": {
-        "freenessurl": "https://www.cinemovies.video/movies/shanty-santy-claus-lives/",
-        "imdblookup": "The Shanty Where Santy Claus Lives 1933",
-        "status": "free",
-        "title": "The Shanty Where Santy Claus Lives",
-        "year": 1933
-    },
     "http://www.imdb.com/title/tt0024670/": {
         "freenessurl": "https://www.cinemovies.video/movies/tied-for-life/",
         "imdblookup": "Tied for Life 1933",
         "status": "free",
         "title": "Tied for Life",
         "year": 1933
-    },
-    "http://www.imdb.com/title/tt0024702/": {
-        "freenessurl": "https://www.cinemovies.video/movies/tumble-down-town/",
-        "imdblookup": "Tumble Down Town 1933",
-        "status": "free",
-        "title": "Tumble Down Town",
-        "year": 1933
-    },
-    "http://www.imdb.com/title/tt0024805/": {
-        "freenessurl": "https://www.cinemovies.video/movies/neath-the-arizona-skies/",
-        "imdblookup": "'Neath the Arizona Skies 1934",
-        "status": "free",
-        "title": "'Neath the Arizona Skies",
-        "year": 1934
-    },
-    "http://www.imdb.com/title/tt0024880/": {
-        "freenessurl": "https://www.cinemovies.video/movies/betty-boops-rise-to-fame/",
-        "imdblookup": "Betty Boop's Rise to Fame 1934",
-        "status": "free",
-        "title": "Betty Boop's Rise to Fame",
-        "year": 1934
     },
     "http://www.imdb.com/title/tt0024882/": {
         "freenessurl": "https://www.cinemovies.video/movies/betty-in-blunderland/",
@@ -307,18 +307,18 @@
         "title": "Betty in Blunderland",
         "year": 1934
     },
+    "http://www.imdb.com/title/tt0024902/": {
+        "freenessurl": "https://www.cinemovies.video/movies/blue-steel/",
+        "imdblookup": "Blue Steel 1934",
+        "status": "free",
+        "title": "Blue Steel",
+        "year": 1934
+    },
     "http://www.imdb.com/title/tt0025328/": {
         "freenessurl": "https://www.cinemovies.video/movies/jest-of-honor/",
         "imdblookup": "Jest of Honor 1934",
         "status": "free",
         "title": "Jest of Honor",
-        "year": 1934
-    },
-    "http://www.imdb.com/title/tt0025373/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-lawless-frontier/",
-        "imdblookup": "The Lawless Frontier 1934",
-        "status": "free",
-        "title": "The Lawless Frontier",
         "year": 1934
     },
     "http://www.imdb.com/title/tt0025405/": {
@@ -335,13 +335,6 @@
         "title": "The Lucky Texan",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0025455/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-man-from-utah/",
-        "imdblookup": "The Man From Utah 1934",
-        "status": "free",
-        "title": "The Man From Utah",
-        "year": 1934
-    },
     "http://www.imdb.com/title/tt0025699/": {
         "freenessurl": "https://www.cinemovies.video/movies/randy-rides-alone/",
         "imdblookup": "Randy Rides Alone 1934",
@@ -349,32 +342,11 @@
         "title": "Randy Rides Alone",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0025830/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-star-packer/",
-        "imdblookup": "The Star Packer 1934",
-        "status": "free",
-        "title": "The Star Packer",
-        "year": 1934
-    },
-    "http://www.imdb.com/title/tt0026109/": {
-        "freenessurl": "https://www.cinemovies.video/movies/betty-boop-and-grampy/",
-        "imdblookup": "Betty Boop and Grampy 1935",
-        "status": "free",
-        "title": "Betty Boop and Grampy",
-        "year": 1935
-    },
     "http://www.imdb.com/title/tt0026110/": {
         "freenessurl": "https://www.cinemovies.video/movies/betty-boop-with-henry-the-funniest-living-american/",
         "imdblookup": "Betty Boop with Henry the Funniest Living American 1935",
         "status": "free",
         "title": "Betty Boop with Henry the Funniest Living American",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0026499/": {
-        "freenessurl": "https://www.cinemovies.video/movies/humpty-dumpty/",
-        "imdblookup": "Humpty Dumpty 1935",
-        "status": "free",
-        "title": "Humpty Dumpty",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026553/": {
@@ -384,13 +356,6 @@
         "title": "Judge for a Day",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0026569/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-kids-in-the-shoe/",
-        "imdblookup": "The Kids in the Shoe 1935",
-        "status": "free",
-        "title": "The Kids in the Shoe",
-        "year": 1935
-    },
     "http://www.imdb.com/title/tt0026669/": {
         "freenessurl": "https://www.cinemovies.video/movies/making-stars/",
         "imdblookup": "Making Stars 1935",
@@ -398,11 +363,11 @@
         "title": "Making Stars",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0026726/": {
-        "freenessurl": "https://www.cinemovies.video/movies/molly-moo-cow-butterflies/",
-        "imdblookup": "Molly Moo-Cow and the Butterflies 1935",
+    "http://www.imdb.com/title/tt0026720/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-miracle-rider/",
+        "imdblookup": "The Miracle Rider 1935",
         "status": "free",
-        "title": "Molly Moo-Cow and the Butterflies",
+        "title": "The Miracle Rider",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026788/": {
@@ -412,13 +377,6 @@
         "title": "No! No! A Thousand Times No!!",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0026846/": {
-        "freenessurl": "https://www.cinemovies.video/movies/paradise-canyon/",
-        "imdblookup": "Paradise Canyon 1935",
-        "status": "free",
-        "title": "Paradise Canyon",
-        "year": 1935
-    },
     "http://www.imdb.com/title/tt0026851/": {
         "freenessurl": "https://www.cinemovies.video/movies/parrotville-old-folks/",
         "imdblookup": "Parrotville Old Folks 1935",
@@ -426,32 +384,11 @@
         "title": "Parrotville Old Folks",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0027001/": {
-        "freenessurl": "https://www.cinemovies.video/movies/simple-simon/",
-        "imdblookup": "Simple Simon 1935",
-        "status": "free",
-        "title": "Simple Simon",
-        "year": 1935
-    },
     "http://www.imdb.com/title/tt0027007/": {
         "freenessurl": "https://www.cinemovies.video/movies/skull-and-crown/",
         "imdblookup": "Skull and Crown 1935",
         "status": "free",
         "title": "Skull and Crown",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0027061/": {
-        "freenessurl": "https://www.cinemovies.video/movies/swat-the-fly/",
-        "imdblookup": "Swat the Fly 1935",
-        "status": "free",
-        "title": "Swat the Fly",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0027109/": {
-        "freenessurl": "https://www.cinemovies.video/movies/time-for-love/",
-        "imdblookup": "Time for Love 1935",
-        "status": "free",
-        "title": "Time for Love",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0027270/": {
@@ -475,20 +412,6 @@
         "title": "Betty Boop and the Little King",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0027377/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-bold-caballero/",
-        "imdblookup": "The Bold Caballero 1936",
-        "status": "free",
-        "title": "The Bold Caballero",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0027453/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-cobweb-hotel/",
-        "imdblookup": "The Cobweb Hotel 1936",
-        "status": "free",
-        "title": "The Cobweb Hotel",
-        "year": 1936
-    },
     "http://www.imdb.com/title/tt0027691/": {
         "freenessurl": "https://www.cinemovies.video/movies/grampys-indoor-outing/",
         "imdblookup": "Grampy's Indoor Outing 1936",
@@ -501,20 +424,6 @@
         "imdblookup": "Greedy Humpty Dumpty 1936",
         "status": "free",
         "title": "Greedy Humpty Dumpty",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0027717/": {
-        "freenessurl": "https://www.cinemovies.video/movies/happy-you-and-merry-me/",
-        "imdblookup": "Happy You and Merry Me 1936",
-        "status": "free",
-        "title": "Happy You and Merry Me",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0027722/": {
-        "freenessurl": "https://www.cinemovies.video/movies/hawaiian-birds/",
-        "imdblookup": "Hawaiian Birds 1936",
-        "status": "free",
-        "title": "Hawaiian Birds",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027787/": {
@@ -545,11 +454,11 @@
         "title": "Popeye the Sailor Meets Sindbad the Sailor",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0028277/": {
-        "freenessurl": "https://www.cinemovies.video/movies/somewhere-in-dreamland/",
-        "imdblookup": "Somewhere in Dreamland 1936",
+    "http://www.imdb.com/title/tt0028198/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/robinson-crusoe-of-clipper-island/",
+        "imdblookup": "Robinson Crusoe Of Clipper Island 1936",
         "status": "free",
-        "title": "Somewhere in Dreamland",
+        "title": "Robinson Crusoe Of Clipper Island",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028279/": {
@@ -557,13 +466,6 @@
         "imdblookup": "A Song a Day 1936",
         "status": "free",
         "title": "A Song a Day",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0028403/": {
-        "freenessurl": "https://www.cinemovies.video/movies/training-pigeons/",
-        "imdblookup": "Training Pigeons 1936",
-        "status": "free",
-        "title": "Training Pigeons",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028482/": {
@@ -587,13 +489,6 @@
         "title": "You're Not Built That Way",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0028671/": {
-        "freenessurl": "https://www.cinemovies.video/movies/bunny-mooning/",
-        "imdblookup": "Bunny Mooning 1937",
-        "status": "free",
-        "title": "Bunny Mooning",
-        "year": 1937
-    },
     "http://www.imdb.com/title/tt0028787/": {
         "freenessurl": "https://www.cinemovies.video/movies/ding-dong-doggie/",
         "imdblookup": "Ding Dong Doggie 1937",
@@ -606,20 +501,6 @@
         "imdblookup": "Educated Fish 1937",
         "status": "free",
         "title": "Educated Fish",
-        "year": 1937
-    },
-    "http://www.imdb.com/title/tt0029022/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-hot-air-salesman/",
-        "imdblookup": "The Hot Air Salesman 1937",
-        "status": "free",
-        "title": "The Hot Air Salesman",
-        "year": 1937
-    },
-    "http://www.imdb.com/title/tt0029027/": {
-        "freenessurl": "https://www.cinemovies.video/movies/house-cleaning-blues/",
-        "imdblookup": "House Cleaning Blues 1937",
-        "status": "free",
-        "title": "House Cleaning Blues",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029037/": {
@@ -685,18 +566,25 @@
         "title": "Barefoot Boy",
         "year": 1938
     },
+    "http://www.imdb.com/title/tt0030043/": {
+        "freenessurl": "https://www.cinemovies.video/movies/a-date-to-skate/",
+        "imdblookup": "A Date to Skate 1938",
+        "status": "free",
+        "title": "A Date to Skate",
+        "year": 1938
+    },
+    "http://www.imdb.com/title/tt0030089/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-duke-is-tops/",
+        "imdblookup": "The Duke Is Tops 1938",
+        "status": "free",
+        "title": "The Duke Is Tops",
+        "year": 1938
+    },
     "http://www.imdb.com/title/tt0030215/": {
         "freenessurl": "https://www.cinemovies.video/movies/have-you-got-any-castles/",
         "imdblookup": "Have You Got Any Castles? 1938",
         "status": "free",
         "title": "Have You Got Any Castles?",
-        "year": 1938
-    },
-    "http://www.imdb.com/title/tt0030591/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-playful-polar-bears/",
-        "imdblookup": "The Playful Polar Bears 1938",
-        "status": "free",
-        "title": "The Playful Polar Bears",
         "year": 1938
     },
     "http://www.imdb.com/title/tt0030633/": {
@@ -706,27 +594,6 @@
         "title": "Pudgy and the Lost Kitten",
         "year": 1938
     },
-    "http://www.imdb.com/title/tt0031080/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-barnyard-brat/",
-        "imdblookup": "The Barnyard Brat 1939",
-        "status": "free",
-        "title": "The Barnyard Brat",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031199/": {
-        "freenessurl": "https://www.cinemovies.video/movies/customers-wanted/",
-        "imdblookup": "Customers Wanted 1939",
-        "status": "free",
-        "title": "Customers Wanted",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031202/": {
-        "freenessurl": "https://www.cinemovies.video/movies/daffy-duck-and-the-dinosaur/",
-        "imdblookup": "Daffy Duck and the Dinosaur 1939",
-        "status": "free",
-        "title": "Daffy Duck and the Dinosaur",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0031344/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-fresh-vegetable-mystery/",
         "imdblookup": "The Fresh Vegetable Mystery 1939",
@@ -734,11 +601,11 @@
         "title": "The Fresh Vegetable Mystery",
         "year": 1939
     },
-    "http://www.imdb.com/title/tt0031694/": {
-        "freenessurl": "https://www.cinemovies.video/movies/my-friend-the-monkey/",
-        "imdblookup": "My Friend the Monkey 1939",
+    "http://www.imdb.com/title/tt0031593/": {
+        "freenessurl": "https://www.cinemovies.video/movies/love-affair/",
+        "imdblookup": "Love Affair 1939",
         "status": "free",
-        "title": "My Friend the Monkey",
+        "title": "Love Affair",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031855/": {
@@ -748,20 +615,6 @@
         "title": "Rhythm on the Reservation",
         "year": 1939
     },
-    "http://www.imdb.com/title/tt0031901/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-scared-crows/",
-        "imdblookup": "The Scared Crows 1939",
-        "status": "free",
-        "title": "The Scared Crows",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031944/": {
-        "freenessurl": "https://www.cinemovies.video/movies/so-does-an-automobile/",
-        "imdblookup": "So Does an Automobile 1939",
-        "status": "free",
-        "title": "So Does an Automobile",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0032716/": {
         "freenessurl": "https://www.cinemovies.video/movies/little-lambkin/",
         "imdblookup": "Little Lambkin 1940",
@@ -769,18 +622,18 @@
         "title": "Little Lambkin",
         "year": 1940
     },
+    "http://www.imdb.com/title/tt0032881/": {
+        "freenessurl": "https://www.cinemovies.video/movies/our-town/",
+        "imdblookup": "Our Town 1940",
+        "status": "free",
+        "title": "Our Town",
+        "year": 1940
+    },
     "http://www.imdb.com/title/tt0033066/": {
         "freenessurl": "https://www.cinemovies.video/movies/snubbed-by-a-snob/",
         "imdblookup": "Snubbed by a Snob 1940",
         "status": "free",
         "title": "Snubbed by a Snob",
-        "year": 1940
-    },
-    "http://www.imdb.com/title/tt0033076/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-son-of-monte-cristo/",
-        "imdblookup": "The Son of Monte Cristo 1940",
-        "status": "free",
-        "title": "The Son of Monte Cristo",
         "year": 1940
     },
     "http://www.imdb.com/title/tt0033214/": {
@@ -797,12 +650,26 @@
         "title": "You Can't Shoe a Horsefly",
         "year": 1940
     },
+    "http://www.imdb.com/title/tt0033469/": {
+        "freenessurl": "https://www.cinemovies.video/movies/city-of-missing-girls/",
+        "imdblookup": "City of Missing Girls 1941",
+        "status": "free",
+        "title": "City of Missing Girls",
+        "year": 1941
+    },
     "http://www.imdb.com/title/tt0033777/": {
         "freenessurl": "https://www.cinemovies.video/movies/jungle-man/",
         "imdblookup": "Jungle Man 1941",
         "status": "free",
         "title": "Jungle Man",
         "year": 1941
+    },
+    "http://www.imdb.com/title/tt0033822/": {
+        "freenessurl": "https://www.cinemovies.video/movies/law-of-the-wolf/",
+        "imdblookup": "Law of the Wolf 1939",
+        "status": "free",
+        "title": "Law of the Wolf",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0033827/": {
         "freenessurl": "https://www.cinemovies.video/movies/lets-go-collegiate/",
@@ -811,32 +678,18 @@
         "title": "Let's Go Collegiate",
         "year": 1941
     },
-    "http://www.imdb.com/title/tt0033888/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-mechanical-monsters/",
-        "imdblookup": "The Mechanical Monsters 1941",
-        "status": "free",
-        "title": "The Mechanical Monsters",
-        "year": 1941
-    },
-    "http://www.imdb.com/title/tt0034225/": {
-        "freenessurl": "https://www.cinemovies.video/movies/sport-chumpions/",
-        "imdblookup": "Sport Chumpions 1941",
-        "status": "free",
-        "title": "Sport Chumpions",
-        "year": 1941
-    },
-    "http://www.imdb.com/title/tt0034515/": {
-        "freenessurl": "https://www.cinemovies.video/movies/billion-dollar-limited/",
-        "imdblookup": "Billion Dollar Limited 1942",
-        "status": "free",
-        "title": "Billion Dollar Limited",
-        "year": 1942
-    },
     "http://www.imdb.com/title/tt0034648/": {
         "freenessurl": "https://www.cinemovies.video/movies/destruction-inc/",
         "imdblookup": "Destruction, Inc. 1942",
         "status": "free",
         "title": "Destruction, Inc.",
+        "year": 1942
+    },
+    "http://www.imdb.com/title/tt0034654/": {
+        "freenessurl": "https://www.cinemovies.video/movies/ding-dog-daddy/",
+        "imdblookup": "Ding Dog Daddy 1942",
+        "status": "free",
+        "title": "Ding Dog Daddy",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0034675/": {
@@ -867,6 +720,13 @@
         "title": "Fresh Hare",
         "year": 1942
     },
+    "http://www.imdb.com/title/tt0034863/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/holt-of-the-secret-service/",
+        "imdblookup": "Holt Of The Secret Service 1941",
+        "status": "free",
+        "title": "Holt Of The Secret Service",
+        "year": 1941
+    },
     "http://www.imdb.com/title/tt0034913/": {
         "freenessurl": "https://www.cinemovies.video/movies/japoteurs/",
         "imdblookup": "Japoteurs 1942",
@@ -879,20 +739,6 @@
         "imdblookup": "The Magnetic Telescope 1942",
         "status": "free",
         "title": "The Magnetic Telescope",
-        "year": 1942
-    },
-    "http://www.imdb.com/title/tt0035422/": {
-        "freenessurl": "https://www.cinemovies.video/movies/terror-on-the-midway/",
-        "imdblookup": "Terror on the Midway 1942",
-        "status": "free",
-        "title": "Terror on the Midway",
-        "year": 1942
-    },
-    "http://www.imdb.com/title/tt0035527/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-wabbit-who-came-to-supper/",
-        "imdblookup": "The Wabbit Who Came to Supper 1942",
-        "status": "free",
-        "title": "The Wabbit Who Came to Supper",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035774/": {
@@ -923,25 +769,11 @@
         "title": "Inki and the Minah Bird",
         "year": 1943
     },
-    "http://www.imdb.com/title/tt0036179/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-mummy-strikes/",
-        "imdblookup": "The Mummy Strikes 1943",
-        "status": "free",
-        "title": "The Mummy Strikes",
-        "year": 1943
-    },
     "http://www.imdb.com/title/tt0036264/": {
         "freenessurl": "https://www.cinemovies.video/movies/pigs-in-a-polka/",
         "imdblookup": "Pigs in a Polka 1943",
         "status": "free",
         "title": "Pigs in a Polka",
-        "year": 1943
-    },
-    "http://www.imdb.com/title/tt0036271/": {
-        "freenessurl": "https://www.cinemovies.video/movies/porky-pigs-feat/",
-        "imdblookup": "Porky Pig's Feat 1943",
-        "status": "free",
-        "title": "Porky Pig's Feat",
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036334/": {
@@ -972,12 +804,12 @@
         "title": "Swamp Fire",
         "year": 1946
     },
-    "http://www.imdb.com/title/tt0040150/": {
-        "freenessurl": "https://www.cinemovies.video/movies/base-brawl/",
-        "imdblookup": "Base Brawl 1948",
+    "http://www.imdb.com/title/tt0039460/": {
+        "freenessurl": "https://www.cinemovies.video/movies/hi-de-ho/",
+        "imdblookup": "Hi-De-Ho 1947",
         "status": "free",
-        "title": "Base Brawl",
-        "year": 1948
+        "title": "Hi-De-Ho",
+        "year": 1947
     },
     "http://www.imdb.com/title/tt0041301/": {
         "freenessurl": "https://www.cinemovies.video/movies/doggone-tired/",
@@ -986,6 +818,13 @@
         "title": "Doggone Tired",
         "year": 1949
     },
+    "http://www.imdb.com/title/tt0042210/": {
+        "freenessurl": "https://www.cinemovies.video/movies/utopia/",
+        "imdblookup": "Utopia 1951",
+        "status": "free",
+        "title": "Utopia",
+        "year": 1951
+    },
     "http://www.imdb.com/title/tt0044186/": {
         "freenessurl": "https://www.cinemovies.video/movies/vengeance-valley/",
         "imdblookup": "Vengeance Valley 1951",
@@ -993,12 +832,33 @@
         "title": "Vengeance Valley",
         "year": 1951
     },
+    "http://www.imdb.com/title/tt0045551/": {
+        "freenessurl": "https://www.cinemovies.video/movies/beneath-the-12-mile-reef/",
+        "imdblookup": "Beneath the 12-Mile Reef 1953",
+        "status": "free",
+        "title": "Beneath the 12-Mile Reef",
+        "year": 1953
+    },
+    "http://www.imdb.com/title/tt0046625/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/mickey-rooney-show-hey-mulligan/",
+        "imdblookup": "The Mickey Rooney Show - Hey Mulligan 1954",
+        "status": "free",
+        "title": "The Mickey Rooney Show - Hey Mulligan",
+        "year": 1954
+    },
     "http://www.imdb.com/title/tt0047542/": {
         "freenessurl": "https://www.cinemovies.video/movies/suddenly/",
         "imdblookup": "Suddenly 1954",
         "status": "free",
         "title": "Suddenly",
         "year": 1954
+    },
+    "http://www.imdb.com/title/tt0047878/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-big-combo/",
+        "imdblookup": "The Big Combo 1955",
+        "status": "free",
+        "title": "The Big Combo",
+        "year": 1955
     },
     "http://www.imdb.com/title/tt0048535/": {
         "freenessurl": "https://www.cinemovies.video/movies/rage-at-dawn/",
@@ -1021,19 +881,26 @@
         "title": "Goliath and the Dragon",
         "year": 1960
     },
+    "http://www.imdb.com/title/tt0055230/": {
+        "freenessurl": "https://www.cinemovies.video/movies/night-tide/",
+        "imdblookup": "Night Tide 1961",
+        "status": "free",
+        "title": "Night Tide",
+        "year": 1961
+    },
+    "http://www.imdb.com/title/tt0057298/": {
+        "freenessurl": "https://www.cinemovies.video/movies/mclintock/",
+        "imdblookup": "McLintock! 1963",
+        "status": "free",
+        "title": "McLintock!",
+        "year": 1963
+    },
     "http://www.imdb.com/title/tt0058063/": {
         "freenessurl": "https://www.cinemovies.video/movies/hercules-and-the-tyrants-of-babylon/",
         "imdblookup": "Hercules and the Tyrants of Babylon 1964",
         "status": "free",
         "title": "Hercules and the Tyrants of Babylon",
         "year": 1964
-    },
-    "http://www.imdb.com/title/tt0059171/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-fat-spy/",
-        "imdblookup": "The Fat Spy 1966",
-        "status": "free",
-        "title": "The Fat Spy",
-        "year": 1966
     },
     "http://www.imdb.com/title/tt0059262/": {
         "freenessurl": "https://www.cinemovies.video/movies/hercules-and-the-princess-of-troy/",
@@ -1042,12 +909,19 @@
         "title": "Hercules and the Princess of Troy",
         "year": 1965
     },
-    "http://www.imdb.com/title/tt0066194/": {
-        "freenessurl": "https://www.cinemovies.video/movies/over-hill-gang-rides-again/",
-        "imdblookup": "The Over The Hill Gang Rides Again 1970",
+    "http://www.imdb.com/title/tt0060848/": {
+        "freenessurl": "https://www.cinemovies.video/movies/poppies-are-also-flowers/",
+        "imdblookup": "Poppies Are Also Flowers 1966",
         "status": "free",
-        "title": "The Over The Hill Gang Rides Again",
-        "year": 1970
+        "title": "Poppies Are Also Flowers",
+        "year": 1966
+    },
+    "http://www.imdb.com/title/tt0064175/": {
+        "freenessurl": "https://www.cinemovies.video/movies/boot-hill/",
+        "imdblookup": "Boot Hill 1969",
+        "status": "free",
+        "title": "Boot Hill",
+        "year": 1969
     },
     "http://www.imdb.com/title/tt0066328/": {
         "freenessurl": "https://www.cinemovies.video/movies/santa-three-bears/",
@@ -1056,25 +930,11 @@
         "title": "Santa and the Three Bears",
         "year": 1970
     },
-    "http://www.imdb.com/title/tt0066942/": {
-        "freenessurl": "https://www.cinemovies.video/movies/congratulations-its-a-boy/",
-        "imdblookup": "Congratulations, It's a Boy! 1971",
+    "http://www.imdb.com/title/tt0075260/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-cop-in-blue-jeans/",
+        "imdblookup": "The Cop in Blue Jeans 1976",
         "status": "free",
-        "title": "Congratulations, It's a Boy!",
-        "year": 1971
-    },
-    "http://www.imdb.com/title/tt0072245/": {
-        "freenessurl": "https://www.cinemovies.video/movies/tnt-jackson/",
-        "imdblookup": "TNT Jackson 1974",
-        "status": "free",
-        "title": "TNT Jackson",
-        "year": 1974
-    },
-    "http://www.imdb.com/title/tt0073011/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-four-deuces/",
-        "imdblookup": "The Four Deuces 1976",
-        "status": "free",
-        "title": "The Four Deuces",
+        "title": "The Cop in Blue Jeans",
         "year": 1976
     },
     "http://www.imdb.com/title/tt0076035/": {
@@ -1083,6 +943,13 @@
         "status": "free",
         "title": "Shaolin Deadly Kicks",
         "year": 1982
+    },
+    "http://www.imdb.com/title/tt0077984/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-new-adventures-of-heidi/",
+        "imdblookup": "The New Adventures of Heidi 1978",
+        "status": "free",
+        "title": "The New Adventures of Heidi",
+        "year": 1978
     },
     "http://www.imdb.com/title/tt0078089/": {
         "freenessurl": "https://www.cinemovies.video/movies/planet-of-dinosaurs/",
@@ -1112,6 +979,13 @@
         "title": "Alice of Wonderland in Paris",
         "year": 1966
     },
+    "http://www.imdb.com/title/tt0131624/": {
+        "freenessurl": "https://www.cinemovies.video/movies/ufo-target-earth/",
+        "imdblookup": "UFO: Target Earth 1974",
+        "status": "free",
+        "title": "UFO: Target Earth",
+        "year": 1974
+    },
     "http://www.imdb.com/title/tt0140812/": {
         "freenessurl": "https://www.cinemovies.video/movies/any-bonds-today/",
         "imdblookup": "Any Bonds Today? 1942",
@@ -1140,26 +1014,12 @@
         "title": "Balloon Land",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0146519/": {
-        "freenessurl": "https://www.cinemovies.video/movies/bugs-and-books/",
-        "imdblookup": "Bugs and Books 1932",
-        "status": "free",
-        "title": "Bugs and Books",
-        "year": 1932
-    },
     "http://www.imdb.com/title/tt0146582/": {
         "freenessurl": "https://www.cinemovies.video/movies/cowboy-cabaret/",
         "imdblookup": "Cowboy Cabaret 1931",
         "status": "free",
         "title": "Cowboy Cabaret",
         "year": 1931
-    },
-    "http://www.imdb.com/title/tt0146584/": {
-        "freenessurl": "https://www.cinemovies.video/movies/877/",
-        "imdblookup": "Cracked Ice 1927",
-        "status": "free",
-        "title": "Cracked Ice",
-        "year": 1927
     },
     "http://www.imdb.com/title/tt0146596/": {
         "freenessurl": "https://www.cinemovies.video/movies/custard-pies/",
@@ -1189,13 +1049,6 @@
         "title": "Jungle Fool",
         "year": 1929
     },
-    "http://www.imdb.com/title/tt0147015/": {
-        "freenessurl": "https://www.cinemovies.video/movies/love-in-a-pond/",
-        "imdblookup": "Love in a Pond 1931",
-        "status": "free",
-        "title": "Love in a Pond",
-        "year": 1931
-    },
     "http://www.imdb.com/title/tt0147167/": {
         "freenessurl": "https://www.cinemovies.video/movies/pest-pupil/",
         "imdblookup": "Pest Pupil 1957",
@@ -1217,13 +1070,6 @@
         "title": "Spring Antics",
         "year": 1932
     },
-    "http://www.imdb.com/title/tt0147615/": {
-        "freenessurl": "https://www.cinemovies.video/movies/tom-thumb/",
-        "imdblookup": "Tom Thumb 1936",
-        "status": "free",
-        "title": "Tom Thumb",
-        "year": 1936
-    },
     "http://www.imdb.com/title/tt0147912/": {
         "freenessurl": "https://www.cinemovies.video/movies/boo-moon/",
         "imdblookup": "Boo Moon 1954",
@@ -1236,55 +1082,6 @@
         "imdblookup": "Fiddlin' Fun 1934",
         "status": "free",
         "title": "Fiddlin' Fun",
-        "year": 1934
-    },
-    "http://www.imdb.com/title/tt0149666/": {
-        "freenessurl": "https://www.cinemovies.video/movies/ancient-fistory/",
-        "imdblookup": "Ancient Fistory 1953",
-        "status": "free",
-        "title": "Ancient Fistory",
-        "year": 1953
-    },
-    "http://www.imdb.com/title/tt0149793/": {
-        "freenessurl": "https://www.cinemovies.video/movies/bargain-counter-attack/",
-        "imdblookup": "Bargain Counter Attack 1946",
-        "status": "free",
-        "title": "Bargain Counter Attack",
-        "year": 1946
-    },
-    "http://www.imdb.com/title/tt0149865/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-big-drip/",
-        "imdblookup": "The Big Drip 1949",
-        "status": "free",
-        "title": "The Big Drip",
-        "year": 1949
-    },
-    "http://www.imdb.com/title/tt0149866/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-big-flame-up/",
-        "imdblookup": "The Big Flame Up 1949",
-        "status": "free",
-        "title": "The Big Flame Up",
-        "year": 1949
-    },
-    "http://www.imdb.com/title/tt0149942/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-bout-with-a-trout/",
-        "imdblookup": "A Bout with a Trout 1947",
-        "status": "free",
-        "title": "A Bout with a Trout",
-        "year": 1947
-    },
-    "http://www.imdb.com/title/tt0150002/": {
-        "freenessurl": "https://www.cinemovies.video/movies/butterscotch-and-soda/",
-        "imdblookup": "Butterscotch and Soda 1948",
-        "status": "free",
-        "title": "Butterscotch and Soda",
-        "year": 1948
-    },
-    "http://www.imdb.com/title/tt0150013/": {
-        "freenessurl": "https://www.cinemovies.video/movies/cactus-king/",
-        "imdblookup": "Cactus King 1934",
-        "status": "free",
-        "title": "Cactus King",
         "year": 1934
     },
     "http://www.imdb.com/title/tt0150014/": {
@@ -1308,33 +1105,12 @@
         "title": "Crazy Town",
         "year": 1954
     },
-    "http://www.imdb.com/title/tt0150233/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-crystal-brawl/",
-        "imdblookup": "The Crystal Brawl 1957",
-        "status": "free",
-        "title": "The Crystal Brawl",
-        "year": 1957
-    },
     "http://www.imdb.com/title/tt0150243/": {
         "freenessurl": "https://www.cinemovies.video/movies/cupid-gets-man/",
         "imdblookup": "Cupid Gets His Man 1936",
         "status": "free",
         "title": "Cupid Gets His Man",
         "year": 1936
-    },
-    "http://www.imdb.com/title/tt0150465/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-enchanted-square/",
-        "imdblookup": "The Enchanted Square 1947",
-        "status": "free",
-        "title": "The Enchanted Square",
-        "year": 1947
-    },
-    "http://www.imdb.com/title/tt0150670/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-funshine-state/",
-        "imdblookup": "The Funshine State 1949",
-        "status": "free",
-        "title": "The Funshine State",
-        "year": 1949
     },
     "http://www.imdb.com/title/tt0150740/": {
         "freenessurl": "https://www.cinemovies.video/movies/gobs-of-fun/",
@@ -1385,40 +1161,12 @@
         "title": "Loose in a Caboose",
         "year": 1946
     },
-    "http://www.imdb.com/title/tt0151440/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-magic-mummy/",
-        "imdblookup": "The Magic Mummy 1933",
-        "status": "free",
-        "title": "The Magic Mummy",
-        "year": 1933
-    },
     "http://www.imdb.com/title/tt0151492/": {
         "freenessurl": "https://www.cinemovies.video/movies/marching-along/",
         "imdblookup": "Marching Along 1933",
         "status": "free",
         "title": "Marching Along",
         "year": 1933
-    },
-    "http://www.imdb.com/title/tt0151537/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-merry-kittens/",
-        "imdblookup": "The Merry Kittens 1935",
-        "status": "free",
-        "title": "The Merry Kittens",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0151574/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-mild-west/",
-        "imdblookup": "The Mild West 1947",
-        "status": "free",
-        "title": "The Mild West",
-        "year": 1947
-    },
-    "http://www.imdb.com/title/tt0151608/": {
-        "freenessurl": "https://www.cinemovies.video/movies/molly-moo-cow-robinson-crusoe/",
-        "imdblookup": "Molly Moo-Cow and Robinson Crusoe 1936",
-        "status": "free",
-        "title": "Molly Moo-Cow and Robinson Crusoe",
-        "year": 1936
     },
     "http://www.imdb.com/title/tt0151609/": {
         "freenessurl": "https://www.cinemovies.video/movies/molly-moo-cow-indians/",
@@ -1441,13 +1189,6 @@
         "title": "Me Musical Nephews",
         "year": 1942
     },
-    "http://www.imdb.com/title/tt0151675/": {
-        "freenessurl": "https://www.cinemovies.video/movies/musica-lulu/",
-        "imdblookup": "Musica-Lulu 1947",
-        "status": "free",
-        "title": "Musica-Lulu",
-        "year": 1947
-    },
     "http://www.imdb.com/title/tt0151769/": {
         "freenessurl": "https://www.cinemovies.video/movies/no-mutton-fer-nuttin/",
         "imdblookup": "No Mutton fer Nuttin' 1943",
@@ -1469,26 +1210,12 @@
         "title": "Pantry Panic",
         "year": 1941
     },
-    "http://www.imdb.com/title/tt0151910/": {
-        "freenessurl": "https://www.cinemovies.video/movies/parrotville-post-office/",
-        "imdblookup": "Parrotville Post Office 1935",
-        "status": "free",
-        "title": "Parrotville Post Office",
-        "year": 1935
-    },
     "http://www.imdb.com/title/tt0151967/": {
         "freenessurl": "https://www.cinemovies.video/movies/a-picnic-panic/",
         "imdblookup": "A Picnic Panic 1935",
         "status": "free",
         "title": "A Picnic Panic",
         "year": 1935
-    },
-    "http://www.imdb.com/title/tt0151998/": {
-        "freenessurl": "https://www.cinemovies.video/movies/play-ball/",
-        "imdblookup": "Play Ball 1933",
-        "status": "free",
-        "title": "Play Ball",
-        "year": 1933
     },
     "http://www.imdb.com/title/tt0152033/": {
         "freenessurl": "https://www.cinemovies.video/movies/popeye-for-president/",
@@ -1511,61 +1238,12 @@
         "title": "A Royal Good Time",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0152309/": {
-        "freenessurl": "https://www.cinemovies.video/movies/scotty-finds-home/",
-        "imdblookup": "Scotty Finds a Home 1935",
-        "status": "free",
-        "title": "Scotty Finds a Home",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0152361/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-self-made-mongrel/",
-        "imdblookup": "A Self-Made Mongrel 1945",
-        "status": "free",
-        "title": "A Self-Made Mongrel",
-        "year": 1945
-    },
-    "http://www.imdb.com/title/tt0152395/": {
-        "freenessurl": "https://www.cinemovies.video/movies/sheep-shape/",
-        "imdblookup": "Sheep Shape 1946",
-        "status": "free",
-        "title": "Sheep Shape",
-        "year": 1946
-    },
-    "http://www.imdb.com/title/tt0152425/": {
-        "freenessurl": "https://www.cinemovies.video/movies/shortenin-bread/",
-        "imdblookup": "Shortenin' Bread 1949",
-        "status": "free",
-        "title": "Shortenin' Bread",
-        "year": 1949
-    },
-    "http://www.imdb.com/title/tt0152449/": {
-        "freenessurl": "https://www.cinemovies.video/movies/sing-or-swim/",
-        "imdblookup": "Sing or Swim 1948",
-        "status": "free",
-        "title": "Sing or Swim",
-        "year": 1948
-    },
-    "http://www.imdb.com/title/tt0152496/": {
-        "freenessurl": "https://www.cinemovies.video/movies/snow-foolin/",
-        "imdblookup": "Snow Foolin' 1949",
-        "status": "free",
-        "title": "Snow Foolin'",
-        "year": 1949
-    },
     "http://www.imdb.com/title/tt0152560/": {
         "freenessurl": "https://www.cinemovies.video/movies/spinning-mice/",
         "imdblookup": "Spinning Mice 1935",
         "status": "free",
         "title": "Spinning Mice",
         "year": 1935
-    },
-    "http://www.imdb.com/title/tt0152566/": {
-        "freenessurl": "https://www.cinemovies.video/movies/spooky-swabs/",
-        "imdblookup": "Spooky Swabs 1957",
-        "status": "free",
-        "title": "Spooky Swabs",
-        "year": 1957
     },
     "http://www.imdb.com/title/tt0152571/": {
         "freenessurl": "https://www.cinemovies.video/movies/spree-lunch/",
@@ -1580,34 +1258,6 @@
         "status": "free",
         "title": "Spring Song",
         "year": 1949
-    },
-    "http://www.imdb.com/title/tt0152599/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-stork-market/",
-        "imdblookup": "The Stork Market 1949",
-        "status": "free",
-        "title": "The Stork Market",
-        "year": 1949
-    },
-    "http://www.imdb.com/title/tt0152617/": {
-        "freenessurl": "https://www.cinemovies.video/movies/stupidstitious-cat/",
-        "imdblookup": "Stupidstitious Cat 1947",
-        "status": "free",
-        "title": "Stupidstitious Cat",
-        "year": 1947
-    },
-    "http://www.imdb.com/title/tt0152908/": {
-        "freenessurl": "https://www.cinemovies.video/movies/tarts-and-flowers/",
-        "imdblookup": "Tarts and Flowers 1950",
-        "status": "free",
-        "title": "Tarts and Flowers",
-        "year": 1950
-    },
-    "http://www.imdb.com/title/tt0153180/": {
-        "freenessurl": "https://www.cinemovies.video/movies/toonerville-picnic/",
-        "imdblookup": "Toonerville Picnic 1936",
-        "status": "free",
-        "title": "Toonerville Picnic",
-        "year": 1936
     },
     "http://www.imdb.com/title/tt0153300/": {
         "freenessurl": "https://www.cinemovies.video/movies/trolley-ahoy/",
@@ -1651,27 +1301,6 @@
         "title": "Snafuperman",
         "year": 1944
     },
-    "http://www.imdb.com/title/tt0159281/": {
-        "freenessurl": "https://www.cinemovies.video/movies/billy-mouses-akwakade/",
-        "imdblookup": "Billy Mouse's Akwakade 1939",
-        "status": "free",
-        "title": "Billy Mouse's Akwakade",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0161253/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-ball-game/",
-        "imdblookup": "The Ball Game 1932",
-        "status": "free",
-        "title": "The Ball Game",
-        "year": 1932
-    },
-    "http://www.imdb.com/title/tt0161254/": {
-        "freenessurl": "https://www.cinemovies.video/movies/barnyard-melody/",
-        "imdblookup": "Barnyard Melody 1929",
-        "status": "free",
-        "title": "Barnyard Melody",
-        "year": 1929
-    },
     "http://www.imdb.com/title/tt0161948/": {
         "freenessurl": "https://www.cinemovies.video/movies/runaway-blackie/",
         "imdblookup": "Runaway Blackie 1933",
@@ -1679,12 +1308,26 @@
         "title": "Runaway Blackie",
         "year": 1933
     },
+    "http://www.imdb.com/title/tt0165594/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/howdy-doody/",
+        "imdblookup": "Howdy Doody 1947",
+        "status": "free",
+        "title": "Howdy Doody",
+        "year": 1947
+    },
     "http://www.imdb.com/title/tt0186483/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-real-bruce-lee/",
         "imdblookup": "The Real Bruce Lee 1973",
         "status": "free",
         "title": "The Real Bruce Lee",
         "year": 1973
+    },
+    "http://www.imdb.com/title/tt0211971/": {
+        "freenessurl": "https://www.cinemovies.video/movies/naked-massacre/",
+        "imdblookup": "Naked Massacre 1976",
+        "status": "free",
+        "title": "Naked Massacre",
+        "year": 1976
     },
     "http://www.imdb.com/title/tt0282842/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-pilgrimage-play/",
@@ -1707,40 +1350,12 @@
         "title": "The Little Brown Burro",
         "year": 1978
     },
-    "http://www.imdb.com/title/tt0333056/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-adventures-of-junior-raindrop/",
-        "imdblookup": "The Adventures of Junior Raindrop 1948",
-        "status": "free",
-        "title": "The Adventures of Junior Raindrop",
-        "year": 1948
-    },
     "http://www.imdb.com/title/tt0443314/": {
         "freenessurl": "https://www.cinemovies.video/movies/a-coach-for-cinderella/",
         "imdblookup": "A Coach for Cinderella 1936",
         "status": "free",
         "title": "A Coach for Cinderella",
         "year": 1936
-    },
-    "http://www.imdb.com/title/tt0472483/": {
-        "freenessurl": "https://www.cinemovies.video/movies/peg-leg-pedro/",
-        "imdblookup": "Peg Leg Pedro 1938",
-        "status": "free",
-        "title": "Peg Leg Pedro",
-        "year": 1938
-    },
-    "http://www.imdb.com/title/tt0495079/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-candlemaker/",
-        "imdblookup": "The Candlemaker 1957",
-        "status": "free",
-        "title": "The Candlemaker",
-        "year": 1957
-    },
-    "http://www.imdb.com/title/tt1020989/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-ride-for-cinderella/",
-        "imdblookup": "A Ride for Cinderella 1937",
-        "status": "free",
-        "title": "A Ride for Cinderella",
-        "year": 1937
     },
     "http://www.imdb.com/title/tt1629239/": {
         "freenessurl": "https://www.cinemovies.video/movies/bimbos-auto/",
@@ -1749,11 +1364,10 @@
         "title": "Bimbo's Auto",
         "year": 1954
     },
-    "https://www.cinemovies.video/movies/20000-leagues-under-the-sea/": {
-        "freenessurl": "https://www.cinemovies.video/movies/20000-leagues-under-the-sea/",
+    "https://www.cinemovies.video/movies/877/": {
+        "freenessurl": "https://www.cinemovies.video/movies/877/",
         "status": "free",
-        "title": "20,000 Leagues Under the Sea",
-        "year": 1916
+        "title": "Cracked Ice"
     },
     "https://www.cinemovies.video/movies/a-car-tune-portrait/": {
         "freenessurl": "https://www.cinemovies.video/movies/a-car-tune-portrait/",
@@ -1791,53 +1405,23 @@
         "title": "A Little Soap and Water",
         "year": 1935
     },
-    "https://www.cinemovies.video/movies/a-mutt-in-a-rut/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-mutt-in-a-rut/",
-        "status": "free",
-        "title": "A Mutt in a Rut",
-        "year": 1949
-    },
-    "https://www.cinemovies.video/movies/a-night-out/": {
-        "freenessurl": "https://www.cinemovies.video/movies/a-night-out/",
-        "status": "free",
-        "title": "A Night Out",
-        "year": 1915
-    },
     "https://www.cinemovies.video/movies/a-woman/": {
         "freenessurl": "https://www.cinemovies.video/movies/a-woman/",
         "status": "free",
         "title": "A Woman",
         "year": 1915
     },
-    "https://www.cinemovies.video/movies/aladdin-and-his-wonderful-lamp/": {
-        "freenessurl": "https://www.cinemovies.video/movies/aladdin-and-his-wonderful-lamp/",
+    "https://www.cinemovies.video/movies/alices-adventures-in-wonderland/": {
+        "freenessurl": "https://www.cinemovies.video/movies/alices-adventures-in-wonderland/",
         "status": "free",
-        "title": "Aladdin and His Wonderful Lamp",
-        "year": 1939
-    },
-    "https://www.cinemovies.video/movies/algiers/": {
-        "freenessurl": "https://www.cinemovies.video/movies/algiers/",
-        "status": "free",
-        "title": "Algiers",
-        "year": 1938
-    },
-    "https://www.cinemovies.video/movies/alls-fair-at-the-fair/": {
-        "freenessurl": "https://www.cinemovies.video/movies/alls-fair-at-the-fair/",
-        "status": "free",
-        "title": "All's Fair at the Fair",
-        "year": 1938
+        "title": "Alice's Adventures in Wonderland",
+        "year": 1972
     },
     "https://www.cinemovies.video/movies/always-kickin/": {
         "freenessurl": "https://www.cinemovies.video/movies/always-kickin/",
         "status": "free",
         "title": "Always Kickin'",
         "year": 1939
-    },
-    "https://www.cinemovies.video/movies/an-elephant-never-forgets/": {
-        "freenessurl": "https://www.cinemovies.video/movies/an-elephant-never-forgets/",
-        "status": "free",
-        "title": "An Elephant Never Forgets",
-        "year": 1935
     },
     "https://www.cinemovies.video/movies/ants-in-the-plants/": {
         "freenessurl": "https://www.cinemovies.video/movies/ants-in-the-plants/",
@@ -1851,17 +1435,17 @@
         "title": "Art for Art's Sake",
         "year": 1934
     },
-    "https://www.cinemovies.video/movies/at-war-with-the-army/": {
-        "freenessurl": "https://www.cinemovies.video/movies/at-war-with-the-army/",
+    "https://www.cinemovies.video/movies/ashes-of-vengeance/": {
+        "freenessurl": "https://www.cinemovies.video/movies/ashes-of-vengeance/",
         "status": "free",
-        "title": "At War with the Army",
-        "year": 1950
+        "title": "Ashes of Vengeance",
+        "year": 1923
     },
-    "https://www.cinemovies.video/movies/babe-be-good/": {
-        "freenessurl": "https://www.cinemovies.video/movies/babe-be-good/",
+    "https://www.cinemovies.video/movies/back-stage/": {
+        "freenessurl": "https://www.cinemovies.video/movies/back-stage/",
         "status": "free",
-        "title": "Babe Be Good",
-        "year": 1935
+        "title": "Back Stage",
+        "year": 1919
     },
     "https://www.cinemovies.video/movies/bars-and-stripes-forever/": {
         "freenessurl": "https://www.cinemovies.video/movies/bars-and-stripes-forever/",
@@ -1875,29 +1459,17 @@
         "title": "Be Human",
         "year": 1936
     },
-    "https://www.cinemovies.video/movies/behave-yourself/": {
-        "freenessurl": "https://www.cinemovies.video/movies/behave-yourself/",
-        "status": "free",
-        "title": "Behave Yourself!",
-        "year": 1951
-    },
-    "https://www.cinemovies.video/movies/bells-of-san-angelo/": {
-        "freenessurl": "https://www.cinemovies.video/movies/bells-of-san-angelo/",
-        "status": "free",
-        "title": "Bells of San Angelo",
-        "year": 1947
-    },
     "https://www.cinemovies.video/movies/between-showers/": {
         "freenessurl": "https://www.cinemovies.video/movies/between-showers/",
         "status": "free",
         "title": "Between Showers",
         "year": 1914
     },
-    "https://www.cinemovies.video/movies/bliss/": {
-        "freenessurl": "https://www.cinemovies.video/movies/bliss/",
+    "https://www.cinemovies.video/movies/bloody-pit-of-horror/": {
+        "freenessurl": "https://www.cinemovies.video/movies/bloody-pit-of-horror/",
         "status": "free",
-        "title": "Bliss",
-        "year": 1917
+        "title": "Bloody Pit of Horror",
+        "year": 1965
     },
     "https://www.cinemovies.video/movies/bored-of-education/": {
         "freenessurl": "https://www.cinemovies.video/movies/bored-of-education/",
@@ -1911,18 +1483,6 @@
         "title": "Born to Win",
         "year": 1971
     },
-    "https://www.cinemovies.video/movies/buzzy-boop/": {
-        "freenessurl": "https://www.cinemovies.video/movies/buzzy-boop/",
-        "status": "free",
-        "title": "Buzzy Boop",
-        "year": 1938
-    },
-    "https://www.cinemovies.video/movies/by-the-sea/": {
-        "freenessurl": "https://www.cinemovies.video/movies/by-the-sea/",
-        "status": "free",
-        "title": "By the Sea",
-        "year": 1915
-    },
     "https://www.cinemovies.video/movies/call-of-the-yukon/": {
         "freenessurl": "https://www.cinemovies.video/movies/call-of-the-yukon/",
         "status": "free",
@@ -1935,29 +1495,17 @@
         "title": "Captain Scarlett",
         "year": 1953
     },
+    "https://www.cinemovies.video/movies/carnival-story/": {
+        "freenessurl": "https://www.cinemovies.video/movies/carnival-story/",
+        "status": "free",
+        "title": "Carnival Story",
+        "year": 1954
+    },
     "https://www.cinemovies.video/movies/case-of-the-missing-hare/": {
         "freenessurl": "https://www.cinemovies.video/movies/case-of-the-missing-hare/",
         "status": "free",
         "title": "Case of the Missing Hare",
         "year": 1942
-    },
-    "https://www.cinemovies.video/movies/cheese-burglar/": {
-        "freenessurl": "https://www.cinemovies.video/movies/cheese-burglar/",
-        "status": "free",
-        "title": "Cheese Burglar",
-        "year": 1946
-    },
-    "https://www.cinemovies.video/movies/chicken-a-la-king/": {
-        "freenessurl": "https://www.cinemovies.video/movies/chicken-a-la-king/",
-        "status": "free",
-        "title": "Chicken a La King",
-        "year": 1937
-    },
-    "https://www.cinemovies.video/movies/christmas-comes-year/": {
-        "freenessurl": "https://www.cinemovies.video/movies/christmas-comes-year/",
-        "status": "free",
-        "title": "Christmas Comes but Once a Year",
-        "year": 1936
     },
     "https://www.cinemovies.video/movies/christmas-night/": {
         "freenessurl": "https://www.cinemovies.video/movies/christmas-night/",
@@ -1965,23 +1513,17 @@
         "title": "Christmas Night",
         "year": 1933
     },
-    "https://www.cinemovies.video/movies/christmas-visit/": {
-        "freenessurl": "https://www.cinemovies.video/movies/christmas-visit/",
-        "status": "free",
-        "title": "Christmas Visit",
-        "year": null
-    },
     "https://www.cinemovies.video/movies/college-capers/": {
         "freenessurl": "https://www.cinemovies.video/movies/college-capers/",
         "status": "free",
         "title": "College Capers",
         "year": 1931
     },
-    "https://www.cinemovies.video/movies/comin-round-the-mountain/": {
-        "freenessurl": "https://www.cinemovies.video/movies/comin-round-the-mountain/",
+    "https://www.cinemovies.video/movies/coney-island/": {
+        "freenessurl": "https://www.cinemovies.video/movies/coney-island/",
         "status": "free",
-        "title": "Comin' Round the Mountain",
-        "year": 1949
+        "title": "Coney Island",
+        "year": 1917
     },
     "https://www.cinemovies.video/movies/cyrano-de-bergerac/": {
         "freenessurl": "https://www.cinemovies.video/movies/cyrano-de-bergerac/",
@@ -1995,11 +1537,23 @@
         "title": "Dancing on the Moon",
         "year": 1935
     },
+    "https://www.cinemovies.video/movies/danger-flight/": {
+        "freenessurl": "https://www.cinemovies.video/movies/danger-flight/",
+        "status": "free",
+        "title": "Danger Flight",
+        "year": 1939
+    },
     "https://www.cinemovies.video/movies/david-and-goliath/": {
         "freenessurl": "https://www.cinemovies.video/movies/david-and-goliath/",
         "status": "free",
         "title": "David and Goliath",
         "year": 1960
+    },
+    "https://www.cinemovies.video/movies/david-copperfield/": {
+        "freenessurl": "https://www.cinemovies.video/movies/david-copperfield/",
+        "status": "free",
+        "title": "David Copperfield",
+        "year": 1969
     },
     "https://www.cinemovies.video/movies/desert-commandos/": {
         "freenessurl": "https://www.cinemovies.video/movies/desert-commandos/",
@@ -2025,11 +1579,29 @@
         "title": "Dick Whittington's Cat",
         "year": 1936
     },
+    "https://www.cinemovies.video/movies/dishonored-lady/": {
+        "freenessurl": "https://www.cinemovies.video/movies/dishonored-lady/",
+        "status": "free",
+        "title": "Dishonored Lady",
+        "year": 1947
+    },
     "https://www.cinemovies.video/movies/disorder-in-the-court/": {
         "freenessurl": "https://www.cinemovies.video/movies/disorder-in-the-court/",
         "status": "free",
         "title": "Disorder in the Court",
         "year": 1936
+    },
+    "https://www.cinemovies.video/movies/dressed-to-kill/": {
+        "freenessurl": "https://www.cinemovies.video/movies/dressed-to-kill/",
+        "status": "free",
+        "title": "Dressed to Kill",
+        "year": 1946
+    },
+    "https://www.cinemovies.video/movies/eagle-in-a-cage/": {
+        "freenessurl": "https://www.cinemovies.video/movies/eagle-in-a-cage/",
+        "status": "free",
+        "title": "Eagle in a Cage",
+        "year": 1972
     },
     "https://www.cinemovies.video/movies/easy-street/": {
         "freenessurl": "https://www.cinemovies.video/movies/easy-street/",
@@ -2048,6 +1620,12 @@
         "status": "free",
         "title": "Esther and the King",
         "year": 1960
+    },
+    "https://www.cinemovies.video/movies/fangs-of-the-wild/": {
+        "freenessurl": "https://www.cinemovies.video/movies/fangs-of-the-wild/",
+        "status": "free",
+        "title": "Fangs of the Wild",
+        "year": 1939
     },
     "https://www.cinemovies.video/movies/farm-foolery/": {
         "freenessurl": "https://www.cinemovies.video/movies/farm-foolery/",
@@ -2079,11 +1657,23 @@
         "title": "Gabby Goes Fishing",
         "year": 1941
     },
+    "https://www.cinemovies.video/movies/get-out-and-get-under/": {
+        "freenessurl": "https://www.cinemovies.video/movies/get-out-and-get-under/",
+        "status": "free",
+        "title": "Get Out and Get Under",
+        "year": 1920
+    },
     "https://www.cinemovies.video/movies/getting-acquainted/": {
         "freenessurl": "https://www.cinemovies.video/movies/getting-acquainted/",
         "status": "free",
         "title": "Getting Acquainted",
         "year": 1914
+    },
+    "https://www.cinemovies.video/movies/good-night-nurse/": {
+        "freenessurl": "https://www.cinemovies.video/movies/good-night-nurse/",
+        "status": "free",
+        "title": "Good Night, Nurse!",
+        "year": 1918
     },
     "https://www.cinemovies.video/movies/goofy-goofy-gander/": {
         "freenessurl": "https://www.cinemovies.video/movies/goofy-goofy-gander/",
@@ -2091,11 +1681,29 @@
         "title": "Goofy Goofy Gander",
         "year": 1950
     },
+    "https://www.cinemovies.video/movies/grave-of-the-vampire/": {
+        "freenessurl": "https://www.cinemovies.video/movies/grave-of-the-vampire/",
+        "status": "free",
+        "title": "Grave of the Vampire",
+        "year": 1972
+    },
     "https://www.cinemovies.video/movies/gullivers-travels/": {
         "freenessurl": "https://www.cinemovies.video/movies/gullivers-travels/",
         "status": "free",
         "title": "Gulliver's Travels",
         "year": 1939
+    },
+    "https://www.cinemovies.video/movies/happy-days/": {
+        "freenessurl": "https://www.cinemovies.video/movies/happy-days/",
+        "status": "free",
+        "title": "Happy Days",
+        "year": 1936
+    },
+    "https://www.cinemovies.video/movies/heart-of-the-rockies/": {
+        "freenessurl": "https://www.cinemovies.video/movies/heart-of-the-rockies/",
+        "status": "free",
+        "title": "Heart of the Rockies",
+        "year": 1937
     },
     "https://www.cinemovies.video/movies/hep-cat-symphony/": {
         "freenessurl": "https://www.cinemovies.video/movies/hep-cat-symphony/",
@@ -2115,23 +1723,17 @@
         "title": "His Private Secretary",
         "year": 1933
     },
+    "https://www.cinemovies.video/movies/his-regeneration/": {
+        "freenessurl": "https://www.cinemovies.video/movies/his-regeneration/",
+        "status": "free",
+        "title": "His Regeneration",
+        "year": 1915
+    },
     "https://www.cinemovies.video/movies/hoffnung-music-academy/": {
         "freenessurl": "https://www.cinemovies.video/movies/hoffnung-music-academy/",
         "status": "free",
         "title": "The Hoffnung Music Academy",
         "year": 1964
-    },
-    "https://www.cinemovies.video/movies/hoffnung-toons-professor-yayas-memoirs/": {
-        "freenessurl": "https://www.cinemovies.video/movies/hoffnung-toons-professor-yayas-memoirs/",
-        "status": "free",
-        "title": "The Hoffnung Toons - Professor Yaya's Memoirs",
-        "year": 1965
-    },
-    "https://www.cinemovies.video/movies/hoffnung-toons-vacuum-cleaner/": {
-        "freenessurl": "https://www.cinemovies.video/movies/hoffnung-toons-vacuum-cleaner/",
-        "status": "free",
-        "title": "The Hoffnung Toons - Vacuum Cleaner",
-        "year": 1965
     },
     "https://www.cinemovies.video/movies/hold-it/": {
         "freenessurl": "https://www.cinemovies.video/movies/hold-it/",
@@ -2139,17 +1741,17 @@
         "title": "Hold It!",
         "year": 1938
     },
+    "https://www.cinemovies.video/movies/hook-line-and-sinker/": {
+        "freenessurl": "https://www.cinemovies.video/movies/hook-line-and-sinker/",
+        "status": "free",
+        "title": "Hook, Line and Sinker",
+        "year": 1930
+    },
     "https://www.cinemovies.video/movies/horrors-of-spider-island/": {
         "freenessurl": "https://www.cinemovies.video/movies/horrors-of-spider-island/",
         "status": "free",
         "title": "Horrors of Spider Island",
         "year": 1960
-    },
-    "https://www.cinemovies.video/movies/hunky-and-spunky/": {
-        "freenessurl": "https://www.cinemovies.video/movies/hunky-and-spunky/",
-        "status": "free",
-        "title": "Hunky and Spunky",
-        "year": 1938
     },
     "https://www.cinemovies.video/movies/i-love-a-parade/": {
         "freenessurl": "https://www.cinemovies.video/movies/i-love-a-parade/",
@@ -2163,11 +1765,29 @@
         "title": "In the Park",
         "year": 1915
     },
+    "https://www.cinemovies.video/movies/indestructible-man/": {
+        "freenessurl": "https://www.cinemovies.video/movies/indestructible-man/",
+        "status": "free",
+        "title": "Indestructible Man",
+        "year": 1956
+    },
+    "https://www.cinemovies.video/movies/invasion-of-the-bee-girls/": {
+        "freenessurl": "https://www.cinemovies.video/movies/invasion-of-the-bee-girls/",
+        "status": "free",
+        "title": "Invasion of the Bee Girls",
+        "year": 1973
+    },
     "https://www.cinemovies.video/movies/iron-head/": {
         "freenessurl": "https://www.cinemovies.video/movies/iron-head/",
         "status": "free",
         "title": "Iron Head",
         "year": 1974
+    },
+    "https://www.cinemovies.video/movies/jack-and-the-beanstalk/": {
+        "freenessurl": "https://www.cinemovies.video/movies/jack-and-the-beanstalk/",
+        "status": "free",
+        "title": "Jack and the Beanstalk",
+        "year": 1952
     },
     "https://www.cinemovies.video/movies/jack-frost/": {
         "freenessurl": "https://www.cinemovies.video/movies/jack-frost/",
@@ -2193,6 +1813,18 @@
         "title": "Just Neighbors",
         "year": 1919
     },
+    "https://www.cinemovies.video/movies/kid-dynamite/": {
+        "freenessurl": "https://www.cinemovies.video/movies/kid-dynamite/",
+        "status": "free",
+        "title": "Kid Dynamite",
+        "year": 1943
+    },
+    "https://www.cinemovies.video/movies/killers-from-space/": {
+        "freenessurl": "https://www.cinemovies.video/movies/killers-from-space/",
+        "status": "free",
+        "title": "Killers from Space",
+        "year": 1954
+    },
     "https://www.cinemovies.video/movies/king-of-the-pecos/": {
         "freenessurl": "https://www.cinemovies.video/movies/king-of-the-pecos/",
         "status": "free",
@@ -2205,11 +1837,11 @@
         "title": "Lancelot and Guinevere",
         "year": 1963
     },
-    "https://www.cinemovies.video/movies/leprechauns-gold/": {
-        "freenessurl": "https://www.cinemovies.video/movies/leprechauns-gold/",
+    "https://www.cinemovies.video/movies/life-with-father/": {
+        "freenessurl": "https://www.cinemovies.video/movies/life-with-father/",
         "status": "free",
-        "title": "Leprechauns Gold",
-        "year": 1949
+        "title": "Life with Father",
+        "year": 1947
     },
     "https://www.cinemovies.video/movies/little-audrey-santas-surprise/": {
         "freenessurl": "https://www.cinemovies.video/movies/little-audrey-santas-surprise/",
@@ -2235,6 +1867,12 @@
         "title": "Little Brown Jug",
         "year": 1948
     },
+    "https://www.cinemovies.video/movies/little-lord-fauntleroy/": {
+        "freenessurl": "https://www.cinemovies.video/movies/little-lord-fauntleroy/",
+        "status": "free",
+        "title": "Little Lord Fauntleroy",
+        "year": 1936
+    },
     "https://www.cinemovies.video/movies/little-nobody/": {
         "freenessurl": "https://www.cinemovies.video/movies/little-nobody/",
         "status": "free",
@@ -2247,23 +1885,16 @@
         "title": "Long John Silver",
         "year": 1954
     },
-    "https://www.cinemovies.video/movies/makin-em-move/": {
-        "freenessurl": "https://www.cinemovies.video/movies/makin-em-move/",
+    "https://www.cinemovies.video/movies/love-in-a-pond/": {
+        "freenessurl": "https://www.cinemovies.video/movies/love-in-a-pond/",
         "status": "free",
-        "title": "Makin' 'Em Move",
-        "year": 1931
+        "title": "Love in a Pond"
     },
     "https://www.cinemovies.video/movies/making-a-living/": {
         "freenessurl": "https://www.cinemovies.video/movies/making-a-living/",
         "status": "free",
         "title": "Making a Living",
         "year": 1914
-    },
-    "https://www.cinemovies.video/movies/making-friends/": {
-        "freenessurl": "https://www.cinemovies.video/movies/making-friends/",
-        "status": "free",
-        "title": "Making Friends",
-        "year": 1936
     },
     "https://www.cinemovies.video/movies/marriage-wows/": {
         "freenessurl": "https://www.cinemovies.video/movies/marriage-wows/",
@@ -2283,17 +1914,15 @@
         "title": "Mechanical Man",
         "year": 1932
     },
+    "https://www.cinemovies.video/movies/merry-christmas/": {
+        "freenessurl": "https://www.cinemovies.video/movies/merry-christmas/",
+        "status": "free",
+        "title": "Merry Christmas"
+    },
     "https://www.cinemovies.video/movies/midnight/": {
         "freenessurl": "https://www.cinemovies.video/movies/midnight/",
         "status": "free",
-        "title": "Midnight",
-        "year": null
-    },
-    "https://www.cinemovies.video/movies/mischievous-mice/": {
-        "freenessurl": "https://www.cinemovies.video/movies/mischievous-mice/",
-        "status": "free",
-        "title": "Mischievous Mice",
-        "year": null
+        "title": "Midnight"
     },
     "https://www.cinemovies.video/movies/molly-moo-cow-hunting-season/": {
         "freenessurl": "https://www.cinemovies.video/movies/molly-moo-cow-hunting-season/",
@@ -2301,17 +1930,17 @@
         "title": "Molly Moo-Cow - The Hunting Season",
         "year": 1935
     },
-    "https://www.cinemovies.video/movies/move-on/": {
-        "freenessurl": "https://www.cinemovies.video/movies/move-on/",
-        "status": "free",
-        "title": "Move On",
-        "year": 1917
-    },
     "https://www.cinemovies.video/movies/musical-mountaineers/": {
         "freenessurl": "https://www.cinemovies.video/movies/musical-mountaineers/",
         "status": "free",
         "title": "Musical Mountaineers",
         "year": 1939
+    },
+    "https://www.cinemovies.video/movies/my-wifes-relations/": {
+        "freenessurl": "https://www.cinemovies.video/movies/my-wifes-relations/",
+        "status": "free",
+        "title": "My Wife's Relations",
+        "year": 1922
     },
     "https://www.cinemovies.video/movies/naughty-but-mice/": {
         "freenessurl": "https://www.cinemovies.video/movies/naughty-but-mice/",
@@ -2319,11 +1948,29 @@
         "title": "Naughty But Mice",
         "year": 1947
     },
+    "https://www.cinemovies.video/movies/night-of-the-living-dead/": {
+        "freenessurl": "https://www.cinemovies.video/movies/night-of-the-living-dead/",
+        "status": "free",
+        "title": "Night of the Living Dead",
+        "year": 1968
+    },
+    "https://www.cinemovies.video/movies/nightmare-castle/": {
+        "freenessurl": "https://www.cinemovies.video/movies/nightmare-castle/",
+        "status": "free",
+        "title": "Nightmare Castle",
+        "year": 1965
+    },
     "https://www.cinemovies.video/movies/noahs-outing/": {
         "freenessurl": "https://www.cinemovies.video/movies/noahs-outing/",
         "status": "free",
         "title": "Noah's Outing",
-        "year": 1924
+        "year": 1932
+    },
+    "https://www.cinemovies.video/movies/nosferatu/": {
+        "freenessurl": "https://www.cinemovies.video/movies/nosferatu/",
+        "status": "free",
+        "title": "Nosferatu",
+        "year": 1922
     },
     "https://www.cinemovies.video/movies/not-now/": {
         "freenessurl": "https://www.cinemovies.video/movies/not-now/",
@@ -2349,6 +1996,18 @@
         "title": "Old Mother Hubbard",
         "year": 1935
     },
+    "https://www.cinemovies.video/movies/on-the-fire/": {
+        "freenessurl": "https://www.cinemovies.video/movies/on-the-fire/",
+        "status": "free",
+        "title": "On the Fire",
+        "year": 1919
+    },
+    "https://www.cinemovies.video/movies/on-the-pan/": {
+        "freenessurl": "https://www.cinemovies.video/movies/on-the-pan/",
+        "status": "free",
+        "title": "On the Pan",
+        "year": 1933
+    },
     "https://www.cinemovies.video/movies/on-with-the-new/": {
         "freenessurl": "https://www.cinemovies.video/movies/on-with-the-new/",
         "status": "free",
@@ -2361,11 +2020,29 @@
         "title": "Once Upon a Time",
         "year": 1937
     },
-    "https://www.cinemovies.video/movies/pay-day/": {
-        "freenessurl": "https://www.cinemovies.video/movies/pay-day/",
+    "https://www.cinemovies.video/movies/one-eyed-jacks/": {
+        "freenessurl": "https://www.cinemovies.video/movies/one-eyed-jacks/",
         "status": "free",
-        "title": "Pay Day",
-        "year": 1922
+        "title": "One-Eyed Jacks",
+        "year": 1961
+    },
+    "https://www.cinemovies.video/movies/our-hospitality/": {
+        "freenessurl": "https://www.cinemovies.video/movies/our-hospitality/",
+        "status": "free",
+        "title": "Our Hospitality",
+        "year": 1923
+    },
+    "https://www.cinemovies.video/movies/out-west/": {
+        "freenessurl": "https://www.cinemovies.video/movies/out-west/",
+        "status": "free",
+        "title": "Out West",
+        "year": 1918
+    },
+    "https://www.cinemovies.video/movies/pay-your-dues/": {
+        "freenessurl": "https://www.cinemovies.video/movies/pay-your-dues/",
+        "status": "free",
+        "title": "Pay Your Dues",
+        "year": 1919
     },
     "https://www.cinemovies.video/movies/play-safe/": {
         "freenessurl": "https://www.cinemovies.video/movies/play-safe/",
@@ -2391,17 +2068,11 @@
         "title": "Prest-O Change-O",
         "year": 1939
     },
-    "https://www.cinemovies.video/movies/presto-chango/": {
-        "freenessurl": "https://www.cinemovies.video/movies/presto-chango/",
+    "https://www.cinemovies.video/movies/queen-of-the-amazons/": {
+        "freenessurl": "https://www.cinemovies.video/movies/queen-of-the-amazons/",
         "status": "free",
-        "title": "Presto-Chango",
-        "year": 1929
-    },
-    "https://www.cinemovies.video/movies/project-kill/": {
-        "freenessurl": "https://www.cinemovies.video/movies/project-kill/",
-        "status": "free",
-        "title": "Project: Kill",
-        "year": 1976
+        "title": "Queen of the Amazons",
+        "year": 1947
     },
     "https://www.cinemovies.video/movies/recreation/": {
         "freenessurl": "https://www.cinemovies.video/movies/recreation/",
@@ -2412,14 +2083,19 @@
     "https://www.cinemovies.video/movies/red-riding-hood/": {
         "freenessurl": "https://www.cinemovies.video/movies/red-riding-hood/",
         "status": "free",
-        "title": "Red Riding Hood",
-        "year": null
+        "title": "Red Riding Hood"
     },
     "https://www.cinemovies.video/movies/return-of-the-street-fighter/": {
         "freenessurl": "https://www.cinemovies.video/movies/return-of-the-street-fighter/",
         "status": "free",
         "title": "Return of the Street Fighter",
         "year": 1974
+    },
+    "https://www.cinemovies.video/movies/road-to-happiness/": {
+        "freenessurl": "https://www.cinemovies.video/movies/road-to-happiness/",
+        "status": "free",
+        "title": "Road to Happiness",
+        "year": 1941
     },
     "https://www.cinemovies.video/movies/robin-hood-makes-good/": {
         "freenessurl": "https://www.cinemovies.video/movies/robin-hood-makes-good/",
@@ -2439,17 +2115,22 @@
         "title": "Rudolph the Red-Nosed Reindeer",
         "year": 1948
     },
+    "https://www.cinemovies.video/movies/sagebrush-trail/": {
+        "freenessurl": "https://www.cinemovies.video/movies/sagebrush-trail/",
+        "status": "free",
+        "title": "Sagebrush Trail",
+        "year": 1933
+    },
+    "https://www.cinemovies.video/movies/santa-claus-story/": {
+        "freenessurl": "https://www.cinemovies.video/movies/santa-claus-story/",
+        "status": "free",
+        "title": "Santa Claus Story"
+    },
     "https://www.cinemovies.video/movies/secret-agent/": {
         "freenessurl": "https://www.cinemovies.video/movies/secret-agent/",
         "status": "free",
         "title": "Secret Agent",
         "year": 1943
-    },
-    "https://www.cinemovies.video/movies/shanghaied/": {
-        "freenessurl": "https://www.cinemovies.video/movies/shanghaied/",
-        "status": "free",
-        "title": "Shanghaied",
-        "year": 1915
     },
     "https://www.cinemovies.video/movies/sherlock-holmes-and-the-secret-weapon/": {
         "freenessurl": "https://www.cinemovies.video/movies/sherlock-holmes-and-the-secret-weapon/",
@@ -2457,76 +2138,16 @@
         "title": "Sherlock Holmes and the Secret Weapon",
         "year": 1942
     },
-    "https://www.cinemovies.video/movies/showdown/": {
-        "freenessurl": "https://www.cinemovies.video/movies/showdown/",
-        "status": "free",
-        "title": "Showdown",
-        "year": 1942
-    },
-    "https://www.cinemovies.video/movies/silvery-moon/": {
-        "freenessurl": "https://www.cinemovies.video/movies/silvery-moon/",
-        "status": "free",
-        "title": "Silvery Moon",
-        "year": 1933
-    },
-    "https://www.cinemovies.video/movies/sinbad-the-sailor/": {
-        "freenessurl": "https://www.cinemovies.video/movies/sinbad-the-sailor/",
-        "status": "free",
-        "title": "Sinbad the Sailor",
-        "year": 1935
-    },
-    "https://www.cinemovies.video/movies/small-fry/": {
-        "freenessurl": "https://www.cinemovies.video/movies/small-fry/",
-        "status": "free",
-        "title": "Small Fry",
-        "year": 1939
-    },
     "https://www.cinemovies.video/movies/spooking-about-africa/": {
         "freenessurl": "https://www.cinemovies.video/movies/spooking-about-africa/",
         "status": "free",
         "title": "Spooking About Africa",
         "year": 1957
     },
-    "https://www.cinemovies.video/movies/stop-that-noise/": {
-        "freenessurl": "https://www.cinemovies.video/movies/stop-that-noise/",
-        "status": "free",
-        "title": "Stop That Noise",
-        "year": 1935
-    },
-    "https://www.cinemovies.video/movies/suddenly-its-spring/": {
-        "freenessurl": "https://www.cinemovies.video/movies/suddenly-its-spring/",
-        "status": "free",
-        "title": "Suddenly It's Spring (Raggedy Ann)",
-        "year": 1944
-    },
-    "https://www.cinemovies.video/movies/sultan-pepper/": {
-        "freenessurl": "https://www.cinemovies.video/movies/sultan-pepper/",
-        "status": "free",
-        "title": "Sultan Pepper",
-        "year": 1934
-    },
     "https://www.cinemovies.video/movies/summertime/": {
         "freenessurl": "https://www.cinemovies.video/movies/summertime/",
         "status": "free",
         "title": "Summertime",
-        "year": 1935
-    },
-    "https://www.cinemovies.video/movies/taking-the-blame/": {
-        "freenessurl": "https://www.cinemovies.video/movies/taking-the-blame/",
-        "status": "free",
-        "title": "Taking The Blame",
-        "year": 1935
-    },
-    "https://www.cinemovies.video/movies/teachers-pest/": {
-        "freenessurl": "https://www.cinemovies.video/movies/teachers-pest/",
-        "status": "free",
-        "title": "Teacher's Pest",
-        "year": 1950
-    },
-    "https://www.cinemovies.video/movies/texas-terror/": {
-        "freenessurl": "https://www.cinemovies.video/movies/texas-terror/",
-        "status": "free",
-        "title": "Texas Terror",
         "year": 1935
     },
     "https://www.cinemovies.video/movies/the-adventurer/": {
@@ -2535,29 +2156,11 @@
         "title": "The Adventurer",
         "year": 1917
     },
-    "https://www.cinemovies.video/movies/the-arctic-giant/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-arctic-giant/",
-        "status": "free",
-        "title": "The Arctic Giant",
-        "year": 1942
-    },
     "https://www.cinemovies.video/movies/the-balloonatic/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-balloonatic/",
         "status": "free",
         "title": "The Balloonatic",
         "year": 1923
-    },
-    "https://www.cinemovies.video/movies/the-bank/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-bank/",
-        "status": "free",
-        "title": "The Bank",
-        "year": 1915
-    },
-    "https://www.cinemovies.video/movies/the-big-chance/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-big-chance/",
-        "status": "free",
-        "title": "The Big Chance",
-        "year": 1933
     },
     "https://www.cinemovies.video/movies/the-blacksmith/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-blacksmith/",
@@ -2577,53 +2180,17 @@
         "title": "The Boy in the Plastic Bubble",
         "year": 1976
     },
-    "https://www.cinemovies.video/movies/the-brementown-musicians/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-brementown-musicians/",
-        "status": "free",
-        "title": "The Brementown Musicians",
-        "year": 1935
-    },
     "https://www.cinemovies.video/movies/the-bulleteers/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-bulleteers/",
         "status": "free",
         "title": "The Bulleteers",
         "year": 1942
     },
-    "https://www.cinemovies.video/movies/the-candid-candidate/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-candid-candidate/",
-        "status": "free",
-        "title": "The Candid Candidate",
-        "year": 1937
-    },
     "https://www.cinemovies.video/movies/the-champion/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-champion/",
         "status": "free",
         "title": "The Champion",
         "year": 1915
-    },
-    "https://www.cinemovies.video/movies/the-christmas-dream/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-christmas-dream/",
-        "status": "free",
-        "title": "The Christmas Dream",
-        "year": 1946
-    },
-    "https://www.cinemovies.video/movies/the-christmas-visitor/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-christmas-visitor/",
-        "status": "free",
-        "title": "The Christmas Visitor",
-        "year": 1959
-    },
-    "https://www.cinemovies.video/movies/the-count/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-count/",
-        "status": "free",
-        "title": "The Count",
-        "year": 1916
-    },
-    "https://www.cinemovies.video/movies/the-dawn-rider/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-dawn-rider/",
-        "status": "free",
-        "title": "The Dawn Rider",
-        "year": 1935
     },
     "https://www.cinemovies.video/movies/the-desert-trail/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-desert-trail/",
@@ -2637,23 +2204,23 @@
         "title": "The Devil Bat",
         "year": 1940
     },
+    "https://www.cinemovies.video/movies/the-devils-nightmare/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-devils-nightmare/",
+        "status": "free",
+        "title": "The Devil's Nightmare",
+        "year": 1971
+    },
+    "https://www.cinemovies.video/movies/the-disappearance-of-flight-412/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-disappearance-of-flight-412/",
+        "status": "free",
+        "title": "The Disappearance of Flight 412",
+        "year": 1974
+    },
     "https://www.cinemovies.video/movies/the-dog-show-off/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-dog-show-off/",
         "status": "free",
         "title": "The Dog Show-Off",
         "year": 1948
-    },
-    "https://www.cinemovies.video/movies/the-emerald-isle/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-emerald-isle/",
-        "status": "free",
-        "title": "The Emerald Isle",
-        "year": 1949
-    },
-    "https://www.cinemovies.video/movies/the-face-on-the-barroom-floor/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-face-on-the-barroom-floor/",
-        "status": "free",
-        "title": "The Face on the Barroom Floor",
-        "year": 1914
     },
     "https://www.cinemovies.video/movies/the-fireman/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-fireman/",
@@ -2667,35 +2234,11 @@
         "title": "The Floorwalker",
         "year": 1916
     },
-    "https://www.cinemovies.video/movies/the-friendly-ghost/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-friendly-ghost/",
+    "https://www.cinemovies.video/movies/the-forest/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-forest/",
         "status": "free",
-        "title": "The Friendly Ghost",
-        "year": 1945
-    },
-    "https://www.cinemovies.video/movies/the-general/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-general/",
-        "status": "free",
-        "title": "The General",
-        "year": 1926
-    },
-    "https://www.cinemovies.video/movies/the-golden-state/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-golden-state/",
-        "status": "free",
-        "title": "The Golden State",
-        "year": 1948
-    },
-    "https://www.cinemovies.video/movies/the-haunted-ship/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-haunted-ship/",
-        "status": "free",
-        "title": "The Haunted Ship",
-        "year": 1930
-    },
-    "https://www.cinemovies.video/movies/the-huntsman/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-huntsman/",
-        "status": "free",
-        "title": "The Huntsman",
-        "year": 1927
+        "title": "The Forest",
+        "year": 1982
     },
     "https://www.cinemovies.video/movies/the-immigrant/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-immigrant/",
@@ -2709,47 +2252,11 @@
         "title": "The Impatient Patient",
         "year": 1942
     },
-    "https://www.cinemovies.video/movies/the-impractical-joker/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-impractical-joker/",
-        "status": "free",
-        "title": "The Impractical Joker",
-        "year": 1937
-    },
-    "https://www.cinemovies.video/movies/the-iron-man/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-iron-man/",
-        "status": "free",
-        "title": "The Iron Man",
-        "year": 1931
-    },
-    "https://www.cinemovies.video/movies/the-lion-tamer/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-lion-tamer/",
-        "status": "free",
-        "title": "The Lion Tamer",
-        "year": 1934
-    },
     "https://www.cinemovies.video/movies/the-little-stranger/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-little-stranger/",
         "status": "free",
         "title": "The Little Stranger",
         "year": 1936
-    },
-    "https://www.cinemovies.video/movies/the-lone-star-state/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-lone-star-state/",
-        "status": "free",
-        "title": "The Lone Star State",
-        "year": 1948
-    },
-    "https://www.cinemovies.video/movies/the-lost-dream/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-lost-dream/",
-        "status": "free",
-        "title": "The Lost Dream",
-        "year": 1949
-    },
-    "https://www.cinemovies.video/movies/the-mad-scientist/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-mad-scientist/",
-        "status": "free",
-        "title": "The Mad Scientist",
-        "year": 1941
     },
     "https://www.cinemovies.video/movies/the-magic-sword/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-magic-sword/",
@@ -2757,41 +2264,17 @@
         "title": "The Magic Sword",
         "year": 1962
     },
-    "https://www.cinemovies.video/movies/the-mark-of-zorro/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-mark-of-zorro/",
-        "status": "free",
-        "title": "The Mark of Zorro",
-        "year": 1920
-    },
-    "https://www.cinemovies.video/movies/the-masquerader/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-masquerader/",
-        "status": "free",
-        "title": "The Masquerader",
-        "year": 1914
-    },
-    "https://www.cinemovies.video/movies/the-mite-makes-right/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-mite-makes-right/",
-        "status": "free",
-        "title": "The Mite Makes Right",
-        "year": 1948
-    },
-    "https://www.cinemovies.video/movies/the-new-janitor/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-new-janitor/",
-        "status": "free",
-        "title": "The New Janitor",
-        "year": 1914
-    },
-    "https://www.cinemovies.video/movies/the-over-the-hill-gang/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-over-the-hill-gang/",
-        "status": "free",
-        "title": "The Over-the-Hill Gang",
-        "year": 1969
-    },
     "https://www.cinemovies.video/movies/the-painted-hills/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-painted-hills/",
         "status": "free",
         "title": "The Painted Hills",
         "year": 1951
+    },
+    "https://www.cinemovies.video/movies/the-panthers-claw/": {
+        "freenessurl": "https://www.cinemovies.video/movies/the-panthers-claw/",
+        "status": "free",
+        "title": "The Panther's Claw",
+        "year": 1942
     },
     "https://www.cinemovies.video/movies/the-pied-piper-of-hamelin/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-pied-piper-of-hamelin/",
@@ -2805,58 +2288,16 @@
         "title": "The Ranger and the Lady",
         "year": 1940
     },
-    "https://www.cinemovies.video/movies/the-rasslin-match/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-rasslin-match/",
-        "status": "free",
-        "title": "The Rasslin' Match",
-        "year": 1934
-    },
     "https://www.cinemovies.video/movies/the-rink/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-rink/",
         "status": "free",
         "title": "The Rink",
         "year": 1916
     },
-    "https://www.cinemovies.video/movies/the-seapreme-court/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-seapreme-court/",
-        "status": "free",
-        "title": "The Seapreme Court",
-        "year": 1954
-    },
-    "https://www.cinemovies.video/movies/the-skis-the-limit/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-skis-the-limit/",
-        "status": "free",
-        "title": "The Ski's the Limit",
-        "year": 1949
-    },
     "https://www.cinemovies.video/movies/the-song-of-the-birds/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-song-of-the-birds/",
         "status": "free",
         "title": "The Song of the Birds",
-        "year": 1935
-    },
-    "https://www.cinemovies.video/movies/the-star-of-bethlehem/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-star-of-bethlehem/",
-        "status": "free",
-        "title": "The Star of Bethlehem",
-        "year": 1956
-    },
-    "https://www.cinemovies.video/movies/the-story-of-time/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-story-of-time/",
-        "status": "free",
-        "title": "The Story of Time",
-        "year": 1951
-    },
-    "https://www.cinemovies.video/movies/the-sundowners/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-sundowners/",
-        "status": "free",
-        "title": "The Sundowners",
-        "year": 1950
-    },
-    "https://www.cinemovies.video/movies/the-sunshine-makers/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-sunshine-makers/",
-        "status": "free",
-        "title": "The Sunshine Makers",
         "year": 1935
     },
     "https://www.cinemovies.video/movies/the-test/": {
@@ -2865,29 +2306,11 @@
         "title": "The Test",
         "year": 1935
     },
-    "https://www.cinemovies.video/movies/the-three-bears/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-three-bears/",
-        "status": "free",
-        "title": "The Three Bears",
-        "year": 1935
-    },
     "https://www.cinemovies.video/movies/the-trail-beyond/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-trail-beyond/",
         "status": "free",
         "title": "The Trail Beyond",
         "year": 1934
-    },
-    "https://www.cinemovies.video/movies/the-tramp/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-tramp/",
-        "status": "free",
-        "title": "The Tramp",
-        "year": 1915
-    },
-    "https://www.cinemovies.video/movies/the-underground-world/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-underground-world/",
-        "status": "free",
-        "title": "The Underground World",
-        "year": 1943
     },
     "https://www.cinemovies.video/movies/the-vagabond/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-vagabond/",
@@ -2898,32 +2321,13 @@
     "https://www.cinemovies.video/movies/the-white-elephant/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-white-elephant/",
         "status": "free",
-        "title": "The White Elephant",
-        "year": null
-    },
-    "https://www.cinemovies.video/movies/the-wild-women-of-wongo/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-wild-women-of-wongo/",
-        "status": "free",
-        "title": "The Wild Women of Wongo",
-        "year": 1958
-    },
-    "https://www.cinemovies.video/movies/the-windjammers/": {
-        "freenessurl": "https://www.cinemovies.video/movies/the-windjammers/",
-        "status": "free",
-        "title": "The Windjammers",
-        "year": null
+        "title": "The White Elephant"
     },
     "https://www.cinemovies.video/movies/the-world-of-hans-christian-andersen/": {
         "freenessurl": "https://www.cinemovies.video/movies/the-world-of-hans-christian-andersen/",
         "status": "free",
         "title": "The World of Hans Christian Andersen",
         "year": 1968
-    },
-    "https://www.cinemovies.video/movies/there-goes-the-bride/": {
-        "freenessurl": "https://www.cinemovies.video/movies/there-goes-the-bride/",
-        "status": "free",
-        "title": "There Goes The Bride",
-        "year": 1980
     },
     "https://www.cinemovies.video/movies/theres-good-boos-to-night/": {
         "freenessurl": "https://www.cinemovies.video/movies/theres-good-boos-to-night/",
@@ -2936,30 +2340,6 @@
         "status": "free",
         "title": "Tillie's Punctured Romance",
         "year": 1914
-    },
-    "https://www.cinemovies.video/movies/to-spring/": {
-        "freenessurl": "https://www.cinemovies.video/movies/to-spring/",
-        "status": "free",
-        "title": "To Spring",
-        "year": 1936
-    },
-    "https://www.cinemovies.video/movies/toonerville-trolley/": {
-        "freenessurl": "https://www.cinemovies.video/movies/toonerville-trolley/",
-        "status": "free",
-        "title": "Toonerville Trolley",
-        "year": 1936
-    },
-    "https://www.cinemovies.video/movies/toy-time/": {
-        "freenessurl": "https://www.cinemovies.video/movies/toy-time/",
-        "status": "free",
-        "title": "Toy Time",
-        "year": 1932
-    },
-    "https://www.cinemovies.video/movies/toys-will-be-toys/": {
-        "freenessurl": "https://www.cinemovies.video/movies/toys-will-be-toys/",
-        "status": "free",
-        "title": "Toys Will Be Toys",
-        "year": 1949
     },
     "https://www.cinemovies.video/movies/vengeance-of-rannah/": {
         "freenessurl": "https://www.cinemovies.video/movies/vengeance-of-rannah/",
@@ -2979,6 +2359,12 @@
         "title": "Warhead",
         "year": 1977
     },
+    "https://www.cinemovies.video/movies/warning-from-space/": {
+        "freenessurl": "https://www.cinemovies.video/movies/warning-from-space/",
+        "status": "free",
+        "title": "Warning from Space",
+        "year": 1956
+    },
     "https://www.cinemovies.video/movies/west-of-the-divide/": {
         "freenessurl": "https://www.cinemovies.video/movies/west-of-the-divide/",
         "status": "free",
@@ -2997,6 +2383,12 @@
         "title": "When G.I. Johnny Comes Home",
         "year": 1945
     },
+    "https://www.cinemovies.video/movies/why-pick-on-me/": {
+        "freenessurl": "https://www.cinemovies.video/movies/why-pick-on-me/",
+        "status": "free",
+        "title": "Why Pick on Me?",
+        "year": 1918
+    },
     "https://www.cinemovies.video/movies/wolf-wolf/": {
         "freenessurl": "https://www.cinemovies.video/movies/wolf-wolf/",
         "status": "free",
@@ -3006,8 +2398,7 @@
     "https://www.cinemovies.video/movies/wooden-money/": {
         "freenessurl": "https://www.cinemovies.video/movies/wooden-money/",
         "status": "free",
-        "title": "Wooden Money",
-        "year": 1929
+        "title": "Wooden Money"
     },
     "https://www.cinemovies.video/movies/work/": {
         "freenessurl": "https://www.cinemovies.video/movies/work/",
@@ -3021,10 +2412,147 @@
         "title": "Yankee Doodle Daffy",
         "year": 1943
     },
-    "https://www.cinemovies.video/movies/zontar-the-thing-from-venus/": {
-        "freenessurl": "https://www.cinemovies.video/movies/zontar-the-thing-from-venus/",
+    "https://www.cinemovies.video/tvshows/annie-oakley/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/annie-oakley/",
         "status": "free",
-        "title": "Zontar: The Thing from Venus",
-        "year": 1966
+        "title": "Annie Oakley"
+    },
+    "https://www.cinemovies.video/tvshows/bonanza/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/bonanza/",
+        "status": "free",
+        "title": "Bonanza",
+        "year": 1959
+    },
+    "https://www.cinemovies.video/tvshows/captain-gallant-of-the-foreign-legion/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/captain-gallant-of-the-foreign-legion/",
+        "status": "free",
+        "title": "Captain Gallant of the Foreign Legion",
+        "year": 1955
+    },
+    "https://www.cinemovies.video/tvshows/dustys-trail/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/dustys-trail/",
+        "status": "free",
+        "title": "Dusty's Trail",
+        "year": 1973
+    },
+    "https://www.cinemovies.video/tvshows/flash-gordon/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/flash-gordon/",
+        "status": "free",
+        "title": "Flash Gordon",
+        "year": 1954
+    },
+    "https://www.cinemovies.video/tvshows/my-little-margie/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/my-little-margie/",
+        "status": "free",
+        "title": "My Little Margie",
+        "year": 1952
+    },
+    "https://www.cinemovies.video/tvshows/one-step-beyond/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/one-step-beyond/",
+        "status": "free",
+        "title": "One Step Beyond",
+        "year": 1959
+    },
+    "https://www.cinemovies.video/tvshows/petticoat-junction/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/petticoat-junction/",
+        "status": "free",
+        "title": "Petticoat Junction",
+        "year": 1963
+    },
+    "https://www.cinemovies.video/tvshows/secret-agent-x-9/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/secret-agent-x-9/",
+        "status": "free",
+        "title": "Secret Agent X-9",
+        "year": 1945
+    },
+    "https://www.cinemovies.video/tvshows/sheena-queen-of-the-jungle/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/sheena-queen-of-the-jungle/",
+        "status": "free",
+        "title": "Sheena, Queen of the Jungle",
+        "year": 1955
+    },
+    "https://www.cinemovies.video/tvshows/sos-coast-guard/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/sos-coast-guard/",
+        "status": "free",
+        "title": "SOS Coast Guard",
+        "year": 1937
+    },
+    "https://www.cinemovies.video/tvshows/stories-of-the-century/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/stories-of-the-century/",
+        "status": "free",
+        "title": "Stories of the Century",
+        "year": 1954
+    },
+    "https://www.cinemovies.video/tvshows/the-adventures-of-jim-bowie/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-adventures-of-jim-bowie/",
+        "status": "free",
+        "title": "The Adventures of Jim Bowie",
+        "year": 1956
+    },
+    "https://www.cinemovies.video/tvshows/the-adventures-of-robin-hood/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-adventures-of-robin-hood/",
+        "status": "free",
+        "title": "The Adventures of Robin Hood",
+        "year": 1955
+    },
+    "https://www.cinemovies.video/tvshows/the-adventures-of-sir-lancelot/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-adventures-of-sir-lancelot/",
+        "status": "free",
+        "title": "The Adventures of Sir Lancelot",
+        "year": 1956
+    },
+    "https://www.cinemovies.video/tvshows/the-beverly-hillbillies/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-beverly-hillbillies/",
+        "status": "free",
+        "title": "The Beverly Hillbillies",
+        "year": 1962
+    },
+    "https://www.cinemovies.video/tvshows/the-cisco-kid/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-cisco-kid/",
+        "status": "free",
+        "title": "The Cisco Kid",
+        "year": 1950
+    },
+    "https://www.cinemovies.video/tvshows/the-last-of-the-mohicans/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-last-of-the-mohicans/",
+        "status": "free",
+        "title": "The Last of the Mohicans",
+        "year": 1932
+    },
+    "https://www.cinemovies.video/tvshows/the-master/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-master/",
+        "status": "free",
+        "title": "The Master",
+        "year": 1984
+    },
+    "https://www.cinemovies.video/tvshows/the-new-3-stooges/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-new-3-stooges/",
+        "status": "free",
+        "title": "The New 3 Stooges",
+        "year": 1965
+    },
+    "https://www.cinemovies.video/tvshows/the-new-adventures-of-tarzan/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-new-adventures-of-tarzan/",
+        "status": "free",
+        "title": "The New Adventures Of Tarzan",
+        "year": 1935
+    },
+    "https://www.cinemovies.video/tvshows/the-phantom-creeps/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-phantom-creeps/",
+        "status": "free",
+        "title": "The Phantom Creeps",
+        "year": 1939
+    },
+    "https://www.cinemovies.video/tvshows/the-shadow-of-the-eagle/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-shadow-of-the-eagle/",
+        "status": "free",
+        "title": "The Shadow of the Eagle",
+        "year": 1932
+    },
+    "https://www.cinemovies.video/tvshows/the-veil/": {
+        "freenessurl": "https://www.cinemovies.video/tvshows/the-veil/",
+        "status": "free",
+        "title": "The Veil",
+        "year": 1958
     }
 }
