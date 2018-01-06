@@ -11731,7 +11731,8 @@
         "title": "Count Schlockula's Shock Show Volume 12"
     },
     "http://www.imdb.com/title/tt0070908/": {
-        "archive": "https://archive.org/details/werewolf_washington",
+        "archive": "https://archive.org/details/werewolf_of_washington_201511",
+        "archive1": "https://archive.org/details/werewolf_washington",
         "freenessurl": "https://archive.org/details/Werewolf_of_Washington",
         "status": "free",
         "title": "Werewolf of Washington",
@@ -13863,6 +13864,12 @@
         "freenessurl": "https://archive.org/details/GoketsuJiraiyajiraiyaTheHero1921",
         "status": "free",
         "title": "Goketsu Jiraiya (Jiraiya the Hero) [1921]"
+    },
+    "http://www.imdb.com/title/tt0498131/": {
+        "freenessurl": "https://archive.org/details/what_makes_us_tick",
+        "status": "free",
+        "title": "What Makes us Tick",
+        "year": "1952"
     },
     "http://www.imdb.com/title/tt0499474/": {
         "freenessurl": "https://archive.org/details/1937-Festliches-Nuernberg",
@@ -33519,12 +33526,6 @@
         "status": "free",
         "title": "HOUSE ON HAUNTED HILL widescreen & video quality upgrade"
     },
-    "https://archive.org/details/HouseOnHauntedHill_201512": {
-        "freenessurl": "https://archive.org/details/HouseOnHauntedHill_201512",
-        "status": "free",
-        "title": "House On Haunted Hill",
-        "year": "2015"
-    },
     "https://archive.org/details/HouseOnHauntedHill_201605": {
         "freenessurl": "https://archive.org/details/HouseOnHauntedHill_201605",
         "status": "free",
@@ -44162,18 +44163,6 @@
         "title": "My Blue Heaven",
         "year": "1968"
     },
-    "https://archive.org/details/MyDarlingClementine1946FullMovie": {
-        "freenessurl": "https://archive.org/details/MyDarlingClementine1946FullMovie",
-        "status": "free",
-        "title": "My Darling Clementine 1946 Full Movie",
-        "year": "2015"
-    },
-    "https://archive.org/details/MyDarlingClementine1946FullMovie_201603": {
-        "freenessurl": "https://archive.org/details/MyDarlingClementine1946FullMovie_201603",
-        "status": "free",
-        "title": "My Darling Clementine 1946 Full Movie, Video",
-        "year": "2016"
-    },
     "https://archive.org/details/MyFavoriteBrunette1947": {
         "freenessurl": "https://archive.org/details/MyFavoriteBrunette1947",
         "status": "free",
@@ -51361,7 +51350,7 @@
     "https://archive.org/details/SkyRaidersChapter2": {
         "freenessurl": "https://archive.org/details/SkyRaidersChapter2",
         "status": "free",
-        "title": "Adventures Of The Flying Cadets 2"
+        "title": "Adventures Of The Flying Cadets Chapter 2"
     },
     "https://archive.org/details/SkyRaidersChapter2_224": {
         "freenessurl": "https://archive.org/details/SkyRaidersChapter2_224",
@@ -51743,7 +51732,7 @@
     "https://archive.org/details/SosCoastguardChapter2_753": {
         "freenessurl": "https://archive.org/details/SosCoastguardChapter2_753",
         "status": "free",
-        "title": "SOS COASTGUARD CHAPTER2"
+        "title": "SOS COASTGUARD CHAPTER 2"
     },
     "https://archive.org/details/SosCoastguardChapter3": {
         "freenessurl": "https://archive.org/details/SosCoastguardChapter3",
@@ -98272,11 +98261,6 @@
         "title": "Welcome to the Desert of the Real",
         "year": "2009"
     },
-    "https://archive.org/details/werewolf_of_washington_201511": {
-        "freenessurl": "https://archive.org/details/werewolf_of_washington_201511",
-        "status": "free",
-        "title": "Werewolf of Washington"
-    },
     "https://archive.org/details/wethepeoplethestoryofourfederalgovernment": {
         "freenessurl": "https://archive.org/details/wethepeoplethestoryofourfederalgovernment",
         "status": "free",
@@ -98287,12 +98271,6 @@
         "freenessurl": "https://archive.org/details/what_happens_to_the_rubbish_after_the_bin",
         "status": "free",
         "title": "what happens to the rubbish after the bin"
-    },
-    "https://archive.org/details/what_makes_us_tick": {
-        "freenessurl": "https://archive.org/details/what_makes_us_tick",
-        "status": "free",
-        "title": "What Makes us Tick",
-        "year": "1952"
     },
     "https://archive.org/details/what_this_country_needs": {
         "freenessurl": "https://archive.org/details/what_this_country_needs",
