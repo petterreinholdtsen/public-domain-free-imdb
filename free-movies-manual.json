@@ -182,6 +182,15 @@
         "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett",
 	"year" : 1913
     },
+    "http://www.imdb.com/title/tt0003167/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/Home.Sweet.Home",
+        "archive" : "https://archive.org/details/HomeSweetHome1914",
+        "archive2" : "https://archive.org/details/HomeSweetHome720p1914",
+        "title": "Home, Sweet Home, 1914",
+        "wp": "https://en.wikipedia.org/wiki/Home,_Sweet_Home_(1914_film)",
+        "year": 1914
+    },
     "http://www.imdb.com/title/tt0006177/": {
         "archive": "https://archive.org/details/TheTramp1915",
         "freenessurl": "https://archive.org/details/THETRAMP1915CharlieChaplinEdnaPurviance",
