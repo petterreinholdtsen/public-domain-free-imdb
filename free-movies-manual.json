@@ -1281,6 +1281,14 @@
         "title": "Cut Out",
         "year": 2014
     },
+    "http://www.imdb.com/title/tt0047898/": {
+        "freenessurl": "https://archive.org/details/BrideOfTheMonster1955SubtEspaolColorized",
+	"archive" : "https://archive.org/details/brideofthemonsteredwood",
+        "status": "free",
+        "title": "Bride of the Monster",
+        "wp": "https://en.wikipedia.org/wiki/Bride_of_the_Monster",
+        "year": 1955
+    },
     "http://www.imdb.com/title/tt0049794/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/ldManHotabych1956",
