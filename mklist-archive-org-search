@@ -12,6 +12,7 @@ If the search result do not return a IMDB ID, see if the wikidata set
 or the manually created data set have such ID and use this one.
 """
 
+import copy
 import json
 import movielib
 import re
@@ -139,7 +140,7 @@ def main():
                 imdbmap[freenessurl] = True
             for i in imdbmap.keys():
                 if i not in outlist:
-                    outlist[i] = fle
+                    outlist[i] = copy.deepcopy(fle)
                 else:
                     # Make stored year predictable, select oldest one.
                     if 'year' in fle:
@@ -171,7 +172,7 @@ def main():
                     field = "archive%d" % seq
                 outlist[i][field] = u
                 seq = seq + 1
-                
+
     movielib.savelist(outlist, 'free-movies-archive-org-search.json')
 
     print("Wrote %d" % len(outlist.keys()))
