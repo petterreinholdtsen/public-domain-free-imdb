@@ -332,9 +332,10 @@
         "title": "MABEL'S NEW HERO (1913)"
     },
     "http://www.imdb.com/title/tt0003167/": {
+        "archive": "https://archive.org/details/HomeSweetHome1914",
         "freenessurl": "https://archive.org/details/Home.Sweet.Home",
         "status": "free",
-        "title": "Home, Sweet Home",
+        "title": "\"Home, Sweet Home\" (1914) director D. W. Griffith, cinematographer Billy Bitzer",
         "year": "1914"
     },
     "http://www.imdb.com/title/tt0003170/": {
@@ -2616,11 +2617,6 @@
         "status": "free",
         "title": "The Savage Girl",
         "year": "1932"
-    },
-    "http://www.imdb.com/title/tt0023456/": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle1",
-        "status": "free",
-        "title": "The Shadow of the Eagle 1"
     },
     "http://www.imdb.com/title/tt0023469/": {
         "freenessurl": "https://archive.org/details/The_Sign_OF_Four",
@@ -33313,11 +33309,6 @@
         "status": "free",
         "title": "Holt of the Secret Service 9"
     },
-    "https://archive.org/details/HomeSweetHome1914": {
-        "freenessurl": "https://archive.org/details/HomeSweetHome1914",
-        "status": "free",
-        "title": "\"Home, Sweet Home\" (1914) director D. W. Griffith, cinematographer Billy Bitzer"
-    },
     "https://archive.org/details/HomeTownStory": {
         "freenessurl": "https://archive.org/details/HomeTownStory",
         "status": "free",
@@ -50684,16 +50675,6 @@
         "status": "free",
         "title": "Shadow Of Chinatown"
     },
-    "https://archive.org/details/ShadowOfTheEagle5a": {
-        "freenessurl": "https://archive.org/details/ShadowOfTheEagle5a",
-        "status": "free",
-        "title": "Shadow of the Eagle 5a"
-    },
-    "https://archive.org/details/ShadowOfTheEagle6": {
-        "freenessurl": "https://archive.org/details/ShadowOfTheEagle6",
-        "status": "free",
-        "title": "Shadow of the Eagle 6"
-    },
     "https://archive.org/details/ShadowsOfSuspicion": {
         "freenessurl": "https://archive.org/details/ShadowsOfSuspicion",
         "status": "free",
@@ -56624,41 +56605,6 @@
         "freenessurl": "https://archive.org/details/TheShadowLaughs",
         "status": "free",
         "title": "The Shadow Laughs"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle10": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle10",
-        "status": "free",
-        "title": "The Shadow of the Eagle 10"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle11": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle11",
-        "status": "free",
-        "title": "The Shadow of the Eagle 11"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle12": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle12",
-        "status": "free",
-        "title": "The Shadow of the Eagle 12"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle3": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle3",
-        "status": "free",
-        "title": "The Shadow of the Eagle 3"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle7": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle7",
-        "status": "free",
-        "title": "The Shadow of the Eagle 7"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle8": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle8",
-        "status": "free",
-        "title": "The Shadow of the Eagle 8"
-    },
-    "https://archive.org/details/TheShadowOfTheEagle9": {
-        "freenessurl": "https://archive.org/details/TheShadowOfTheEagle9",
-        "status": "free",
-        "title": "The Shadow of the Eagle 9"
     },
     "https://archive.org/details/TheShadowReturns-1946": {
         "freenessurl": "https://archive.org/details/TheShadowReturns-1946",
