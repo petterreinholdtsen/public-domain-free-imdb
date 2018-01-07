@@ -1436,6 +1436,15 @@
         "title": "Andrei Roublev",
         "year": 1965
     },
+    "http://www.imdb.com/title/tt0060666/": {
+        "freenessurl": "https://archive.org/details/ManosTheHandsofFate",
+        "archive" : "https://archive.org/details/manos_the_hands_of_fate",
+        "status": "free",
+        "title": "Manos: The Hands of Fate",
+        "wdurl": "http://www.wikidata.org/entity/Q691828",
+        "wp": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate",
+        "year": "1966"
+    },
     "http://www.imdb.com/title/tt0251221/": {
         "freenessurl": "https://archive.org/details/Marijuana_1968",
         "status": "free",
