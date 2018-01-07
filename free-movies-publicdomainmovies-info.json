@@ -1,10 +1,4 @@
 {
-    "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/": {
-        "freenessurl": "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/",
-        "status": "free",
-        "title": "The Hurricane Express, 1932 (serial) Chapter 1: The Wrecker starring John Wayne",
-        "year": 1932
-    },
     "http://www.imdb.com/title/tt0000417/": {
         "freenessurl": "http://publicdomainmovies.info/trip-moon-georges-melies-1902/",
         "status": "free",
@@ -711,6 +705,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Greeks_Had_a_Word_for_Them",
         "year": 1932
     },
+    "http://www.imdb.com/title/tt0023038/": {
+        "freenessurl": "http://publicdomainmovies.info/hurricane-express-1932-serial-chapter-1-wrecker-starring-john-wayne/",
+        "status": "free",
+        "title": "The Hurricane Express, 1932 (serial) Chapter 1: The Wrecker starring John Wayne",
+        "wp": "https://en.wikipedia.org/wiki/The_Hurricane_Express",
+        "year": 1932
+    },
     "http://www.imdb.com/title/tt0023238/": {
         "freenessurl": "http://publicdomainmovies.info/dangerous-game-big-game-hunter-hunts-humans-sport/",
         "status": "free",
@@ -1206,6 +1207,13 @@
         "status": "free",
         "title": "Father\u2019s Little Dividend, 1951 \u2013 starring Spencer Tracy, Joan Bennett and Elizabeth Taylor",
         "wp": "https://en.wikipedia.org/wiki/Father%27s_Little_Dividend",
+        "year": 1951
+    },
+    "http://www.imdb.com/title/tt0043537/": {
+        "freenessurl": "http://publicdomainmovies.info/first-legion-1951-stars-charles-boyer/",
+        "status": "free",
+        "title": "The First Legion, 1951 stars Charles Boyer",
+        "wp": "https://en.wikipedia.org/wiki/The_First_Legion",
         "year": 1951
     },
     "http://www.imdb.com/title/tt0043590/": {
