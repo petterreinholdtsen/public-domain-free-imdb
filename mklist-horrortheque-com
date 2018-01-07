@@ -2,7 +2,9 @@
 
 """
 Fetch list of movies made by Horrortheque.  All their movies
-are believed to be in the public domain.
+are supposed to be in the public domain.  It is unclear how
+the people behind the site conclude about the public
+domain status.
 """
 
 import json
