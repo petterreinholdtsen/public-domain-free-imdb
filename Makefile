@@ -27,6 +27,7 @@ listupdate:
 	./mklist-fesfilm --imdblookup
 	./mklist-profilms-pd --imdblookup
 	./mklist-cinemovies --imdblookup
+	./mklist-two-movies-net --imdblookup
 
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@

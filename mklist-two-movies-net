@@ -1,0 +1,64 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Fetch list of public domain movies listed on Two Movies.
+"""
+
+import argparse
+import lxml.html
+import movielib
+import re
+import urllib2
+import urlparse
+import datetime
+
+def fetch_movie_list(args, l, url):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    for entry in root.cssselect('div.filmDiv'):
+        year = int(entry.cssselect("div.filmyar")[0].text_content())
+        entryref = entry.cssselect("a.filmname")[0]
+
+        title = entryref.text_content()
+        entryurl = urlparse.urljoin(url, entryref.attrib['href'])
+        print title, year, entryurl
+        entry = {
+            'status' : 'free',
+            'freenessurl' : entryurl,
+            'title' : title,
+            'year' : year,
+            'updated' : datetime.datetime.now().isoformat(),
+        }
+        ref = entryurl
+        if args.imdblookup:
+            title = title.replace(u'’', "'")
+            title = title.replace(u'‘', "'")
+            title = title.replace(u'–', "-")
+            title = title.replace(u'ü', "u")
+
+            # Workaround for incorrect year causing incorrect IMDB match.
+            if entryurl == "https://two-movies.net/watch_movie/Born_to_Win":
+                year = 1971
+
+            imdb = movielib.imdb_find_one(title, year)
+            if imdb:
+                ref = imdb
+                entry['imdblookup'] = '%s %d' % (title, year)
+        l[ref] = entry
+        print(ref, l[ref])
+    return l
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    url = "https://two-movies.net/tag/Public_Domain/"
+    l = {}
+    l = fetch_movie_list(args, l, url)
+    movielib.savelist(l, name='free-movies-two-movies-net.json')
+
+if __name__ == '__main__':
+    main()
