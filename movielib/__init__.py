@@ -30,6 +30,10 @@ def savelist(l, name = None):
                   indent=4,
                   separators=(',', ': '))
 
+def test_imdb_lookup():
+    # This one return several entries
+    print imdb_find_one("What Becomes of the Children?",1936)
+
 def imdb_find_one(title, year):
     """
 Look up title and year in IMDB, and return the IMDB title ID if only
@@ -44,23 +48,34 @@ one title was found in the search result.
         root = lxml.html.fromstring(http_get_read(url))
     except urllib2.HTTPError as e:
         return None
-    res = root.cssselect("td.primary_photo a[href]")
-    #print(len(res))
-    if 1 == len(res):
-        imdb = urlparse.urljoin(url, res[0].attrib['href']).split("?")[0]
+    res = []
+    for a in root.cssselect("td.primary_photo a[href]"):
+        info = {}
+        movie = a.getparent().getparent()
+        info['imdb'] = urlparse.urljoin(url, a.attrib['href']).split("?")[0]
+        info['title'] = movie.cssselect("td.result_text a[href]")[0].text_content()
+
+        m = re.search("\((\d{4})\)", movie.text_content())
+        if m:
+            info['year'] = int(m.group(1))
+        else:
+            # Drop IMDB entries without year
+            continue
+
+        #print info['imdb'], info['year'], info['title']
         # Verify the years are the same +-2.  Not verifying title, as the
         # shown title might not be in the same language as the search
         # term.
-        info = res[0].getparent().getparent().text_content()
-        m = re.search("\((\d{4})\)", info)
-        if m \
-           and int(year)-2 <= int(m.group(1)) \
-           and int(m.group(1)) <= int(year)+2:
-            return imdb
+        if int(year)-2 <= info['year'] \
+           and info['year'] <= int(year)+2:
+            res.append(info)
         else:
-            print("warning: Ignoring %s (%s) for %s (%d)" % (imdb, m.group(1),
+            print("warning: Ignoring %s (%s) for %s (%d)" % (info['imdb'],
+                                                             info['year'],
                                                              title, year))
-            return None
+    #print(len(res))
+    if 1 == len(res):
+        return res[0]['imdb']
     else:
         return None
 
@@ -104,10 +119,10 @@ def wikipedia_lookup(wpurl):
     text = http_get_read(url)
     info = {}
     for line in text.split("\n"):
-        print line
+        #print line
         m = re.search('#REDIRECT \[\[(.+)\]\]', line)
         if m:
-            print m.group(1)
+            #print m.group(1)
             newurl = urlparse.urljoin(wpurl, m.group(1).replace(" ", "_"))
             return wikipedia_lookup(newurl)
         if -1 != line.lower().find('{{imdb title'):
@@ -134,4 +149,5 @@ def wikipedia_lookup(wpurl):
     return info
 
 if __name__ == '__main__':
-    test_wikipedia_lookup()
+    test_imdb_lookup()
+    #test_wikipedia_lookup()
