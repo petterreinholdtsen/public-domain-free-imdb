@@ -29,7 +29,7 @@ def fetch_movie_list(args, l, url):
             'freenessurl' : entryurl,
             'title' : title,
             'year' : year,
-            'updated' : datetime.datetime.now().isoformat(),
+            #'updated' : datetime.datetime.now().isoformat(),
         }
         ref = entryurl
         if args.imdblookup:
