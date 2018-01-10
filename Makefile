@@ -10,7 +10,7 @@ listupdate:
 	./mklist-vodo
 	./mklist-imdb-pd
 	./mklist-icheckmovies-archive-mochard
-	./mklist-publicdomainmovies-net
+	./mklist-publicdomainmovies-net --imdblookup
 	./mklist-publicdomainreview --imdblookup
 	./mklist-letterboxd-pd
 	./mklist-letterboxd-pd --baseurl=https://letterboxd.com/loureviews/list/internet-archive-silent-films --output=free-movies-letterboxd-silent.json
