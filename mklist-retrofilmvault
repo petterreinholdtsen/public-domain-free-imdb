@@ -79,7 +79,8 @@ def fetch_movie_list(args, l, url, name):
         }
         if args.imdblookup:
             imdb = movielib.imdb_find_one(title, year)
-            entry['imdblookup'] = '%s %d' % (title, year)
+            if imdb:
+                entry['imdblookup'] = '%s %d' % (title, year)
         if not imdb:
             imdb = entryurl
         if year:
@@ -90,7 +91,8 @@ def fetch_movie_list(args, l, url, name):
             if entryurl not in l[imdb]['freenessurl']:
                 l[imdb]['freenessurl'].append(entryurl)
             for f in ['updated', 'imdblookup']:
-                l[imdb][f] = entry[f]
+                if f in entry:
+                    l[imdb][f] = entry[f]
         print(imdb, l[imdb])
         movielib.savelist(l, name=name)
     return l
