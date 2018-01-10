@@ -29,6 +29,8 @@ def main():
                     completeset[id] = j[id]
                 else:
                     #print(file,id)
+                    if 'year' not in completeset[id] and 'year' in j[id]:
+                        completeset[id]['year'] = j[id]['year']
                     if 'freenessurl' in completeset[id] \
                        and 'freenessurl' in j[id] \
                        and j[id]['freenessurl'] != completeset[id]['freenessurl']:
