@@ -1,0 +1,61 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+"""
+Extract information from spread sheet file received from Ron at
+Festival Films.
+"""
+
+import xlrd
+import json
+import movielib
+
+def main():
+    book = xlrd.open_workbook("fesfilm-imdb-list.xls")
+    sh = book.sheet_by_index(0)
+    print("%d x %d" % (sh.nrows, sh.ncols))
+
+    fields = []
+    for colx in range(0, sh.ncols):
+        cval = sh.cell_value(0, colx)
+        fields.append(cval)
+
+    fieldmap = {
+        'AAA  TITLE' : 'title',
+        'DATE'       : 'year',
+        'IMDB tt #'  : 'imdb',
+    }
+    l = {}
+    for rowx in range(1, sh.nrows):
+        info = {}
+        for colx in range(0, sh.ncols):
+            cval = sh.cell_value(rowx, colx)
+            field = fields[colx]
+            if field in fieldmap:
+                field = fieldmap[field]
+            info[field] = cval
+        print(info)
+        if '' != info['year']:
+            try:
+                info['year'] = int(info['year'])
+            except:
+                try:
+                    info['year'] = int(info['year'].split(',')[0])
+                except:
+                    pass
+        else:
+            del info['year']
+        if '' != info['imdb']:
+            ref = 'http://www.imdb.com/title/' + info['imdb'] + '/'
+        else:
+            if 'year' in info:
+                ref = info['title'] + '-' + str(info['year'])
+            else:
+                ref = info['title']
+        info['status'] = 'free'
+        info['freenessurl'] = 'n/a'
+        if info['GENRE'] not in ['GENRE', 'AAA', '']:
+            l[ref] = info
+    movielib.savelist(l, name='free-movies-fesfilm-xls.json')
+
+if __name__ == "__main__":
+    main()

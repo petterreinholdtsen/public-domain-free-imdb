@@ -25,6 +25,7 @@ listupdate:
 	./mklist-filmchest-com
 	./mklist-infodigi-pd --imdblookup
 	./mklist-fesfilm --imdblookup
+	./mklist-fesfilm-xls
 	./mklist-profilms-pd --imdblookup
 	./mklist-cinemovies --imdblookup
 	./mklist-two-movies-net --imdblookup
