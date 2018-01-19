@@ -391,7 +391,12 @@
 	"wp": "https://en.wikipedia.org/wiki/Man_in_the_white_suit",
 	"title" : "The Man in the White Suit",
 	"year" : 1951
-	
+    },
+    "http://www.imdb.com/title/tt0539987/": {
+	"status": "free",
+        "freenessurl": "https://archive.org/details/DragnetTheHumanBomb",
+	"title" : "Dragnet: The Human Bomb",
+	"year" : 1951
     },
     "http://www.imdb.com/title/tt5172084/": {
         "status": "free",
