@@ -33,6 +33,7 @@ Removing the 'year' requirement result in several thousand entries more.
     term = """
 (collection:moviesandfilms
 OR collection:animationandcartoons
+OR collection:classic_tv
 OR collection:classic_cartoons)
 AND NOT collection:movie_trailers
 AND NOT collection:sabucat_trailers
