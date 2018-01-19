@@ -86,14 +86,14 @@ def get_movie_list(summaryurl, l):
     return count
 
 def main():
-    summaryurl = 'http://publicdomainmovies.info/all-movies/'
+    summaryurl = 'https://publicdomainmovies.info/all-movies/'
     l = {}
     get_movie_list(summaryurl, l)
     savelist(l)
 
 def test_match():
-    get_movie_info('http://publicdomainmovies.info/amazing-mr-x-full-movie/')
-    print(get_movie_info('http://publicdomainmovies.info/brain-wouldnt-die-full-movie/'))
+    get_movie_info('https://publicdomainmovies.info/amazing-mr-x-full-movie/')
+    print(get_movie_info('https://publicdomainmovies.info/brain-wouldnt-die-full-movie/'))
 
 if __name__ == '__main__':
     #test_match()
