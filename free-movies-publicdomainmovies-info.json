@@ -593,6 +593,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Black_Pirate",
         "year": 1926
     },
+    "http://www.imdb.com/title/tt0017739/": {
+        "freenessurl": "https://publicdomainmovies.info/cat-canary-1927-horror-film/",
+        "status": "free",
+        "title": "The Cat and the Canary, 1927 horror film",
+        "wp": "https://en.wikipedia.org/wiki/The_Cat_and_the_Canary_(1927_film)",
+        "year": 1927
+    },
     "http://www.imdb.com/title/tt0017765/": {
         "freenessurl": "https://publicdomainmovies.info/college-1927-film-starring-buster-keaton/",
         "status": "free",
@@ -1104,6 +1111,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Outlaw",
         "year": 1943
     },
+    "http://www.imdb.com/title/tt0036430/": {
+        "freenessurl": "https://publicdomainmovies.info/army-1943-musical-starring-ronald-reagan/",
+        "status": "free",
+        "title": "This Is the Army, 1943 musical starring Ronald Reagan",
+        "wp": "https://en.wikipedia.org/wiki/This_Is_the_Army",
+        "year": 1943
+    },
     "http://www.imdb.com/title/tt0036697/": {
         "freenessurl": "https://publicdomainmovies.info/captain-america-1944-serial-chapter-1-purple-death/",
         "status": "free",
@@ -1151,6 +1165,13 @@
         "status": "free",
         "title": "Detour (1945 film) [Full Movie]",
         "wp": "https://en.wikipedia.org/wiki/Detour_%281945_film%29",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0038056/": {
+        "freenessurl": "https://publicdomainmovies.info/charlie-chans-scarlet-clue-1945/",
+        "status": "free",
+        "title": "Charlie Chan\u2019s The Scarlet Clue, 1945",
+        "wp": "https://en.wikipedia.org/wiki/The_Scarlet_Clue",
         "year": 1945
     },
     "http://www.imdb.com/title/tt0038259/": {
