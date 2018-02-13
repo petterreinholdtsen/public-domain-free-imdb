@@ -34,6 +34,13 @@
         "wp": "https://en.wikipedia.org/wiki/Home,_Sweet_Home_(1914_film)",
         "year": 1914
     },
+    "http://www.imdb.com/title/tt0003643/": {
+        "freenessurl": "https://publicdomainmovies.info/avenging-conscience-1914/",
+        "status": "free",
+        "title": "The Avenging Conscience, 1914",
+        "wp": "https://en.wikipedia.org/wiki/The_Avenging_Conscience",
+        "year": 1914
+    },
     "http://www.imdb.com/title/tt0003772/": {
         "freenessurl": "https://publicdomainmovies.info/cinderella-1914-film-starring-mary-pickford/",
         "status": "free",
@@ -726,6 +733,13 @@
         "wp": "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
         "year": 1931
     },
+    "http://www.imdb.com/title/tt0022254/": {
+        "freenessurl": "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/",
+        "status": "free",
+        "title": "Parlor, Bedroom and Bath, 1931 starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/Parlor,_Bedroom_and_Bath",
+        "year": 1931
+    },
     "http://www.imdb.com/title/tt0022628/": {
         "freenessurl": "https://publicdomainmovies.info/the-animal-kingdom/",
         "status": "free",
@@ -887,6 +901,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Phantom_Empire",
         "year": 1940
     },
+    "http://www.imdb.com/title/tt0027254/": {
+        "freenessurl": "https://publicdomainmovies.info/ace-drummond-1936-serial-chapter-3-doorway-doom/",
+        "status": "free",
+        "title": "Ace Drummond, 1936 (serial) Chapter 3: The Doorway of Doom",
+        "wp": "https://en.wikipedia.org/wiki/Ace_Drummond_(serial)",
+        "year": 1936
+    },
     "http://www.imdb.com/title/tt0027421/": {
         "freenessurl": "https://publicdomainmovies.info/captain-january-1936-starring-shirley-temple/",
         "status": "free",
@@ -962,6 +983,13 @@
         "status": "free",
         "title": "Algiers (1938), with Charles Boyer",
         "wp": "https://en.wikipedia.org/wiki/Algiers_(film)",
+        "year": 1938
+    },
+    "http://www.imdb.com/title/tt0030089/": {
+        "freenessurl": "https://publicdomainmovies.info/duke-tops-1938-musical-lena-horne/",
+        "status": "free",
+        "title": "The Duke Is Tops, 1938 musical with Lena Horne",
+        "wp": "https://en.wikipedia.org/wiki/The_Duke_Is_Tops",
         "year": 1938
     },
     "http://www.imdb.com/title/tt0030382/": {
@@ -1111,6 +1139,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Outlaw",
         "year": 1943
     },
+    "http://www.imdb.com/title/tt0036262/": {
+        "freenessurl": "https://publicdomainmovies.info/phantom-1943-serial-chapter-1-sign-skull/",
+        "status": "free",
+        "title": "The Phantom, 1943 (serial) Chapter 1: The Sign of the Skull",
+        "wp": "https://en.wikipedia.org/wiki/The_Phantom_(serial)",
+        "year": 1943
+    },
     "http://www.imdb.com/title/tt0036430/": {
         "freenessurl": "https://publicdomainmovies.info/army-1943-musical-starring-ronald-reagan/",
         "status": "free",
@@ -1139,11 +1174,25 @@
         "wp": "https://en.wikipedia.org/wiki/Zorro%27s_Black_Whip",
         "year": 1944
     },
+    "http://www.imdb.com/title/tt0037515/": {
+        "freenessurl": "https://publicdomainmovies.info/none-1945-film/",
+        "status": "free",
+        "title": "And Then There Were None, 1945 film",
+        "wp": "https://en.wikipedia.org/wiki/And_Then_There_Were_None_(1945_film)",
+        "year": 1945
+    },
     "http://www.imdb.com/title/tt0037547/": {
         "freenessurl": "https://publicdomainmovies.info/blood-sun-starring-james-cagney/",
         "status": "free",
         "title": "Blood on the Sun, starring James Cagney",
         "wp": "https://en.wikipedia.org/wiki/Blood_on_the_Sun",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0037576/": {
+        "freenessurl": "https://publicdomainmovies.info/captain-kidd-1945-pirates-film/",
+        "status": "free",
+        "title": "Captain Kidd, 1945 pirates film",
+        "wp": "https://en.wikipedia.org/wiki/Captain_Kidd_(film)",
         "year": 1945
     },
     "http://www.imdb.com/title/tt0037607/": {
@@ -1186,6 +1235,13 @@
         "status": "free",
         "title": "Charlie Chan\u2019s Dangerous Money, 1946",
         "wp": "https://en.wikipedia.org/wiki/Dangerous_Money",
+        "year": 1946
+    },
+    "http://www.imdb.com/title/tt0038452/": {
+        "freenessurl": "https://publicdomainmovies.info/dark-alibi-1946-charlie-chan-movie/",
+        "status": "free",
+        "title": "Dark Alibi, 1946 a Charlie Chan movie",
+        "wp": "https://en.wikipedia.org/wiki/Dark_Alibi",
         "year": 1946
     },
     "http://www.imdb.com/title/tt0038494/": {
@@ -1250,6 +1306,20 @@
         "title": "Hi-De-Ho (1947 musical)",
         "wp": "https://en.wikipedia.org/wiki/Hi-De-Ho_(1947_film)",
         "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039912/": {
+        "freenessurl": "https://publicdomainmovies.info/trap-1946-film-charlie-chan/",
+        "status": "free",
+        "title": "The Trap, 1946 film with Charlie Chan",
+        "wp": "https://en.wikipedia.org/wiki/The_Trap_(1946_film)",
+        "year": 1946
+    },
+    "http://www.imdb.com/title/tt0040394/": {
+        "freenessurl": "https://publicdomainmovies.info/charlie-chan-golden-eye-1948/",
+        "status": "free",
+        "title": "Charlie Chan in the Golden Eye, 1948",
+        "wp": "https://en.wikipedia.org/wiki/The_Golden_Eye",
+        "year": 1948
     },
     "http://www.imdb.com/title/tt0040829/": {
         "freenessurl": "https://publicdomainmovies.info/amazing-mr-x-full-movie/",
@@ -1356,12 +1426,26 @@
         "wp": "https://en.wikipedia.org/wiki/The_Snows_of_Kilimanjaro_(1952_film)",
         "year": 1952
     },
+    "http://www.imdb.com/title/tt0045758/": {
+        "freenessurl": "https://publicdomainmovies.info/fear-desire-1953-directed-edited-stanley-kubrick/",
+        "status": "free",
+        "title": "Fear and Desire, 1953 \u2013 Stanley Kubrick\u2019s fist movie",
+        "wp": "https://en.wikipedia.org/wiki/Fear_and_Desire",
+        "year": 1953
+    },
     "http://www.imdb.com/title/tt0045826/": {
         "freenessurl": "https://publicdomainmovies.info/glen-glenda-1953-ed-wood/",
         "status": "free",
         "title": "Glen or Glenda \u2013 1953 \u2013 Ed Wood",
         "wp": "https://en.wikipedia.org/wiki/Glen_or_Glenda",
         "year": 1953
+    },
+    "http://www.imdb.com/title/tt0046257/": {
+        "freenessurl": "https://publicdomainmovies.info/carnival-story-1954/",
+        "status": "free",
+        "title": "Carnival Story, 1954",
+        "wp": "https://en.wikipedia.org/wiki/Carnival_Story",
+        "year": 1954
     },
     "http://www.imdb.com/title/tt0046969/": {
         "freenessurl": "https://publicdomainmovies.info/fast-furious-1955-film-john-ireland-dorothy-malone/",
