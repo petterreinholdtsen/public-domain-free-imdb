@@ -15948,6 +15948,11 @@
         "wdurl": "http://www.wikidata.org/entity/Q6945727",
         "year": "1945"
     },
+    "http://www.imdb.com/title/tt0885503/": {
+        "freenessurl": "https://archive.org/details/Little_Amy_1962",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q6648869"
+    },
     "http://www.imdb.com/title/tt1002784/": {
         "freenessurl": "https://archive.org/details/song_of_the_fishermen",
         "status": "free",
@@ -16031,6 +16036,11 @@
         "title": "Girl Time",
         "wdurl": "http://www.wikidata.org/entity/Q5564446",
         "year": "1947"
+    },
+    "http://www.imdb.com/title/tt1455178/": {
+        "freenessurl": "https://archive.org/details/Lets_Join_Joanie",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q6532459"
     },
     "http://www.imdb.com/title/tt1483748/": {
         "freenessurl": "https://archive.org/details/BloodSpell_Commentaries",
