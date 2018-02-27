@@ -329,6 +329,15 @@
         "title": "Drums Of Jeopardy",
 	"year" : 1931
     },
+    "http://www.imdb.com/title/tt0022293/": {
+        "freenessurl": "https://archive.org/details/TheRangeFeud1931-BuckJonesAndJohnWayne",
+	"archive": "https://archive.org/details/1931RangeFeudJohnWayneBuckJonesSusanFleming",
+	"archive2": "https://archive.org/details/1931RangeFeudJohnWayneBuckJonesSusanFleming_201511",
+        "status": "free",
+        "title": "Range Feud",
+        "wdurl": "http://www.wikidata.org/entity/Q3196717",
+        "year": "1931"
+    },
     "http://www.imdb.com/title/tt0023027/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/TheMarxBrothersChicoHorseFeathers1932",
