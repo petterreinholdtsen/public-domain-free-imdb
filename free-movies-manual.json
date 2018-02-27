@@ -1403,6 +1403,13 @@
 	"title" : "Babes in Toyland",
 	"year" : 1934
     },
+    "http://www.imdb.com/title/tt0025955/": {
+        "freenessurl": "https://archive.org/details/WakeUpAndDream",
+        "status": "free",
+        "title": "Wake Up and Dream",
+	"wp": "https://en.wikipedia.org/wiki/Wake_Up_and_Dream_(1934_film)",
+        "year": "1934"
+    },
     "http://www.imdb.com/title/tt0446201/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/S.O.S.Iceberg1933_201702",
