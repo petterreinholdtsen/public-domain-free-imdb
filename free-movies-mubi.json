@@ -1,0 +1,1500 @@
+{
+    "http://mubi.com/films/a-bucket-of-blood": {
+        "freenessurl": "http://mubi.com/films/a-bucket-of-blood",
+        "status": "free",
+        "title": "A Bucket of Blood",
+        "year": 1959
+    },
+    "http://mubi.com/films/algiers": {
+        "freenessurl": "http://mubi.com/films/algiers",
+        "status": "free",
+        "title": "Algiers",
+        "year": 1938
+    },
+    "http://mubi.com/films/behind-the-screen": {
+        "freenessurl": "http://mubi.com/films/behind-the-screen",
+        "status": "free",
+        "title": "Behind the Screen",
+        "year": 1916
+    },
+    "http://mubi.com/films/blackmail": {
+        "freenessurl": "http://mubi.com/films/blackmail",
+        "status": "free",
+        "title": "Blackmail",
+        "year": 1929
+    },
+    "http://mubi.com/films/college": {
+        "freenessurl": "http://mubi.com/films/college",
+        "status": "free",
+        "title": "College",
+        "year": 1927
+    },
+    "http://mubi.com/films/cops": {
+        "freenessurl": "http://mubi.com/films/cops",
+        "status": "free",
+        "title": "Cops",
+        "year": 1922
+    },
+    "http://mubi.com/films/creature-from-the-haunted-sea": {
+        "freenessurl": "http://mubi.com/films/creature-from-the-haunted-sea",
+        "status": "free",
+        "title": "Creature from the Haunted Sea",
+        "year": 1961
+    },
+    "http://mubi.com/films/dementia-13": {
+        "freenessurl": "http://mubi.com/films/dementia-13",
+        "status": "free",
+        "title": "Dementia 13",
+        "year": 1963
+    },
+    "http://mubi.com/films/doa": {
+        "freenessurl": "http://mubi.com/films/doa",
+        "status": "free",
+        "title": "D.O.A.",
+        "year": 1950
+    },
+    "http://mubi.com/films/frankenstein": {
+        "freenessurl": "http://mubi.com/films/frankenstein",
+        "status": "free",
+        "title": "Frankenstein",
+        "year": 1910
+    },
+    "http://mubi.com/films/good-night-nurse": {
+        "freenessurl": "http://mubi.com/films/good-night-nurse",
+        "status": "free",
+        "title": "Good Night, Nurse!",
+        "year": 1918
+    },
+    "http://mubi.com/films/his-wedding-night": {
+        "freenessurl": "http://mubi.com/films/his-wedding-night",
+        "status": "free",
+        "title": "His Wedding Night",
+        "year": 1917
+    },
+    "http://mubi.com/films/house-on-haunted-hill": {
+        "freenessurl": "http://mubi.com/films/house-on-haunted-hill",
+        "status": "free",
+        "title": "House on Haunted Hill",
+        "year": 1959
+    },
+    "http://mubi.com/films/intolerance-1916": {
+        "freenessurl": "http://mubi.com/films/intolerance-1916",
+        "status": "free",
+        "title": "Intolerance",
+        "year": 1916
+    },
+    "http://mubi.com/films/last-woman-on-earth": {
+        "freenessurl": "http://mubi.com/films/last-woman-on-earth",
+        "status": "free",
+        "title": "Last Woman on Earth",
+        "year": 1960
+    },
+    "http://mubi.com/films/les-vampires": {
+        "freenessurl": "http://mubi.com/films/les-vampires",
+        "status": "free",
+        "title": "Les vampires",
+        "year": 1915
+    },
+    "http://mubi.com/films/m": {
+        "freenessurl": "http://mubi.com/films/m",
+        "status": "free",
+        "title": "M",
+        "year": 1931
+    },
+    "http://mubi.com/films/manos-the-hands-of-fate": {
+        "freenessurl": "http://mubi.com/films/manos-the-hands-of-fate",
+        "status": "free",
+        "title": "Manos: The Hands of Fate",
+        "year": 1966
+    },
+    "http://mubi.com/films/mesa-of-lost-women": {
+        "freenessurl": "http://mubi.com/films/mesa-of-lost-women",
+        "status": "free",
+        "title": "Mesa of Lost Women",
+        "year": 1953
+    },
+    "http://mubi.com/films/murder": {
+        "freenessurl": "http://mubi.com/films/murder",
+        "status": "free",
+        "title": "Murder! ",
+        "year": 1930
+    },
+    "http://mubi.com/films/nosferatu": {
+        "freenessurl": "http://mubi.com/films/nosferatu",
+        "status": "free",
+        "title": "Nosferatu",
+        "year": 1922
+    },
+    "http://mubi.com/films/not-of-this-earth-1957": {
+        "freenessurl": "http://mubi.com/films/not-of-this-earth-1957",
+        "status": "free",
+        "title": "Not of This Earth",
+        "year": 1957
+    },
+    "http://mubi.com/films/orphans-of-the-storm": {
+        "freenessurl": "http://mubi.com/films/orphans-of-the-storm",
+        "status": "free",
+        "title": "Orphans of the Storm",
+        "year": 1921
+    },
+    "http://mubi.com/films/out-west": {
+        "freenessurl": "http://mubi.com/films/out-west",
+        "status": "free",
+        "title": "Out West",
+        "year": 1918
+    },
+    "http://mubi.com/films/sita-sings-the-blues": {
+        "freenessurl": "http://mubi.com/films/sita-sings-the-blues",
+        "status": "free",
+        "title": "Sita Sings The Blues",
+        "year": 2008
+    },
+    "http://mubi.com/films/the-adventurer": {
+        "freenessurl": "http://mubi.com/films/the-adventurer",
+        "status": "free",
+        "title": "The Adventurer",
+        "year": 1917
+    },
+    "http://mubi.com/films/the-adventures-of-dollie": {
+        "freenessurl": "http://mubi.com/films/the-adventures-of-dollie",
+        "status": "free",
+        "title": "The Adventures of Dollie",
+        "year": 1908
+    },
+    "http://mubi.com/films/the-boat": {
+        "freenessurl": "http://mubi.com/films/the-boat",
+        "status": "free",
+        "title": "The Boat",
+        "year": 1921
+    },
+    "http://mubi.com/films/the-butcher-boy-1917": {
+        "freenessurl": "http://mubi.com/films/the-butcher-boy-1917",
+        "status": "free",
+        "title": "The Butcher Boy",
+        "year": 1917
+    },
+    "http://mubi.com/films/the-cabinet-of-dr-caligari": {
+        "freenessurl": "http://mubi.com/films/the-cabinet-of-dr-caligari",
+        "status": "free",
+        "title": "The Cabinet of Dr. Caligari",
+        "year": 1920
+    },
+    "http://mubi.com/films/the-cook": {
+        "freenessurl": "http://mubi.com/films/the-cook",
+        "status": "free",
+        "title": "The Cook",
+        "year": 1918
+    },
+    "http://mubi.com/films/the-cure": {
+        "freenessurl": "http://mubi.com/films/the-cure",
+        "status": "free",
+        "title": "The Cure",
+        "year": 1917
+    },
+    "http://mubi.com/films/the-fireman": {
+        "freenessurl": "http://mubi.com/films/the-fireman",
+        "status": "free",
+        "title": "The Fireman",
+        "year": 1916
+    },
+    "http://mubi.com/films/the-general": {
+        "freenessurl": "http://mubi.com/films/the-general",
+        "status": "free",
+        "title": "The General",
+        "year": 1926
+    },
+    "http://mubi.com/films/the-goat": {
+        "freenessurl": "http://mubi.com/films/the-goat",
+        "status": "free",
+        "title": "The Goat",
+        "year": 1921
+    },
+    "http://mubi.com/films/the-great-train-robbery": {
+        "freenessurl": "http://mubi.com/films/the-great-train-robbery",
+        "status": "free",
+        "title": "The Great Train Robbery",
+        "year": 1903
+    },
+    "http://mubi.com/films/the-house-of-darkness": {
+        "freenessurl": "http://mubi.com/films/the-house-of-darkness",
+        "status": "free",
+        "title": "The House of Darkness",
+        "year": 1913
+    },
+    "http://mubi.com/films/the-immigrant": {
+        "freenessurl": "http://mubi.com/films/the-immigrant",
+        "status": "free",
+        "title": "The Immigrant",
+        "year": 1917
+    },
+    "http://mubi.com/films/the-little-shop-of-horrors": {
+        "freenessurl": "http://mubi.com/films/the-little-shop-of-horrors",
+        "status": "free",
+        "title": "The Little Shop of Horrors",
+        "year": 1960
+    },
+    "http://mubi.com/films/the-lost-world": {
+        "freenessurl": "http://mubi.com/films/the-lost-world",
+        "status": "free",
+        "title": "The Lost World",
+        "year": 1925
+    },
+    "http://mubi.com/films/the-monster-1903": {
+        "freenessurl": "http://mubi.com/films/the-monster-1903",
+        "status": "free",
+        "title": "The Monster",
+        "year": 1903
+    },
+    "http://mubi.com/films/the-mothering-heart": {
+        "freenessurl": "http://mubi.com/films/the-mothering-heart",
+        "status": "free",
+        "title": "The Mothering Heart",
+        "year": 1913
+    },
+    "http://mubi.com/films/the-new-janitor": {
+        "freenessurl": "http://mubi.com/films/the-new-janitor",
+        "status": "free",
+        "title": "The New Janitor",
+        "year": 1914
+    },
+    "http://mubi.com/films/the-outlaw": {
+        "freenessurl": "http://mubi.com/films/the-outlaw",
+        "status": "free",
+        "title": "The Outlaw",
+        "year": 1943
+    },
+    "http://mubi.com/films/the-pawnshop": {
+        "freenessurl": "http://mubi.com/films/the-pawnshop",
+        "status": "free",
+        "title": "The Pawnshop",
+        "year": 1916
+    },
+    "http://mubi.com/films/the-phantom-of-the-opera": {
+        "freenessurl": "http://mubi.com/films/the-phantom-of-the-opera",
+        "status": "free",
+        "title": "The Phantom of the Opera",
+        "year": 1925
+    },
+    "http://mubi.com/films/the-ring": {
+        "freenessurl": "http://mubi.com/films/the-ring",
+        "status": "free",
+        "title": "The Ring ",
+        "year": 1927
+    },
+    "http://mubi.com/films/the-rink": {
+        "freenessurl": "http://mubi.com/films/the-rink",
+        "status": "free",
+        "title": "The Rink",
+        "year": 1916
+    },
+    "http://mubi.com/films/the-sadist": {
+        "freenessurl": "http://mubi.com/films/the-sadist",
+        "status": "free",
+        "title": "The Sadist",
+        "year": 1963
+    },
+    "http://mubi.com/films/the-sheik": {
+        "freenessurl": "http://mubi.com/films/the-sheik",
+        "status": "free",
+        "title": "The Sheik",
+        "year": 1921
+    },
+    "http://mubi.com/films/the-stranger": {
+        "freenessurl": "http://mubi.com/films/the-stranger",
+        "status": "free",
+        "title": "The Stranger",
+        "year": 1946
+    },
+    "http://mubi.com/films/the-terror": {
+        "freenessurl": "http://mubi.com/films/the-terror",
+        "status": "free",
+        "title": "The Terror",
+        "year": 1963
+    },
+    "http://mubi.com/films/the-thief-of-bagdad-1924": {
+        "freenessurl": "http://mubi.com/films/the-thief-of-bagdad-1924",
+        "status": "free",
+        "title": "The Thief of Bagdad",
+        "year": 1924
+    },
+    "http://mubi.com/films/the-vagabond": {
+        "freenessurl": "http://mubi.com/films/the-vagabond",
+        "status": "free",
+        "title": "The Vagabond",
+        "year": 1916
+    },
+    "http://mubi.com/films/the-wasp-woman": {
+        "freenessurl": "http://mubi.com/films/the-wasp-woman",
+        "status": "free",
+        "title": "The Wasp Woman",
+        "year": 1959
+    },
+    "http://mubi.com/films/white-zombie": {
+        "freenessurl": "http://mubi.com/films/white-zombie",
+        "status": "free",
+        "title": "White Zombie",
+        "year": 1932
+    },
+    "http://www.imdb.com/title/tt0000131/": {
+        "freenessurl": "http://mubi.com/films/a-terrible-night",
+        "imdblookup": "A Terrible Night 1896",
+        "status": "free",
+        "title": "A Terrible Night",
+        "year": 1896
+    },
+    "http://www.imdb.com/title/tt0000230/": {
+        "freenessurl": "http://mubi.com/films/cinderella-1899",
+        "imdblookup": "Cinderella 1899",
+        "status": "free",
+        "title": "Cinderella",
+        "year": 1899
+    },
+    "http://www.imdb.com/title/tt0000359/": {
+        "freenessurl": "http://mubi.com/films/the-man-with-the-rubber-head",
+        "imdblookup": "The Man with the Rubber Head 1901",
+        "status": "free",
+        "title": "The Man with the Rubber Head",
+        "year": 1901
+    },
+    "http://www.imdb.com/title/tt0000417/": {
+        "freenessurl": "http://mubi.com/films/a-trip-to-the-moon",
+        "imdblookup": "A Trip to the Moon 1902",
+        "status": "free",
+        "title": "A Trip to the Moon",
+        "year": 1902
+    },
+    "http://www.imdb.com/title/tt0000499/": {
+        "freenessurl": "http://mubi.com/films/the-impossible-voyage",
+        "imdblookup": "The Impossible Voyage 1904",
+        "status": "free",
+        "title": "The Impossible Voyage",
+        "year": 1904
+    },
+    "http://www.imdb.com/title/tt0000516/": {
+        "freenessurl": "http://mubi.com/films/electric-hotel",
+        "imdblookup": "Electric Hotel 1908",
+        "status": "free",
+        "title": "Electric Hotel",
+        "year": 1908
+    },
+    "http://www.imdb.com/title/tt0000832/": {
+        "freenessurl": "http://mubi.com/films/a-corner-in-wheat",
+        "imdblookup": "A Corner in Wheat 1909",
+        "status": "free",
+        "title": "A Corner in Wheat",
+        "year": 1909
+    },
+    "http://www.imdb.com/title/tt0000833/": {
+        "freenessurl": "http://mubi.com/films/the-country-doctor-1909",
+        "imdblookup": "The Country Doctor 1909",
+        "status": "free",
+        "title": "The Country Doctor",
+        "year": 1909
+    },
+    "http://www.imdb.com/title/tt0001062/": {
+        "freenessurl": "http://mubi.com/films/those-awful-hats",
+        "imdblookup": "Those Awful Hats 1909",
+        "status": "free",
+        "title": "Those Awful Hats",
+        "year": 1909
+    },
+    "http://www.imdb.com/title/tt0002082/": {
+        "freenessurl": "http://mubi.com/films/the-burglars-dilemma",
+        "imdblookup": "The Burglar's Dilemma 1912",
+        "status": "free",
+        "title": "The Burglar's Dilemma",
+        "year": 1912
+    },
+    "http://www.imdb.com/title/tt0002208/": {
+        "freenessurl": "http://mubi.com/films/the-girl-and-her-trust",
+        "imdblookup": "The Girl and Her Trust 1912",
+        "status": "free",
+        "title": "The Girl and Her Trust",
+        "year": 1912
+    },
+    "http://www.imdb.com/title/tt0002357/": {
+        "freenessurl": "http://mubi.com/films/the-mender-of-nets",
+        "imdblookup": "The Mender of Nets 1912",
+        "status": "free",
+        "title": "The Mender of Nets",
+        "year": 1912
+    },
+    "http://www.imdb.com/title/tt0002381/": {
+        "freenessurl": "http://mubi.com/films/the-musketeers-of-pig-alley",
+        "imdblookup": "The Musketeers of Pig Alley 1912",
+        "status": "free",
+        "title": "The Musketeers of Pig Alley",
+        "year": 1912
+    },
+    "http://www.imdb.com/title/tt0002795/": {
+        "freenessurl": "http://mubi.com/films/deaths-marathon",
+        "imdblookup": "Death's Marathon 1913",
+        "status": "free",
+        "title": "Death's Marathon",
+        "year": 1913
+    },
+    "http://www.imdb.com/title/tt0003643/": {
+        "freenessurl": "http://mubi.com/films/the-avenging-conscience-or-thou-shalt-not-kill",
+        "imdblookup": "The Avenging Conscience: or 'Thou Shalt Not Kill'  1914",
+        "status": "free",
+        "title": "The Avenging Conscience: or 'Thou Shalt Not Kill' ",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004189/": {
+        "freenessurl": "http://mubi.com/films/kids-auto-race",
+        "imdblookup": "Kid's Auto Race 1914",
+        "status": "free",
+        "title": "Kid's Auto Race",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004288/": {
+        "freenessurl": "http://mubi.com/films/making-a-living",
+        "imdblookup": "Making a Living 1914",
+        "status": "free",
+        "title": "Making a Living",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004499/": {
+        "freenessurl": "http://mubi.com/films/the-property-man",
+        "imdblookup": "The Property Man 1914",
+        "status": "free",
+        "title": "The Property Man",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004707/": {
+        "freenessurl": "http://mubi.com/films/tillies-punctured-romance",
+        "imdblookup": "Tillie's Punctured Romance 1914",
+        "status": "free",
+        "title": "Tillie's Punctured Romance",
+        "year": 1914
+    },
+    "http://www.imdb.com/title/tt0004972/": {
+        "freenessurl": "http://mubi.com/films/the-birth-of-a-nation",
+        "imdblookup": "The Birth of a Nation 1915",
+        "status": "free",
+        "title": "The Birth of a Nation",
+        "year": 1915
+    },
+    "http://www.imdb.com/title/tt0005077/": {
+        "freenessurl": "http://mubi.com/films/burlesque-on-carmen",
+        "imdblookup": "Burlesque on Carmen 1915",
+        "status": "free",
+        "title": "Burlesque on Carmen",
+        "year": 1915
+    },
+    "http://www.imdb.com/title/tt0005812/": {
+        "freenessurl": "http://mubi.com/films/a-night-in-the-show",
+        "imdblookup": "A Night in the Show 1915",
+        "status": "free",
+        "title": "A Night in the Show",
+        "year": 1915
+    },
+    "http://www.imdb.com/title/tt0006333/": {
+        "freenessurl": "http://mubi.com/films/20-000-leagues-under-the-sea",
+        "imdblookup": "20,000 Leagues Under the Sea 1916",
+        "status": "free",
+        "title": "20,000 Leagues Under the Sea",
+        "year": 1916
+    },
+    "http://www.imdb.com/title/tt0006689/": {
+        "freenessurl": "http://mubi.com/films/the-floorwalker",
+        "imdblookup": "The Floorwalker 1916",
+        "status": "free",
+        "title": "The Floorwalker",
+        "year": 1916
+    },
+    "http://www.imdb.com/title/tt0007145/": {
+        "freenessurl": "http://mubi.com/films/one-am",
+        "imdblookup": "One A.M. 1916",
+        "status": "free",
+        "title": "One A.M.",
+        "year": 1916
+    },
+    "http://www.imdb.com/title/tt0007819/": {
+        "freenessurl": "http://mubi.com/films/coney-island",
+        "imdblookup": "Coney Island 1917",
+        "status": "free",
+        "title": "Coney Island",
+        "year": 1917
+    },
+    "http://www.imdb.com/title/tt0008523/": {
+        "freenessurl": "http://mubi.com/films/the-rough-house",
+        "imdblookup": "The Rough House 1917",
+        "status": "free",
+        "title": "The Rough House",
+        "year": 1917
+    },
+    "http://www.imdb.com/title/tt0008874/": {
+        "freenessurl": "http://mubi.com/films/the-bell-boy",
+        "imdblookup": "The Bell Boy 1918",
+        "status": "free",
+        "title": "The Bell Boy",
+        "year": 1918
+    },
+    "http://www.imdb.com/title/tt0009899/": {
+        "freenessurl": "http://mubi.com/films/back-stage",
+        "imdblookup": "Back Stage 1919",
+        "status": "free",
+        "title": "Back Stage",
+        "year": 1919
+    },
+    "http://www.imdb.com/title/tt0009968/": {
+        "freenessurl": "http://mubi.com/films/broken-blossoms",
+        "imdblookup": "Broken Blossoms 1919",
+        "status": "free",
+        "title": "Broken Blossoms",
+        "year": 1919
+    },
+    "http://www.imdb.com/title/tt0011071/": {
+        "freenessurl": "http://mubi.com/films/convict-13",
+        "imdblookup": "Convict 13 1920",
+        "status": "free",
+        "title": "Convict 13",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011130/": {
+        "freenessurl": "http://mubi.com/films/dr-jekyll-and-mr-hyde-1920",
+        "imdblookup": "Dr. Jekyll and Mr. Hyde 1920",
+        "status": "free",
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011237/": {
+        "freenessurl": "http://mubi.com/films/the-golem-how-he-came-into-the-world",
+        "imdblookup": "The Golem: How He Came into the World 1920",
+        "status": "free",
+        "title": "The Golem: How He Came into the World",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011387/": {
+        "freenessurl": "http://mubi.com/films/the-last-of-the-mohicans-1920",
+        "imdblookup": "The Last of the Mohicans 1920",
+        "status": "free",
+        "title": "The Last of the Mohicans",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011439/": {
+        "freenessurl": "http://mubi.com/films/the-mark-of-zorro",
+        "imdblookup": "The Mark of Zorro 1920",
+        "status": "free",
+        "title": "The Mark of Zorro",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011508/": {
+        "freenessurl": "http://mubi.com/films/neighbors",
+        "imdblookup": "Neighbors 1920",
+        "status": "free",
+        "title": "Neighbors",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011541/": {
+        "freenessurl": "http://mubi.com/films/one-week",
+        "imdblookup": "One Week 1920",
+        "status": "free",
+        "title": "One Week",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0011656/": {
+        "freenessurl": "http://mubi.com/films/the-scarecrow",
+        "imdblookup": "The Scarecrow 1920",
+        "status": "free",
+        "title": "The Scarecrow",
+        "year": 1920
+    },
+    "http://www.imdb.com/title/tt0012190/": {
+        "freenessurl": "http://mubi.com/films/the-four-horsemen-of-the-apocalypse",
+        "imdblookup": "The Four Horsemen of the Apocalypse 1921",
+        "status": "free",
+        "title": "The Four Horsemen of the Apocalypse",
+        "year": 1921
+    },
+    "http://www.imdb.com/title/tt0012499/": {
+        "freenessurl": "http://mubi.com/films/never-weaken",
+        "imdblookup": "Never Weaken 1921",
+        "status": "free",
+        "title": "Never Weaken",
+        "year": 1921
+    },
+    "http://www.imdb.com/title/tt0012543/": {
+        "freenessurl": "http://mubi.com/films/the-paleface",
+        "imdblookup": "The Paleface 1922",
+        "status": "free",
+        "title": "The Paleface",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0012570/": {
+        "freenessurl": "http://mubi.com/films/the-playhouse",
+        "imdblookup": "The Playhouse 1921",
+        "status": "free",
+        "title": "The Playhouse",
+        "year": 1921
+    },
+    "http://www.imdb.com/title/tt0012945/": {
+        "freenessurl": "http://mubi.com/films/the-blacksmith",
+        "imdblookup": "The Blacksmith 1922",
+        "status": "free",
+        "title": "The Blacksmith",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013055/": {
+        "freenessurl": "http://mubi.com/films/daydreams",
+        "imdblookup": "Daydreams 1922",
+        "status": "free",
+        "title": "Daydreams",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013099/": {
+        "freenessurl": "http://mubi.com/films/the-electric-house",
+        "imdblookup": "The Electric House 1922",
+        "status": "free",
+        "title": "The Electric House",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013158/": {
+        "freenessurl": "http://mubi.com/films/the-frozen-north",
+        "imdblookup": "The Frozen North 1922",
+        "status": "free",
+        "title": "The Frozen North",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013257/": {
+        "freenessurl": "http://mubi.com/films/haxan-witchcraft-through-the-ages",
+        "imdblookup": "H\u00e4xan: Witchcraft Through the Ages 1922",
+        "status": "free",
+        "title": "H\u00e4xan: Witchcraft Through the Ages",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013416/": {
+        "freenessurl": "http://mubi.com/films/mud-and-sand",
+        "imdblookup": "Mud and Sand 1922",
+        "status": "free",
+        "title": "Mud and Sand",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013422/": {
+        "freenessurl": "http://mubi.com/films/my-wifes-relations",
+        "imdblookup": "My Wife's Relations 1922",
+        "status": "free",
+        "title": "My Wife's Relations",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013427/": {
+        "freenessurl": "http://mubi.com/films/nanook-of-the-north",
+        "imdblookup": "Nanook of the North 1922",
+        "status": "free",
+        "title": "Nanook of the North",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013858/": {
+        "freenessurl": "http://mubi.com/films/the-balloonatic",
+        "imdblookup": "The Balloonatic 1923",
+        "status": "free",
+        "title": "The Balloonatic",
+        "year": 1923
+    },
+    "http://www.imdb.com/title/tt0014142/": {
+        "freenessurl": "http://mubi.com/films/the-hunchback-of-notre-dame-1923",
+        "imdblookup": "The Hunchback of Notre Dame 1923",
+        "status": "free",
+        "title": "The Hunchback of Notre Dame",
+        "year": 1923
+    },
+    "http://www.imdb.com/title/tt0014218/": {
+        "freenessurl": "http://mubi.com/films/the-love-nest",
+        "imdblookup": "The Love Nest 1923",
+        "status": "free",
+        "title": "The Love Nest",
+        "year": 1923
+    },
+    "http://www.imdb.com/title/tt0014411/": {
+        "freenessurl": "http://mubi.com/films/robin-hood",
+        "imdblookup": "Robin Hood 1923",
+        "status": "free",
+        "title": "Robin Hood",
+        "year": 1923
+    },
+    "http://www.imdb.com/title/tt0014538/": {
+        "freenessurl": "http://mubi.com/films/three-ages",
+        "imdblookup": "Three Ages 1923",
+        "status": "free",
+        "title": "Three Ages",
+        "year": 1923
+    },
+    "http://www.imdb.com/title/tt0015163/": {
+        "freenessurl": "http://mubi.com/films/the-navigator",
+        "imdblookup": "The Navigator 1924",
+        "status": "free",
+        "title": "The Navigator",
+        "year": 1924
+    },
+    "http://www.imdb.com/title/tt0015324/": {
+        "freenessurl": "http://mubi.com/films/sherlock-jr",
+        "imdblookup": "Sherlock Jr. 1924",
+        "status": "free",
+        "title": "Sherlock Jr.",
+        "year": 1924
+    },
+    "http://www.imdb.com/title/tt0015648/": {
+        "freenessurl": "http://mubi.com/films/battleship-potemkin",
+        "imdblookup": "Battleship Potemkin 1925",
+        "status": "free",
+        "title": "Battleship Potemkin",
+        "year": 1925
+    },
+    "http://www.imdb.com/title/tt0016004/": {
+        "freenessurl": "http://mubi.com/films/lady-windermeres-fan",
+        "imdblookup": "Lady Windermere's Fan 1925",
+        "status": "free",
+        "title": "Lady Windermere's Fan",
+        "year": 1925
+    },
+    "http://www.imdb.com/title/tt0016654/": {
+        "freenessurl": "http://mubi.com/films/the-black-pirate",
+        "imdblookup": "The Black Pirate 1926",
+        "status": "free",
+        "title": "The Black Pirate",
+        "year": 1926
+    },
+    "http://www.imdb.com/title/tt0016847/": {
+        "freenessurl": "http://mubi.com/films/faust-1926",
+        "imdblookup": "Faust 1926",
+        "status": "free",
+        "title": "Faust",
+        "year": 1926
+    },
+    "http://www.imdb.com/title/tt0017075/": {
+        "freenessurl": "http://mubi.com/films/the-lodger-a-story-of-the-london-fog",
+        "imdblookup": "The Lodger: A Story of the London Fog 1927",
+        "status": "free",
+        "title": "The Lodger: A Story of the London Fog",
+        "year": 1927
+    },
+    "http://www.imdb.com/title/tt0017668/": {
+        "freenessurl": "http://mubi.com/films/berlin-symphony-of-a-great-city",
+        "imdblookup": "Berlin: Symphony of a Great City 1927",
+        "status": "free",
+        "title": "Berlin: Symphony of a Great City",
+        "year": 1927
+    },
+    "http://www.imdb.com/title/tt0017825/": {
+        "freenessurl": "http://mubi.com/films/downhill",
+        "imdblookup": "Downhill 1927",
+        "status": "free",
+        "title": "Downhill",
+        "year": 1927
+    },
+    "http://www.imdb.com/title/tt0017843/": {
+        "freenessurl": "http://mubi.com/films/easy-virtue",
+        "imdblookup": "Easy Virtue 1928",
+        "status": "free",
+        "title": "Easy Virtue",
+        "year": 1928
+    },
+    "http://www.imdb.com/title/tt0018742/": {
+        "freenessurl": "http://mubi.com/films/the-cameraman",
+        "imdblookup": "The Cameraman 1928",
+        "status": "free",
+        "title": "The Cameraman",
+        "year": 1928
+    },
+    "http://www.imdb.com/title/tt0018876/": {
+        "freenessurl": "http://mubi.com/films/the-farmers-wife",
+        "imdblookup": "The Farmer's Wife  1928",
+        "status": "free",
+        "title": "The Farmer's Wife ",
+        "year": 1928
+    },
+    "http://www.imdb.com/title/tt0019421/": {
+        "freenessurl": "http://mubi.com/films/steamboat-bill-jr",
+        "imdblookup": "Steamboat Bill Jr. 1928",
+        "status": "free",
+        "title": "Steamboat Bill Jr.",
+        "year": 1928
+    },
+    "http://www.imdb.com/title/tt0019760/": {
+        "freenessurl": "http://mubi.com/films/man-with-a-movie-camera",
+        "imdblookup": "Man With a Movie Camera 1929",
+        "status": "free",
+        "title": "Man With a Movie Camera",
+        "year": 1929
+    },
+    "http://www.imdb.com/title/tt0020030/": {
+        "freenessurl": "http://mubi.com/films/the-iron-mask",
+        "imdblookup": "The Iron Mask 1929",
+        "status": "free",
+        "title": "The Iron Mask",
+        "year": 1929
+    },
+    "http://www.imdb.com/title/tt0020142/": {
+        "freenessurl": "http://mubi.com/films/the-manxman",
+        "imdblookup": "The Manxman  1929",
+        "status": "free",
+        "title": "The Manxman ",
+        "year": 1929
+    },
+    "http://www.imdb.com/title/tt0020620/": {
+        "freenessurl": "http://mubi.com/films/abraham-lincoln",
+        "imdblookup": "Abraham Lincoln 1930",
+        "status": "free",
+        "title": "Abraham Lincoln",
+        "year": 1930
+    },
+    "http://www.imdb.com/title/tt0021890/": {
+        "freenessurl": "http://mubi.com/films/the-front-page-1931",
+        "imdblookup": "The Front Page 1931",
+        "status": "free",
+        "title": "The Front Page",
+        "year": 1931
+    },
+    "http://www.imdb.com/title/tt0022395/": {
+        "freenessurl": "http://mubi.com/films/the-skin-game",
+        "imdblookup": "The Skin Game  1931",
+        "status": "free",
+        "title": "The Skin Game ",
+        "year": 1931
+    },
+    "http://www.imdb.com/title/tt0022402/": {
+        "freenessurl": "http://mubi.com/films/the-slippery-pearls",
+        "imdblookup": "The Slippery Pearls 1931",
+        "status": "free",
+        "title": "The Slippery Pearls",
+        "year": 1931
+    },
+    "http://www.imdb.com/title/tt0022879/": {
+        "freenessurl": "http://mubi.com/films/a-farewell-to-arms",
+        "imdblookup": "A Farewell to Arms 1932",
+        "status": "free",
+        "title": "A Farewell to Arms",
+        "year": 1932
+    },
+    "http://www.imdb.com/title/tt0022883/": {
+        "freenessurl": "http://mubi.com/films/the-fatal-glass-of-beer",
+        "imdblookup": "The Fatal Glass of Beer 1933",
+        "status": "free",
+        "title": "The Fatal Glass of Beer",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0023238/": {
+        "freenessurl": "http://mubi.com/films/the-most-dangerous-game",
+        "imdblookup": "The Most Dangerous Game 1932",
+        "status": "free",
+        "title": "The Most Dangerous Game",
+        "year": 1932
+    },
+    "http://www.imdb.com/title/tt0023369/": {
+        "freenessurl": "http://mubi.com/films/rain",
+        "imdblookup": "Rain 1932",
+        "status": "free",
+        "title": "Rain",
+        "year": 1932
+    },
+    "http://www.imdb.com/title/tt0023498/": {
+        "freenessurl": "http://mubi.com/films/speak-easily",
+        "imdblookup": "Speak Easily 1932",
+        "status": "free",
+        "title": "Speak Easily",
+        "year": 1932
+    },
+    "http://www.imdb.com/title/tt0024473/": {
+        "freenessurl": "http://mubi.com/films/the-private-life-of-henry-viii",
+        "imdblookup": "The Private Life of Henry VIII 1933",
+        "status": "free",
+        "title": "The Private Life of Henry VIII",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0024548/": {
+        "freenessurl": "http://mubi.com/films/she-done-him-wrong",
+        "imdblookup": "She Done Him Wrong 1933",
+        "status": "free",
+        "title": "She Done Him Wrong",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0024625/": {
+        "freenessurl": "http://mubi.com/films/sherlock-holmes-a-study-in-scarlet",
+        "imdblookup": "Sherlock Holmes: A Study in Scarlet 1933",
+        "status": "free",
+        "title": "Sherlock Holmes: A Study in Scarlet",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0025586/": {
+        "freenessurl": "http://mubi.com/films/of-human-bondage",
+        "imdblookup": "Of Human Bondage 1934",
+        "status": "free",
+        "title": "Of Human Bondage",
+        "year": 1934
+    },
+    "http://www.imdb.com/title/tt0025748/": {
+        "freenessurl": "http://mubi.com/films/the-scarlet-pimpernel",
+        "imdblookup": "The Scarlet Pimpernel 1934",
+        "status": "free",
+        "title": "The Scarlet Pimpernel",
+        "year": 1934
+    },
+    "http://www.imdb.com/title/tt0025911/": {
+        "freenessurl": "http://mubi.com/films/three-songs-about-lenin",
+        "imdblookup": "Three Songs About Lenin 1934",
+        "status": "free",
+        "title": "Three Songs About Lenin",
+        "year": 1934
+    },
+    "http://www.imdb.com/title/tt0026029/": {
+        "freenessurl": "http://mubi.com/films/the-39-steps",
+        "imdblookup": "The 39 Steps 1935",
+        "status": "free",
+        "title": "The 39 Steps",
+        "year": 1935
+    },
+    "http://www.imdb.com/title/tt0027697/": {
+        "freenessurl": "http://mubi.com/films/the-great-guy",
+        "imdblookup": "Great Guy 1936",
+        "status": "free",
+        "title": "Great Guy",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028010/": {
+        "freenessurl": "http://mubi.com/films/my-man-godfrey",
+        "imdblookup": "My Man Godfrey 1936",
+        "status": "free",
+        "title": "My Man Godfrey",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028212/": {
+        "freenessurl": "http://mubi.com/films/sabotage",
+        "imdblookup": "Sabotage 1936",
+        "status": "free",
+        "title": "Sabotage",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028231/": {
+        "freenessurl": "http://mubi.com/films/secret-agent",
+        "imdblookup": "Secret Agent  1936",
+        "status": "free",
+        "title": "Secret Agent ",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028346/": {
+        "freenessurl": "http://mubi.com/films/reefer-madness",
+        "imdblookup": "Reefer Madness 1936",
+        "status": "free",
+        "title": "Reefer Madness",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028358/": {
+        "freenessurl": "http://mubi.com/films/things-to-come",
+        "imdblookup": "Things to Come 1936",
+        "status": "free",
+        "title": "Things to Come",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0029322/": {
+        "freenessurl": "http://mubi.com/films/nothing-sacred",
+        "imdblookup": "Nothing Sacred 1937",
+        "status": "free",
+        "title": "Nothing Sacred",
+        "year": 1937
+    },
+    "http://www.imdb.com/title/tt0029588/": {
+        "freenessurl": "http://mubi.com/films/something-to-sing-about",
+        "imdblookup": "Something to Sing About 1937",
+        "status": "free",
+        "title": "Something to Sing About",
+        "year": 1937
+    },
+    "http://www.imdb.com/title/tt0029606/": {
+        "freenessurl": "http://mubi.com/films/a-star-is-born-1937",
+        "imdblookup": "A Star is Born 1937",
+        "status": "free",
+        "title": "A Star is Born",
+        "year": 1937
+    },
+    "http://www.imdb.com/title/tt0030341/": {
+        "freenessurl": "http://mubi.com/films/the-lady-vanishes",
+        "imdblookup": "The Lady Vanishes 1938",
+        "status": "free",
+        "title": "The Lady Vanishes",
+        "year": 1938
+    },
+    "http://www.imdb.com/title/tt0030473/": {
+        "freenessurl": "http://mubi.com/films/mr-wong-detective",
+        "imdblookup": "Mr. Wong, Detective 1938",
+        "status": "free",
+        "title": "Mr. Wong, Detective",
+        "year": 1938
+    },
+    "http://www.imdb.com/title/tt0031322/": {
+        "freenessurl": "http://mubi.com/films/the-flying-deuces",
+        "imdblookup": "The Flying Deuces 1939",
+        "status": "free",
+        "title": "The Flying Deuces",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0031505/": {
+        "freenessurl": "http://mubi.com/films/jamaica-inn",
+        "imdblookup": "Jamaica Inn 1939",
+        "status": "free",
+        "title": "Jamaica Inn",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0031580/": {
+        "freenessurl": "http://mubi.com/films/the-little-princess",
+        "imdblookup": "The Little Princess 1939",
+        "status": "free",
+        "title": "The Little Princess",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0031602/": {
+        "freenessurl": "http://mubi.com/films/made-for-each-other",
+        "imdblookup": "Made for Each Other 1939",
+        "status": "free",
+        "title": "Made for Each Other",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0031680/": {
+        "freenessurl": "http://mubi.com/films/mr-wong-in-chinatown",
+        "imdblookup": "Mr. Wong in Chinatown 1939",
+        "status": "free",
+        "title": "Mr. Wong in Chinatown",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0031704/": {
+        "freenessurl": "http://mubi.com/films/the-mystery-of-mr-wong",
+        "imdblookup": "The Mystery of Mr. Wong 1939",
+        "status": "free",
+        "title": "The Mystery of Mr. Wong",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0032022/": {
+        "freenessurl": "http://mubi.com/films/they-made-me-a-criminal",
+        "imdblookup": "They Made Me a Criminal 1939",
+        "status": "free",
+        "title": "They Made Me a Criminal",
+        "year": 1939
+    },
+    "http://www.imdb.com/title/tt0032404/": {
+        "freenessurl": "http://mubi.com/films/doomed-to-die",
+        "imdblookup": "Doomed to Die 1940",
+        "status": "free",
+        "title": "Doomed to Die",
+        "year": 1940
+    },
+    "http://www.imdb.com/title/tt0032457/": {
+        "freenessurl": "http://mubi.com/films/the-fatal-hour",
+        "imdblookup": "The Fatal Hour 1940",
+        "status": "free",
+        "title": "The Fatal Hour",
+        "year": 1940
+    },
+    "http://www.imdb.com/title/tt0032599/": {
+        "freenessurl": "http://mubi.com/films/his-girl-friday",
+        "imdblookup": "His Girl Friday 1940",
+        "status": "free",
+        "title": "His Girl Friday",
+        "year": 1940
+    },
+    "http://www.imdb.com/title/tt0032881/": {
+        "freenessurl": "http://mubi.com/films/our-town",
+        "imdblookup": "Our Town 1940",
+        "status": "free",
+        "title": "Our Town",
+        "year": 1940
+    },
+    "http://www.imdb.com/title/tt0033891/": {
+        "freenessurl": "http://mubi.com/films/meet-john-doe",
+        "imdblookup": "Meet John Doe 1941",
+        "status": "free",
+        "title": "Meet John Doe",
+        "year": 1941
+    },
+    "http://www.imdb.com/title/tt0034012/": {
+        "freenessurl": "http://mubi.com/films/penny-serenade",
+        "imdblookup": "Penny Serenade 1941",
+        "status": "free",
+        "title": "Penny Serenade",
+        "year": 1941
+    },
+    "http://www.imdb.com/title/tt0034498/": {
+        "freenessurl": "http://mubi.com/films/the-battle-of-midway",
+        "imdblookup": "The Battle of Midway 1942",
+        "status": "free",
+        "title": "The Battle of Midway",
+        "year": 1942
+    },
+    "http://www.imdb.com/title/tt0034891/": {
+        "freenessurl": "http://mubi.com/films/in-which-we-serve",
+        "imdblookup": "In Which We Serve 1942",
+        "status": "free",
+        "title": "In Which We Serve",
+        "year": 1942
+    },
+    "http://www.imdb.com/title/tt0037515/": {
+        "freenessurl": "http://mubi.com/films/and-then-there-were-none",
+        "imdblookup": "And Then There Were None 1945",
+        "status": "free",
+        "title": "And Then There Were None",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0037547/": {
+        "freenessurl": "http://mubi.com/films/blood-on-the-sun",
+        "imdblookup": "Blood on the Sun 1945",
+        "status": "free",
+        "title": "Blood on the Sun",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0037638/": {
+        "freenessurl": "http://mubi.com/films/detour",
+        "imdblookup": "Detour 1945",
+        "status": "free",
+        "title": "Detour",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0038057/": {
+        "freenessurl": "http://mubi.com/films/scarlet-street",
+        "imdblookup": "Scarlet Street 1945",
+        "status": "free",
+        "title": "Scarlet Street",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0038107/": {
+        "freenessurl": "http://mubi.com/films/the-southerner",
+        "imdblookup": "The Southerner 1945",
+        "status": "free",
+        "title": "The Southerner",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0038988/": {
+        "freenessurl": "http://mubi.com/films/the-strange-love-of-martha-ivers",
+        "imdblookup": "The Strange Love of Martha Ivers 1946",
+        "status": "free",
+        "title": "The Strange Love of Martha Ivers",
+        "year": 1946
+    },
+    "http://www.imdb.com/title/tt0039035/": {
+        "freenessurl": "http://mubi.com/films/till-the-clouds-roll-by",
+        "imdblookup": "Till the Clouds Roll By 1946",
+        "status": "free",
+        "title": "Till the Clouds Roll By",
+        "year": 1946
+    },
+    "http://www.imdb.com/title/tt0039152/": {
+        "freenessurl": "http://mubi.com/films/angel-and-the-badman",
+        "imdblookup": "Angel and the Badman 1947",
+        "status": "free",
+        "title": "Angel and the Badman",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039566/": {
+        "freenessurl": "http://mubi.com/films/life-with-father",
+        "imdblookup": "Life with Father 1947",
+        "status": "free",
+        "title": "Life with Father",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039645/": {
+        "freenessurl": "http://mubi.com/films/my-favorite-brunette",
+        "imdblookup": "My Favorite Brunette 1947",
+        "status": "free",
+        "title": "My Favorite Brunette",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039825/": {
+        "freenessurl": "http://mubi.com/films/the-sin-of-harold-diddlebock",
+        "imdblookup": "The Sin of Harold Diddlebock 1947",
+        "status": "free",
+        "title": "The Sin of Harold Diddlebock",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039881/": {
+        "freenessurl": "http://mubi.com/films/t-men",
+        "imdblookup": "T-Men 1947",
+        "status": "free",
+        "title": "T-Men",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0040829/": {
+        "freenessurl": "http://mubi.com/films/the-amazing-mr-x",
+        "imdblookup": "The Amazing Mr. X 1948",
+        "status": "free",
+        "title": "The Amazing Mr. X",
+        "year": 1948
+    },
+    "http://www.imdb.com/title/tt0040884/": {
+        "freenessurl": "http://mubi.com/films/the-time-of-your-life",
+        "imdblookup": "The Time of Your Life 1948",
+        "status": "free",
+        "title": "The Time of Your Life",
+        "year": 1948
+    },
+    "http://www.imdb.com/title/tt0041098/": {
+        "freenessurl": "http://mubi.com/films/africa-screams",
+        "imdblookup": "Africa Screams 1949",
+        "status": "free",
+        "title": "Africa Screams",
+        "year": 1949
+    },
+    "http://www.imdb.com/title/tt0042004/": {
+        "freenessurl": "http://mubi.com/films/under-capricorn",
+        "imdblookup": "Under Capricorn 1949",
+        "status": "free",
+        "title": "Under Capricorn",
+        "year": 1949
+    },
+    "http://www.imdb.com/title/tt0042209/": {
+        "freenessurl": "http://mubi.com/films/at-war-with-the-army",
+        "imdblookup": "At War with the Army 1950",
+        "status": "free",
+        "title": "At War with the Army",
+        "year": 1950
+    },
+    "http://www.imdb.com/title/tt0042367/": {
+        "freenessurl": "http://mubi.com/films/cyrano-de-bergerac",
+        "imdblookup": "Cyrano de Bergerac 1950",
+        "status": "free",
+        "title": "Cyrano de Bergerac",
+        "year": 1950
+    },
+    "http://www.imdb.com/title/tt0042832/": {
+        "freenessurl": "http://mubi.com/films/panic-in-the-streets",
+        "imdblookup": "Panic in the Streets  1950",
+        "status": "free",
+        "title": "Panic in the Streets ",
+        "year": 1950
+    },
+    "http://www.imdb.com/title/tt0043526/": {
+        "freenessurl": "http://mubi.com/films/fathers-little-dividend",
+        "imdblookup": "Father's Little Dividend 1951",
+        "status": "free",
+        "title": "Father's Little Dividend",
+        "year": 1951
+    },
+    "http://www.imdb.com/title/tt0043983/": {
+        "freenessurl": "http://mubi.com/films/royal-wedding",
+        "imdblookup": "Royal Wedding 1951",
+        "status": "free",
+        "title": "Royal Wedding",
+        "year": 1951
+    },
+    "http://www.imdb.com/title/tt0045162/": {
+        "freenessurl": "http://mubi.com/films/the-snows-of-kilimanjaro",
+        "imdblookup": "The Snows of Kilimanjaro 1952",
+        "status": "free",
+        "title": "The Snows of Kilimanjaro",
+        "year": 1952
+    },
+    "http://www.imdb.com/title/tt0045551/": {
+        "freenessurl": "http://mubi.com/films/beneath-the-12-mile-reef",
+        "imdblookup": "Beneath the 12-Mile Reef 1953",
+        "status": "free",
+        "title": "Beneath the 12-Mile Reef",
+        "year": 1953
+    },
+    "http://www.imdb.com/title/tt0046414/": {
+        "freenessurl": "http://mubi.com/films/beat-the-devil",
+        "imdblookup": "Beat the Devil 1953",
+        "status": "free",
+        "title": "Beat the Devil",
+        "year": 1953
+    },
+    "http://www.imdb.com/title/tt0047162/": {
+        "freenessurl": "http://mubi.com/films/the-last-time-i-saw-paris",
+        "imdblookup": "The Last Time I Saw Paris 1954",
+        "status": "free",
+        "title": "The Last Time I Saw Paris",
+        "year": 1954
+    },
+    "http://www.imdb.com/title/tt0050985/": {
+        "freenessurl": "http://mubi.com/films/the-smallest-show-on-earth",
+        "imdblookup": "The Smallest Show on Earth 1957",
+        "status": "free",
+        "title": "The Smallest Show on Earth",
+        "year": 1957
+    },
+    "http://www.imdb.com/title/tt0052077/": {
+        "freenessurl": "http://mubi.com/films/plan-9-from-outer-space",
+        "imdblookup": "Plan 9 from Outer Space 1959",
+        "status": "free",
+        "title": "Plan 9 from Outer Space",
+        "year": 1959
+    },
+    "http://www.imdb.com/title/tt0052188/": {
+        "freenessurl": "http://mubi.com/films/she-gods-of-shark-reef",
+        "imdblookup": "She Gods of Shark Reef 1958",
+        "status": "free",
+        "title": "She Gods of Shark Reef",
+        "year": 1958
+    },
+    "http://www.imdb.com/title/tt0052587/": {
+        "freenessurl": "http://mubi.com/films/the-atomic-submarine",
+        "imdblookup": "The Atomic Submarine 1959",
+        "status": "free",
+        "title": "The Atomic Submarine",
+        "year": 1959
+    },
+    "http://www.imdb.com/title/tt0054315/": {
+        "freenessurl": "http://mubi.com/films/ski-troop-attack",
+        "imdblookup": "Ski Troop Attack 1960",
+        "status": "free",
+        "title": "Ski Troop Attack",
+        "year": 1960
+    },
+    "http://www.imdb.com/title/tt0055019/": {
+        "freenessurl": "http://mubi.com/films/the-intruder-1962",
+        "imdblookup": "The Intruder 1962",
+        "status": "free",
+        "title": "The Intruder",
+        "year": 1962
+    },
+    "http://www.imdb.com/title/tt0055230/": {
+        "freenessurl": "http://mubi.com/films/night-tide",
+        "imdblookup": "Night Tide 1961",
+        "status": "free",
+        "title": "Night Tide",
+        "year": 1961
+    },
+    "http://www.imdb.com/title/tt0055830/": {
+        "freenessurl": "http://mubi.com/films/carnival-of-souls",
+        "imdblookup": "Carnival of Souls 1962",
+        "status": "free",
+        "title": "Carnival of Souls",
+        "year": 1962
+    },
+    "http://www.imdb.com/title/tt0058700/": {
+        "freenessurl": "http://mubi.com/films/the-last-man-on-earth",
+        "imdblookup": "The Last Man on Earth 1964",
+        "status": "free",
+        "title": "The Last Man on Earth",
+        "year": 1964
+    },
+    "http://www.imdb.com/title/tt0059113/": {
+        "freenessurl": "http://mubi.com/films/film",
+        "imdblookup": "Film 1965",
+        "status": "free",
+        "title": "Film",
+        "year": 1965
+    },
+    "http://www.imdb.com/title/tt0063350/": {
+        "freenessurl": "http://mubi.com/films/night-of-the-living-dead",
+        "imdblookup": "Night of the Living Dead 1968",
+        "status": "free",
+        "title": "Night of the Living Dead",
+        "year": 1968
+    },
+    "http://www.imdb.com/title/tt0065858/": {
+        "freenessurl": "http://mubi.com/films/how-awful-about-allan",
+        "imdblookup": "How Awful About Allan 1970",
+        "status": "free",
+        "title": "How Awful About Allan",
+        "year": 1970
+    },
+    "http://www.imdb.com/title/tt0070578/": {
+        "freenessurl": "http://mubi.com/films/the-pyx",
+        "imdblookup": "The Pyx 1973",
+        "status": "free",
+        "title": "The Pyx",
+        "year": 1973
+    },
+    "http://www.imdb.com/title/tt0079082/": {
+        "freenessurl": "http://mubi.com/films/the-driller-killer",
+        "imdblookup": "The Driller Killer 1979",
+        "status": "free",
+        "title": "The Driller Killer",
+        "year": 1979
+    },
+    "http://www.imdb.com/title/tt0092978/": {
+        "freenessurl": "http://mubi.com/films/escape-from-sobibor",
+        "imdblookup": "Escape from Sobibor 1987",
+        "status": "free",
+        "title": "Escape from Sobibor",
+        "year": 1987
+    },
+    "http://www.imdb.com/title/tt0127948/": {
+        "freenessurl": "http://mubi.com/films/the-devilish-tenant",
+        "imdblookup": "The Devilish Tenant 1909",
+        "status": "free",
+        "title": "The Devilish Tenant",
+        "year": 1909
+    },
+    "http://www.imdb.com/title/tt0132251/": {
+        "freenessurl": "http://mubi.com/films/jeanne-darc",
+        "imdblookup": "Jeanne d'Arc 1900",
+        "status": "free",
+        "title": "Jeanne d'Arc",
+        "year": 1900
+    },
+    "http://www.imdb.com/title/tt0135122/": {
+        "freenessurl": "http://mubi.com/films/the-hilarious-posters",
+        "imdblookup": "The Hilarious Posters 1906",
+        "status": "free",
+        "title": "The Hilarious Posters",
+        "year": 1906
+    },
+    "http://www.imdb.com/title/tt0135179/": {
+        "freenessurl": "http://mubi.com/films/the-living-playing-cards",
+        "imdblookup": "The Living Playing Cards 1904",
+        "status": "free",
+        "title": "The Living Playing Cards",
+        "year": 1904
+    },
+    "http://www.imdb.com/title/tt0135180/": {
+        "freenessurl": "http://mubi.com/films/the-infernal-cauldron",
+        "imdblookup": "The Infernal Cauldron 1903",
+        "status": "free",
+        "title": "The Infernal Cauldron",
+        "year": 1903
+    },
+    "http://www.imdb.com/title/tt0135453/": {
+        "freenessurl": "http://mubi.com/films/the-one-man-band",
+        "imdblookup": "The One-Man Band 1900",
+        "status": "free",
+        "title": "The One-Man Band",
+        "year": 1900
+    },
+    "http://www.imdb.com/title/tt0177707/": {
+        "freenessurl": "http://mubi.com/films/dickson-experimental-sound-film",
+        "imdblookup": "Dickson Experimental Sound Film 1894",
+        "status": "free",
+        "title": "Dickson Experimental Sound Film",
+        "year": 1894
+    },
+    "http://www.imdb.com/title/tt0205480/": {
+        "freenessurl": "http://mubi.com/films/a-trip-down-market-street-before-the-fire",
+        "imdblookup": "A Trip Down Market Street Before the Fire 1906",
+        "status": "free",
+        "title": "A Trip Down Market Street Before the Fire",
+        "year": 1906
+    },
+    "http://www.imdb.com/title/tt0210675/": {
+        "freenessurl": "http://mubi.com/films/falling-leaves-1912",
+        "imdblookup": "Falling Leaves 1912",
+        "status": "free",
+        "title": "Falling Leaves",
+        "year": 1912
+    },
+    "http://www.imdb.com/title/tt0215495/": {
+        "freenessurl": "http://mubi.com/films/algie-the-miner",
+        "imdblookup": "Algie, the Miner 1912",
+        "status": "free",
+        "title": "Algie, the Miner",
+        "year": 1912
+    },
+    "http://www.imdb.com/title/tt0215737/": {
+        "freenessurl": "http://mubi.com/films/the-eclipse-courtship-of-the-sun-and-moon",
+        "imdblookup": "The Eclipse: Courtship of the Sun and Moon 1907",
+        "status": "free",
+        "title": "The Eclipse: Courtship of the Sun and Moon",
+        "year": 1907
+    },
+    "http://www.imdb.com/title/tt0247568/": {
+        "freenessurl": "http://mubi.com/films/nazi-concentration-camps",
+        "imdblookup": "Nazi Concentration Camps 1945",
+        "status": "free",
+        "title": "Nazi Concentration Camps",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0392728/": {
+        "freenessurl": "http://mubi.com/films/roundhay-garden-scene",
+        "imdblookup": "Roundhay Garden Scene 1888",
+        "status": "free",
+        "title": "Roundhay Garden Scene",
+        "year": 1888
+    }
+}
