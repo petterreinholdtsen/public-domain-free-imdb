@@ -1,0 +1,74 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Look up all public domain movies listed on mubi in IMDB.
+
+Based on API call used on
+https://mubi.com/lists/public-domain-greats
+fetching the JSON using calls to
+https://mubi.com/services/api/lists/6633/list_films?page=1 .
+"""
+import argparse
+import json
+import movielib
+import time
+import urllib
+import urllib2
+
+def fetch(page=1):
+    print("Fetching page %d" % page)
+    url = 'https://mubi.com/services/api/lists/6633/list_films?page=%d' % page
+    h = { "Accept" : "application/json"}
+    try:
+        request = urllib2.Request(url, headers=h)
+        jsondata = urllib2.urlopen(request).read()
+        #print jsondata
+        data = json.loads(jsondata)
+        return data
+    except urllib2.HTTPError as e:
+        print("Error:", str(e))
+        return None
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    
+    wplist = {}
+    outlist = {}
+    page = 1
+    while True:
+        l = fetch(page)
+        if not l or 0 == len(l):
+            break
+        for e in l:
+            #print e
+            freenessurl = e['film']['canonical_url']
+            fle = {
+                'status' : 'free',
+                'freenessurl' : freenessurl,
+                'title' : e['film']['title'],
+                }
+            if 'year' in e['film']:
+                fle['year'] = e['film']['year']
+            ref = freenessurl
+            if args.imdblookup:
+                title = fle['title']
+                title = title.replace(u'ä', "a")
+                imdb = movielib.imdb_find_one(title, fle['year'])
+                if imdb:
+                    ref = imdb
+                    fle['imdblookup'] = '%s %d' % (fle['title'], fle['year'])
+            outlist[ref] = fle
+        page = page + 1
+        #print("Found %d" % len(outlist.keys()))
+        time.sleep(1)
+
+    movielib.savelist(outlist, 'free-movies-mubi.json')
+
+    print("Wrote %d" % len(outlist.keys()))
+
+if __name__ == '__main__':
+    main()
