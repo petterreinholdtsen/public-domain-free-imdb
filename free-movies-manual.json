@@ -425,6 +425,15 @@
 	"title" : "Stagecoach",
 	"year" : "1939"
     },
+    "http://www.imdb.com/title/tt0032076/": {
+        "freenessurl": "https://archive.org/details/undercover_agent",
+        "archive": "https://archive.org/details/undercover_agent_ipod",
+        "status": "free",
+        "title": "Undercover Agent",
+        "wdurl": "http://www.wikidata.org/entity/Q7883494",
+        "wp": "https://en.wikipedia.org/wiki/Undercover_Agent_(film)",
+        "year": "1939"
+    },
     "http://www.imdb.com/title/tt0394561/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/HillNumberOne",
