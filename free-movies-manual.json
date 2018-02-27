@@ -230,6 +230,13 @@
 	"year": 1916,
         "wp": "https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1916_film)"
     },
+    "http://www.imdb.com/title/tt0007194/": {
+        "freenessurl": "https://archive.org/details/CC_1916_05_27_Police",
+        "archive": "https://archive.org/details/vidpol",
+        "status": "free",
+        "title": "Charlie Chaplin's \"Police\"",
+        "year": "1916"
+    },
     "http://www.imdb.com/title/tt0008377/": {
 	"status" : "free",
 	"freenessurl" : "https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States",
@@ -305,6 +312,13 @@
         "status": "free",
         "title": "Alice's Spooky Adventure",
 	"year" : 1924
+    },
+    "http://www.imdb.com/title/tt0015400/": {
+        "freenessurl": "https://archive.org/details/ThiefOfBagdad1924",
+        "archive": "https://archive.org/details/vidtb",
+        "status": "free",
+        "title": "Thief of Bagdad",
+        "year": "1924"
     },
     "http://www.imdb.com/title/tt0018578/" : {
 	"status" : "free",
