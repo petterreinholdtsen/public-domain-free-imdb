@@ -1324,6 +1324,18 @@
         "title" : "Ramsbottom Rides Again",
         "year" : 1956
     },
+    "http://www.imdb.com/title/tt0050184/": {
+        "freenessurl": "https://archive.org/details/1957Bernardine",
+        "status": "free",
+        "title": "Bernardine",
+        "year": "1957"
+    },
+    "http://www.imdb.com/title/tt0053143/": {
+        "freenessurl": "https://archive.org/details/1959OperationPetticoat",
+        "status": "free",
+        "title": "Operation Petticoat",
+        "year": "1959"
+    },
     "http://www.imdb.com/title/tt0027286/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/TheAmazingAdventure",
