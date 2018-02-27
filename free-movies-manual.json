@@ -307,6 +307,12 @@
         "title": "A Trip To The Planets - silent with added sound",
 	"year" : 1925
     },
+    "http://www.imdb.com/title/tt0016526/": {
+        "freenessurl": "https://archive.org/details/video_201410",
+        "status": "free",
+        "title": "The White Outlaw",
+        "year": 1925
+    },
     "http://www.imdb.com/title/tt0014664/": {
         "freenessurl": "https://archive.org/details/AlicesSpookyAdventure",
         "status": "free",
