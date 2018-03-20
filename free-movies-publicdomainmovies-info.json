@@ -516,6 +516,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1923_film)",
         "year": 1923
     },
+    "http://www.imdb.com/title/tt0014538/": {
+        "freenessurl": "https://publicdomainmovies.info/three-ages-1923-starring-comedian-buster-keaton/",
+        "status": "free",
+        "title": "Three Ages, 1923 starring comedian Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/Three_Ages",
+        "year": 1923
+    },
     "http://www.imdb.com/title/tt0014646/": {
         "freenessurl": "https://publicdomainmovies.info/aelita-queen-mars-1924/",
         "status": "free",
@@ -929,11 +936,25 @@
         "wp": "https://en.wikipedia.org/wiki/The_Phantom_Empire",
         "year": 1940
     },
+    "http://www.imdb.com/title/tt0026972/": {
+        "freenessurl": "https://publicdomainmovies.info/scrooge-1935/",
+        "status": "free",
+        "title": "Scrooge, 1935",
+        "wp": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)",
+        "year": 1935
+    },
     "http://www.imdb.com/title/tt0027254/": {
         "freenessurl": "https://publicdomainmovies.info/ace-drummond-1936-serial-chapter-3-doorway-doom/",
         "status": "free",
         "title": "Ace Drummond, 1936 (serial) Chapter 3: The Doorway of Doom",
         "wp": "https://en.wikipedia.org/wiki/Ace_Drummond_(serial)",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0027286/": {
+        "freenessurl": "https://publicdomainmovies.info/the-amazing-adventure-1936-starring-cary-grant/",
+        "status": "free",
+        "title": "The Amazing Adventure, 1936 starring Cary Grant",
+        "wp": "https://en.wikipedia.org/wiki/The_Amazing_Quest_of_Ernest_Bliss",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027421/": {
@@ -976,6 +997,13 @@
         "status": "free",
         "title": "Reefer Madness, \u201cone of the worst films ever made\u201d",
         "wp": "https://en.wikipedia.org/wiki/Reefer_Madness",
+        "year": 1936
+    },
+    "http://www.imdb.com/title/tt0028358/": {
+        "freenessurl": "https://publicdomainmovies.info/things-come-1936/",
+        "status": "free",
+        "title": "Things to Come, 1936",
+        "wp": "https://en.wikipedia.org/wiki/Things_to_Come",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028444/": {
@@ -1125,6 +1153,13 @@
         "wp": "https://en.wikipedia.org/wiki/Adventures_of_Captain_Marvel",
         "year": 1941
     },
+    "http://www.imdb.com/title/tt0033660/": {
+        "freenessurl": "https://publicdomainmovies.info/the-ghost-train-1941/",
+        "status": "free",
+        "title": "The Ghost Train, 1941",
+        "wp": "https://en.wikipedia.org/wiki/The_Ghost_Train_(1941_film)",
+        "year": 1941
+    },
     "http://www.imdb.com/title/tt0033891/": {
         "freenessurl": "https://publicdomainmovies.info/frank-capras-meet-john-doe/",
         "status": "free",
@@ -1153,6 +1188,13 @@
         "wp": "https://en.wikipedia.org/wiki/That_Uncertain_Feeling_(film)",
         "year": 1941
     },
+    "http://www.imdb.com/title/tt0034521/": {
+        "freenessurl": "https://publicdomainmovies.info/black-dragons-1942-starring-bela-lugosi/",
+        "status": "free",
+        "title": "Black Dragons, 1942 starring Bela Lugosi",
+        "wp": "https://en.wikipedia.org/wiki/Black_Dragons",
+        "year": 1942
+    },
     "http://www.imdb.com/title/tt0034546/": {
         "freenessurl": "https://publicdomainmovies.info/bowery-midnight-1942-movie-bela-lugosi/",
         "status": "free",
@@ -1180,6 +1222,13 @@
         "title": "Sherlock Holmes and the Secret Weapon (1942) with Basil Rathbone & Nigel Bruce",
         "wp": "https://en.wikipedia.org/wiki/Sherlock_Holmes_and_the_Secret_Weapon",
         "year": 1942
+    },
+    "http://www.imdb.com/title/tt0035679/": {
+        "freenessurl": "https://publicdomainmovies.info/the-black-raven-1943/",
+        "status": "free",
+        "title": "The Black Raven, 1943",
+        "wp": "https://en.wikipedia.org/wiki/The_Black_Raven",
+        "year": 1943
     },
     "http://www.imdb.com/title/tt0035745/": {
         "freenessurl": "https://publicdomainmovies.info/combat-america-clark-gable/",
@@ -1279,12 +1328,26 @@
         "wp": "https://en.wikipedia.org/wiki/The_Scarlet_Clue",
         "year": 1945
     },
+    "http://www.imdb.com/title/tt0038057/": {
+        "freenessurl": "https://publicdomainmovies.info/scarlet-street-1945-film-noir-directed-by-fritz-lang-and-starring-edward-g-robinson/",
+        "status": "free",
+        "title": "Scarlet Street, 1945 film noir directed by Fritz Lang and starring Edward G. Robinson",
+        "wp": "https://en.wikipedia.org/wiki/Scarlet_Street",
+        "year": 1945
+    },
     "http://www.imdb.com/title/tt0038259/": {
         "freenessurl": "https://publicdomainmovies.info/woman-green-basil-rathbone-sherlock-holmes-nigel-bruce-dr-watson/",
         "status": "free",
         "title": "The Woman in Green, with Basil Rathbone as Sherlock Holmes and Nigel Bruce as Dr. Watson",
         "wp": "https://en.wikipedia.org/wiki/The_Woman_in_Green",
         "year": 1945
+    },
+    "http://www.imdb.com/title/tt0038300/": {
+        "freenessurl": "https://publicdomainmovies.info/angel-on-my-shoulder-1946/",
+        "status": "free",
+        "title": "Angel on My Shoulder, 1946",
+        "wp": "https://en.wikipedia.org/wiki/Angel_on_My_Shoulder_(film)",
+        "year": 1946
     },
     "http://www.imdb.com/title/tt0038346/": {
         "freenessurl": "https://publicdomainmovies.info/behind-green-lights-1946-starring-carole-landis/",
@@ -1377,11 +1440,25 @@
         "wp": "https://en.wikipedia.org/wiki/The_Trap_(1946_film)",
         "year": 1946
     },
+    "http://www.imdb.com/title/tt0039987/": {
+        "freenessurl": "https://publicdomainmovies.info/white-gorilla-1945/",
+        "status": "free",
+        "title": "The White Gorilla, 1945",
+        "wp": "https://en.wikipedia.org/wiki/The_White_Gorilla",
+        "year": 1945
+    },
     "http://www.imdb.com/title/tt0040394/": {
         "freenessurl": "https://publicdomainmovies.info/charlie-chan-golden-eye-1948/",
         "status": "free",
         "title": "Charlie Chan in the Golden Eye, 1948",
         "wp": "https://en.wikipedia.org/wiki/The_Golden_Eye",
+        "year": 1948
+    },
+    "http://www.imdb.com/title/tt0040626/": {
+        "freenessurl": "https://publicdomainmovies.info/dear-secretary-1948-starring-kirk-douglas/",
+        "status": "free",
+        "title": "My Dear Secretary, 1948 starring Kirk Douglas",
+        "wp": "https://en.wikipedia.org/wiki/My_Dear_Secretary",
         "year": 1948
     },
     "http://www.imdb.com/title/tt0040829/": {
@@ -1510,6 +1587,13 @@
         "wp": "https://en.wikipedia.org/wiki/Glen_or_Glenda",
         "year": 1953
     },
+    "http://www.imdb.com/title/tt0045877/": {
+        "freenessurl": "https://publicdomainmovies.info/the-hitch-hiker-1953-film-noir-directed-by-ida-lupino-first-film-noir-directed-by-a-woman/",
+        "status": "free",
+        "title": "The Hitch-Hiker, 1953 film noir directed by Ida Lupino \u201cfirst film noir directed by a woman\u201d",
+        "wp": "https://en.wikipedia.org/wiki/The_Hitch-Hiker",
+        "year": 1953
+    },
     "http://www.imdb.com/title/tt0046257/": {
         "freenessurl": "https://publicdomainmovies.info/carnival-story-1954/",
         "status": "free",
@@ -1536,6 +1620,13 @@
         "status": "free",
         "title": "Ed Wood\u2019s Bride of the Monster, 1955 starring Bela Lugosi",
         "wp": "https://en.wikipedia.org/wiki/Bride_of_the_Monster",
+        "year": 1955
+    },
+    "http://www.imdb.com/title/tt0047976/": {
+        "freenessurl": "https://publicdomainmovies.info/daughter-horror-1955/",
+        "status": "free",
+        "title": "Daughter of Horror, 1955",
+        "wp": "https://en.wikipedia.org/wiki/Dementia_(1955_film)",
         "year": 1955
     },
     "http://www.imdb.com/title/tt0049363/": {
@@ -1671,6 +1762,13 @@
         "wp": "https://en.wikipedia.org/wiki/Dementia_13",
         "year": 1963
     },
+    "http://www.imdb.com/title/tt0057465/": {
+        "freenessurl": "https://publicdomainmovies.info/the-sadist-1963-film/",
+        "status": "free",
+        "title": "The Sadist, 1963 film",
+        "wp": "https://en.wikipedia.org/wiki/The_Sadist_(film)",
+        "year": 1963
+    },
     "http://www.imdb.com/title/tt0057569/": {
         "freenessurl": "https://publicdomainmovies.info/terror-1963-film-boris-karloff-jack-nicholson/",
         "status": "free",
@@ -1691,6 +1789,20 @@
         "title": "LAST MAN ON EARTH with Vincent Price 1964 HD",
         "wp": "https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(1964_film)",
         "year": 1964
+    },
+    "http://www.imdb.com/title/tt0058983/": {
+        "freenessurl": "https://publicdomainmovies.info/bloody-pit-horror-1965/",
+        "status": "free",
+        "title": "Bloody Pit of Horror, 1965",
+        "wp": "https://en.wikipedia.org/wiki/Bloody_Pit_of_Horror",
+        "year": 1965
+    },
+    "http://www.imdb.com/title/tt0059887/": {
+        "freenessurl": "https://publicdomainmovies.info/voyage-prehistoric-planet-1965/",
+        "status": "free",
+        "title": "Voyage to the Prehistoric Planet, 1965",
+        "wp": "https://en.wikipedia.org/wiki/Voyage_to_the_Prehistoric_Planet",
+        "year": 1965
     },
     "http://www.imdb.com/title/tt0063350/": {
         "freenessurl": "https://publicdomainmovies.info/night-of-the-living-dead-1968/",
@@ -1753,5 +1865,12 @@
         "title": "My Japan, 1945 propaganda film",
         "wp": "https://en.wikipedia.org/wiki/My_Japan",
         "year": 1945
+    },
+    "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/": {
+        "freenessurl": "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/",
+        "status": "free",
+        "title": "China: The Roots of Madness, 1967 propaganda film",
+        "wp": "https://en.wikipedia.org/wiki/China:_The_Roots_of_Madness",
+        "year": 1967
     }
 }

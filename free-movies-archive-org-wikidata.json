@@ -3820,6 +3820,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q1168378",
         "year": "1934"
     },
+    "http://www.imdb.com/title/tt0025391/": {
+        "freenessurl": "https://archive.org/details/Life_Returns",
+        "status": "free",
+        "title": "Life Returns",
+        "wdurl": "http://www.wikidata.org/entity/Q6544949",
+        "year": "1935"
+    },
     "http://www.imdb.com/title/tt0025399/": {
         "freenessurl": "https://archive.org/details/LimehouseBluesEastEndChant",
         "status": "free",
@@ -14425,6 +14432,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q7427695",
         "year": "1950"
     },
+    "http://www.imdb.com/title/tt0142191/": {
+        "freenessurl": "https://archive.org/details/OswaldTheLuckyRabbitInComfidence",
+        "status": "free",
+        "title": "Confidence",
+        "wdurl": "http://www.wikidata.org/entity/Q5160073",
+        "year": "1933"
+    },
     "http://www.imdb.com/title/tt0142340/": {
         "freenessurl": "https://archive.org/details/GriefStreet",
         "status": "free",
@@ -15551,6 +15565,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q2267474",
         "year": "1954"
     },
+    "http://www.imdb.com/title/tt0304830/": {
+        "freenessurl": "https://archive.org/details/ToNewHor1940",
+        "status": "free",
+        "title": "To New Horizons",
+        "wdurl": "http://www.wikidata.org/entity/Q50408024",
+        "year": "1940"
+    },
     "http://www.imdb.com/title/tt0308056/": {
         "freenessurl": "https://archive.org/details/BodyCare1948",
         "status": "free",
@@ -16110,5 +16131,12 @@
         "title": "Citizenfour",
         "wdurl": "http://www.wikidata.org/entity/Q18218448",
         "year": "2014"
+    },
+    "http://www.imdb.com/title/tt4758818/": {
+        "freenessurl": "https://archive.org/details/DienstbereitNazisFaschistenImAuftragDerCIAarteDokumentation",
+        "status": "free",
+        "title": "Nazis in the CIA",
+        "wdurl": "http://www.wikidata.org/entity/Q50449653",
+        "year": "2015"
     }
 }
