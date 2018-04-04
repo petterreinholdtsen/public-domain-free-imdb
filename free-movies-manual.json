@@ -1099,9 +1099,11 @@
     },
     "http://www.imdb.com/title/tt1825163/": {
         "archive" : "https://archive.org/details/PlannedObsolescenceDocumentary",
-	"archive2" : "https://archive.org/details/PretAJeterLobsolescenceProgrammee",
+        "archive2" : "https://archive.org/details/PretAJeterLobsolescenceProgrammee",
+        "nrk": "https://tv.nrk.no/program/KOID28001909/garantert-kort-levetid",
         "status": "non-free",
         "title": "The Light Bulb Conspiracy",
+        "title2": "Pyramids of Waste",
         "wdurl": "http://www.wikidata.org/entity/Q774474",
         "year": "2010"
     },
