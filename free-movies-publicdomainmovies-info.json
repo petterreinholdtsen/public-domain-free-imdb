@@ -747,6 +747,13 @@
         "wp": "https://en.wikipedia.org/wiki/Behind_Office_Doors",
         "year": 1931
     },
+    "http://www.imdb.com/title/tt0021890/": {
+        "freenessurl": "https://publicdomainmovies.info/the-front-page-1931-by-howard-hughes/",
+        "status": "free",
+        "title": "The Front Page, 1931 by Howard Hughes",
+        "wp": "https://en.wikipedia.org/wiki/The_Front_Page_(1931_film)",
+        "year": 1931
+    },
     "http://www.imdb.com/title/tt0022021/": {
         "freenessurl": "https://publicdomainmovies.info/kept-husbands-1931/",
         "status": "free",
@@ -1026,6 +1033,13 @@
         "title": "The Mandarin Mystery, 1936",
         "wp": "https://en.wikipedia.org/wiki/The_Mandarin_Mystery",
         "year": 1936
+    },
+    "http://www.imdb.com/title/tt0029322/": {
+        "freenessurl": "https://publicdomainmovies.info/nothing-sacred-1937-film/",
+        "status": "free",
+        "title": "Nothing Sacred, 1937 film",
+        "wp": "https://en.wikipedia.org/wiki/Nothing_Sacred_(film)",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0029606/": {
         "freenessurl": "https://publicdomainmovies.info/star-born-1937-full-movie/",
@@ -1608,6 +1622,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(1955_film)",
         "year": 1955
     },
+    "http://www.imdb.com/title/tt0047149/": {
+        "freenessurl": "https://publicdomainmovies.info/killers-from-space-1954/",
+        "status": "free",
+        "title": "Killers from Space, 1954",
+        "wp": "https://en.wikipedia.org/wiki/Killers_from_Space",
+        "year": 1954
+    },
     "http://www.imdb.com/title/tt0047162/": {
         "freenessurl": "https://publicdomainmovies.info/last-time-saw-paris-1954-starring-elizabeth-taylor-van-johnson/",
         "status": "free",
@@ -1811,6 +1832,13 @@
         "wp": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead",
         "year": 1968
     },
+    "http://www.imdb.com/title/tt0068713/": {
+        "freenessurl": "https://publicdomainmovies.info/horror-express-1972-starring-christopher-lee-peter-cushing-and-telly-savalas/",
+        "status": "free",
+        "title": "Horror Express, 1972 starring Christopher Lee, Peter Cushing, and Telly Savalas",
+        "wp": "https://en.wikipedia.org/wiki/Horror_Express",
+        "year": 1972
+    },
     "http://www.imdb.com/title/tt0086141/": {
         "freenessurl": "https://publicdomainmovies.info/prisoners-lost-universe-1983/",
         "status": "free",
@@ -1866,11 +1894,37 @@
         "wp": "https://en.wikipedia.org/wiki/My_Japan",
         "year": 1945
     },
+    "http://www.imdb.com/title/tt1772258/": {
+        "freenessurl": "https://publicdomainmovies.info/diary-of-a-sergeant-1945/",
+        "status": "free",
+        "title": "Diary of a Sergeant, 1945",
+        "wp": "https://en.wikipedia.org/wiki/Diary_of_a_Sergeant",
+        "year": 1945
+    },
+    "https://publicdomainmovies.info/all-the-kind-strangers-1974/": {
+        "freenessurl": "https://publicdomainmovies.info/all-the-kind-strangers-1974/",
+        "status": "free",
+        "title": "All the Kind Strangers, 1974",
+        "year": 1974
+    },
     "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/": {
         "freenessurl": "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/",
         "status": "free",
         "title": "China: The Roots of Madness, 1967 propaganda film",
         "wp": "https://en.wikipedia.org/wiki/China:_The_Roots_of_Madness",
         "year": 1967
+    },
+    "https://publicdomainmovies.info/game-of-pawns-2014/": {
+        "freenessurl": "https://publicdomainmovies.info/game-of-pawns-2014/",
+        "status": "free",
+        "title": "Game of Pawns, 2014",
+        "wp": "https://en.wikipedia.org/wiki/Glenn_Duffie_Shriver",
+        "year": 2014
+    },
+    "https://publicdomainmovies.info/the-lost-city-1935-serial-all-episodes/": {
+        "freenessurl": "https://publicdomainmovies.info/the-lost-city-1935-serial-all-episodes/",
+        "status": "free",
+        "title": "The Lost City, 1935 (serial) All episodes",
+        "year": 1935
     }
 }
