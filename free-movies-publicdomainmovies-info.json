@@ -264,6 +264,13 @@
         "wp": "https://en.wikipedia.org/wiki/Daddy-Long-Legs_(1919_film)",
         "year": 1919
     },
+    "http://www.imdb.com/title/tt0010859/": {
+        "freenessurl": "https://publicdomainmovies.info/a-tale-of-two-worlds-1921/",
+        "status": "free",
+        "title": "A Tale of Two Worlds, 1921",
+        "wp": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Worlds",
+        "year": 1921
+    },
     "http://www.imdb.com/title/tt0011130/": {
         "freenessurl": "https://publicdomainmovies.info/dr-jekyll-mr-hyde-1920-film/",
         "status": "free",
@@ -432,6 +439,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Whistle_(1921_film)",
         "year": 1921
     },
+    "http://www.imdb.com/title/tt0012917/": {
+        "freenessurl": "https://publicdomainmovies.info/back-pay-1922/",
+        "status": "free",
+        "title": "Back Pay, 1922",
+        "wp": "https://en.wikipedia.org/wiki/Back_Pay_(1922_film)",
+        "year": 1922
+    },
     "http://www.imdb.com/title/tt0012952/": {
         "freenessurl": "https://publicdomainmovies.info/blood-sand-1922-film-starring-rudolph-valentino/",
         "status": "free",
@@ -522,13 +536,6 @@
         "title": "Three Ages, 1923 starring comedian Buster Keaton",
         "wp": "https://en.wikipedia.org/wiki/Three_Ages",
         "year": 1923
-    },
-    "http://www.imdb.com/title/tt0014646/": {
-        "freenessurl": "https://publicdomainmovies.info/aelita-queen-mars-1924/",
-        "status": "free",
-        "title": "Aelita: Queen of Mars, 1924",
-        "wp": "https://en.wikipedia.org/wiki/Aelita",
-        "year": 1924
     },
     "http://www.imdb.com/title/tt0014702/": {
         "freenessurl": "https://publicdomainmovies.info/beau-brummel-1924/",
@@ -1083,6 +1090,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Terror_of_Tiny_Town",
         "year": 1938
     },
+    "http://www.imdb.com/title/tt0030910/": {
+        "freenessurl": "https://publicdomainmovies.info/under-western-stars-1938-western-starring-roy-rogers/",
+        "status": "free",
+        "title": "Under Western Stars, 1938 western starring Roy Rogers",
+        "wp": "https://en.wikipedia.org/wiki/Under_Western_Stars",
+        "year": 1938
+    },
     "http://www.imdb.com/title/tt0031322/": {
         "freenessurl": "https://publicdomainmovies.info/flying-deuces-1939-comedy-film-starring-laurel-hardy/",
         "status": "free",
@@ -1251,6 +1265,20 @@
         "wp": "https://en.wikipedia.org/wiki/Combat_America",
         "year": 1943
     },
+    "http://www.imdb.com/title/tt0035790/": {
+        "freenessurl": "https://publicdomainmovies.info/december-7th-the-movie-1943-directed-by-john-ford/",
+        "status": "free",
+        "title": "December 7th: The Movie, 1943 directed by John Ford",
+        "wp": "https://en.wikipedia.org/wiki/December_7th:_The_Movie",
+        "year": 1943
+    },
+    "http://www.imdb.com/title/tt0036163/": {
+        "freenessurl": "https://publicdomainmovies.info/miss-london-ltd-1943-musical/",
+        "status": "free",
+        "title": "Miss London Ltd., 1943 musical",
+        "wp": "https://en.wikipedia.org/wiki/Miss_London_Ltd.",
+        "year": 1943
+    },
     "http://www.imdb.com/title/tt0036241/": {
         "freenessurl": "https://publicdomainmovies.info/outlaw-1943-directed-howard-hughes-starring-jane-russell/",
         "status": "free",
@@ -1391,6 +1419,13 @@
         "wp": "https://en.wikipedia.org/wiki/Dressed_to_Kill_(1946_film)",
         "year": 1946
     },
+    "http://www.imdb.com/title/tt0038687/": {
+        "freenessurl": "https://publicdomainmovies.info/let-there-be-light-1946-directed-by-john-huston/",
+        "status": "free",
+        "title": "Let There Be Light, 1946 directed by John Huston",
+        "wp": "https://en.wikipedia.org/wiki/Let_There_Be_Light_(1946_film)",
+        "year": 1946
+    },
     "http://www.imdb.com/title/tt0038991/": {
         "freenessurl": "https://publicdomainmovies.info/stranger-1946-orson-wells-directs-edward-g-robinson/",
         "status": "free",
@@ -1445,6 +1480,13 @@
         "status": "free",
         "title": "Hi-De-Ho (1947 musical)",
         "wp": "https://en.wikipedia.org/wiki/Hi-De-Ho_(1947_film)",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039503/": {
+        "freenessurl": "https://publicdomainmovies.info/its-a-joke-son-1947/",
+        "status": "free",
+        "title": "It\u2019s a Joke, Son!, 1947",
+        "wp": "https://en.wikipedia.org/wiki/It%27s_a_Joke,_Son!",
         "year": 1947
     },
     "http://www.imdb.com/title/tt0039912/": {
@@ -1517,6 +1559,13 @@
         "wp": "https://en.wikipedia.org/wiki/She_Shoulda_Said_No!",
         "year": 1949
     },
+    "http://www.imdb.com/title/tt0042209/": {
+        "freenessurl": "https://publicdomainmovies.info/at-war-with-the-army-1950-with-dean-martin-and-jerry-lewis/",
+        "status": "free",
+        "title": "At War with the Army, 1950 with Dean Martin and Jerry Lewis",
+        "wp": "https://en.wikipedia.org/wiki/At_War_with_the_Army",
+        "year": 1950
+    },
     "http://www.imdb.com/title/tt0042367/": {
         "freenessurl": "https://publicdomainmovies.info/cyrano-de-bergerac-1950/",
         "status": "free",
@@ -1564,6 +1613,13 @@
         "status": "free",
         "title": "The Big Trees, 1952 Western film starring Kirk Douglas",
         "wp": "https://en.wikipedia.org/wiki/The_Big_Trees",
+        "year": 1952
+    },
+    "http://www.imdb.com/title/tt0044762/": {
+        "freenessurl": "https://publicdomainmovies.info/jack-and-the-beanstalk-1952-film-with-abbott-and-costello/",
+        "status": "free",
+        "title": "Jack and the Beanstalk, 1952 film with Abbott and Costello",
+        "wp": "https://en.wikipedia.org/wiki/Jack_and_the_Beanstalk_(1952_film)",
         "year": 1952
     },
     "http://www.imdb.com/title/tt0045064/": {
@@ -1636,6 +1692,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Last_Time_I_Saw_Paris",
         "year": 1954
     },
+    "http://www.imdb.com/title/tt0047542/": {
+        "freenessurl": "https://publicdomainmovies.info/suddenly-1954-film-noir-starring-frank-sinatra/",
+        "status": "free",
+        "title": "Suddenly, 1954 film noir starring Frank Sinatra",
+        "wp": "https://en.wikipedia.org/wiki/Suddenly_(1954_film)",
+        "year": 1954
+    },
     "http://www.imdb.com/title/tt0047898/": {
         "freenessurl": "https://publicdomainmovies.info/ed-woods-bride-monster-1955-starring-bela-lugosi/",
         "status": "free",
@@ -1648,6 +1711,13 @@
         "status": "free",
         "title": "Daughter of Horror, 1955",
         "wp": "https://en.wikipedia.org/wiki/Dementia_(1955_film)",
+        "year": 1955
+    },
+    "http://www.imdb.com/title/tt0048347/": {
+        "freenessurl": "https://publicdomainmovies.info/the-man-with-the-golden-arm-1955-directed-by-otto-preminger-and-starring-frank-sinatra-and-kim-novak/",
+        "status": "free",
+        "title": "The Man with the Golden Arm, 1955 directed by Otto Preminger and starring Frank Sinatra and Kim Novak",
+        "wp": "https://en.wikipedia.org/wiki/The_Man_with_the_Golden_Arm",
         "year": 1955
     },
     "http://www.imdb.com/title/tt0049363/": {
@@ -1706,6 +1776,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
         "year": 1962
     },
+    "http://www.imdb.com/title/tt0052862/": {
+        "freenessurl": "https://publicdomainmovies.info/the-great-st-louis-bank-robbery-1959-starring-steve-mcqueen/",
+        "status": "free",
+        "title": "The Great St. Louis Bank Robbery, 1959 starring Steve McQueen",
+        "wp": "https://en.wikipedia.org/wiki/The_Great_St._Louis_Bank_Robbery",
+        "year": 1959
+    },
     "http://www.imdb.com/title/tt0053337/": {
         "freenessurl": "https://publicdomainmovies.info/teenagers-outer-space/",
         "status": "free",
@@ -1719,6 +1796,13 @@
         "title": "The Attack of the Giant Leeches \u2013 Full Movie in the Public Domain",
         "wp": "https://en.wikipedia.org/wiki/Attack_of_the_Giant_Leeches",
         "year": 1959
+    },
+    "http://www.imdb.com/title/tt0053719/": {
+        "freenessurl": "https://publicdomainmovies.info/the-city-of-the-dead-1960-film-starring-christopher-lee/",
+        "status": "free",
+        "title": "The City of the Dead, 1960 film starring Christopher Lee",
+        "wp": "https://en.wikipedia.org/wiki/The_City_of_the_Dead_(film)",
+        "year": 1960
     },
     "http://www.imdb.com/title/tt0054017/": {
         "freenessurl": "https://publicdomainmovies.info/last-woman-earth-1960/",
@@ -1783,6 +1867,13 @@
         "wp": "https://en.wikipedia.org/wiki/Dementia_13",
         "year": 1963
     },
+    "http://www.imdb.com/title/tt0057298/": {
+        "freenessurl": "https://publicdomainmovies.info/mclintock-1963-starring-john-wayne-and-maureen-ohara/",
+        "status": "free",
+        "title": "McLintock!, 1963 starring John Wayne and Maureen O\u2019Hara",
+        "wp": "https://en.wikipedia.org/wiki/McLintock!",
+        "year": 1963
+    },
     "http://www.imdb.com/title/tt0057465/": {
         "freenessurl": "https://publicdomainmovies.info/the-sadist-1963-film/",
         "status": "free",
@@ -1825,6 +1916,20 @@
         "wp": "https://en.wikipedia.org/wiki/Voyage_to_the_Prehistoric_Planet",
         "year": 1965
     },
+    "http://www.imdb.com/title/tt0060536/": {
+        "freenessurl": "https://publicdomainmovies.info/in-the-year-2889-1967/",
+        "status": "free",
+        "title": "In the Year 2889, 1967",
+        "wp": "https://en.wikipedia.org/wiki/In_the_Year_2889_(film)",
+        "year": 1967
+    },
+    "http://www.imdb.com/title/tt0061592/": {
+        "freenessurl": "https://publicdomainmovies.info/doomsday-machine-1972-film/",
+        "status": "free",
+        "title": "Doomsday Machine, 1972 film",
+        "wp": "https://en.wikipedia.org/wiki/Doomsday_Machine_(film)",
+        "year": 1972
+    },
     "http://www.imdb.com/title/tt0063350/": {
         "freenessurl": "https://publicdomainmovies.info/night-of-the-living-dead-1968/",
         "status": "free",
@@ -1838,6 +1943,13 @@
         "title": "Horror Express, 1972 starring Christopher Lee, Peter Cushing, and Telly Savalas",
         "wp": "https://en.wikipedia.org/wiki/Horror_Express",
         "year": 1972
+    },
+    "http://www.imdb.com/title/tt0077640/": {
+        "freenessurl": "https://publicdomainmovies.info/war-of-the-robots-1978-film/",
+        "status": "free",
+        "title": "War of the Robots, 1978 film",
+        "wp": "https://en.wikipedia.org/wiki/War_of_the_Robots_(film)",
+        "year": 1978
     },
     "http://www.imdb.com/title/tt0086141/": {
         "freenessurl": "https://publicdomainmovies.info/prisoners-lost-universe-1983/",
@@ -1873,12 +1985,26 @@
         "wp": "https://en.wikipedia.org/wiki/Attack!_The_Battle_of_New_Britain",
         "year": 1944
     },
+    "http://www.imdb.com/title/tt0193850/": {
+        "freenessurl": "https://publicdomainmovies.info/the-cry-of-jazz-1959/",
+        "status": "free",
+        "title": "The Cry of Jazz, 1959",
+        "wp": "https://en.wikipedia.org/wiki/The_Cry_of_Jazz",
+        "year": 1959
+    },
     "http://www.imdb.com/title/tt0246747/": {
         "freenessurl": "https://publicdomainmovies.info/last-clear-chance-1959/",
         "status": "free",
         "title": "Last Clear Chance (1959)",
         "wp": "https://en.wikipedia.org/wiki/Last_Clear_Chance",
         "year": 1959
+    },
+    "http://www.imdb.com/title/tt0274560/": {
+        "freenessurl": "https://publicdomainmovies.info/undercover-how-to-operate-behind-enemy-lines-1943-directed-by-john-ford/",
+        "status": "free",
+        "title": "Undercover: How to Operate Behind Enemy Lines, 1943 directed by John Ford",
+        "wp": "https://en.wikipedia.org/wiki/Undercover_(OSS_training_film)",
+        "year": 1943
     },
     "http://www.imdb.com/title/tt0757564/": {
         "freenessurl": "https://publicdomainmovies.info/manos-hands-fate-1966/",
@@ -1920,6 +2046,13 @@
         "title": "Game of Pawns, 2014",
         "wp": "https://en.wikipedia.org/wiki/Glenn_Duffie_Shriver",
         "year": 2014
+    },
+    "https://publicdomainmovies.info/obedience-1965-documentary/": {
+        "freenessurl": "https://publicdomainmovies.info/obedience-1965-documentary/",
+        "status": "free",
+        "title": "Obedience, 1965 documentary",
+        "wp": "https://en.wikipedia.org/wiki/Milgram_experiment",
+        "year": 1965
     },
     "https://publicdomainmovies.info/the-lost-city-1935-serial-all-episodes/": {
         "freenessurl": "https://publicdomainmovies.info/the-lost-city-1935-serial-all-episodes/",
