@@ -1671,6 +1671,13 @@
         "wp": "https://en.wikipedia.org/wiki/Carnival_Story",
         "year": 1954
     },
+    "http://www.imdb.com/title/tt0046414/": {
+        "freenessurl": "https://publicdomainmovies.info/beat-the-devil-1953-directed-by-john-huston-and-starred-humphrey-bogart-and-gina-lollobrigida/",
+        "status": "free",
+        "title": "Beat the Devil, 1953 directed by John Huston, and starred Humphrey Bogart and Gina Lollobrigida",
+        "wp": "https://en.wikipedia.org/wiki/Beat_the_Devil_(film)",
+        "year": 1953
+    },
     "http://www.imdb.com/title/tt0046969/": {
         "freenessurl": "https://publicdomainmovies.info/fast-furious-1955-film-john-ireland-dorothy-malone/",
         "status": "free",
@@ -1923,6 +1930,13 @@
         "wp": "https://en.wikipedia.org/wiki/In_the_Year_2889_(film)",
         "year": 1967
     },
+    "http://www.imdb.com/title/tt0061217/": {
+        "freenessurl": "https://publicdomainmovies.info/zontar-the-thing-from-venus-1966/",
+        "status": "free",
+        "title": "Zontar, the Thing from Venus, 1966",
+        "wp": "https://en.wikipedia.org/wiki/Zontar,_the_Thing_from_Venus",
+        "year": 1966
+    },
     "http://www.imdb.com/title/tt0061592/": {
         "freenessurl": "https://publicdomainmovies.info/doomsday-machine-1972-film/",
         "status": "free",
@@ -2027,13 +2041,13 @@
         "wp": "https://en.wikipedia.org/wiki/Diary_of_a_Sergeant",
         "year": 1945
     },
-    "https://publicdomainmovies.info/all-the-kind-strangers-1974/": {
+    "https://www.imdb.com/title/tt0071120/": {
         "freenessurl": "https://publicdomainmovies.info/all-the-kind-strangers-1974/",
         "status": "free",
         "title": "All the Kind Strangers, 1974",
         "year": 1974
     },
-    "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/": {
+    "https://www.imdb.com/title/tt0202295/": {
         "freenessurl": "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/",
         "status": "free",
         "title": "China: The Roots of Madness, 1967 propaganda film",
@@ -2053,6 +2067,13 @@
         "title": "Obedience, 1965 documentary",
         "wp": "https://en.wikipedia.org/wiki/Milgram_experiment",
         "year": 1965
+    },
+    "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/": {
+        "freenessurl": "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/",
+        "status": "free",
+        "title": "The Eagle Has Landed \u2013 The Flight of Apollo 11, 1969",
+        "wp": "https://en.wikipedia.org/wiki/Apollo_11#Landing",
+        "year": 1969
     },
     "https://publicdomainmovies.info/the-lost-city-1935-serial-all-episodes/": {
         "freenessurl": "https://publicdomainmovies.info/the-lost-city-1935-serial-all-episodes/",
