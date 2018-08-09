@@ -775,6 +775,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q767366",
         "year": "1915"
     },
+    "http://www.imdb.com/title/tt0005812/": {
+        "freenessurl": "https://archive.org/details/ANightintheShow",
+        "status": "free",
+        "title": "A Night in the Show",
+        "wdurl": "http://www.wikidata.org/entity/Q976849",
+        "year": "1915"
+    },
     "http://www.imdb.com/title/tt0005910/": {
         "freenessurl": "https://archive.org/details/pool_sharks",
         "status": "free",
@@ -1895,6 +1902,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q690583",
         "year": "1924"
     },
+    "http://www.imdb.com/title/tt0015900/": {
+        "freenessurl": "https://archive.org/details/HeadWinds",
+        "status": "free",
+        "title": "Head Winds",
+        "wdurl": "http://www.wikidata.org/entity/Q48671899",
+        "year": "1925"
+    },
     "http://www.imdb.com/title/tt0016004/": {
         "freenessurl": "https://archive.org/details/LadyWindermeresFan",
         "status": "free",
@@ -2020,6 +2034,11 @@
         "title": "The Cat and the Canary",
         "wdurl": "http://www.wikidata.org/entity/Q2336169",
         "year": "1927"
+    },
+    "http://www.imdb.com/title/tt0017744/": {
+        "freenessurl": "https://archive.org/details/CharlestonParade",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q3505118"
     },
     "http://www.imdb.com/title/tt0017765/": {
         "freenessurl": "https://archive.org/details/college",
@@ -2859,6 +2878,13 @@
         "status": "free",
         "title": "The Greeks Had a Word for Them",
         "wdurl": "http://www.wikidata.org/entity/Q3987405",
+        "year": "1932"
+    },
+    "http://www.imdb.com/title/tt0022984/": {
+        "freenessurl": "https://archive.org/details/1932HeartsOfHumanity",
+        "status": "free",
+        "title": "Hearts of Humanity (1932 film)",
+        "wdurl": "http://www.wikidata.org/entity/Q4003305",
         "year": "1932"
     },
     "http://www.imdb.com/title/tt0022988/": {
@@ -15128,6 +15154,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q4159351",
         "year": "1934"
     },
+    "http://www.imdb.com/title/tt0222763/": {
+        "freenessurl": "https://archive.org/details/youtube-Y5PYFagaOlQ",
+        "status": "free",
+        "title": "L'Auberge du Bon Repos",
+        "wdurl": "http://www.wikidata.org/entity/Q3006411",
+        "year": "1903"
+    },
     "http://www.imdb.com/title/tt0222946/": {
         "freenessurl": "https://archive.org/details/LeCauchemar",
         "status": "free",
@@ -15167,6 +15200,20 @@
         "title": "The Temptation of Saint Anthony",
         "wdurl": "http://www.wikidata.org/entity/Q731963",
         "year": "1898"
+    },
+    "http://www.imdb.com/title/tt0226375/": {
+        "freenessurl": "https://archive.org/details/youtube-6ySbfTqfLl0",
+        "status": "free",
+        "title": "A Fantastic Meal",
+        "wdurl": "http://www.wikidata.org/entity/Q3226354",
+        "year": "1900"
+    },
+    "http://www.imdb.com/title/tt0227420/": {
+        "freenessurl": "https://archive.org/details/youtube-6b2v9rRfPSw",
+        "status": "free",
+        "title": "Le r\u00eave du radjah ou La for\u00eat enchant\u00e9e",
+        "wdurl": "http://www.wikidata.org/entity/Q3226817",
+        "year": "1900"
     },
     "http://www.imdb.com/title/tt0227608/": {
         "freenessurl": "https://archive.org/details/plunderofpeachandplum",
@@ -16138,5 +16185,12 @@
         "title": "Nazis in the CIA",
         "wdurl": "http://www.wikidata.org/entity/Q50449653",
         "year": "2015"
+    },
+    "http://www.imdb.com/title/tt8594004/": {
+        "freenessurl": "https://archive.org/details/QaffStudioMadhOne",
+        "status": "free",
+        "title": "Qaff Studio Madh One",
+        "wdurl": "http://www.wikidata.org/entity/Q55122109",
+        "year": "2018"
     }
 }
