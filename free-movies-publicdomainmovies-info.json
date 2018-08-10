@@ -2006,6 +2006,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Cry_of_Jazz",
         "year": 1959
     },
+    "http://www.imdb.com/title/tt0202295/": {
+        "freenessurl": "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/",
+        "status": "free",
+        "title": "China: The Roots of Madness, 1967 propaganda film",
+        "wp": "https://en.wikipedia.org/wiki/China:_The_Roots_of_Madness",
+        "year": 1967
+    },
     "http://www.imdb.com/title/tt0246747/": {
         "freenessurl": "https://publicdomainmovies.info/last-clear-chance-1959/",
         "status": "free",
@@ -2041,32 +2048,25 @@
         "wp": "https://en.wikipedia.org/wiki/Diary_of_a_Sergeant",
         "year": 1945
     },
-    "https://www.imdb.com/title/tt0071120/": {
-        "freenessurl": "https://publicdomainmovies.info/all-the-kind-strangers-1974/",
+    "http://www.imdb.com/title/tt2872270/": {
+        "freenessurl": "https://publicdomainmovies.info/obedience-1965-documentary/",
         "status": "free",
-        "title": "All the Kind Strangers, 1974",
-        "year": 1974
+        "title": "Obedience, 1965 documentary",
+        "wp": "https://en.wikipedia.org/wiki/Milgram_experiment",
+        "year": 1965
     },
-    "https://www.imdb.com/title/tt0202295/": {
-        "freenessurl": "https://publicdomainmovies.info/china-the-roots-of-madness-1967-propaganda-film/",
-        "status": "free",
-        "title": "China: The Roots of Madness, 1967 propaganda film",
-        "wp": "https://en.wikipedia.org/wiki/China:_The_Roots_of_Madness",
-        "year": 1967
-    },
-    "https://publicdomainmovies.info/game-of-pawns-2014/": {
+    "http://www.imdb.com/title/tt3744970/": {
         "freenessurl": "https://publicdomainmovies.info/game-of-pawns-2014/",
         "status": "free",
         "title": "Game of Pawns, 2014",
         "wp": "https://en.wikipedia.org/wiki/Glenn_Duffie_Shriver",
         "year": 2014
     },
-    "https://publicdomainmovies.info/obedience-1965-documentary/": {
-        "freenessurl": "https://publicdomainmovies.info/obedience-1965-documentary/",
+    "https://www.imdb.com/title/tt0071120/": {
+        "freenessurl": "https://publicdomainmovies.info/all-the-kind-strangers-1974/",
         "status": "free",
-        "title": "Obedience, 1965 documentary",
-        "wp": "https://en.wikipedia.org/wiki/Milgram_experiment",
-        "year": 1965
+        "title": "All the Kind Strangers, 1974",
+        "year": 1974
     },
     "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/": {
         "freenessurl": "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/",
