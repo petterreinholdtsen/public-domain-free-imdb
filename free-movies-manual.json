@@ -386,6 +386,15 @@
         "title": "Betty Boop's Hallowe'en Party",
         "year": "1933"
     },
+    "http://www.imdb.com/title/tt0024578/": {
+        "freenessurl": "https://archive.org/details/bb_snow_white",
+        "archive" : "https://archive.org/details/BettyBoopInSnowWhite",
+        "also": "http://publicdomainmovie.net/movie/betty-boop-in-snow-white",
+        "also2": "http://publicdomainmovie.net/movie/snow-white-with-betty-boop-1933",
+        "status": "free",
+        "title": "Betty Boop: Snow White",
+        "year": "1933"
+    },
     "http://www.imdb.com/title/tt0024054/": {
 	"status" : "free",
 	"freenessurl" :"https://archive.org/details/TheGhostCamera1933",
