@@ -258,6 +258,13 @@
 	"title" : "The Hayseed",
 	"year": 1919
     },
+    "https://www.imdb.com/title/tt0010600/": {
+	"status" : "free",
+	"freenessurl" : "https://archive.org/details/DiePuppe1919",
+	"wp" : "https://en.wikipedia.org/wiki/The_Doll_(1919_film)",
+	"title" : "Die Puppe",
+	"year": 1919
+    },
     "http://www.imdb.com/title/tt0010930/": {
 	"status" : "free",
 	"freenessurl" : "https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States",
