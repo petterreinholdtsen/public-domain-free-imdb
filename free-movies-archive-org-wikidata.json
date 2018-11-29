@@ -929,6 +929,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q1195688",
         "year": "1916"
     },
+    "http://www.imdb.com/title/tt0007338/": {
+        "freenessurl": "https://archive.org/details/SherlockHolmes1916",
+        "status": "free",
+        "title": "Sherlock Holmes",
+        "wdurl": "http://www.wikidata.org/entity/Q3077445",
+        "year": "1916"
+    },
     "http://www.imdb.com/title/tt0007476/": {
         "freenessurl": "https://archive.org/details/CC_1918_xx_xx_TripleTrouble",
         "status": "free",
@@ -1789,6 +1796,11 @@
         "title": "A Few Moments with Eddie Cantor",
         "wdurl": "http://www.wikidata.org/entity/Q4656716",
         "year": "1923"
+    },
+    "http://www.imdb.com/title/tt0014992/": {
+        "freenessurl": "https://archive.org/details/HisNewMamma",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q58643727"
     },
     "http://www.imdb.com/title/tt0015064/": {
         "freenessurl": "https://archive.org/details/Der_letzte_Mann",
@@ -12869,6 +12881,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q530507",
         "year": "1963"
     },
+    "http://www.imdb.com/title/tt0057428/": {
+        "freenessurl": "https://archive.org/details/PromisesPromises_201403",
+        "status": "free",
+        "title": "Promises! Promises!",
+        "wdurl": "http://www.wikidata.org/entity/Q7249804",
+        "year": "1963"
+    },
     "http://www.imdb.com/title/tt0057465/": {
         "freenessurl": "https://archive.org/details/The_Sadist",
         "status": "free",
@@ -15797,6 +15816,13 @@
         "status": "free",
         "title": "The Red Detachment of Women",
         "wdurl": "http://www.wikidata.org/entity/Q7759857",
+        "year": "1970"
+    },
+    "http://www.imdb.com/title/tt0417125/": {
+        "freenessurl": "https://archive.org/details/ShakeHan1970",
+        "status": "free",
+        "title": "Shake Hands with Danger",
+        "wdurl": "http://www.wikidata.org/entity/Q30011489",
         "year": "1970"
     },
     "http://www.imdb.com/title/tt0417274/": {
