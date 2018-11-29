@@ -51,6 +51,13 @@
         "wp": "https://wiki.creativecommons.org/wiki/Route_66_-_An_American_(bad)_Dream",
         "year": "2004"
     },
+    "http://www.imdb.com/title/tt0422621/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "title": "Lavorare con lentezza",
+        "wp": "https://en.wikipedia.org/wiki/Lavorare_con_lentezza",
+        "year": "2004"
+    },
     "http://www.imdb.com/title/tt0428288/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
@@ -186,11 +193,18 @@
         "wp": "https://wiki.creativecommons.org/wiki/Deadlock"
     },
     "http://www.imdb.com/title/tt1397511/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "title": "RiP!: A Remix Manifesto",
         "wp": "https://en.wikipedia.org/wiki/RiP!:_A_Remix_Manifesto",
         "year": "2008"
+    },
+    "http://www.imdb.com/title/tt1422758/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "title": "Steal This Film 2",
+        "wp": "https://en.wikipedia.org/wiki/Steal_This_Film",
+        "year": "2007"
     },
     "http://www.imdb.com/title/tt1430076/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -301,10 +315,6 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/Pioneer_One"
     },
-    "http://www.imdb.com/title/tt1753743/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
-    },
     "http://www.imdb.com/title/tt1754436/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
         "status": "free"
@@ -341,10 +351,6 @@
         "wp": "https://en.wikipedia.org/wiki/Dans_le_silence,_je_sens_rouler_la_terre",
         "year": "2010"
     },
-    "http://www.imdb.com/title/tt1830585/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
-    },
     "http://www.imdb.com/title/tt1833859/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
@@ -358,10 +364,6 @@
         "title": "Debtocracy",
         "wp": "https://en.wikipedia.org/wiki/Debtocracy",
         "year": "2011"
-    },
-    "http://www.imdb.com/title/tt1941569/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
-        "status": "free"
     },
     "http://www.imdb.com/title/tt1941610/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -534,6 +536,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)",
         "year": "2004"
     },
+    "http://www.imdb.com/title/tt8328612/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
+        "status": "free",
+        "title": "Seder-Masochism",
+        "wp": "https://en.wikipedia.org/wiki/Seder-Masochism",
+        "year": "2018"
+    },
     "https://en.wikipedia.org/wiki/A_Swarm_of_Angels": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -655,6 +664,13 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/VODO"
+    },
+    "https://en.wikipedia.org/wiki/Yes,_we_fuck!": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "title": "Yes, we fuck!",
+        "wp": "https://en.wikipedia.org/wiki/Yes,_we_fuck!",
+        "year": "2015"
     },
     "https://wiki.creativecommons.org/wiki/A_Greater_Purpose": {
         "freenessurl": "https://wiki.creativecommons.org/wiki/Category:Film",
