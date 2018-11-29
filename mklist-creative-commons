@@ -20,6 +20,7 @@ def fetch_wikipedia_list(list, url):
         return None
     for a in root.cssselect("a[href]"):
         entryurl = a.attrib['href']
+        entryurl = entryurl.replace('https://', 'http://')
         # Only pick imdb.com links
         if -1 != entryurl.find('imdb.com/title/'):
             print entryurl
