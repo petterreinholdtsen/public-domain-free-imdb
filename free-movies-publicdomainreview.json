@@ -1,424 +1,14 @@
 {
-    "http://publicdomainreview.org/collections/a-tour-of-the-titanic-1912/": {
-        "archive": "https://archive.org/details/RareTitanicFilm",
-        "freenessurl": "http://publicdomainreview.org/collections/a-tour-of-the-titanic-1912/",
-        "status": "free",
-        "title": "An Apparent Tour of the Titanic",
-        "year": 1912
-    },
-    "http://publicdomainreview.org/collections/a-wake-in-hells-kitchen-1903/": {
-        "freenessurl": "http://publicdomainreview.org/collections/a-wake-in-hells-kitchen-1903/",
-        "status": "free",
-        "title": "A Wake in Hell\u2019s Kitchen",
-        "year": 1903
-    },
-    "http://publicdomainreview.org/collections/alice-in-wonderland-1915/": {
-        "archive": "https://www.archive.org/details/AliceInWonderland1915_503",
-        "freenessurl": "http://publicdomainreview.org/collections/alice-in-wonderland-1915/",
-        "status": "free",
-        "title": "Alice in Wonderland",
-        "year": 1915
-    },
-    "http://publicdomainreview.org/collections/american-day-in-tripoli-libya-1962/": {
-        "archive": "https://archive.org/details/gov.archives.arc.37715",
-        "freenessurl": "http://publicdomainreview.org/collections/american-day-in-tripoli-libya-1962/",
-        "status": "free",
-        "title": "American Day in Tripoli, Libya",
-        "year": 1962
-    },
-    "http://publicdomainreview.org/collections/are-you-popular-1947/": {
-        "archive": "https://archive.org/details/AreYouPo1947",
-        "freenessurl": "http://publicdomainreview.org/collections/are-you-popular-1947/",
-        "status": "free",
-        "title": "Are You Popular?",
-        "year": 1947
-    },
-    "http://publicdomainreview.org/collections/betty-boop-minnie-the-moocher-1932/": {
-        "archive": "https://www.archive.org/details/bb_minnie_the_moocher",
-        "freenessurl": "http://publicdomainreview.org/collections/betty-boop-minnie-the-moocher-1932/",
-        "status": "free",
-        "title": "Betty Boop: Minnie The Moocher",
-        "year": 1932
-    },
-    "http://publicdomainreview.org/collections/clay-animations-of-jospeh-sunn-1926/": {
-        "archive": "https://archive.org/details/prelinger",
-        "freenessurl": "http://publicdomainreview.org/collections/clay-animations-of-jospeh-sunn-1926/",
-        "status": "free",
-        "title": "Clay animations of Jospeh Sunn",
-        "year": 1926
-    },
-    "http://publicdomainreview.org/collections/development-of-a-salamander-1920s/": {
-        "archive": "https://archive.org/details/prelinger",
-        "freenessurl": "http://publicdomainreview.org/collections/development-of-a-salamander-1920s/",
-        "status": "free",
-        "title": "Development of a Salamander (1920s)"
-    },
-    "http://publicdomainreview.org/collections/dutch-fashion-reel-1969/": {
-        "freenessurl": "http://publicdomainreview.org/collections/dutch-fashion-reel-1969/",
-        "status": "free",
-        "title": "Dutch Fashion Reel",
-        "year": 1969
-    },
-    "http://publicdomainreview.org/collections/emile-cohls-fantasmagorie-1908/": {
-        "archive": "https://archive.org/details/Fantasmagori",
-        "freenessurl": "http://publicdomainreview.org/collections/emile-cohls-fantasmagorie-1908/",
-        "status": "free",
-        "title": "\u00c9mile Cohl\u2019s Fantasmagorie",
-        "year": 1908
-    },
-    "http://publicdomainreview.org/collections/farmer-plays-a-song-with-hand-farts-1933/": {
-        "archive": "https://archive.org/details/1933-10-11_Farmer_Plays_Tune_With_Hands",
-        "freenessurl": "http://publicdomainreview.org/collections/farmer-plays-a-song-with-hand-farts-1933/",
-        "status": "free",
-        "title": "Farmer plays a song with \u2018hand-farts\u2019",
-        "year": 1933
-    },
-    "http://publicdomainreview.org/collections/fashion-parade-amongst-the-ruins-of-rome-1964/": {
-        "archive": "https://archive.org/details/1964-10-26_Fashions",
-        "freenessurl": "http://publicdomainreview.org/collections/fashion-parade-amongst-the-ruins-of-rome-1964/",
-        "status": "free",
-        "title": "Fashion Parade amongst the Ruins of Rome",
-        "year": 1964
-    },
-    "http://publicdomainreview.org/collections/first-film-footage-from-space-1963/": {
-        "archive": "https://archive.org/details/1963-11-14_Space_Movie",
-        "freenessurl": "http://publicdomainreview.org/collections/first-film-footage-from-space-1963/",
-        "status": "free",
-        "title": "Early Footage From Space",
-        "year": 1963
-    },
-    "http://publicdomainreview.org/collections/first-year-anniversary-of-the-berlin-wall-1962/": {
-        "archive": "https://archive.org/details/1962-08-16_The_Wall",
-        "freenessurl": "http://publicdomainreview.org/collections/first-year-anniversary-of-the-berlin-wall-1962/",
-        "status": "free",
-        "title": "First Year Anniversary of the Berlin Wall",
-        "year": 1962
-    },
-    "http://publicdomainreview.org/collections/footage-of-the-twin-towers-being-built-1976/": {
-        "archive": "https://archive.org/details/world_trade_center",
-        "freenessurl": "http://publicdomainreview.org/collections/footage-of-the-twin-towers-being-built-1976/",
-        "status": "free",
-        "title": "Footage of the Twin Towers Being Built",
-        "year": 1976
-    },
-    "http://publicdomainreview.org/collections/frankenstein-1910/": {
-        "archive": "https://archive.org/details/Frankenstein1910",
-        "freenessurl": "http://publicdomainreview.org/collections/frankenstein-1910/",
-        "status": "free",
-        "title": "Frankenstein",
-        "year": 1910
-    },
-    "http://publicdomainreview.org/collections/growing-things-a-film-lesson-in-nature-study-1928/": {
-        "archive": "https://archive.org/details/6109_Growing_Things_A_Film_Lesson_in_Nature_Study_01_00_43_01",
-        "freenessurl": "http://publicdomainreview.org/collections/growing-things-a-film-lesson-in-nature-study-1928/",
-        "status": "free",
-        "title": "Growing Things: A Film Lesson in \u201cNature Study\u201d",
-        "year": 1928
-    },
-    "http://publicdomainreview.org/collections/gullivers-travels-1939/": {
-        "archive": "https://www.archive.org/details/GulliversTravels720p",
-        "freenessurl": "http://publicdomainreview.org/collections/gullivers-travels-1939/",
-        "status": "free",
-        "title": "Gulliver\u2019s Travels",
-        "year": 1939
-    },
-    "http://publicdomainreview.org/collections/hands-1944/": {
-        "archive": "https://archive.org/details/Hands1944",
-        "freenessurl": "http://publicdomainreview.org/collections/hands-1944/",
-        "status": "free",
-        "title": "Hands",
-        "year": 1944
-    },
-    "http://publicdomainreview.org/collections/horse-drawn-fire-engines-1896/": {
-        "freenessurl": "http://publicdomainreview.org/collections/horse-drawn-fire-engines-1896/",
-        "status": "free",
-        "title": "Horse Drawn Fire Engines",
-        "year": 1896
-    },
-    "http://publicdomainreview.org/collections/intolerance-1916/": {
-        "archive": "https://www.archive.org/details/Intolerance",
-        "freenessurl": "http://publicdomainreview.org/collections/intolerance-1916/",
-        "status": "free",
-        "title": "Intolerance",
-        "year": 1916
-    },
-    "http://publicdomainreview.org/collections/jack-and-the-beanstalk-1902/": {
-        "freenessurl": "http://publicdomainreview.org/collections/jack-and-the-beanstalk-1902/",
-        "status": "free",
-        "title": "Jack and the Beanstalk",
-        "year": 1902
-    },
-    "http://publicdomainreview.org/collections/lambeth-walk-nazi-style-1942/": {
-        "archive": "https://archive.org/details/1942-01-07_Gen_Adolph_Takes_Over",
-        "freenessurl": "http://publicdomainreview.org/collections/lambeth-walk-nazi-style-1942/",
-        "status": "free",
-        "title": "Lambeth Walk \u2013 Nazi Style",
-        "year": 1942
-    },
-    "http://publicdomainreview.org/collections/little-tich-and-his-big-boot-dance-1900/": {
-        "freenessurl": "http://publicdomainreview.org/collections/little-tich-and-his-big-boot-dance-1900/",
-        "status": "free",
-        "title": "Little Tich and his Big Boot Dance",
-        "year": 1900
-    },
-    "http://publicdomainreview.org/collections/live-footage-of-king-alexanders-assassination-1934/": {
-        "archive": "https://archive.org/details/1934-10-17_King_Alexander_Assassination",
-        "freenessurl": "http://publicdomainreview.org/collections/live-footage-of-king-alexanders-assassination-1934/",
-        "status": "free",
-        "title": "Live footage of King Alexander\u2019s Assassination",
-        "year": 1934
-    },
-    "http://publicdomainreview.org/collections/new-york-worlds-fair-1939-40/": {
-        "archive": "https://archive.org/details/prelinger",
-        "freenessurl": "http://publicdomainreview.org/collections/new-york-worlds-fair-1939-40/",
-        "status": "free",
-        "title": "The New York World\u2019s Fair, 1939-40"
-    },
-    "http://publicdomainreview.org/collections/one-got-fat-bicycle-safety-1963/": {
-        "archive": "https://archive.org/details/OneGotFa1963",
-        "freenessurl": "http://publicdomainreview.org/collections/one-got-fat-bicycle-safety-1963/",
-        "status": "free",
-        "title": "One Got Fat: Bicycle Safety",
-        "year": 1963
-    },
-    "http://publicdomainreview.org/collections/one-world-or-none-1946/": {
-        "archive": "https://archive.org/details/0995_One_World_or_None_01_35_20_16",
-        "freenessurl": "http://publicdomainreview.org/collections/one-world-or-none-1946/",
-        "status": "free",
-        "title": "One World or None",
-        "year": 1946
-    },
-    "http://publicdomainreview.org/collections/opium-destruction-san-francisco-1914/": {
-        "archive": "https://archive.org/details/OpiumDes1914",
-        "freenessurl": "http://publicdomainreview.org/collections/opium-destruction-san-francisco-1914/",
-        "status": "free",
-        "title": "Opium Destruction, San Francisco",
-        "year": 1914
-    },
-    "http://publicdomainreview.org/collections/out-of-the-inkwell-the-tantalizing-fly-1919/": {
-        "archive": "https://www.archive.org/details/Fleischer_The_Tantalizing_Fly_1919",
-        "freenessurl": "http://publicdomainreview.org/collections/out-of-the-inkwell-the-tantalizing-fly-1919/",
-        "status": "free",
-        "title": "Out of the Inkwell: The Tantalizing Fly",
-        "year": 1919
-    },
-    "http://publicdomainreview.org/collections/passion-and-death-of-christ-1903/": {
-        "archive": "https://archive.org/details/LaVieEtLaPassionDeJsusChristpassionAndDeathOfChrist1903",
-        "freenessurl": "http://publicdomainreview.org/collections/passion-and-death-of-christ-1903/",
-        "status": "free",
-        "title": "Life and Passion of Christ",
-        "year": 1903
-    },
-    "http://publicdomainreview.org/collections/plastic-reconstruction-of-the-face-1918/": {
-        "freenessurl": "http://publicdomainreview.org/collections/plastic-reconstruction-of-the-face-1918/",
-        "status": "free",
-        "title": "Plastic Reconstruction of the Face",
-        "year": 1918
-    },
-    "http://publicdomainreview.org/collections/prelinger-archive-35mm-stock-footage/": {
-        "archive": "https://archive.org/details/35mmstockfootage",
-        "freenessurl": "http://publicdomainreview.org/collections/prelinger-archive-35mm-stock-footage/",
-        "status": "free",
-        "title": "35mm Stock Footage"
-    },
-    "http://publicdomainreview.org/collections/professor-weltons-boxing-cats-1894/": {
-        "freenessurl": "http://publicdomainreview.org/collections/professor-weltons-boxing-cats-1894/",
-        "status": "free",
-        "title": "Professor Welton\u2019s Boxing Cats",
-        "year": 1894
-    },
-    "http://publicdomainreview.org/collections/rip-van-winkle-1896/": {
-        "archive": "https://archive.org/details/rip_van_winkle_1896",
-        "freenessurl": "http://publicdomainreview.org/collections/rip-van-winkle-1896/",
-        "status": "free",
-        "title": "Rip Van Winkle",
-        "year": 1896
-    },
-    "http://publicdomainreview.org/collections/scrooge-or-marleys-ghost-1901/": {
-        "archive": "https://archive.org/details/ScroogeOrMarleysGhost1901",
-        "freenessurl": "http://publicdomainreview.org/collections/scrooge-or-marleys-ghost-1901/",
-        "status": "free",
-        "title": "Scrooge, or, Marley\u2019s Ghost",
-        "year": 1901
-    },
-    "http://publicdomainreview.org/collections/seeing-london-1918/": {
-        "archive": "https://archive.org/details/SeeingLo1920",
-        "freenessurl": "http://publicdomainreview.org/collections/seeing-london-1918/",
-        "status": "free",
-        "title": "Seeing London",
-        "year": 1918
-    },
-    "http://publicdomainreview.org/collections/sir-arthur-conan-doyle-interview-1927/": {
-        "archive": "https://archive.org/details/SirArthurConanDoyleSpeaks_272",
-        "freenessurl": "http://publicdomainreview.org/collections/sir-arthur-conan-doyle-interview-1927/",
-        "status": "free",
-        "title": "Sir Arthur Conan Doyle Interview",
-        "year": 1927
-    },
-    "http://publicdomainreview.org/collections/six-and-a-half-magic-hours-1958/": {
-        "archive": "https://archive.org/details/612Magic1958",
-        "freenessurl": "http://publicdomainreview.org/collections/six-and-a-half-magic-hours-1958/",
-        "status": "free",
-        "title": "Six and a Half Magic Hours",
-        "year": 1958
-    },
-    "http://publicdomainreview.org/collections/the-cabinet-of-dr-caligari-1920/": {
-        "archive": "https://www.archive.org/details/thecabinetofdrcaligari",
-        "freenessurl": "http://publicdomainreview.org/collections/the-cabinet-of-dr-caligari-1920/",
-        "status": "free",
-        "title": "The Cabinet of Dr. Caligari",
-        "year": 1920
-    },
-    "http://publicdomainreview.org/collections/the-centaurs-a-fragment-1921/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-centaurs-a-fragment-1921/",
-        "status": "free",
-        "title": "The Centaurs, a Fragment",
-        "year": 1921
-    },
-    "http://publicdomainreview.org/collections/the-dream-of-mrs-l-l-nicholson-from-oakland-california-1924/": {
-        "archive": "https://archive.org/details/TribuneA1924",
-        "freenessurl": "http://publicdomainreview.org/collections/the-dream-of-mrs-l-l-nicholson-from-oakland-california-1924/",
-        "status": "free",
-        "title": "The Dream of Mrs L.L. Nicholson from Oakland, California",
-        "year": 1924
-    },
-    "http://publicdomainreview.org/collections/the-frog-1908/": {
-        "archive": "https://archive.org/details/LaGrenouille#",
-        "freenessurl": "http://publicdomainreview.org/collections/the-frog-1908/",
-        "status": "free",
-        "title": "The Frog",
-        "year": 1908
-    },
-    "http://publicdomainreview.org/collections/the-general-1926/": {
-        "archive": "https://archive.org/details/TheGeneral1926",
-        "freenessurl": "http://publicdomainreview.org/collections/the-general-1926/",
-        "status": "free",
-        "title": "The General",
-        "year": 1926
-    },
-    "http://publicdomainreview.org/collections/the-great-train-robbery-1903/": {
-        "archive": "https://archive.org/details/TheGreatTrainRobbery1903_201307",
-        "freenessurl": "http://publicdomainreview.org/collections/the-great-train-robbery-1903/",
-        "status": "free",
-        "title": "The Great Train Robbery",
-        "year": 1903
-    },
-    "http://publicdomainreview.org/collections/the-hindenburg-explodes-1937/": {
-        "archive": "https://archive.org/details/hindenberg_explodes",
-        "freenessurl": "http://publicdomainreview.org/collections/the-hindenburg-explodes-1937/",
-        "status": "free",
-        "title": "The Hindenburg Explodes",
-        "year": 1937
-    },
-    "http://publicdomainreview.org/collections/the-home-movies-of-frank-richard-oastler/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-home-movies-of-frank-richard-oastler/",
-        "status": "free",
-        "title": "The Home Movies of Frank Richard Oastler"
-    },
-    "http://publicdomainreview.org/collections/the-kawana-trio-1919/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-kawana-trio-1919/",
-        "status": "free",
-        "title": "The Kawana Trio",
-        "year": 1919
-    },
-    "http://publicdomainreview.org/collections/the-knife-throwing-mother-and-her-children-ca-1950s/": {
-        "archive": "https://archive.org/details/KnifeThr1950",
-        "freenessurl": "http://publicdomainreview.org/collections/the-knife-throwing-mother-and-her-children-ca-1950s/",
-        "status": "free",
-        "title": "The Knife-Throwing Mother and her Children (1950s)"
-    },
-    "http://publicdomainreview.org/collections/the-lost-world-1925/": {
-        "archive": "https://www.archive.org/details/lost_world",
-        "freenessurl": "http://publicdomainreview.org/collections/the-lost-world-1925/",
-        "status": "free",
-        "title": "The Lost World",
-        "year": 1925
-    },
-    "http://publicdomainreview.org/collections/the-man-with-the-rubber-head-1902/": {
-        "archive": "https://archive.org/details/LhommeLaTteDuCabinet",
-        "freenessurl": "http://publicdomainreview.org/collections/the-man-with-the-rubber-head-1902/",
-        "status": "free",
-        "title": "The Man With The Rubber Head",
-        "year": 1902
-    },
-    "http://publicdomainreview.org/collections/the-phantom-of-the-opera-1925/": {
-        "archive": "https://www.archive.org/details/ThePhantomoftheOpera",
-        "freenessurl": "http://publicdomainreview.org/collections/the-phantom-of-the-opera-1925/",
-        "status": "free",
-        "title": "The Phantom of the Opera",
-        "year": 1925
-    },
-    "http://publicdomainreview.org/collections/the-somersault-man-1923/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-somersault-man-1923/",
-        "status": "free",
-        "title": "The Somersault Man",
-        "year": 1923
-    },
-    "http://publicdomainreview.org/collections/the-westinghouse-works-1904/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-westinghouse-works-1904/",
-        "status": "free",
-        "title": "The Westinghouse Works",
-        "year": 1904
-    },
-    "http://publicdomainreview.org/collections/thief-of-bagdad-1924/": {
-        "archive": "https://www.archive.org/details/ThiefOfBagdad1924",
-        "freenessurl": "http://publicdomainreview.org/collections/thief-of-bagdad-1924/",
-        "status": "free",
-        "title": "Thief of Bagdad",
-        "year": 1924
-    },
-    "http://publicdomainreview.org/collections/to-new-horizons-1940/": {
-        "archive": "https://archive.org/details/ToNewHor1940",
-        "freenessurl": "http://publicdomainreview.org/collections/to-new-horizons-1940/",
-        "status": "free",
-        "title": "To New Horizons",
-        "year": 1940
-    },
-    "http://publicdomainreview.org/collections/tommy-burns-knocking-out-bill-squires-1907/": {
-        "archive": "https://archive.org/details/HeavyweightBoxing",
-        "freenessurl": "http://publicdomainreview.org/collections/tommy-burns-knocking-out-bill-squires-1907/",
-        "status": "free",
-        "title": "Tommy Burns knocking out Bill Squires",
-        "year": 1907
-    },
-    "http://publicdomainreview.org/collections/vd-is-for-everybody-1969/": {
-        "archive": "https://www.archive.org/details/vd_is_for_everybody",
-        "freenessurl": "http://publicdomainreview.org/collections/vd-is-for-everybody-1969/",
-        "status": "free",
-        "title": "VD is for Everybody",
-        "year": 1969
-    },
-    "http://publicdomainreview.org/collections/wolf-blood-1925/": {
-        "archive": "https://www.archive.org/details/WolfBlood1925",
-        "freenessurl": "http://publicdomainreview.org/collections/wolf-blood-1925/",
-        "status": "free",
-        "title": "Wolf Blood",
-        "year": 1925
-    },
-    "http://publicdomainreview.org/collections/ww2-us-soldier-drag-show/": {
-        "archive": "https://archive.org/details/1942-02-04_Soldiers_Stage_Girlie_Show",
-        "freenessurl": "http://publicdomainreview.org/collections/ww2-us-soldier-drag-show/",
-        "status": "free",
-        "title": "WW2 U.S. Soldier Drag Show",
-        "year": 1942
-    },
-    "http://publicdomainreview.org/collections/your-name-here-1960/": {
-        "archive": "https://www.archive.org/details/YourName1960",
-        "freenessurl": "http://publicdomainreview.org/collections/your-name-here-1960/",
-        "status": "free",
-        "title": "Your Name Here",
-        "year": 1960
-    },
     "http://www.imdb.com/title/tt0000300/": {
         "archive": "https://archive.org/details/TheEnchantedDrawing1900",
-        "freenessurl": "http://publicdomainreview.org/collections/the-enchanted-drawing-1900/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-enchanted-drawing-1900/",
         "imdblookup": "The Enchanted Drawing 1900",
         "status": "free",
         "title": "The Enchanted Drawing",
         "year": 1900
     },
     "http://www.imdb.com/title/tt0000349/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-cheese-mites-or-lilliputians-in-a-london-restaurant-1901/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-cheese-mites-or-lilliputians-in-a-london-restaurant-1901/",
         "imdblookup": "The Cheese Mites or, Lilliputians in a London Restaurant 1901",
         "status": "free",
         "title": "The Cheese Mites or, Lilliputians in a London Restaurant",
@@ -426,38 +16,45 @@
     },
     "http://www.imdb.com/title/tt0000410/": {
         "archive": "https://archive.org/details/star_theatre_1901",
-        "freenessurl": "http://publicdomainreview.org/collections/time-lapse-demolition-of-the-star-theatre-new-york-1901/",
+        "freenessurl": "https://publicdomainreview.org/collections/time-lapse-demolition-of-the-star-theatre-new-york-1901/",
         "status": "free",
         "title": "Time-Lapse Demolition of the Star Theatre, New York",
         "year": 1902
     },
     "http://www.imdb.com/title/tt0000417/": {
         "archive": "https://archive.org/details/LeVoyageDansLaLun",
-        "freenessurl": "http://publicdomainreview.org/collections/le-voyage-dans-la-lune-1902/",
+        "freenessurl": "https://publicdomainreview.org/collections/le-voyage-dans-la-lune-1902/",
         "imdblookup": "Le Voyage Dans la Lune 1902",
         "status": "free",
         "title": "Le Voyage Dans la Lune",
         "year": 1902
     },
+    "http://www.imdb.com/title/tt0000546/": {
+        "freenessurl": "https://publicdomainreview.org/collections/dream-of-a-rarebit-fiend-1906/",
+        "imdblookup": "Dream of a Rarebit Fiend 1906",
+        "status": "free",
+        "title": "Dream of a Rarebit Fiend",
+        "year": 1906
+    },
     "http://www.imdb.com/title/tt0000554/": {
         "archive": "https://archive.org/details/HumorousPhasesOfFunnyFaces",
-        "freenessurl": "http://publicdomainreview.org/collections/humorous-phases-of-funny-faces/",
+        "freenessurl": "https://publicdomainreview.org/collections/humorous-phases-of-funny-faces/",
         "imdblookup": "Humorous Phases Of Funny Faces 1906",
         "status": "free",
         "title": "Humorous Phases Of Funny Faces",
         "year": 1906
     },
     "http://www.imdb.com/title/tt0000565/": {
-        "archive": "https://www.archive.org/details/TheNightBeforeChristmas_235",
-        "freenessurl": "http://publicdomainreview.org/collections/the-night-before-christmas-1905/",
+        "archive": "https://archive.org/details/TheNightBeforeChristmas_235",
+        "freenessurl": "https://publicdomainreview.org/collections/the-night-before-christmas-1905/",
         "imdblookup": "The Night Before Christmas 1905",
         "status": "free",
         "title": "The Night Before Christmas",
         "year": 1905
     },
     "http://www.imdb.com/title/tt0001009/": {
-        "archive": "https://www.archive.org/details/princess_nicotine_1909",
-        "freenessurl": "http://publicdomainreview.org/collections/princess-nicotine-1909/",
+        "archive": "https://archive.org/details/princess_nicotine_1909",
+        "freenessurl": "https://publicdomainreview.org/collections/princess-nicotine-1909/",
         "imdblookup": "Princess Nicotine 1909",
         "status": "free",
         "title": "Princess Nicotine",
@@ -465,14 +62,14 @@
     },
     "http://www.imdb.com/title/tt0002101/": {
         "archive": "https://archive.org/details/Cleopatra_1912",
-        "freenessurl": "http://publicdomainreview.org/collections/cleopatra-1912/",
+        "freenessurl": "https://publicdomainreview.org/collections/cleopatra-1912/",
         "imdblookup": "Cleopatra 1912",
         "status": "free",
         "title": "Cleopatra",
         "year": 1912
     },
     "http://www.imdb.com/title/tt0003311/": {
-        "freenessurl": "http://publicdomainreview.org/collections/raja-harishchandra-1913/",
+        "freenessurl": "https://publicdomainreview.org/collections/raja-harishchandra-1913/",
         "imdblookup": "Raja Harishchandra 1913",
         "status": "free",
         "title": "Raja Harishchandra",
@@ -480,14 +77,14 @@
     },
     "http://www.imdb.com/title/tt0004008/": {
         "archive": "https://archive.org/details/Gertie",
-        "freenessurl": "http://publicdomainreview.org/collections/gertie-the-dinosaur-1914/",
+        "freenessurl": "https://publicdomainreview.org/collections/gertie-the-dinosaur-1914/",
         "status": "free",
         "title": "Gertie The Dinosaur",
         "year": 1914
     },
     "http://www.imdb.com/title/tt0004189/": {
         "archive": "https://archive.org/details/CC_1914_02_07_KidsAutoRaceAtVenice",
-        "freenessurl": "http://publicdomainreview.org/collections/kid-auto-races-at-venice-1914/",
+        "freenessurl": "https://publicdomainreview.org/collections/kid-auto-races-at-venice-1914/",
         "imdblookup": "Kid Auto Races at Venice 1914",
         "status": "free",
         "title": "Kid Auto Races at Venice",
@@ -495,21 +92,35 @@
     },
     "http://www.imdb.com/title/tt0004288/": {
         "archive": "https://archive.org/details/CC_1914_02_02_MakingALiving",
-        "freenessurl": "http://publicdomainreview.org/collections/making-a-living-1914/",
+        "freenessurl": "https://publicdomainreview.org/collections/making-a-living-1914/",
         "status": "free",
         "title": "Making a Living",
         "year": 1914
     },
+    "http://www.imdb.com/title/tt0005198/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-dinosaur-and-the-missing-link-a-prehistoric-tragedy-1917/",
+        "imdblookup": "The Dinosaur and the Missing Link: A Prehistoric Tragedy 1917",
+        "status": "free",
+        "title": "The Dinosaur and the Missing Link: A Prehistoric Tragedy",
+        "year": 1917
+    },
     "http://www.imdb.com/title/tt0006333/": {
-        "freenessurl": "http://publicdomainreview.org/collections/20000-leagues-under-the-sea-1916/",
+        "freenessurl": "https://publicdomainreview.org/collections/20000-leagues-under-the-sea-1916/",
         "imdblookup": "20,000 Leagues Under the Sea 1916",
         "status": "free",
         "title": "20,000 Leagues Under the Sea",
         "year": 1916
     },
+    "http://www.imdb.com/title/tt0006864/": {
+        "archive": "https://archive.org/details/Intolerance",
+        "freenessurl": "https://publicdomainreview.org/collections/intolerance-1916/",
+        "status": "free",
+        "title": "Intolerance",
+        "year": 1916
+    },
     "http://www.imdb.com/title/tt0009652/": {
-        "archive": "https://www.archive.org/details/StellaMaris_665",
-        "freenessurl": "http://publicdomainreview.org/collections/stella-maris-1918/",
+        "archive": "https://archive.org/details/StellaMaris_665",
+        "freenessurl": "https://publicdomainreview.org/collections/stella-maris-1918/",
         "imdblookup": "Stella Maris 1918",
         "status": "free",
         "title": "Stella Maris",
@@ -517,203 +128,215 @@
     },
     "http://www.imdb.com/title/tt0009682/": {
         "archive": "https://archive.org/details/TarzanoftheApes1918AndyDivx",
-        "freenessurl": "http://publicdomainreview.org/collections/tarzan-of-the-apes-1918/",
+        "freenessurl": "https://publicdomainreview.org/collections/tarzan-of-the-apes-1918/",
         "status": "free",
         "title": "Tarzan of the Apes",
         "year": 1918
     },
     "http://www.imdb.com/title/tt0011870/": {
         "archive": "https://archive.org/details/WithinOurGates",
-        "freenessurl": "http://publicdomainreview.org/collections/within-our-gates-1920/",
+        "freenessurl": "https://publicdomainreview.org/collections/within-our-gates-1920/",
         "status": "free",
         "title": "Within Our Gates",
         "year": 1920
     },
     "http://www.imdb.com/title/tt0012499/": {
         "archive": "https://archive.org/details/Never_Weaken_1921",
-        "freenessurl": "http://publicdomainreview.org/collections/never-weaken-1921/",
+        "freenessurl": "https://publicdomainreview.org/collections/never-weaken-1921/",
         "status": "free",
         "title": "Never Weaken",
         "year": 1921
     },
+    "http://www.imdb.com/title/tt0015400/": {
+        "archive": "https://archive.org/details/ThiefOfBagdad1924",
+        "freenessurl": "https://publicdomainreview.org/collections/thief-of-bagdad-1924/",
+        "status": "free",
+        "title": "Thief of Bagdad",
+        "year": 1924
+    },
     "http://www.imdb.com/title/tt0015648/": {
         "archive": "https://archive.org/details/BattleshipPotemkin",
-        "freenessurl": "http://publicdomainreview.org/collections/battleship-potemkin-1925/",
+        "freenessurl": "https://publicdomainreview.org/collections/battleship-potemkin-1925/",
         "status": "free",
         "title": "Battleship Potemkin",
         "year": 1925
     },
+    "http://www.imdb.com/title/tt0016039/": {
+        "archive": "https://archive.org/details/lost_world",
+        "freenessurl": "https://publicdomainreview.org/collections/the-lost-world-1925/",
+        "status": "free",
+        "title": "The Lost World",
+        "year": 1925
+    },
+    "http://www.imdb.com/title/tt0016545/": {
+        "archive": "https://archive.org/details/WolfBlood1925",
+        "freenessurl": "https://publicdomainreview.org/collections/wolf-blood-1925/",
+        "status": "free",
+        "title": "Wolf Blood",
+        "year": 1925
+    },
     "http://www.imdb.com/title/tt0017075/": {
-        "archive": "https://www.archive.org/details/TheLodgerAStoryOfTheLondonFog_579",
-        "freenessurl": "http://publicdomainreview.org/collections/the-lodger-a-story-of-the-london-fog-1927/",
-        "imdblookup": "The Lodger: A Story of the London Fog 1927",
+        "archive": "https://archive.org/details/TheLodgerAStoryOfTheLondonFog_579",
+        "freenessurl": "https://publicdomainreview.org/collections/the-lodger-a-story-of-the-london-fog-1927/",
         "status": "free",
         "title": "The Lodger: A Story of the London Fog",
         "year": 1927
     },
     "http://www.imdb.com/title/tt0022879/": {
         "archive": "https://archive.org/details/farewell_to_arms_ipod",
-        "freenessurl": "http://publicdomainreview.org/collections/a-farewell-to-arms-1932/",
+        "freenessurl": "https://publicdomainreview.org/collections/a-farewell-to-arms-1932/",
         "imdblookup": "A Farewell To Arms 1932",
         "status": "free",
         "title": "A Farewell To Arms",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0027893/": {
-        "archive": "https://www.archive.org/details/little_lord_fauntleroy",
-        "freenessurl": "http://publicdomainreview.org/collections/little-lord-fauntleroy-1936/",
-        "imdblookup": "Little Lord Fauntleroy 1936",
+        "archive": "https://archive.org/details/little_lord_fauntleroy",
+        "freenessurl": "https://publicdomainreview.org/collections/little-lord-fauntleroy-1936/",
         "status": "free",
         "title": "Little Lord Fauntleroy",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028346/": {
         "archive": "https://archive.org/details/reefer_madness1938",
-        "freenessurl": "http://publicdomainreview.org/collections/reefer-madness-1938/",
+        "freenessurl": "https://publicdomainreview.org/collections/reefer-madness-1938/",
         "status": "free",
         "title": "Reefer Madness",
         "year": 1938
     },
     "http://www.imdb.com/title/tt0033891/": {
         "archive": "https://archive.org/details/meet_john_doe",
-        "freenessurl": "http://publicdomainreview.org/collections/meet-john-doe-1941/",
+        "freenessurl": "https://publicdomainreview.org/collections/meet-john-doe-1941/",
         "status": "free",
         "title": "Meet John Doe",
         "year": 1941
     },
     "http://www.imdb.com/title/tt0036630/": {
-        "archive": "https://www.archive.org/details/battle_of_san_pietro",
-        "freenessurl": "http://publicdomainreview.org/collections/the-battle-of-san-pietro-1945/",
-        "imdblookup": "The Battle of San Pietro 1945",
+        "archive": "https://archive.org/details/battle_of_san_pietro",
+        "freenessurl": "https://publicdomainreview.org/collections/the-battle-of-san-pietro-1945/",
         "status": "free",
         "title": "The Battle of San Pietro",
         "year": 1945
     },
     "http://www.imdb.com/title/tt0038057/": {
-        "archive": "https://www.archive.org/details/ScarletStreet",
-        "freenessurl": "http://publicdomainreview.org/collections/scarlet-street-1945/",
+        "archive": "https://archive.org/details/ScarletStreet",
+        "freenessurl": "https://publicdomainreview.org/collections/scarlet-street-1945/",
         "imdblookup": "Scarlet Street 1945",
         "status": "free",
         "title": "Scarlet Street",
         "year": 1945
     },
     "http://www.imdb.com/title/tt0042367/": {
-        "archive": "https://www.archive.org/details/Cyrano_DeBergerac",
-        "freenessurl": "http://publicdomainreview.org/collections/cyrano-de-bergerac-1950/",
-        "imdblookup": "Cyrano De Bergerac 1950",
+        "archive": "https://archive.org/details/Cyrano_DeBergerac",
+        "freenessurl": "https://publicdomainreview.org/collections/cyrano-de-bergerac-1950/",
         "status": "free",
         "title": "Cyrano De Bergerac",
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042369/": {
         "archive": "https://archive.org/details/doa_1949",
-        "freenessurl": "http://publicdomainreview.org/collections/d-o-a-1950/",
+        "freenessurl": "https://publicdomainreview.org/collections/d-o-a-1950/",
         "status": "free",
         "title": "D.O.A.",
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042869/": {
-        "archive": "https://www.archive.org/details/Quicksand_clear",
-        "freenessurl": "http://publicdomainreview.org/collections/quicksand-1950/",
-        "imdblookup": "Quicksand 1950",
+        "archive": "https://archive.org/details/Quicksand_clear",
+        "freenessurl": "https://publicdomainreview.org/collections/quicksand-1950/",
         "status": "free",
         "title": "Quicksand",
         "year": 1950
     },
     "http://www.imdb.com/title/tt0045162/": {
-        "archive": "https://www.archive.org/details/Kilimanjaro",
-        "freenessurl": "http://publicdomainreview.org/collections/the-snows-of-kilimanjaro-1952/",
-        "imdblookup": "The Snows of Kilimanjaro 1952",
+        "archive": "https://archive.org/details/Kilimanjaro",
+        "freenessurl": "https://publicdomainreview.org/collections/the-snows-of-kilimanjaro-1952/",
         "status": "free",
         "title": "The Snows of Kilimanjaro",
         "year": 1952
     },
     "http://www.imdb.com/title/tt0047542/": {
-        "archive": "https://www.archive.org/details/suddenly",
-        "freenessurl": "http://publicdomainreview.org/collections/suddenly-1954/",
-        "imdblookup": "Suddenly 1954",
+        "archive": "https://archive.org/details/suddenly",
+        "freenessurl": "https://publicdomainreview.org/collections/suddenly-1954/",
         "status": "free",
         "title": "Suddenly",
         "year": 1954
     },
     "http://www.imdb.com/title/tt0050333/": {
         "archive": "https://archive.org/details/0686_Freedom_Highway",
-        "freenessurl": "http://publicdomainreview.org/collections/freedom-highway-1956/",
+        "freenessurl": "https://publicdomainreview.org/collections/freedom-highway-1956/",
         "imdblookup": "Freedom Highway 1956",
         "status": "free",
         "title": "Freedom Highway",
         "year": 1956
     },
     "http://www.imdb.com/title/tt0052077/": {
-        "archive": "https://www.archive.org/details/Plan_9_from_Outer_Space_1959",
-        "freenessurl": "http://publicdomainreview.org/collections/plan-9-from-outer-space-1959/",
-        "imdblookup": "Plan 9 From Outer Space 1959",
+        "archive": "https://archive.org/details/Plan_9_from_Outer_Space_1959",
+        "freenessurl": "https://publicdomainreview.org/collections/plan-9-from-outer-space-1959/",
         "status": "free",
         "title": "Plan 9 From Outer Space",
         "year": 1959
     },
     "http://www.imdb.com/title/tt0054817/": {
         "archive": "https://archive.org/details/Five_Minutes_To_Live.avi",
-        "freenessurl": "http://publicdomainreview.org/collections/five-minutes-to-live-1961/",
+        "freenessurl": "https://publicdomainreview.org/collections/five-minutes-to-live-1961/",
         "status": "free",
         "title": "Five Minutes To Live",
         "year": 1961
     },
     "http://www.imdb.com/title/tt0058548/": {
         "archive": "https://archive.org/details/santa_claus_conquers_the_martians_ipod",
-        "freenessurl": "http://publicdomainreview.org/collections/santa-clause-conquers-the-martians-1964/",
+        "freenessurl": "https://publicdomainreview.org/collections/santa-clause-conquers-the-martians-1964/",
         "imdblookup": "Santa Claus Conquers the Martians 1964",
         "status": "free",
         "title": "Santa Claus Conquers the Martians",
         "year": 1964
     },
     "http://www.imdb.com/title/tt0132134/": {
-        "archive": "https://www.archive.org/details/Execution_of_Mary_1895",
-        "freenessurl": "http://publicdomainreview.org/collections/the-execution-of-mary-queen-of-scots-1895/",
-        "imdblookup": "The Execution of Mary, Queen of Scots 1895",
+        "archive": "https://archive.org/details/Execution_of_Mary_1895",
+        "freenessurl": "https://publicdomainreview.org/collections/the-execution-of-mary-queen-of-scots-1895/",
         "status": "free",
         "title": "The Execution of Mary, Queen of Scots",
         "year": 1895
     },
     "http://www.imdb.com/title/tt0135180/": {
         "archive": "https://archive.org/details/LeChaudronInfernal#",
-        "freenessurl": "http://publicdomainreview.org/collections/the-infernal-cauldron-1903/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-infernal-cauldron-1903/",
         "imdblookup": "The Infernal Cauldron 1903",
         "status": "free",
         "title": "The Infernal Cauldron",
         "year": 1903
     },
     "http://www.imdb.com/title/tt0139738/": {
-        "archive": "https://www.archive.org/details/Irwin-RiceKiss",
-        "freenessurl": "http://publicdomainreview.org/collections/the-kiss-1896/",
+        "archive": "https://archive.org/details/Irwin-RiceKiss",
+        "freenessurl": "https://publicdomainreview.org/collections/the-kiss-1896/",
         "imdblookup": "The Kiss 1896",
         "status": "free",
         "title": "The Kiss",
         "year": 1896
     },
     "http://www.imdb.com/title/tt0166609/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-first-circus-1921/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-first-circus-1921/",
         "imdblookup": "The First Circus 1921",
         "status": "free",
         "title": "The First Circus",
         "year": 1921
     },
     "http://www.imdb.com/title/tt0203360/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-burning-stable-1896/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-burning-stable-1896/",
         "imdblookup": "The Burning Stable 1896",
         "status": "free",
         "title": "The Burning Stable",
         "year": 1896
     },
     "http://www.imdb.com/title/tt0211928/": {
-        "freenessurl": "http://publicdomainreview.org/collections/artistic-creation-1901/",
+        "freenessurl": "https://publicdomainreview.org/collections/artistic-creation-1901/",
         "imdblookup": "Artistic Creation 1901",
         "status": "free",
         "title": "Artistic Creation",
         "year": 1901
     },
     "http://www.imdb.com/title/tt0212411/": {
-        "freenessurl": "http://publicdomainreview.org/collections/the-over-incubated-baby-1901/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-over-incubated-baby-1901/",
         "imdblookup": "The Over-Incubated Baby 1901",
         "status": "free",
         "title": "The Over-Incubated Baby",
@@ -721,21 +344,21 @@
     },
     "http://www.imdb.com/title/tt0223755/": {
         "archive": "https://archive.org/details/LeMonstre",
-        "freenessurl": "http://publicdomainreview.org/collections/the-monster-1903/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-monster-1903/",
         "status": "free",
         "title": "The Monster",
         "year": 1903
     },
     "http://www.imdb.com/title/tt0224240/": {
         "archive": "https://archive.org/details/LaTentationDeSaintAntoine",
-        "freenessurl": "http://publicdomainreview.org/collections/george-melies-temptation-of-st-anthony-1898/",
+        "freenessurl": "https://publicdomainreview.org/collections/george-melies-temptation-of-st-anthony-1898/",
         "status": "free",
         "title": "Georges M\u00e9li\u00e8s\u2019 Temptation of St. Anthony",
         "year": 1898
     },
     "http://www.imdb.com/title/tt0228014/": {
         "archive": "https://archive.org/details/The_Christmas_Angel",
-        "freenessurl": "http://publicdomainreview.org/collections/the-christmas-angel-1904/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-christmas-angel-1904/",
         "imdblookup": "The Christmas Angel 1904",
         "status": "free",
         "title": "The Christmas Angel",
@@ -743,7 +366,7 @@
     },
     "http://www.imdb.com/title/tt0229220/": {
         "archive": "https://archive.org/details/AnnieOakley",
-        "freenessurl": "http://publicdomainreview.org/collections/annie-oakley-1894/",
+        "freenessurl": "https://publicdomainreview.org/collections/annie-oakley-1894/",
         "imdblookup": "Annie Oakley 1894",
         "status": "free",
         "title": "Annie Oakley",
@@ -751,14 +374,14 @@
     },
     "http://www.imdb.com/title/tt0235568/": {
         "archive": "https://archive.org/details/ManiacChase1904EdwinS.PorterUsa",
-        "freenessurl": "http://publicdomainreview.org/collections/maniac-chase-1904/",
+        "freenessurl": "https://publicdomainreview.org/collections/maniac-chase-1904/",
         "imdblookup": "Maniac Chase 1904",
         "status": "free",
         "title": "Maniac Chase",
         "year": 1904
     },
     "http://www.imdb.com/title/tt0245267/": {
-        "freenessurl": "http://publicdomainreview.org/collections/mary-and-gretel-1917/",
+        "freenessurl": "https://publicdomainreview.org/collections/mary-and-gretel-1917/",
         "imdblookup": "Mary and Gretel 1917",
         "status": "free",
         "title": "Mary and Gretel",
@@ -766,15 +389,15 @@
     },
     "http://www.imdb.com/title/tt0257088/": {
         "archive": "https://archive.org/details/tmp_50168",
-        "freenessurl": "http://publicdomainreview.org/collections/san-francisco-earthquake-aftermath-1906/",
+        "freenessurl": "https://publicdomainreview.org/collections/san-francisco-earthquake-aftermath-1906/",
         "imdblookup": "San Francisco Earthquake Aftermath 1906",
         "status": "free",
         "title": "San Francisco Earthquake Aftermath",
         "year": 1906
     },
     "http://www.imdb.com/title/tt0273542/": {
-        "archive": "https://www.archive.org/details/DogFactory1904EdisonManufacturingCompanyUsa",
-        "freenessurl": "http://publicdomainreview.org/collections/dog-factory-1904/",
+        "archive": "https://archive.org/details/DogFactory1904EdisonManufacturingCompanyUsa",
+        "freenessurl": "https://publicdomainreview.org/collections/dog-factory-1904/",
         "imdblookup": "Dog Factory 1904",
         "status": "free",
         "title": "Dog Factory",
@@ -782,30 +405,37 @@
     },
     "http://www.imdb.com/title/tt0279772/": {
         "archive": "https://archive.org/details/Designfo1956",
-        "freenessurl": "http://publicdomainreview.org/collections/design-for-dreaming-1956/",
+        "freenessurl": "https://publicdomainreview.org/collections/design-for-dreaming-1956/",
         "status": "free",
         "title": "Design for Dreaming",
         "year": 1956
     },
     "http://www.imdb.com/title/tt0298525/": {
         "archive": "https://archive.org/details/LesRosesMagique",
-        "freenessurl": "http://publicdomainreview.org/collections/the-magic-roses-1906/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-magic-roses-1906/",
         "imdblookup": "The Magic Roses 1906",
         "status": "free",
         "title": "The Magic Roses",
         "year": 1906
     },
+    "http://www.imdb.com/title/tt0304830/": {
+        "archive": "https://archive.org/details/ToNewHor1940",
+        "freenessurl": "https://publicdomainreview.org/collections/to-new-horizons-1940/",
+        "status": "free",
+        "title": "To New Horizons",
+        "year": 1940
+    },
     "http://www.imdb.com/title/tt0309402/": {
-        "archive": "https://www.archive.org/details/SF126",
-        "freenessurl": "http://publicdomainreview.org/collections/buffalo-dance-1894/",
+        "archive": "https://archive.org/details/SF126",
+        "freenessurl": "https://publicdomainreview.org/collections/buffalo-dance-1894/",
         "imdblookup": "Buffalo Dance 1894",
         "status": "free",
         "title": "Buffalo Dance",
         "year": 1894
     },
     "http://www.imdb.com/title/tt0324308/": {
-        "archive": "https://www.archive.org/details/princess_nicotine_1909",
-        "freenessurl": "http://publicdomainreview.org/collections/trapeze-disrobing-act-1901/",
+        "archive": "https://archive.org/details/princess_nicotine_1909",
+        "freenessurl": "https://publicdomainreview.org/collections/trapeze-disrobing-act-1901/",
         "imdblookup": "Trapeze Disrobing Act 1901",
         "status": "free",
         "title": "Trapeze Disrobing Act",
@@ -813,7 +443,7 @@
     },
     "http://www.imdb.com/title/tt0334422/": {
         "archive": "https://archive.org/details/StopDriv1959",
-        "freenessurl": "http://publicdomainreview.org/collections/stop-driving-us-crazy-1959/",
+        "freenessurl": "https://publicdomainreview.org/collections/stop-driving-us-crazy-1959/",
         "imdblookup": "Stop Driving Us Crazy! 1959",
         "status": "free",
         "title": "Stop Driving Us Crazy!",
@@ -821,14 +451,14 @@
     },
     "http://www.imdb.com/title/tt0392728/": {
         "archive": "https://archive.org/details/Roundhay_Garden_Scene",
-        "freenessurl": "http://publicdomainreview.org/collections/roundhay-garden-scene-1888/",
+        "freenessurl": "https://publicdomainreview.org/collections/roundhay-garden-scene-1888/",
         "status": "free",
         "title": "Roundhay Garden Scene",
         "year": 1888
     },
     "http://www.imdb.com/title/tt0409414/": {
-        "archive": "https://www.archive.org/details/TheUnappreciatedJoke",
-        "freenessurl": "http://publicdomainreview.org/collections/the-unappreciated-joke-1903/",
+        "archive": "https://archive.org/details/TheUnappreciatedJoke",
+        "freenessurl": "https://publicdomainreview.org/collections/the-unappreciated-joke-1903/",
         "imdblookup": "The Unappreciated Joke 1903",
         "status": "free",
         "title": "The Unappreciated Joke",
@@ -836,14 +466,14 @@
     },
     "http://www.imdb.com/title/tt0417600/": {
         "archive": "https://archive.org/details/Destinat1956",
-        "freenessurl": "http://publicdomainreview.org/collections/destination-earth-1956/",
+        "freenessurl": "https://publicdomainreview.org/collections/destination-earth-1956/",
         "status": "free",
         "title": "Destination Earth",
         "year": 1956
     },
     "http://www.imdb.com/title/tt0496925/": {
         "archive": "https://archive.org/details/Alcohola1949",
-        "freenessurl": "http://publicdomainreview.org/collections/alcohol-and-the-human-body-1949/",
+        "freenessurl": "https://publicdomainreview.org/collections/alcohol-and-the-human-body-1949/",
         "imdblookup": "Alcohol and the Human Body 1949",
         "status": "free",
         "title": "Alcohol and the Human Body",
@@ -851,14 +481,21 @@
     },
     "http://www.imdb.com/title/tt0496948/": {
         "archive": "https://archive.org/details/Experime1940",
-        "freenessurl": "http://publicdomainreview.org/collections/experiments-in-the-revival-of-organisms-1940/",
+        "freenessurl": "https://publicdomainreview.org/collections/experiments-in-the-revival-of-organisms-1940/",
         "status": "free",
         "title": "Experiments in the Revival of Organisms",
         "year": 1940
     },
+    "http://www.imdb.com/title/tt1158849/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-dances-of-the-ages-1913/",
+        "imdblookup": "The Dances of the Ages 1913",
+        "status": "free",
+        "title": "The Dances of the Ages",
+        "year": 1913
+    },
     "http://www.imdb.com/title/tt1393735/": {
         "archive": "https://archive.org/details/HowtoUse1927",
-        "freenessurl": "http://publicdomainreview.org/collections/how-to-use-the-dial-telephone-1927/",
+        "freenessurl": "https://publicdomainreview.org/collections/how-to-use-the-dial-telephone-1927/",
         "imdblookup": "How to use the Dial Telephone 1927",
         "status": "free",
         "title": "How to use the Dial Telephone",
@@ -866,7 +503,7 @@
     },
     "http://www.imdb.com/title/tt1708438/": {
         "archive": "https://archive.org/details/RelaxedW1957",
-        "freenessurl": "http://publicdomainreview.org/collections/the-relaxed-wife-1957/",
+        "freenessurl": "https://publicdomainreview.org/collections/the-relaxed-wife-1957/",
         "imdblookup": "The Relaxed Wife 1957",
         "status": "free",
         "title": "The Relaxed Wife",
@@ -874,7 +511,7 @@
     },
     "http://www.imdb.com/title/tt3487952/": {
         "archive": "https://archive.org/details/Despotis1946",
-        "freenessurl": "http://publicdomainreview.org/collections/despotism-1946/",
+        "freenessurl": "https://publicdomainreview.org/collections/despotism-1946/",
         "imdblookup": "Despotism 1946",
         "status": "free",
         "title": "Despotism",
@@ -882,7 +519,7 @@
     },
     "http://www.imdb.com/title/tt5147382/": {
         "archive": "https://archive.org/details/Sniffles1955",
-        "freenessurl": "http://publicdomainreview.org/collections/sniffles-and-sneezes-1955/",
+        "freenessurl": "https://publicdomainreview.org/collections/sniffles-and-sneezes-1955/",
         "imdblookup": "Sniffles and Sneezes 1955",
         "status": "free",
         "title": "Sniffles and Sneezes",
@@ -890,7 +527,7 @@
     },
     "http://www.imdb.com/title/tt5147384/": {
         "archive": "https://archive.org/details/ParkCons1938",
-        "freenessurl": "http://publicdomainreview.org/collections/park-conscious-1938/",
+        "freenessurl": "https://publicdomainreview.org/collections/park-conscious-1938/",
         "imdblookup": "Park Conscious 1938",
         "status": "free",
         "title": "Park Conscious",
@@ -898,7 +535,7 @@
     },
     "http://www.imdb.com/title/tt6045006/": {
         "archive": "https://archive.org/details/JustImag1947",
-        "freenessurl": "http://publicdomainreview.org/collections/just-imagine-1947/",
+        "freenessurl": "https://publicdomainreview.org/collections/just-imagine-1947/",
         "imdblookup": "Just Imagine 1947",
         "status": "free",
         "title": "Just Imagine",
@@ -906,10 +543,396 @@
     },
     "http://www.imdb.com/title/tt7386782/": {
         "archive": "https://archive.org/details/CEP_00_071",
-        "freenessurl": "http://publicdomainreview.org/collections/operation-cue-1955/",
+        "freenessurl": "https://publicdomainreview.org/collections/operation-cue-1955/",
         "imdblookup": "Operation Cue 1955",
         "status": "free",
         "title": "Operation Cue",
         "year": 1955
+    },
+    "https://publicdomainreview.org/collections/a-tour-of-the-titanic-1912/": {
+        "archive": "https://archive.org/details/RareTitanicFilm",
+        "freenessurl": "https://publicdomainreview.org/collections/a-tour-of-the-titanic-1912/",
+        "status": "free",
+        "title": "An Apparent Tour of the Titanic",
+        "year": 1912
+    },
+    "https://publicdomainreview.org/collections/a-wake-in-hells-kitchen-1903/": {
+        "freenessurl": "https://publicdomainreview.org/collections/a-wake-in-hells-kitchen-1903/",
+        "status": "free",
+        "title": "A Wake in Hell\u2019s Kitchen",
+        "year": 1903
+    },
+    "https://publicdomainreview.org/collections/alice-in-wonderland-1915/": {
+        "archive": "https://archive.org/details/AliceInWonderland1915_503",
+        "freenessurl": "https://publicdomainreview.org/collections/alice-in-wonderland-1915/",
+        "status": "free",
+        "title": "Alice in Wonderland",
+        "year": 1915
+    },
+    "https://publicdomainreview.org/collections/american-day-in-tripoli-libya-1962/": {
+        "archive": "https://archive.org/details/gov.archives.arc.37715",
+        "freenessurl": "https://publicdomainreview.org/collections/american-day-in-tripoli-libya-1962/",
+        "status": "free",
+        "title": "American Day in Tripoli, Libya",
+        "year": 1962
+    },
+    "https://publicdomainreview.org/collections/are-you-popular-1947/": {
+        "archive": "https://archive.org/details/AreYouPo1947",
+        "freenessurl": "https://publicdomainreview.org/collections/are-you-popular-1947/",
+        "status": "free",
+        "title": "Are You Popular?",
+        "year": 1947
+    },
+    "https://publicdomainreview.org/collections/betty-boop-minnie-the-moocher-1932/": {
+        "archive": "https://archive.org/details/bb_minnie_the_moocher",
+        "freenessurl": "https://publicdomainreview.org/collections/betty-boop-minnie-the-moocher-1932/",
+        "status": "free",
+        "title": "Betty Boop: Minnie The Moocher",
+        "year": 1932
+    },
+    "https://publicdomainreview.org/collections/clay-animations-of-jospeh-sunn-1926/": {
+        "archive": "https://archive.org/details/prelinger",
+        "freenessurl": "https://publicdomainreview.org/collections/clay-animations-of-jospeh-sunn-1926/",
+        "status": "free",
+        "title": "Clay animations of Jospeh Sunn",
+        "year": 1926
+    },
+    "https://publicdomainreview.org/collections/development-of-a-salamander-1920s/": {
+        "archive": "https://archive.org/details/prelinger",
+        "freenessurl": "https://publicdomainreview.org/collections/development-of-a-salamander-1920s/",
+        "status": "free",
+        "title": "Development of a Salamander (1920s)"
+    },
+    "https://publicdomainreview.org/collections/dutch-fashion-reel-1969/": {
+        "freenessurl": "https://publicdomainreview.org/collections/dutch-fashion-reel-1969/",
+        "status": "free",
+        "title": "Dutch Fashion Reel",
+        "year": 1969
+    },
+    "https://publicdomainreview.org/collections/emile-cohls-fantasmagorie-1908/": {
+        "archive": "https://archive.org/details/Fantasmagori",
+        "freenessurl": "https://publicdomainreview.org/collections/emile-cohls-fantasmagorie-1908/",
+        "status": "free",
+        "title": "\u00c9mile Cohl\u2019s Fantasmagorie",
+        "year": 1908
+    },
+    "https://publicdomainreview.org/collections/farmer-plays-a-song-with-hand-farts-1933/": {
+        "archive": "https://archive.org/details/1933-10-11_Farmer_Plays_Tune_With_Hands",
+        "freenessurl": "https://publicdomainreview.org/collections/farmer-plays-a-song-with-hand-farts-1933/",
+        "status": "free",
+        "title": "Farmer plays a song with \u2018hand-farts\u2019",
+        "year": 1933
+    },
+    "https://publicdomainreview.org/collections/fashion-parade-amongst-the-ruins-of-rome-1964/": {
+        "archive": "https://archive.org/details/1964-10-26_Fashions",
+        "freenessurl": "https://publicdomainreview.org/collections/fashion-parade-amongst-the-ruins-of-rome-1964/",
+        "status": "free",
+        "title": "Fashion Parade amongst the Ruins of Rome",
+        "year": 1964
+    },
+    "https://publicdomainreview.org/collections/first-film-footage-from-space-1963/": {
+        "archive": "https://archive.org/details/1963-11-14_Space_Movie",
+        "freenessurl": "https://publicdomainreview.org/collections/first-film-footage-from-space-1963/",
+        "status": "free",
+        "title": "Early Footage From Space",
+        "year": 1963
+    },
+    "https://publicdomainreview.org/collections/first-year-anniversary-of-the-berlin-wall-1962/": {
+        "archive": "https://archive.org/details/1962-08-16_The_Wall",
+        "freenessurl": "https://publicdomainreview.org/collections/first-year-anniversary-of-the-berlin-wall-1962/",
+        "status": "free",
+        "title": "First Year Anniversary of the Berlin Wall",
+        "year": 1962
+    },
+    "https://publicdomainreview.org/collections/footage-of-the-twin-towers-being-built-1976/": {
+        "archive": "https://archive.org/details/world_trade_center",
+        "freenessurl": "https://publicdomainreview.org/collections/footage-of-the-twin-towers-being-built-1976/",
+        "status": "free",
+        "title": "Footage of the Twin Towers Being Built",
+        "year": 1976
+    },
+    "https://publicdomainreview.org/collections/frankenstein-1910/": {
+        "archive": "https://archive.org/details/Frankenstein1910",
+        "freenessurl": "https://publicdomainreview.org/collections/frankenstein-1910/",
+        "status": "free",
+        "title": "Frankenstein",
+        "year": 1910
+    },
+    "https://publicdomainreview.org/collections/growing-things-a-film-lesson-in-nature-study-1928/": {
+        "archive": "https://archive.org/details/6109_Growing_Things_A_Film_Lesson_in_Nature_Study_01_00_43_01",
+        "freenessurl": "https://publicdomainreview.org/collections/growing-things-a-film-lesson-in-nature-study-1928/",
+        "status": "free",
+        "title": "Growing Things: A Film Lesson in \u201cNature Study\u201d",
+        "year": 1928
+    },
+    "https://publicdomainreview.org/collections/gullivers-travels-1939/": {
+        "archive": "https://archive.org/details/GulliversTravels720p",
+        "freenessurl": "https://publicdomainreview.org/collections/gullivers-travels-1939/",
+        "status": "free",
+        "title": "Gulliver\u2019s Travels",
+        "year": 1939
+    },
+    "https://publicdomainreview.org/collections/hands-1944/": {
+        "archive": "https://archive.org/details/Hands1944",
+        "freenessurl": "https://publicdomainreview.org/collections/hands-1944/",
+        "status": "free",
+        "title": "Hands",
+        "year": 1944
+    },
+    "https://publicdomainreview.org/collections/haxan-witchcraft-through-the-ages-1922/": {
+        "freenessurl": "https://publicdomainreview.org/collections/haxan-witchcraft-through-the-ages-1922/",
+        "status": "free",
+        "title": "H\u00e4xan: Witchcraft Through The Ages",
+        "year": 1922
+    },
+    "https://publicdomainreview.org/collections/horse-drawn-fire-engines-1896/": {
+        "freenessurl": "https://publicdomainreview.org/collections/horse-drawn-fire-engines-1896/",
+        "status": "free",
+        "title": "Horse Drawn Fire Engines",
+        "year": 1896
+    },
+    "https://publicdomainreview.org/collections/jack-and-the-beanstalk-1902/": {
+        "freenessurl": "https://publicdomainreview.org/collections/jack-and-the-beanstalk-1902/",
+        "status": "free",
+        "title": "Jack and the Beanstalk",
+        "year": 1902
+    },
+    "https://publicdomainreview.org/collections/lambeth-walk-nazi-style-1942/": {
+        "archive": "https://archive.org/details/1942-01-07_Gen_Adolph_Takes_Over",
+        "freenessurl": "https://publicdomainreview.org/collections/lambeth-walk-nazi-style-1942/",
+        "status": "free",
+        "title": "Lambeth Walk \u2013 Nazi Style",
+        "year": 1942
+    },
+    "https://publicdomainreview.org/collections/little-tich-and-his-big-boot-dance-1900/": {
+        "freenessurl": "https://publicdomainreview.org/collections/little-tich-and-his-big-boot-dance-1900/",
+        "status": "free",
+        "title": "Little Tich and his Big Boot Dance",
+        "year": 1900
+    },
+    "https://publicdomainreview.org/collections/live-footage-of-king-alexanders-assassination-1934/": {
+        "archive": "https://archive.org/details/1934-10-17_King_Alexander_Assassination",
+        "freenessurl": "https://publicdomainreview.org/collections/live-footage-of-king-alexanders-assassination-1934/",
+        "status": "free",
+        "title": "Live footage of King Alexander\u2019s Assassination",
+        "year": 1934
+    },
+    "https://publicdomainreview.org/collections/new-york-worlds-fair-1939-40/": {
+        "archive": "https://archive.org/details/prelinger",
+        "freenessurl": "https://publicdomainreview.org/collections/new-york-worlds-fair-1939-40/",
+        "status": "free",
+        "title": "The New York World\u2019s Fair, 1939-40"
+    },
+    "https://publicdomainreview.org/collections/one-got-fat-bicycle-safety-1963/": {
+        "archive": "https://archive.org/details/OneGotFa1963",
+        "freenessurl": "https://publicdomainreview.org/collections/one-got-fat-bicycle-safety-1963/",
+        "status": "free",
+        "title": "One Got Fat: Bicycle Safety",
+        "year": 1963
+    },
+    "https://publicdomainreview.org/collections/one-world-or-none-1946/": {
+        "archive": "https://archive.org/details/0995_One_World_or_None_01_35_20_16",
+        "freenessurl": "https://publicdomainreview.org/collections/one-world-or-none-1946/",
+        "status": "free",
+        "title": "One World or None",
+        "year": 1946
+    },
+    "https://publicdomainreview.org/collections/opium-destruction-san-francisco-1914/": {
+        "archive": "https://archive.org/details/OpiumDes1914",
+        "freenessurl": "https://publicdomainreview.org/collections/opium-destruction-san-francisco-1914/",
+        "status": "free",
+        "title": "Opium Destruction, San Francisco",
+        "year": 1914
+    },
+    "https://publicdomainreview.org/collections/out-of-the-inkwell-the-tantalizing-fly-1919/": {
+        "archive": "https://archive.org/details/Fleischer_The_Tantalizing_Fly_1919",
+        "freenessurl": "https://publicdomainreview.org/collections/out-of-the-inkwell-the-tantalizing-fly-1919/",
+        "status": "free",
+        "title": "Out of the Inkwell: The Tantalizing Fly",
+        "year": 1919
+    },
+    "https://publicdomainreview.org/collections/passion-and-death-of-christ-1903/": {
+        "archive": "https://archive.org/details/LaVieEtLaPassionDeJsusChristpassionAndDeathOfChrist1903",
+        "freenessurl": "https://publicdomainreview.org/collections/passion-and-death-of-christ-1903/",
+        "status": "free",
+        "title": "Life and Passion of Christ",
+        "year": 1903
+    },
+    "https://publicdomainreview.org/collections/plastic-reconstruction-of-the-face-1918/": {
+        "freenessurl": "https://publicdomainreview.org/collections/plastic-reconstruction-of-the-face-1918/",
+        "status": "free",
+        "title": "Plastic Reconstruction of the Face",
+        "year": 1918
+    },
+    "https://publicdomainreview.org/collections/prelinger-archive-35mm-stock-footage/": {
+        "archive": "https://archive.org/details/35mmstockfootage",
+        "freenessurl": "https://publicdomainreview.org/collections/prelinger-archive-35mm-stock-footage/",
+        "status": "free",
+        "title": "35mm Stock Footage"
+    },
+    "https://publicdomainreview.org/collections/professor-weltons-boxing-cats-1894/": {
+        "freenessurl": "https://publicdomainreview.org/collections/professor-weltons-boxing-cats-1894/",
+        "status": "free",
+        "title": "Professor Welton\u2019s Boxing Cats",
+        "year": 1894
+    },
+    "https://publicdomainreview.org/collections/rip-van-winkle-1896/": {
+        "archive": "https://archive.org/details/rip_van_winkle_1896",
+        "freenessurl": "https://publicdomainreview.org/collections/rip-van-winkle-1896/",
+        "status": "free",
+        "title": "Rip Van Winkle",
+        "year": 1896
+    },
+    "https://publicdomainreview.org/collections/scrooge-or-marleys-ghost-1901/": {
+        "archive": "https://archive.org/details/ScroogeOrMarleysGhost1901",
+        "freenessurl": "https://publicdomainreview.org/collections/scrooge-or-marleys-ghost-1901/",
+        "status": "free",
+        "title": "Scrooge, or, Marley\u2019s Ghost",
+        "year": 1901
+    },
+    "https://publicdomainreview.org/collections/seeing-london-1918/": {
+        "archive": "https://archive.org/details/SeeingLo1920",
+        "freenessurl": "https://publicdomainreview.org/collections/seeing-london-1918/",
+        "status": "free",
+        "title": "Seeing London",
+        "year": 1918
+    },
+    "https://publicdomainreview.org/collections/sir-arthur-conan-doyle-interview-1927/": {
+        "freenessurl": "https://publicdomainreview.org/collections/sir-arthur-conan-doyle-interview-1927/",
+        "status": "free",
+        "title": "Sir Arthur Conan Doyle Interview",
+        "year": 1927
+    },
+    "https://publicdomainreview.org/collections/six-and-a-half-magic-hours-1958/": {
+        "archive": "https://archive.org/details/612Magic1958",
+        "freenessurl": "https://publicdomainreview.org/collections/six-and-a-half-magic-hours-1958/",
+        "status": "free",
+        "title": "Six and a Half Magic Hours",
+        "year": 1958
+    },
+    "https://publicdomainreview.org/collections/the-cabinet-of-dr-caligari-1920/": {
+        "archive": "https://archive.org/details/thecabinetofdrcaligari",
+        "freenessurl": "https://publicdomainreview.org/collections/the-cabinet-of-dr-caligari-1920/",
+        "status": "free",
+        "title": "The Cabinet of Dr. Caligari",
+        "year": 1920
+    },
+    "https://publicdomainreview.org/collections/the-centaurs-a-fragment-1921/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-centaurs-a-fragment-1921/",
+        "status": "free",
+        "title": "The Centaurs, a Fragment",
+        "year": 1921
+    },
+    "https://publicdomainreview.org/collections/the-dream-of-mrs-l-l-nicholson-from-oakland-california-1924/": {
+        "archive": "https://archive.org/details/TribuneA1924",
+        "freenessurl": "https://publicdomainreview.org/collections/the-dream-of-mrs-l-l-nicholson-from-oakland-california-1924/",
+        "status": "free",
+        "title": "The Dream of Mrs L.L. Nicholson from Oakland, California",
+        "year": 1924
+    },
+    "https://publicdomainreview.org/collections/the-frog-1908/": {
+        "archive": "https://archive.org/details/LaGrenouille#",
+        "freenessurl": "https://publicdomainreview.org/collections/the-frog-1908/",
+        "status": "free",
+        "title": "The Frog",
+        "year": 1908
+    },
+    "https://publicdomainreview.org/collections/the-general-1926/": {
+        "archive": "https://archive.org/details/TheGeneral1926",
+        "freenessurl": "https://publicdomainreview.org/collections/the-general-1926/",
+        "status": "free",
+        "title": "The General",
+        "year": 1926
+    },
+    "https://publicdomainreview.org/collections/the-great-train-robbery-1903/": {
+        "archive": "https://archive.org/details/TheGreatTrainRobbery1903_201307",
+        "freenessurl": "https://publicdomainreview.org/collections/the-great-train-robbery-1903/",
+        "status": "free",
+        "title": "The Great Train Robbery",
+        "year": 1903
+    },
+    "https://publicdomainreview.org/collections/the-hindenburg-explodes-1937/": {
+        "archive": "https://archive.org/details/hindenberg_explodes",
+        "freenessurl": "https://publicdomainreview.org/collections/the-hindenburg-explodes-1937/",
+        "status": "free",
+        "title": "The Hindenburg Explodes",
+        "year": 1937
+    },
+    "https://publicdomainreview.org/collections/the-home-movies-of-frank-richard-oastler/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-home-movies-of-frank-richard-oastler/",
+        "status": "free",
+        "title": "The Home Movies of Frank Richard Oastler"
+    },
+    "https://publicdomainreview.org/collections/the-kawana-trio-1919/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-kawana-trio-1919/",
+        "status": "free",
+        "title": "The Kawana Trio",
+        "year": 1919
+    },
+    "https://publicdomainreview.org/collections/the-knife-throwing-mother-and-her-children-ca-1950s/": {
+        "archive": "https://archive.org/details/KnifeThr1950",
+        "freenessurl": "https://publicdomainreview.org/collections/the-knife-throwing-mother-and-her-children-ca-1950s/",
+        "status": "free",
+        "title": "The Knife-Throwing Mother and her Children (1950s)"
+    },
+    "https://publicdomainreview.org/collections/the-man-with-the-rubber-head-1902/": {
+        "archive": "https://archive.org/details/LhommeLaTteDuCabinet",
+        "freenessurl": "https://publicdomainreview.org/collections/the-man-with-the-rubber-head-1902/",
+        "status": "free",
+        "title": "The Man With The Rubber Head",
+        "year": 1902
+    },
+    "https://publicdomainreview.org/collections/the-phantom-of-the-opera-1925/": {
+        "archive": "https://archive.org/details/ThePhantomoftheOpera",
+        "freenessurl": "https://publicdomainreview.org/collections/the-phantom-of-the-opera-1925/",
+        "status": "free",
+        "title": "The Phantom of the Opera",
+        "year": 1925
+    },
+    "https://publicdomainreview.org/collections/the-sky-a-film-lesson-in-nature-study-1928/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-sky-a-film-lesson-in-nature-study-1928/",
+        "status": "free",
+        "title": "The Sky: A Film Lesson in \u201cNature Study\u201d",
+        "year": 1928
+    },
+    "https://publicdomainreview.org/collections/the-somersault-man-1923/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-somersault-man-1923/",
+        "status": "free",
+        "title": "The Somersault Man",
+        "year": 1923
+    },
+    "https://publicdomainreview.org/collections/the-westinghouse-works-1904/": {
+        "freenessurl": "https://publicdomainreview.org/collections/the-westinghouse-works-1904/",
+        "status": "free",
+        "title": "The Westinghouse Works",
+        "year": 1904
+    },
+    "https://publicdomainreview.org/collections/tommy-burns-knocking-out-bill-squires-1907/": {
+        "archive": "https://archive.org/details/HeavyweightBoxing",
+        "freenessurl": "https://publicdomainreview.org/collections/tommy-burns-knocking-out-bill-squires-1907/",
+        "status": "free",
+        "title": "Tommy Burns knocking out Bill Squires",
+        "year": 1907
+    },
+    "https://publicdomainreview.org/collections/vd-is-for-everybody-1969/": {
+        "archive": "https://archive.org/details/vd_is_for_everybody",
+        "freenessurl": "https://publicdomainreview.org/collections/vd-is-for-everybody-1969/",
+        "status": "free",
+        "title": "VD is for Everybody",
+        "year": 1969
+    },
+    "https://publicdomainreview.org/collections/ww2-us-soldier-drag-show/": {
+        "archive": "https://archive.org/details/1942-02-04_Soldiers_Stage_Girlie_Show",
+        "freenessurl": "https://publicdomainreview.org/collections/ww2-us-soldier-drag-show/",
+        "status": "free",
+        "title": "WW2 U.S. Soldier Drag Show",
+        "year": 1942
+    },
+    "https://publicdomainreview.org/collections/your-name-here-1960/": {
+        "archive": "https://archive.org/details/YourName1960",
+        "freenessurl": "https://publicdomainreview.org/collections/your-name-here-1960/",
+        "status": "free",
+        "title": "Your Name Here",
+        "year": 1960
     }
 }
