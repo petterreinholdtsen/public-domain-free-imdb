@@ -1462,6 +1462,12 @@
 	"title" : "Leap Year",
 	"year" : 1921
     },
+    "http://www.imdb.com/title/tt0031448/": {
+	"freenessurl": "https://archive.org/details/01TheHoundOfTheBaskervilles1939",
+        "status": "free",
+        "title": "Sherlock Holmes: The Hound Of The Baskervilles ( 1939)",
+        "year": "1939"
+    },
     "http://www.imdb.com/title/tt0497710/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/always_tomorrow",
@@ -1473,6 +1479,12 @@
         "freenessurl": "https://archive.org/details/superman_the_man_of_steele",
         "archive": "https://archive.org/details/superman_1941",
         "title": "Superman - Son of Krypton",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0034116/": {
+        "freenessurl": "https://archive.org/details/02RoadToZanzibar1941",
+        "status": "free",
+        "title": "Road To Zanzibar ( 1941)",
         "year": "1941"
     },
     "http://www.imdb.com/title/tt0035345/": {
