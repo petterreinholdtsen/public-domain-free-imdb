@@ -292,13 +292,6 @@
         "wp": "https://en.wikipedia.org/wiki/The_Golem:_How_He_Came_into_the_World",
         "year": 1920
     },
-    "http://www.imdb.com/title/tt0011267/": {
-        "freenessurl": "https://publicdomainmovies.info/heading-home-1920-starring-baseball-player-babe-ruth/",
-        "status": "free",
-        "title": "Heading Home, 1920 starring baseball player Babe Ruth",
-        "wp": "https://en.wikipedia.org/wiki/Heading_Home",
-        "year": 1920
-    },
     "http://www.imdb.com/title/tt0011387/": {
         "freenessurl": "https://publicdomainmovies.info/last-mohicans-1920-american-film/",
         "status": "free",
@@ -472,6 +465,13 @@
         "status": "free",
         "title": "Oliver Twist (1922 film), featuring Lon Chaney",
         "wp": "https://en.wikipedia.org/wiki/Oliver_Twist_(1922_film)",
+        "year": 1922
+    },
+    "http://www.imdb.com/title/tt0013515/": {
+        "freenessurl": "https://publicdomainmovies.info/the-prisoner-of-zenda-1922/",
+        "status": "free",
+        "title": "The Prisoner of Zenda, 1922",
+        "wp": "https://en.wikipedia.org/wiki/The_Prisoner_of_Zenda_(1922_film)",
         "year": 1922
     },
     "http://www.imdb.com/title/tt0013556/": {
@@ -677,6 +677,13 @@
         "wp": "https://en.wikipedia.org/wiki/High_Voltage_(1929_film)",
         "year": 1929
     },
+    "http://www.imdb.com/title/tt0020080/": {
+        "freenessurl": "https://publicdomainmovies.info/the-last-warning-1929/",
+        "status": "free",
+        "title": "The Last Warning, 1929",
+        "wp": "https://en.wikipedia.org/wiki/The_Last_Warning",
+        "year": 1929
+    },
     "http://www.imdb.com/title/tt0020620/": {
         "freenessurl": "https://publicdomainmovies.info/abraham-lincoln-1930-film/",
         "status": "free",
@@ -773,13 +780,6 @@
         "status": "free",
         "title": "Lonely Wives \u2013 full movie",
         "wp": "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
-        "year": 1931
-    },
-    "http://www.imdb.com/title/tt0022254/": {
-        "freenessurl": "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/",
-        "status": "free",
-        "title": "Parlor, Bedroom and Bath, 1931 starring Buster Keaton",
-        "wp": "https://en.wikipedia.org/wiki/Parlor,_Bedroom_and_Bath",
         "year": 1931
     },
     "http://www.imdb.com/title/tt0022628/": {
@@ -1272,6 +1272,13 @@
         "wp": "https://en.wikipedia.org/wiki/December_7th:_The_Movie",
         "year": 1943
     },
+    "http://www.imdb.com/title/tt0036152/": {
+        "freenessurl": "https://publicdomainmovies.info/memphis-belle-a-story-of-a-flying-fortress-1944/",
+        "status": "free",
+        "title": "Memphis Belle: A Story of a Flying Fortress, 1944",
+        "wp": "https://en.wikipedia.org/wiki/Memphis_Belle:_A_Story_of_a_Flying_Fortress",
+        "year": 1944
+    },
     "http://www.imdb.com/title/tt0036163/": {
         "freenessurl": "https://publicdomainmovies.info/miss-london-ltd-1943-musical/",
         "status": "free",
@@ -1384,13 +1391,6 @@
         "wp": "https://en.wikipedia.org/wiki/The_Woman_in_Green",
         "year": 1945
     },
-    "http://www.imdb.com/title/tt0038300/": {
-        "freenessurl": "https://publicdomainmovies.info/angel-on-my-shoulder-1946/",
-        "status": "free",
-        "title": "Angel on My Shoulder, 1946",
-        "wp": "https://en.wikipedia.org/wiki/Angel_on_My_Shoulder_(film)",
-        "year": 1946
-    },
     "http://www.imdb.com/title/tt0038346/": {
         "freenessurl": "https://publicdomainmovies.info/behind-green-lights-1946-starring-carole-landis/",
         "status": "free",
@@ -1487,6 +1487,20 @@
         "status": "free",
         "title": "It\u2019s a Joke, Son!, 1947",
         "wp": "https://en.wikipedia.org/wiki/It%27s_a_Joke,_Son!",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039566/": {
+        "freenessurl": "https://publicdomainmovies.info/life-with-father-1947-starring-william-powell-and-irene-dunne/",
+        "status": "free",
+        "title": "Life with Father, 1947 starring William Powell and Irene Dunne",
+        "wp": "https://en.wikipedia.org/wiki/Life_with_Father_(film)",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0039645/": {
+        "freenessurl": "https://publicdomainmovies.info/my-favorite-brunette-1947-starring-bob-hope-and-dorothy-lamour/",
+        "status": "free",
+        "title": "My Favorite Brunette, 1947 starring Bob Hope and Dorothy Lamour.",
+        "wp": "https://en.wikipedia.org/wiki/My_Favorite_Brunette",
         "year": 1947
     },
     "http://www.imdb.com/title/tt0039912/": {
@@ -1748,6 +1762,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Violent_Years",
         "year": 1956
     },
+    "http://www.imdb.com/title/tt0050261/": {
+        "freenessurl": "https://publicdomainmovies.info/red-nightmare-1957/",
+        "status": "free",
+        "title": "Red Nightmare, 1957",
+        "wp": "https://en.wikipedia.org/wiki/Red_Nightmare",
+        "year": 1957
+    },
     "http://www.imdb.com/title/tt0051666/": {
         "freenessurl": "https://publicdomainmovies.info/gods-little-acre-film/",
         "status": "free",
@@ -1958,12 +1979,33 @@
         "wp": "https://en.wikipedia.org/wiki/Horror_Express",
         "year": 1972
     },
+    "http://www.imdb.com/title/tt0070694/": {
+        "freenessurl": "https://publicdomainmovies.info/silent-night-bloody-night-1972/",
+        "status": "free",
+        "title": "Silent Night, Bloody Night, 1972",
+        "wp": "https://en.wikipedia.org/wiki/Silent_Night,_Bloody_Night",
+        "year": 1972
+    },
+    "http://www.imdb.com/title/tt0071120/": {
+        "freenessurl": "https://publicdomainmovies.info/all-the-kind-strangers-1974/",
+        "status": "free",
+        "title": "All the Kind Strangers, 1974",
+        "wp": "https://en.wikipedia.org/wiki/All_the_Kind_Strangers",
+        "year": 1974
+    },
     "http://www.imdb.com/title/tt0077640/": {
         "freenessurl": "https://publicdomainmovies.info/war-of-the-robots-1978-film/",
         "status": "free",
         "title": "War of the Robots, 1978 film",
         "wp": "https://en.wikipedia.org/wiki/War_of_the_Robots_(film)",
         "year": 1978
+    },
+    "http://www.imdb.com/title/tt0080371/": {
+        "freenessurl": "https://publicdomainmovies.info/angel-on-my-shoulder-1946/",
+        "status": "free",
+        "title": "Angel on My Shoulder, 1946",
+        "wp": "https://en.wikipedia.org/wiki/Angel_on_My_Shoulder_(film)",
+        "year": 1946
     },
     "http://www.imdb.com/title/tt0086141/": {
         "freenessurl": "https://publicdomainmovies.info/prisoners-lost-universe-1983/",
@@ -2027,6 +2069,13 @@
         "wp": "https://en.wikipedia.org/wiki/Undercover_(OSS_training_film)",
         "year": 1943
     },
+    "http://www.imdb.com/title/tt0275310/": {
+        "freenessurl": "https://publicdomainmovies.info/dont-be-a-sucker-1943/",
+        "status": "free",
+        "title": "Don\u2019t Be a Sucker, 1943",
+        "wp": "https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker",
+        "year": 1943
+    },
     "http://www.imdb.com/title/tt0757564/": {
         "freenessurl": "https://publicdomainmovies.info/manos-hands-fate-1966/",
         "status": "free",
@@ -2062,11 +2111,19 @@
         "wp": "https://en.wikipedia.org/wiki/Glenn_Duffie_Shriver",
         "year": 2014
     },
-    "https://www.imdb.com/title/tt0071120/": {
-        "freenessurl": "https://publicdomainmovies.info/all-the-kind-strangers-1974/",
+    "http://www.imdb.com/title/tt7476784/": {
+        "freenessurl": "https://publicdomainmovies.info/heading-home-1920-starring-baseball-player-babe-ruth/",
         "status": "free",
-        "title": "All the Kind Strangers, 1974",
-        "year": 1974
+        "title": "Heading Home, 1920 starring baseball player Babe Ruth",
+        "wp": "https://en.wikipedia.org/wiki/Heading_Home",
+        "year": 1920
+    },
+    "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/": {
+        "freenessurl": "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/",
+        "status": "free",
+        "title": "Parlor, Bedroom and Bath, 1931 starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/Parlor,_Bedroom_and_Bath",
+        "year": 1931
     },
     "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/": {
         "freenessurl": "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/",
