@@ -3879,6 +3879,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q7748653",
         "year": "1934"
     },
+    "http://www.imdb.com/title/tt0025421/": {
+        "freenessurl": "https://archive.org/details/Lost_Jungle",
+        "status": "free",
+        "title": "The Lost Jungle",
+        "wdurl": "http://www.wikidata.org/entity/Q7748653",
+        "year": "1934"
+    },
     "http://www.imdb.com/title/tt0025424/": {
         "freenessurl": "https://archive.org/details/lost_in_the_stratosphere",
         "status": "free",
@@ -4454,6 +4461,13 @@
         "year": "1935"
     },
     "http://www.imdb.com/title/tt0026772/": {
+        "freenessurl": "https://archive.org/details/new_adventures_of_tarzan",
+        "status": "free",
+        "title": "The New Adventures of Tarzan",
+        "wdurl": "http://www.wikidata.org/entity/Q3080331",
+        "year": "1935"
+    },
+    "http://www.imdb.com/title/tt0026773/": {
         "freenessurl": "https://archive.org/details/new_adventures_of_tarzan",
         "status": "free",
         "title": "The New Adventures of Tarzan",
@@ -15504,6 +15518,13 @@
         "title": "Attack in the Pacific",
         "wdurl": "http://www.wikidata.org/entity/Q4817942",
         "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0276867/": {
+        "freenessurl": "https://archive.org/details/HealthForTheAmericasCleanlinessBringsHealth",
+        "status": "free",
+        "title": "Health for the Americas: Cleanliness Brings Health",
+        "wdurl": "http://www.wikidata.org/entity/Q59411238",
+        "year": "1945"
     },
     "http://www.imdb.com/title/tt0278120/": {
         "freenessurl": "https://archive.org/details/MaxLinderInAFarm-houseRomanceidylleALaFerme1912",
