@@ -3,7 +3,7 @@
 """
 According to
 https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States,
-every movie published in the USA before 1923 are now public domain.
+every movie published in the USA before 1924 are now public domain.
 
 All works published before 1912-07-01 in the United Kingdom is no longer
 protected, according to
@@ -20,9 +20,9 @@ import re
 import time
 import urlparse
 
-def fetch_search_result(entries, urlbase, page):
+def fetch_search_result(entries, urlbase, start):
     count = 0
-    url = urlbase % page
+    url = urlbase % start
     print url
     html = movielib.http_get_read(url)
     root = lxml.html.fromstring(html)
@@ -52,16 +52,20 @@ def fetch_search_result(entries, urlbase, page):
         return True
     return False
 
-def imdb_c_expired(entries, country='us', start=1874, end=1923,
+def imdb_c_expired(entries, country='us', start=1874, end=1924,
                    all=False, path=None):
+
+    pagesize = 50
+    
     # The oldest known movie was published in 1874
     for y in xrange(start, end):
-        urlbase = "http://www.imdb.com/search/title?country_of_origin=%s&year=%d&page=%%s" % (country, y)
+
+        urlbase = "http://www.imdb.com/search/title?country_of_origin=%s&year=%d&start=%%s" % (country, y)
         if not all:
             urlbase = urlbase + '&title_type=feature'
-        page = 1
-        while fetch_search_result(entries, urlbase, page):
-            page = page + 1
+        start = 1
+        while fetch_search_result(entries, urlbase, start):
+            start = start + pagesize
         if path:
             movielib.savelist(entries, name=path)
         time.sleep(10) # avoid overloading IMDB
@@ -75,7 +79,7 @@ def main():
                         help='the code for country of origin')
     parser.add_argument('--start', type=int, default=1874,
                         help='the first year to search for in IMDB')
-    parser.add_argument('--end', type=int, default=1923,
+    parser.add_argument('--end', type=int, default=1924,
                         help='stop searching before this year')
     args = parser.parse_args()
 
