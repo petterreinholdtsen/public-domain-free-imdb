@@ -12,6 +12,7 @@ listupdate:
 	./mklist-icheckmovies-archive-mochard
 	./mklist-publicdomainmovies-net --imdblookup
 	./mklist-publicdomainreview --imdblookup
+	./mklist-publicdomainmovies-info
 	./mklist-letterboxd-pd
 	./mklist-letterboxd-pd --baseurl=https://letterboxd.com/loureviews/list/internet-archive-silent-films --output=free-movies-letterboxd-silent.json
 	./mklist-letterboxd-pd --baseurl=https://letterboxd.com/robot2xl/list/looney-tunes-in-the-public-domain/ --output=free-movies-letterboxd-looney-tunes.json
