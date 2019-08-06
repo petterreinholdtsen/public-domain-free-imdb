@@ -29,6 +29,7 @@ def savelist(l, name = None):
                   sort_keys=True,
                   indent=4,
                   separators=(',', ': '))
+        out.write("\n")
 
 def test_imdb_lookup():
     # This one return several entries
