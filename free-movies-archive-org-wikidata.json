@@ -166,11 +166,25 @@
         "wdurl": "http://www.wikidata.org/entity/Q3614792",
         "year": "1910"
     },
+    "http://www.imdb.com/title/tt0001207/": {
+        "freenessurl": "https://archive.org/details/FAITHFUL1910BiographMackSennettD.W.Griffith",
+        "status": "free",
+        "title": "Faithful",
+        "wdurl": "http://www.wikidata.org/entity/Q3738487",
+        "year": "1910"
+    },
     "http://www.imdb.com/title/tt0001223/": {
         "freenessurl": "https://archive.org/details/FrankensteinfullMovie",
         "status": "free",
         "title": "Frankenstein",
         "wdurl": "http://www.wikidata.org/entity/Q1135816",
+        "year": "1910"
+    },
+    "http://www.imdb.com/title/tt0001265/": {
+        "freenessurl": "https://archive.org/details/10InTheBorderStates",
+        "status": "free",
+        "title": "In the Border States",
+        "wdurl": "http://www.wikidata.org/entity/Q3797416",
         "year": "1910"
     },
     "http://www.imdb.com/title/tt0001340/": {
@@ -318,6 +332,13 @@
         "status": "free",
         "title": "That Ragtime Band",
         "wdurl": "http://www.wikidata.org/entity/Q3519635",
+        "year": "1913"
+    },
+    "http://www.imdb.com/title/tt0003311/": {
+        "freenessurl": "https://archive.org/details/RajaHarishchandra1913",
+        "status": "free",
+        "title": "Raja Harishchandra",
+        "wdurl": "http://www.wikidata.org/entity/Q2985396",
         "year": "1913"
     },
     "http://www.imdb.com/title/tt0003427/": {
@@ -1137,6 +1158,13 @@
         "status": "free",
         "title": "Broken Blossoms",
         "wdurl": "http://www.wikidata.org/entity/Q905932",
+        "year": "1919"
+    },
+    "http://www.imdb.com/title/tt0009988/": {
+        "freenessurl": "https://archive.org/details/careerofkatherin00glyn",
+        "status": "free",
+        "title": "The Career of Katherine Bush",
+        "wdurl": "http://www.wikidata.org/entity/Q3986207",
         "year": "1919"
     },
     "http://www.imdb.com/title/tt0010103/": {
@@ -2162,6 +2190,13 @@
         "status": "free",
         "title": "The Passion of Joan of Arc",
         "wdurl": "http://www.wikidata.org/entity/Q51520",
+        "year": "1928"
+    },
+    "http://www.imdb.com/title/tt0019267/": {
+        "freenessurl": "https://archive.org/details/theLittleMatchGirllaPetiteMarchandeDallumettes1928",
+        "status": "free",
+        "title": "The Little Match Girl",
+        "wdurl": "http://www.wikidata.org/entity/Q822720",
         "year": "1928"
     },
     "http://www.imdb.com/title/tt0019278/": {
@@ -3326,6 +3361,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q3222685",
         "year": "1933"
     },
+    "http://www.imdb.com/title/tt0024076/": {
+        "freenessurl": "https://archive.org/details/GoofyGoatAntics1933",
+        "status": "free",
+        "title": "Goofy Goat Antics",
+        "wdurl": "http://www.wikidata.org/entity/Q5583785",
+        "year": "1931"
+    },
     "http://www.imdb.com/title/tt0024087/": {
         "freenessurl": "https://archive.org/details/1933-Hans-Westmar-Einer-von-vielen",
         "status": "free",
@@ -3395,6 +3437,11 @@
         "title": "Kickin' the Crown Around",
         "wdurl": "http://www.wikidata.org/entity/Q6404340",
         "year": "1933"
+    },
+    "http://www.imdb.com/title/tt0024228/": {
+        "freenessurl": "https://archive.org/details/BillSpragueCollection-KNIGHTDUTY-HARRYLANGDONEDUCATIONALPICTURES1933PUBLICDOMAIN",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q63498507"
     },
     "http://www.imdb.com/title/tt0024245/": {
         "freenessurl": "https://archive.org/details/laughing_at_life",
@@ -7631,6 +7678,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q5123820",
         "year": "1941"
     },
+    "http://www.imdb.com/title/tt0033489/": {
+        "freenessurl": "https://archive.org/details/AlessandroBlasettiLaCoronaDiFerro",
+        "status": "free",
+        "title": "The Iron Crown",
+        "wdurl": "http://www.wikidata.org/entity/Q536657",
+        "year": "1941"
+    },
     "http://www.imdb.com/title/tt0033491/": {
         "freenessurl": "https://archive.org/details/CottageToLet",
         "status": "free",
@@ -7650,6 +7704,13 @@
         "status": "free",
         "title": "Double Cross",
         "wdurl": "http://www.wikidata.org/entity/Q5299684",
+        "year": "1941"
+    },
+    "http://www.imdb.com/title/tt0033549/": {
+        "freenessurl": "https://archive.org/details/double_trouble_1941",
+        "status": "free",
+        "title": "Double Trouble",
+        "wdurl": "http://www.wikidata.org/entity/Q48674348",
         "year": "1941"
     },
     "http://www.imdb.com/title/tt0033576/": {
@@ -9456,6 +9517,13 @@
         "status": "free",
         "title": "Million Dollar Kid",
         "wdurl": "http://www.wikidata.org/entity/Q12061809",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt0037075/": {
+        "freenessurl": "https://archive.org/details/Ministry_of_Fear_Original_Trailer",
+        "status": "free",
+        "title": "Ministry of Fear",
+        "wdurl": "http://www.wikidata.org/entity/Q1262076",
         "year": "1944"
     },
     "http://www.imdb.com/title/tt0037076/": {
@@ -12258,6 +12326,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q1165301",
         "year": "1959"
     },
+    "http://www.imdb.com/title/tt0052611/": {
+        "freenessurl": "https://archive.org/details/TheGiantBehemothTrailer",
+        "status": "free",
+        "title": "Behemoth, the Sea Monster",
+        "wdurl": "http://www.wikidata.org/entity/Q3418812",
+        "year": "1959"
+    },
     "http://www.imdb.com/title/tt0052637/": {
         "freenessurl": "https://archive.org/details/The_Bloody_Brood_movie",
         "status": "free",
@@ -14358,6 +14433,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q7728157",
         "year": "1936"
     },
+    "http://www.imdb.com/title/tt0133735/": {
+        "freenessurl": "https://archive.org/details/ellenfoster00kaye",
+        "status": "free",
+        "title": "Ellen Foster",
+        "wdurl": "http://www.wikidata.org/entity/Q5364833",
+        "year": "1997"
+    },
     "http://www.imdb.com/title/tt0133763/": {
         "freenessurl": "https://archive.org/details/feud_maker",
         "status": "free",
@@ -15468,6 +15550,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q2411864",
         "year": "1959"
     },
+    "http://www.imdb.com/title/tt0249710/": {
+        "freenessurl": "https://archive.org/details/LeviAndCohenTheIrishComedians",
+        "status": "free",
+        "title": "Levi & Cohen, the Irish Comedians",
+        "wdurl": "http://www.wikidata.org/entity/Q60586641",
+        "year": "1903"
+    },
     "http://www.imdb.com/title/tt0257361/": {
         "freenessurl": "https://archive.org/details/0193_Act_Your_Age_E00002_12_30_45_12",
         "status": "free",
@@ -15537,6 +15626,13 @@
         "title": "The Magician",
         "wdurl": "http://www.wikidata.org/entity/Q2412650",
         "year": "1900"
+    },
+    "http://www.imdb.com/title/tt0275310/": {
+        "freenessurl": "https://archive.org/details/DontBeaS1947",
+        "status": "free",
+        "title": "Don't Be a Sucker!",
+        "wdurl": "http://www.wikidata.org/entity/Q5291456",
+        "year": "1943"
     },
     "http://www.imdb.com/title/tt0276344/": {
         "freenessurl": "https://archive.org/details/MurderwithMusic",
@@ -15830,6 +15926,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q7171248",
         "year": "1965"
     },
+    "http://www.imdb.com/title/tt0387851/": {
+        "freenessurl": "https://archive.org/details/backwhenweweregr00tyle_0",
+        "status": "free",
+        "title": "Back When We Were Grownups",
+        "wdurl": "http://www.wikidata.org/entity/Q4839192",
+        "year": "2004"
+    },
     "http://www.imdb.com/title/tt0387927/": {
         "freenessurl": "https://archive.org/details/CHILD",
         "status": "free",
@@ -15955,6 +16058,11 @@
         "title": "A Coach for Cinderella",
         "wdurl": "http://www.wikidata.org/entity/Q4655989",
         "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0446928/": {
+        "freenessurl": "https://archive.org/details/Beautiful_Clothes",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q63498510"
     },
     "http://www.imdb.com/title/tt0448463/": {
         "freenessurl": "https://archive.org/details/unset0000unse_k4a4",
@@ -16169,6 +16277,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q4659222",
         "year": "1937"
     },
+    "http://www.imdb.com/title/tt10636326/": {
+        "freenessurl": "https://archive.org/details/explaininghisairshiptothehon.c.s.rollsacervodomuseupaulistadausp",
+        "status": "free",
+        "title": "Explaining His Air Ship to the Hon. C.S. Rolls",
+        "wdurl": "http://www.wikidata.org/entity/Q61766597",
+        "year": "1901"
+    },
     "http://www.imdb.com/title/tt1110240/": {
         "freenessurl": "https://archive.org/details/climbershighinja00yoko",
         "status": "free",
@@ -16225,6 +16340,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q5564446",
         "year": "1947"
     },
+    "http://www.imdb.com/title/tt1415224/": {
+        "freenessurl": "https://archive.org/details/wanderingbladeja00keig",
+        "status": "free",
+        "title": "Samayou Yaiba",
+        "wdurl": "http://www.wikidata.org/entity/Q6132330",
+        "year": "2004"
+    },
     "http://www.imdb.com/title/tt1455178/": {
         "freenessurl": "https://archive.org/details/Lets_Join_Joanie",
         "status": "free",
@@ -16278,12 +16400,31 @@
         "wdurl": "http://www.wikidata.org/entity/Q774474",
         "year": "2010"
     },
+    "http://www.imdb.com/title/tt1918923/": {
+        "freenessurl": "https://archive.org/details/Love_Honor_and_Obey_the_Law",
+        "status": "free",
+        "wdurl": "http://www.wikidata.org/entity/Q63498514"
+    },
     "http://www.imdb.com/title/tt2210558/": {
         "freenessurl": "https://archive.org/details/Princess1939",
         "status": "free",
         "title": "The Princess and the Pauper",
         "wdurl": "http://www.wikidata.org/entity/Q7758320",
         "year": "1939"
+    },
+    "http://www.imdb.com/title/tt2299531/": {
+        "freenessurl": "https://archive.org/details/isbn_9784101311067",
+        "status": "free",
+        "title": "A Boy Called H",
+        "wdurl": "http://www.wikidata.org/entity/Q17001012",
+        "year": "2013"
+    },
+    "http://www.imdb.com/title/tt3112348/": {
+        "freenessurl": "https://archive.org/details/ChildrenInTheSurf",
+        "status": "free",
+        "title": "Children in the Surf at Coney Island",
+        "wdurl": "http://www.wikidata.org/entity/Q60854326",
+        "year": "1904"
     },
     "http://www.imdb.com/title/tt3268458/": {
         "freenessurl": "https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz",
@@ -16298,6 +16439,13 @@
         "title": "German Concentration Camps Factual Survey",
         "wdurl": "http://www.wikidata.org/entity/Q18750238",
         "year": "1945"
+    },
+    "http://www.imdb.com/title/tt3516888/": {
+        "freenessurl": "https://archive.org/details/ReturntoGuam",
+        "status": "free",
+        "title": "Return to Guam",
+        "wdurl": "http://www.wikidata.org/entity/Q7317293",
+        "year": "1944"
     },
     "http://www.imdb.com/title/tt4044364/": {
         "freenessurl": "https://archive.org/details/Citizen.Four2014",
@@ -16319,6 +16467,41 @@
         "title": "Nazis in the CIA",
         "wdurl": "http://www.wikidata.org/entity/Q50449653",
         "year": "2015"
+    },
+    "http://www.imdb.com/title/tt5161378/": {
+        "freenessurl": "https://archive.org/details/957thDay",
+        "status": "free",
+        "title": "The 957th Day",
+        "wdurl": "http://www.wikidata.org/entity/Q15068612",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt6014026/": {
+        "freenessurl": "https://archive.org/details/Challeng1944",
+        "status": "free",
+        "title": "A Challenge to Democracy",
+        "wdurl": "http://www.wikidata.org/entity/Q4655797",
+        "year": "1944"
+    },
+    "http://www.imdb.com/title/tt6626086/": {
+        "freenessurl": "https://archive.org/details/encore_un_hiver",
+        "status": "free",
+        "title": "One More Winter",
+        "wdurl": "http://www.wikidata.org/entity/Q21468842",
+        "year": "1979"
+    },
+    "http://www.imdb.com/title/tt7837312/": {
+        "freenessurl": "https://archive.org/details/OurJobInJapan1945",
+        "status": "free",
+        "title": "Our Job in Japan",
+        "wdurl": "http://www.wikidata.org/entity/Q7110683",
+        "year": "1945"
+    },
+    "http://www.imdb.com/title/tt8437350/": {
+        "freenessurl": "https://archive.org/details/WartimeN1943",
+        "status": "free",
+        "title": "Wartime Nutrition",
+        "wdurl": "http://www.wikidata.org/entity/Q7971038",
+        "year": "1943"
     },
     "http://www.imdb.com/title/tt8594004/": {
         "freenessurl": "https://archive.org/details/QaffStudioMadhOne",
