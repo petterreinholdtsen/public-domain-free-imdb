@@ -126,15 +126,8 @@
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
         "title": "Alg\u00e9rie, histoires \u00e0 ne pas dire (Algeria, Unspoken Stories)",
-        "wp": "https://en.wikipedia.org/wiki/Alg%C3%A9rie,_histoires_%C3%A0_ne_pas_dire",
+        "wp": "https://en.wikipedia.org/wiki/Algeria,_Unspoken_Stories",
         "year": "2007"
-    },
-    "http://www.imdb.com/title/tt1161861/": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
-        "status": "free",
-        "title": "A Lonely Place for Dying",
-        "wp": "https://en.wikipedia.org/wiki/A_Lonely_Place_for_Dying",
-        "year": "2015"
     },
     "http://www.imdb.com/title/tt1172203/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
@@ -493,8 +486,9 @@
     "http://www.imdb.com/title/tt4957236/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
-        "title": "Cosmos Laundromat (Gooseberry Open Movie Project)",
-        "wp": "https://en.wikipedia.org/wiki/Cosmos_Laundromat"
+        "title": "Cosmos Laundromat",
+        "wp": "https://en.wikipedia.org/wiki/Cosmos_Laundromat",
+        "year": "2015"
     },
     "http://www.imdb.com/title/tt5189422/": {
         "freenessurl": "https://en.wikipedia.org/wiki/List_of_open-source_films",
@@ -536,6 +530,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Good_Girl_(2004_film)",
         "year": "2004"
     },
+    "http://www.imdb.com/title/tt8100112/": {
+        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
+        "status": "free",
+        "title": "Frantz Fanon, une vie, un combat, une \u0153uvre",
+        "wp": "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre",
+        "year": "2001"
+    },
     "http://www.imdb.com/title/tt8328612/": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -554,20 +555,6 @@
         "title": "Afro@Digital",
         "wp": "https://en.wikipedia.org/wiki/Afro@Digital",
         "year": "2002"
-    },
-    "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "title": "Dix mille ans de cin\u00e9ma",
-        "wp": "https://en.wikipedia.org/wiki/Dix_mille_ans_de_cin%C3%A9ma",
-        "year": "1991"
-    },
-    "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
-        "status": "free",
-        "title": "Frantz Fanon, une vie, un combat, une \u0153uvre",
-        "wp": "https://en.wikipedia.org/wiki/Frantz_Fanon,_une_vie,_un_combat,_une_%C5%93uvre",
-        "year": "2001"
     },
     "https://en.wikipedia.org/wiki/Kin_Kiesse": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -597,13 +584,6 @@
         "wp": "https://en.wikipedia.org/wiki/Le_Congo,_quel_cin%C3%A9ma!",
         "year": "2005"
     },
-    "https://en.wikipedia.org/wiki/Le_Monsieur,_le_Vampire_et_Ren%C3%A9e_Marcelle": {
-        "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
-        "status": "free",
-        "title": "Le Monsieur, le Vampire et Ren\u00e9e Marcelle",
-        "wp": "https://en.wikipedia.org/wiki/Le_Monsieur,_le_Vampire_et_Ren%C3%A9e_Marcelle",
-        "year": "2009"
-    },
     "https://en.wikipedia.org/wiki/List_of_open-source_films": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_films",
         "status": "free",
@@ -614,7 +594,7 @@
         "status": "free",
         "title": "Mieux vaut mal vivre que mourir",
         "wp": "https://en.wikipedia.org/wiki/Mieux_vaut_mal_vivre_que_mourir",
-        "year": "2006"
+        "year": "2007"
     },
     "https://en.wikipedia.org/wiki/Moseka": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
@@ -665,11 +645,11 @@
         "status": "free",
         "wp": "https://en.wikipedia.org/wiki/VODO"
     },
-    "https://en.wikipedia.org/wiki/Yes,_we_fuck!": {
+    "https://en.wikipedia.org/wiki/Yes,_We_Fuck!": {
         "freenessurl": "https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_documentary_films",
         "status": "free",
-        "title": "Yes, we fuck!",
-        "wp": "https://en.wikipedia.org/wiki/Yes,_we_fuck!",
+        "title": "Yes, We Fuck!",
+        "wp": "https://en.wikipedia.org/wiki/Yes,_We_Fuck!",
         "year": "2015"
     },
     "https://wiki.creativecommons.org/wiki/A_Greater_Purpose": {
