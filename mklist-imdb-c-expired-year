@@ -60,7 +60,7 @@ def imdb_c_expired(entries, country='us', start=1874, end=1924,
     # The oldest known movie was published in 1874
     for y in xrange(start, end):
 
-        urlbase = "http://www.imdb.com/search/title?country_of_origin=%s&year=%d&start=%%s" % (country, y)
+        urlbase = "http://www.imdb.com/search/title?sort=release_date&country_of_origin=%s&year=%d&start=%%s" % (country, y)
         if not all:
             urlbase = urlbase + '&title_type=feature'
         start = 1
