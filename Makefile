@@ -23,7 +23,7 @@ listupdate:
 	./mklist-retrofilmvault --imdblookup
 	./mklist-openflix --imdblookup
 	./mklist-horrortheque-com
-	./mklist-filmchest-com
+	./mklist-filmchest-com --imdblookup
 	./mklist-infodigi-pd --imdblookup
 	./mklist-fesfilm --imdblookup
 	./mklist-fesfilm-xls
