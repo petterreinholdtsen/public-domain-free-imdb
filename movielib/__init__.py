@@ -35,7 +35,8 @@ def test_imdb_lookup():
     # This one return several entries
     print imdb_find_one("What Becomes of the Children?",1936)
 
-def imdb_find_one(title, year):
+def imdb_find_one(title, year, feature_only=False):
+
     """
 Look up title and year in IMDB, and return the IMDB title ID if only
 one title was found in the search result.
@@ -44,6 +45,8 @@ one title was found in the search result.
         return None
     url = "http://www.imdb.com/find?ref_=nv_sr_fn&q=%s+%d&s=all" % \
           (urllib.quote_plus(title), year)
+    if feature_only:
+        url += "&ttype=ft"
     #print(url)
     try:
         root = lxml.html.fromstring(http_get_read(url))
