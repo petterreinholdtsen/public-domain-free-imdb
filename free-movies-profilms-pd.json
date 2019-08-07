@@ -101,12 +101,6 @@
         "title": "BLANCHVILLE MONSTER, THE",
         "year": 1962
     },
-    "BLUE ANGEL, THE-1930": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "status": "free",
-        "title": "BLUE ANGEL, THE",
-        "year": 1930
-    },
     "BLUEBEARD-1944": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "status": "free",
@@ -166,6 +160,12 @@
         "status": "free",
         "title": "CASTLE IN THE AIR",
         "year": 1952
+    },
+    "CATHERINE THE GREAT-1934": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "CATHERINE THE GREAT",
+        "year": 1934
     },
     "CHALLENGE, THE-1939": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -413,6 +413,12 @@
         "title": "FLAME OVER INDIA",
         "year": 1960
     },
+    "FRANKENSTEIN'S DAUGHTER-1958": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "FRANKENSTEIN'S DAUGHTER",
+        "year": 1958
+    },
     "FRENCH TOUCH, THE-1954": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "status": "free",
@@ -436,6 +442,12 @@
         "status": "free",
         "title": "GANGBUSTERS",
         "year": 1954
+    },
+    "GANGSTER STORY-1959": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "GANGSTER STORY",
+        "year": 1959
     },
     "GASLIGHT FOLLIES-1955": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -467,6 +479,12 @@
         "title": "GUILTY OF TREASON",
         "year": 1944
     },
+    "GUNFIGHT AT RED SANDS-1964": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "GUNFIGHT AT RED SANDS",
+        "year": 1964
+    },
     "HEART BEAT-1946": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "status": "free",
@@ -484,6 +502,12 @@
         "status": "free",
         "title": "HELLTOWN",
         "year": 1938
+    },
+    "HERCULES AND THE CAPTIVE WOMEN-1963": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "HERCULES AND THE CAPTIVE WOMEN",
+        "year": 1963
     },
     "HERCULES UNCHAINED-1960": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -550,6 +574,12 @@
         "status": "free",
         "title": "I EAT YOUR SKIN",
         "year": 1964
+    },
+    "IMPACT-1949": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "IMPACT",
+        "year": 1949
     },
     "INDISCRETIN OF AN-1953": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -664,6 +694,12 @@
         "status": "free",
         "title": "LITTLE MEN",
         "year": 1941
+    },
+    "LITTLE PRINCESS, THE-1939": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "LITTLE PRINCESS, THE",
+        "year": 1939
     },
     "LONE RANGER, THE-1955": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -940,6 +976,12 @@
         "status": "free",
         "title": "PUBLIC COWBOY NUMBER 1",
         "year": 1937
+    },
+    "QUEEN KELLY-1929": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "QUEEN KELLY",
+        "year": 1929
     },
     "RACKETEER, THE-1929": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -1253,6 +1295,12 @@
         "title": "THREE STOOGES, THE BEST OF",
         "year": 1947
     },
+    "TILL THE CLOUDS ROLL BY-1946": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "status": "free",
+        "title": "TILL THE CLOUDS ROLL BY",
+        "year": 1946
+    },
     "TO THE LAST MAN-1932": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "status": "free",
@@ -1527,13 +1575,6 @@
         "title": "GLORIFYING THE AMERICAN GIRL",
         "year": 1929
     },
-    "http://www.imdb.com/title/tt0020298/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "QUEEN KELLY 1929",
-        "status": "free",
-        "title": "QUEEN KELLY",
-        "year": 1929
-    },
     "http://www.imdb.com/title/tt0020594/": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "imdblookup": "WITH BYRD AT THE SOUTH POLE 1930",
@@ -1553,6 +1594,13 @@
         "imdblookup": "APACHE KID'S ESCAPE, THE 1930",
         "status": "free",
         "title": "APACHE KID'S ESCAPE, THE",
+        "year": 1930
+    },
+    "http://www.imdb.com/title/tt0020697/": {
+        "freenessurl": "http://www.profilms.com/index.php/public-domain",
+        "imdblookup": "BLUE ANGEL, THE 1930",
+        "status": "free",
+        "title": "BLUE ANGEL, THE",
         "year": 1930
     },
     "http://www.imdb.com/title/tt0020758/": {
@@ -1742,13 +1790,6 @@
         "imdblookup": "BLUE STEEL 1934",
         "status": "free",
         "title": "BLUE STEEL",
-        "year": 1934
-    },
-    "http://www.imdb.com/title/tt0024962/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "CATHERINE THE GREAT 1934",
-        "status": "free",
-        "title": "CATHERINE THE GREAT",
         "year": 1934
     },
     "http://www.imdb.com/title/tt0025303/": {
@@ -2512,13 +2553,6 @@
         "imdblookup": "IN OLD CALIENTE 1939",
         "status": "free",
         "title": "IN OLD CALIENTE",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031580/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "LITTLE PRINCESS, THE 1939",
-        "status": "free",
-        "title": "LITTLE PRINCESS, THE",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031593/": {
@@ -3508,13 +3542,6 @@
         "title": "THAT BRENNAN GIRL",
         "year": 1946
     },
-    "http://www.imdb.com/title/tt0039035/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "TILL THE CLOUDS ROLL BY 1946",
-        "status": "free",
-        "title": "TILL THE CLOUDS ROLL BY",
-        "year": 1946
-    },
     "http://www.imdb.com/title/tt0039101/": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "imdblookup": "WHISTLE STOP 1946",
@@ -3849,13 +3876,6 @@
         "imdblookup": "GREEN PROMISE 1949",
         "status": "free",
         "title": "GREEN PROMISE",
-        "year": 1949
-    },
-    "http://www.imdb.com/title/tt0041503/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "IMPACT 1949",
-        "status": "free",
-        "title": "IMPACT",
         "year": 1949
     },
     "http://www.imdb.com/title/tt0041509/": {
@@ -4677,13 +4697,6 @@
         "title": "CRY FROM THE STREETS, A",
         "year": 1959
     },
-    "http://www.imdb.com/title/tt0051631/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "FRANKENSTEIN'S DAUGHTER 1958",
-        "status": "free",
-        "title": "FRANKENSTEIN'S DAUGHTER",
-        "year": 1958
-    },
     "http://www.imdb.com/title/tt0051936/": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "imdblookup": "MISSOURI TRAVELER 1958",
@@ -4733,13 +4746,6 @@
         "title": "BLACK TIGHTS",
         "year": 1962
     },
-    "http://www.imdb.com/title/tt0053850/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "GANGSTER STORY 1959",
-        "status": "free",
-        "title": "GANGSTER STORY",
-        "year": 1959
-    },
     "http://www.imdb.com/title/tt0054033/": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
         "imdblookup": "LITTLE SHOP OF HORRORS, THE 1960",
@@ -4760,13 +4766,6 @@
         "status": "free",
         "title": "DOCTOR BLOOD'S COFFIN",
         "year": 1961
-    },
-    "http://www.imdb.com/title/tt0054851/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "HERCULES AND THE CAPTIVE WOMEN 1963",
-        "status": "free",
-        "title": "HERCULES AND THE CAPTIVE WOMEN",
-        "year": 1963
     },
     "http://www.imdb.com/title/tt0054883/": {
         "freenessurl": "http://www.profilms.com/index.php/public-domain",
@@ -4794,13 +4793,6 @@
         "imdblookup": "ATTACK OF THE NORMANS 1964",
         "status": "free",
         "title": "ATTACK OF THE NORMANS",
-        "year": 1964
-    },
-    "http://www.imdb.com/title/tt0057016/": {
-        "freenessurl": "http://www.profilms.com/index.php/public-domain",
-        "imdblookup": "GUNFIGHT AT RED SANDS 1964",
-        "status": "free",
-        "title": "GUNFIGHT AT RED SANDS",
         "year": 1964
     },
     "http://www.imdb.com/title/tt0057102/": {
