@@ -54,6 +54,8 @@ def fetch_movie_list(args, list, url):
             print("'%s' - '%s'" % (title, year))
             ref = title+" "+names
             if args.imdblookup:
+                # Tested searching for title + names + year, but it
+                # gave less hits.  Not sure why.
                 imdb = movielib.imdb_find_one(title, year, feature_only=True)
                 if imdb:
                     ref = imdb
