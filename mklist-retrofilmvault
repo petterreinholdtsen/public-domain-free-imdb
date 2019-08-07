@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 Fetch list of movies available from RetroFilmVault.  All their movies
@@ -24,31 +25,65 @@ import urllib
 import urllib2
 import urlparse
 
+from copy import deepcopy
+
+def dumplist(list, name):
+    outlist = deepcopy(list)
+    # Rewrite freenessurl array to individual fields (freenessurl,
+    # freenessurl2, freenessurl3...) in predictable/sorted order
+    for i in outlist:
+        if 1 == len(outlist[i]['freenessurl']):
+            outlist[i]['freenessurl'] = outlist[i]['freenessurl'][0]
+        else:
+            sl = sorted(outlist[i]['freenessurl'])
+            outlist[i]['freenessurl'] = sl[0]
+            seq = 0
+            for u in sl[1:]:
+                field = "freenessurl%d" % (seq + 2)
+                outlist[i][field] = u
+                seq = seq + 1
+                
+    movielib.savelist(outlist, name=name)
+
 def fetch_movie_info(entryurl):
     try:
         root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
     retval = {}
-    cps = root.cssselect("div#content p")
-    if cps:
-        title = root.cssselect("h1")[0].text_content().strip()
-        retval['title'] = title
-        stars = cps[0].text_content()
-        info = cps[1].text_content()
-        print info
-        retval['stars'] = stars
-        retval['info'] = info
-        m = re.search("^(.+) (\d+)$", info)
-        if m:
+    title = root.cssselect("h2[itemprop=name]")[0].text_content().strip()
+    title = title.replace(u"’", "'")\
+                 .replace(u"‘", "'")\
+                 .replace(u'\ufffd', "'")\
+                 .replace(u'“', '"')\
+                 .replace(u'”', '"')\
+                 .replace(u"–", "-")\
+                 .replace(u"…", "...")\
+                 .replace(u"é", "e")\
+                 .replace(u"ñ", "n")\
+                 .replace(u"\xa0", " ") # nobreak space
+    retval['title'] = title
+    m = re.search("^(.+) (\d+)$", title)
+    if m:
+        y = int(m.group(2))
+        if 1875 < y and y < 3000:
             retval['year'] = int(m.group(2))
-    else:
-        y = root.cssselect("tr.listing_category_year td")
-        if y:
-            year = y[1].text_content()
+            retval['title'] = m.group(1)
+    y = root.cssselect("tr.listing_category_year td")
+    if y:
+        year = y[1].text_content()
+        try:
             retval['year'] = int(year)
-        c = root.cssselect("tr.listing_category_public-domain-movie-category td")[1].text_content()
+        except ValueError:
+            # Workaround for
+            # 'https://retrofilmvault.com/listings/a-child-is-born-television/'
+            # listing 'Year: Television'
+            pass
+    cref = root.cssselect("tr.listing_category_public-domain-movie-category td")
+    if cref:
+        c = cref[1].text_content()
         retval['category'] = c
+    print(retval)
     return retval
 
 def fetch_movie_list(args, l, url, name):
@@ -56,45 +91,62 @@ def fetch_movie_list(args, l, url, name):
         root = lxml.html.fromstring(movielib.http_get_read(url))
     except urllib2.HTTPError as e:
         return None
-    for a in root.cssselect("a[href]"):
-        entryurl = urlparse.urljoin(url, a.attrib['href'])
-        if is_in_list(l, entryurl):
-            continue
-        title = a.text_content()
-        print entryurl
-        info = fetch_movie_info(entryurl)
-        if not info:
-            print("error: found broken link %s" % entryurl)
-        #print info
-        imdb = None
-        if info and 'year' in info:
-            year = info['year']
-        else:
-            year = None
-        entry = {
-            'status' : 'free',
-            'freenessurl' : [entryurl],
-            'title' : title,
-            'updated' : datetime.datetime.now().isoformat(),
-        }
-        if args.imdblookup:
-            imdb = movielib.imdb_find_one(title, year)
-            if imdb:
-                entry['imdblookup'] = '%s %d' % (title, year)
-        if not imdb:
-            imdb = entryurl
-        if year:
-            entry['year'] = year
-        if imdb not in l:
-            l[imdb] = entry
-        else:
-            if entryurl not in l[imdb]['freenessurl']:
-                l[imdb]['freenessurl'].append(entryurl)
-            for f in ['updated', 'imdblookup']:
-                if f in entry:
-                    l[imdb][f] = entry[f]
-        print(imdb, l[imdb])
-        movielib.savelist(l, name=name)
+    lastref = root.cssselect("span.total_pages")
+    if lastref:
+        print(lastref[0].text)
+        last = int(lastref[0].text)
+    else:
+        last = 1
+    page = 1
+    while page <= last:
+        for a in root.cssselect("a.inventory[href]"):
+            entryurl = urlparse.urljoin(url, a.attrib['href'])
+            if is_in_list(l, entryurl):
+                continue
+            title = a.text_content().strip()
+            print entryurl
+            info = fetch_movie_info(entryurl)
+            if 'title' in info:
+                title = info['title']
+            if not info:
+                print("error: found broken link %s" % entryurl)
+            #print info
+            imdb = None
+            if info and 'year' in info:
+                year = info['year']
+            else:
+                year = None
+            entry = {
+                'status' : 'free',
+                'freenessurl' : [entryurl],
+                'title' : title,
+                'updated' : datetime.datetime.now().isoformat(),
+            }
+            if args.imdblookup:
+                print("IMDB search for %s %s" % (title, year))
+                imdb = movielib.imdb_find_one(title, year)
+                if imdb:
+                    entry['imdblookup'] = '%s %d' % (title, year)
+            if not imdb:
+                imdb = entryurl
+            if year:
+                entry['year'] = year
+            if imdb not in l:
+                l[imdb] = entry
+            else:
+                if entryurl not in l[imdb]['freenessurl']:
+                    l[imdb]['freenessurl'].append(entryurl)
+                for f in ['updated', 'imdblookup']:
+                    if f in entry:
+                        l[imdb][f] = entry[f]
+            print(imdb, l[imdb])
+            dumplist(l, name=name)
+        try:
+            pageurl = url + "&paged=%d" % page
+            root = lxml.html.fromstring(movielib.http_get_read(pageurl))
+        except urllib2.HTTPError as e:
+            return None
+        page += 1
     return l
 
 def is_in_list(list, url):
@@ -130,27 +182,12 @@ def main():
     parser.add_argument('--imdblookup', action='store_true', default=False,
                         help='also find title IDs by searching for title/year in IMDB')
     args = parser.parse_args()
-    url = "https://retrofilmvault.com/publicdomainfilms/"
+    url = "https://retrofilmvault.com/public-domain-movies/?listing_order=titles&listing_orderby=ASC"
     path='free-movies-retrofilmvault.json'
     outlist = {}
     outlist = loadlist(outlist, path)
     outlist = fetch_movie_list(args, outlist, url, name=path)
-    
-    # Rewrite freenessurl array to individual fields (freenessurl,
-    # freenessurl2, freenessurl3...) in predictable/sorted order
-    for i in outlist:
-        if 1 == len(outlist[i]['freenessurl']):
-            outlist[i]['freenessurl'] = outlist[i]['freenessurl'][0]
-        else:
-            sl = sorted(outlist[i]['freenessurl'])
-            outlist[i]['freenessurl'] = sl[0]
-            seq = 0
-            for u in sl[1:]:
-                field = "freenessurl%d" % (seq + 2)
-                outlist[i][field] = u
-                seq = seq + 1
-                
-    movielib.savelist(outlist, name=path)
+    dumplist(outlist, name=path)
 
 if __name__ == '__main__':
     main()
