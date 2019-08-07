@@ -21,7 +21,7 @@ def get_movie_info(entryurl):
         root = lxml.html.fromstring(movielib.http_get_read(entryurl))
     except urllib2.HTTPError as e:
         return None
-    for a in root.cssselect("span.film-ext-links a[data-track-action=IMDb]"):
+    for a in root.cssselect("p.text-link a[data-track-action=IMDb]"):
         if -1 != a.attrib['href'].find("imdb.com"):
             imdburl = a.attrib['href']
             imdburl = imdburl.replace('/maindetails', '/')
