@@ -47,11 +47,14 @@ def fetch_movie_list(args, list, url):
                 year = int(m.group(1))
             else:
                 year = None
-            names = tds[3].text_content()
+            names = tds[3].text_content().strip()
+            names = names.replace(u'\xa0', ' ') # nobreak space
+            names = names.replace(u'\x0a', ' ') # newline
+            names = names.replace(u'\x0d', ' ') # carrige return
             print("'%s' - '%s'" % (title, year))
-            ref = title+names
+            ref = title+" "+names
             if args.imdblookup:
-                imdb = movielib.imdb_find_one(title, year)
+                imdb = movielib.imdb_find_one(title, year, feature_only=True)
                 if imdb:
                     ref = imdb
                     info['imdblookup'] = '%s %d' % (title, year)
