@@ -39,3 +39,11 @@ histogram-year.png: histogram-year-plot histogram-year.data
 
 complete-imdb-list.csv: json2csv free-movies-*.json
 	./json2csv free-movies-*.json |sort> $@
+
+# This step require ~100 MiB on disk
+title.basics.tsv.gz:
+	curl --silent https://datasets.imdbws.com/title.basics.tsv.gz > $@.new && mv $@.new $@
+histogram-title.basics.csv: title.basics.tsv.gz
+	gunzip < title.basics.tsv.gz | awk --field-separator "\t" \
+          '("short" == $$2 || "movie" == $$2) && 2019 > $$6  { hist[$$6]++} END { for (y in hist) print y, hist[y] }' \
+        > $@.new && mv $@.new $@
