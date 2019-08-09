@@ -71,6 +71,7 @@ def locate_imdb_refs(text):
         newimdbs = []
         for i in imdbs:
             i = i.replace('/imdb.com/', '/www.imdb.com/')
+            i = i.replace('https://', 'http://')
             if '/' != i[-1]:
                 i = i + '/'
             newimdbs.append(i)
