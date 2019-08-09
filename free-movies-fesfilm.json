@@ -5,6 +5,12 @@
         "title": "\"Max\"\n\t\t\t\"Out of Step Time.\"\n\t\t \"Juggernaut\"\n\t\t\"Rogues.\"",
         "year": 1978
     },
+    "A Bucket of Blood, A-1959": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "status": "free",
+        "title": "A Bucket of Blood, A",
+        "year": 1959
+    },
     "A Quiet Place-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
@@ -35,6 +41,12 @@
         "status": "free",
         "title": "ADVENTURES OF THE FLYING CADETS"
     },
+    "Abe Lincoln of Ninth Avenue (aka Streets of New York)-1939": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "status": "free",
+        "title": "Abe Lincoln of Ninth Avenue (aka Streets of New York)",
+        "year": 1939
+    },
     "Algiers-1938": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
@@ -47,10 +59,17 @@
         "title": "Ape, The",
         "year": 1940
     },
-    "Apple in His Eye-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Atomic Rulers of the World-1964": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
         "status": "free",
-        "title": "Apple in His Eye"
+        "title": "Atomic Rulers of the World",
+        "year": 1964
+    },
+    "Attack from Space-1965": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "status": "free",
+        "title": "Attack from Space",
+        "year": 1965
     },
     "Attack of the Giant Leeches-1959": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -58,15 +77,16 @@
         "title": "Attack of the Giant Leeches",
         "year": 1959
     },
+    "Attack of the Monsters-1965": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "status": "free",
+        "title": "Attack of the Monsters",
+        "year": 1965
+    },
     "BURN 'EM UP BARNES-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
         "status": "free",
         "title": "BURN 'EM UP BARNES"
-    },
-    "Baby Daze-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Baby Daze"
     },
     "Battle Beyond the Sun-1960": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -84,11 +104,6 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "Beulah Goes Gardening"
-    },
-    "Big Beef-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Big Beef"
     },
     "Bill the Babysitter-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -112,33 +127,16 @@
         "status": "free",
         "title": "Bing Crosby Timex Special"
     },
-    "Bing Crosby at Mack Sennett-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Bing Crosby at Mack Sennett"
-    },
     "Black Cobra - 1-1987": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "Black Cobra - 1",
         "year": 1987
     },
-    "Black Fist-1975": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
-        "status": "free",
-        "title": "Black Fist",
-        "year": 1975
-    },
     "Black Saturday-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "Black Saturday"
-    },
-    "Blacksmith-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Blacksmith",
-        "year": 1923
     },
     "Bluebeard-1944": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
@@ -152,12 +150,6 @@
         "title": "Borderline",
         "year": 1950
     },
-    "Bucket of Blood, A-1959": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Bucket of Blood, A",
-        "year": 1959
-    },
     "Camptown Races-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
@@ -169,29 +161,23 @@
         "title": "Carnival Story",
         "year": 1954
     },
+    "Charade-1963": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "status": "free",
+        "title": "Charade",
+        "year": 1963
+    },
     "Clark and McCullough Comedy Festival-1930": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
         "title": "Clark and McCullough Comedy Festival",
         "year": 1930
     },
-    "College-1927": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "College",
-        "year": 1927
-    },
     "Commandos-1968": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "status": "free",
         "title": "Commandos",
         "year": 1968
-    },
-    "Cops-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Cops",
-        "year": 1923
     },
     "Creature from the Haunted Sea-1961": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -216,10 +202,10 @@
         "title": "Dark Mountain",
         "year": 1936
     },
-    "Delta Force Commandos-1988": {
+    "Delta Force Commando-1988": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "status": "free",
-        "title": "Delta Force Commandos",
+        "title": "Delta Force Commando",
         "year": 1988
     },
     "Dementia 13-1963": {
@@ -234,6 +220,12 @@
         "title": "Desert Commandos",
         "year": 1977
     },
+    "Destroy All Planets-1968": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "status": "free",
+        "title": "Destroy All Planets",
+        "year": 1968
+    },
     "Devil's Hand-1961": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
@@ -246,10 +238,11 @@
         "title": "Double Cross",
         "year": 1941
     },
-    "Drafted in the Depot-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Dr. Jekyll and Mr. Hyde-1955": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
-        "title": "Drafted in the Depot"
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "year": 1955
     },
     "Drive In Massacre-1974": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -269,16 +262,17 @@
         "title": "Duke of the Navy",
         "year": 1947
     },
-    "Edgar Hamlet-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Edgar Hamlet"
-    },
     "Eegah!-1962": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
         "title": "Eegah!",
         "year": 1962
+    },
+    "Evel Knievel-1972": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "status": "free",
+        "title": "Evel Knievel",
+        "year": 1972
     },
     "Eyes in the Night-1942": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
@@ -312,11 +306,6 @@
         "title": "Father's Little Dividend",
         "year": 1941
     },
-    "Feather Your Nest-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Feather Your Nest"
-    },
     "Fiesta-1943": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "status": "free",
@@ -327,6 +316,11 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "status": "free",
         "title": "Film noir"
+    },
+    "Firehouse-None": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "status": "free",
+        "title": "Firehouse"
     },
     "Flirtation-1934": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -350,31 +344,8 @@
         "status": "free",
         "title": "GREEN HORNET STRIKES AGAIN"
     },
-    "Gamera - Attack of the Monsters-1965": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Gamera - Attack of the Monsters",
-        "year": 1965
-    },
-    "Gamera - Destroy All Planets-1968": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Gamera - Destroy All Planets",
-        "year": 1968
-    },
-    "Gamera - War of the Monsters-1966": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Gamera - War of the Monsters",
-        "year": 1966
-    },
-    "Gasoloons-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Gasoloons"
-    },
     "Get Christie Love-1974": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
         "status": "free",
         "title": "Get Christie Love",
         "year": 1974
@@ -384,11 +355,6 @@
         "status": "free",
         "title": "Go Down Death",
         "year": 1941
-    },
-    "Good House Wrecking-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Good House Wrecking"
     },
     "Guy with the Secret Kung Fu-1981": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -405,12 +371,6 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
         "status": "free",
         "title": "HURRICANE EXPRESS"
-    },
-    "Haunted House-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Haunted House",
-        "year": 1923
     },
     "Haunts-1977": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -441,32 +401,28 @@
         "title": "Heros of Shaolin, Parts 1 and 2",
         "year": 1979
     },
-    "High Sign-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Hitler - Beast of Berlin-1942": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "status": "free",
-        "title": "High Sign",
-        "year": 1923
+        "title": "Hitler - Beast of Berlin",
+        "year": 1942
+    },
+    "Hitler - Dead or Alive-1939": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
+        "status": "free",
+        "title": "Hitler - Dead or Alive",
+        "year": 1939
     },
     "Hittin' the Trail for Hallelujah Land-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "Hittin' the Trail for Hallelujah Land"
     },
-    "Hold Your Temper-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Impact-1949": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "status": "free",
-        "title": "Hold Your Temper"
-    },
-    "Horrors of Spider island-1962": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Horrors of Spider island",
-        "year": 1962
-    },
-    "I'll Fix it-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "I'll Fix it"
+        "title": "Impact",
+        "year": 1949
     },
     "In the Year 2889-1967": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -485,16 +441,29 @@
         "status": "free",
         "title": "Inki and the Minah Bird"
     },
+    "Inner Circle-1946": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "status": "free",
+        "title": "Inner Circle",
+        "year": 1946
+    },
+    "Irish Luck-1941": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "status": "free",
+        "title": "Irish Luck",
+        "year": 1941
+    },
+    "Island of Forgotten Sins-1943": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "status": "free",
+        "title": "Island of Forgotten Sins",
+        "year": 1943
+    },
     "It Seemed Like a Good Idea at the Time-1975": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
         "title": "It Seemed Like a Good Idea at the Time",
         "year": 1975
-    },
-    "It's your Move-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "It's your Move"
     },
     "JUNIOR G-MEN OF THE AIR-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
@@ -505,6 +474,12 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
         "status": "free",
         "title": "JUNIOR G-MEN"
+    },
+    "Jesse James Meets Frankenstein's Daughter-1966": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "status": "free",
+        "title": "Jesse James Meets Frankenstein's Daughter",
+        "year": 1966
     },
     "Jingle, Jangle, Jungle-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -532,11 +507,6 @@
         "status": "free",
         "title": "Kansas City Confidential",
         "year": 1959
-    },
-    "Kennedy the Great-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Kennedy the Great"
     },
     "Killer Shrews-1959": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -599,12 +569,6 @@
         "status": "free",
         "title": "Little Black Sambo"
     },
-    "Little Shop of Horrors-1960": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Little Shop of Horrors",
-        "year": 1960
-    },
     "Little Tough Guy-1938": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
@@ -631,22 +595,17 @@
         "status": "free",
         "title": "MYSTERY TROOPER"
     },
-    "Mad About Moonshine-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Mad Youth-1940": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
         "status": "free",
-        "title": "Mad About Moonshine"
+        "title": "Mad Youth",
+        "year": 1940
     },
     "Make a Million-1935": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
         "title": "Make a Million",
         "year": 1935
-    },
-    "Manos, the Hands of Fate-1966": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Manos, the Hands of Fate",
-        "year": 1966
     },
     "Marihuana-1936": {
         "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
@@ -690,39 +649,11 @@
         "title": "Monster from a Prehistoric Planet",
         "year": 1967
     },
-    "Monstroid: It Came from the Lake-1979": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Monstroid: It Came from the Lake",
-        "year": 1979
-    },
     "Moon of the Wolf-1972": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
         "title": "Moon of the Wolf",
         "year": 1972
-    },
-    "Motor Maniacs-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Motor Maniacs"
-    },
-    "Murder by Invitation-1941": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "status": "free",
-        "title": "Murder by Invitation",
-        "year": 1941
-    },
-    "Murder in Soho-1940": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "status": "free",
-        "title": "Murder in Soho",
-        "year": 1940
-    },
-    "Mutiny in the County-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Mutiny in the County"
     },
     "Mutiny-1952": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
@@ -736,16 +667,11 @@
         "title": "Naked Youth",
         "year": 1961
     },
-    "Neighbors-1923": {
+    "Never Wave at a WAC-1953": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
-        "title": "Neighbors",
-        "year": 1923
-    },
-    "Never the Twins Shall Meet-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Never the Twins Shall Meet"
+        "title": "Never Wave at a WAC",
+        "year": 1953
     },
     "New Adventures of Tarzan-1935": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
@@ -758,22 +684,29 @@
         "status": "free",
         "title": "New Arrival"
     },
-    "New Faces-1953": {
+    "New Faces of 1952-1953": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "status": "free",
-        "title": "New Faces",
+        "title": "New Faces of 1952",
         "year": 1953
-    },
-    "Next Door Neighbors-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Next Door Neighbors"
     },
     "Night Fright-1967": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
         "title": "Night Fright",
         "year": 1967
+    },
+    "Night of Execution-1955": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "status": "free",
+        "title": "Night of Execution",
+        "year": 1955
+    },
+    "Night of the Blood Beast-1958": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "status": "free",
+        "title": "Night of the Blood Beast",
+        "year": 1958
     },
     "Ninja Death - 1-1987": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -809,23 +742,22 @@
         "title": "Oliver Twist",
         "year": 1933
     },
-    "One Week-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Panic in Echo Park-None": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
-        "title": "One Week",
-        "year": 1923
-    },
-    "Paleface-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Paleface",
-        "year": 1923
+        "title": "Panic in Echo Park"
     },
     "Parole Inc.-1949": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "status": "free",
         "title": "Parole Inc.",
         "year": 1949
+    },
+    "Passenger to Bali-1932": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "status": "free",
+        "title": "Passenger to Bali",
+        "year": 1932
     },
     "Patterns-1956": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -839,39 +771,16 @@
         "title": "Perils of the Jungle",
         "year": 1953
     },
-    "Phantom Ship-1935": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Phantom Ship",
-        "year": 1935
-    },
-    "Phantom from Space-1953": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Phantom from Space",
-        "year": 1953
-    },
     "Plane Dumb-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "Plane Dumb"
     },
-    "Playhouse-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Postmark for Danger-1955": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "status": "free",
-        "title": "Playhouse",
-        "year": 1923
-    },
-    "Please Murder Me-1956": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "status": "free",
-        "title": "Please Murder Me",
-        "year": 1956
-    },
-    "Poisoned Ivory-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Poisoned Ivory"
+        "title": "Postmark for Danger",
+        "year": 1955
     },
     "Prisoners of the Lost Universe-1983": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -905,26 +814,27 @@
         "status": "free",
         "title": "RIDERS OF DEATH VALLEY 1941 Dick Foran, Buck Jones 15 Chapters"
     },
-    "Radio Rampage-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Rain-1932": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
-        "title": "Radio Rampage"
+        "title": "Rain",
+        "year": 1932
     },
     "Rasslin' Match-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
         "title": "Rasslin' Match"
     },
+    "Rattlers-1976": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "status": "free",
+        "title": "Rattlers",
+        "year": 1976
+    },
     "Reaching for the Moon-1931": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "status": "free",
         "title": "Reaching for the Moon",
-        "year": 1931
-    },
-    "Reg'lar Fellers-1931": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Reg'lar Fellers",
         "year": 1931
     },
     "Return of the Street Fighter-1975": {
@@ -939,6 +849,12 @@
         "title": "Revolt of the Zombies",
         "year": 1936
     },
+    "Revolt of the Zombies-1941": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "status": "free",
+        "title": "Revolt of the Zombies",
+        "year": 1941
+    },
     "Rhythm in the Clouds.-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "status": "free",
@@ -950,10 +866,10 @@
         "title": "Ring of Terror",
         "year": 1962
     },
-    "Rock 'N' Roll Revue (38m.) \nRhythm & Blues Revue (72m.)-1955": {
+    "Rock 'N' Roll Revue and Rhythm & Blues Revue-1955": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
-        "title": "Rock 'N' Roll Revue (38m.) \nRhythm & Blues Revue (72m.)",
+        "title": "Rock 'N' Roll Revue and Rhythm & Blues Revue",
         "year": 1955
     },
     "Rock, Rock, Rock!-1956": {
@@ -967,11 +883,6 @@
         "status": "free",
         "title": "Rock, Rock, Rock",
         "year": 1956
-    },
-    "Rough on Rents-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Rough on Rents"
     },
     "SCi-Fi/Horror Trailers-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -1008,18 +919,6 @@
         "status": "free",
         "title": "SOS COAST GUARD"
     },
-    "Scarecrow-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Scarecrow",
-        "year": 1923
-    },
-    "Scream Bloody Murder-1975": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Scream Bloody Murder",
-        "year": 1975
-    },
     "Scrub Me Mama With a Boogie Beat-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
@@ -1036,18 +935,6 @@
         "title": "Shadow of Chinatown",
         "year": 1936
     },
-    "Shadow: International Crime-1937": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "status": "free",
-        "title": "Shadow: International Crime",
-        "year": 1937
-    },
-    "Silent Comedy Shorts:-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Silent Comedy Shorts:",
-        "year": 1923
-    },
     "Silly Superstition-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "status": "free",
@@ -1059,45 +946,11 @@
         "title": "Sister Street Fighter",
         "year": 1974
     },
-    "Sisters of Death-1977": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+    "Snake Fist Dynamo-1965": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
         "status": "free",
-        "title": "Sisters of Death",
-        "year": 1977
-    },
-    "Slightly at Sea-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Slightly at Sea"
-    },
-    "Sock Me to Sleep-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Sock Me to Sleep"
-    },
-    "Starman - Atomic Rulers of the World-1964": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Starman - Atomic Rulers of the World",
-        "year": 1964
-    },
-    "Starman - Attack from Space-1965": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Starman - Attack from Space",
+        "title": "Snake Fist Dynamo",
         "year": 1965
-    },
-    "Starman - Evil Brain from Outer Space-1965": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Starman - Evil Brain from Outer Space",
-        "year": 1965
-    },
-    "Starman - Invaders from Space-1964": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "status": "free",
-        "title": "Starman - Invaders from Space",
-        "year": 1964
     },
     "Street Fighter-1974": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -1123,10 +976,15 @@
         "year": 1941
     },
     "Svengali-1931": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "status": "free",
         "title": "Svengali",
         "year": 1931
+    },
+    "T-Bird Gang-None": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "status": "free",
+        "title": "T-Bird Gang"
     },
     "TARZAN THE TIGER-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/adventure-serials.html",
@@ -1279,12 +1137,6 @@
         "title": "Tango",
         "year": 1936
     },
-    "Tattoo Connection-1978": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
-        "status": "free",
-        "title": "Tattoo Connection",
-        "year": 1978
-    },
     "Teenagers from Outer Space-1959": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
         "status": "free",
@@ -1308,12 +1160,6 @@
         "status": "free",
         "title": "The Bat",
         "year": 1959
-    },
-    "The Beast from Haunted Cave-1960": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "The Beast from Haunted Cave",
-        "year": 1960
     },
     "The Beulah Show (1950-1953)-1950": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -1339,12 +1185,6 @@
         "title": "The Black Six",
         "year": 1974
     },
-    "The Boat-1923": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "The Boat",
-        "year": 1923
-    },
     "The Brain That Wouldn't Die-1959": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
@@ -1352,7 +1192,7 @@
         "year": 1959
     },
     "The Chase-1946": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "status": "free",
         "title": "The Chase",
         "year": 1946
@@ -1363,11 +1203,11 @@
         "title": "The Corpse Vanishes",
         "year": 1942
     },
-    "The Crooked Circle-1941": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+    "The Devil's Partner-1962": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
-        "title": "The Crooked Circle",
-        "year": 1941
+        "title": "The Devil's Partner",
+        "year": 1962
     },
     "The Duke Is Tops (aka Bronze Venus)-1938": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -1376,16 +1216,10 @@
         "year": 1938
     },
     "The Gang's All Here-1941": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
         "title": "The Gang's All Here",
         "year": 1941
-    },
-    "The General-1926": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "The General",
-        "year": 1926
     },
     "The Gorilla-1939": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -1423,12 +1257,6 @@
         "title": "The Incredible Petrified World",
         "year": 1957
     },
-    "The Kid-1921": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "The Kid",
-        "year": 1921
-    },
     "The Lady Confesses-1949": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "status": "free",
@@ -1439,6 +1267,18 @@
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
         "status": "free",
         "title": "The Last Woman on Earth",
+        "year": 1960
+    },
+    "The Little Princess-1939": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "status": "free",
+        "title": "The Little Princess",
+        "year": 1939
+    },
+    "The Little Shop of Horrors-1960": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "status": "free",
+        "title": "The Little Shop of Horrors",
         "year": 1960
     },
     "The Lost City-1935": {
@@ -1470,16 +1310,17 @@
         "status": "free",
         "title": "The Medicine Man"
     },
-    "The Other Fellow-None": {
+    "The Over-the-Hil Gang-1969": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
-        "title": "The Other Fellow"
+        "title": "The Over-the-Hil Gang",
+        "year": 1969
     },
-    "The Penalty-1920": {
+    "The Painted Hills-1945": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
-        "title": "The Penalty",
-        "year": 1920
+        "title": "The Painted Hills",
+        "year": 1945
     },
     "The Phantom Planet-1961": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -1493,17 +1334,17 @@
         "title": "The Phantom",
         "year": 1931
     },
-    "The Royal Bed-1941": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "The Shadow: International Crime-1937": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "status": "free",
-        "title": "The Royal Bed",
-        "year": 1941
+        "title": "The Shadow: International Crime",
+        "year": 1937
     },
-    "The Shadow: TV Pilot: Case of the Cotton Kimono-1937": {
+    "The Shadow: TV Pilot: Case of the Cotton Kimono-1954": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "status": "free",
         "title": "The Shadow: TV Pilot: Case of the Cotton Kimono",
-        "year": 1937
+        "year": 1954
     },
     "The Stranger-1946": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
@@ -1523,12 +1364,6 @@
         "title": "The Terror",
         "year": 1963
     },
-    "The Thoroughbred-1930": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "status": "free",
-        "title": "The Thoroughbred",
-        "year": 1930
-    },
     "The Torch-1950": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
@@ -1546,11 +1381,16 @@
         "status": "free",
         "title": "The Waltz"
     },
-    "The Wild Ride-1960": {
+    "The Wasp Woman-1959": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "status": "free",
+        "title": "The Wasp Woman",
+        "year": 1959
+    },
+    "The Wild Ride-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "status": "free",
-        "title": "The Wild Ride",
-        "year": 1960
+        "title": "The Wild Ride"
     },
     "The Wrong Road-1936": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
@@ -1570,16 +1410,22 @@
         "title": "This Is the Army",
         "year": 1943
     },
-    "This is Not a Test-1962": {
+    "Thoroughbred-1930": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "status": "free",
-        "title": "This is Not a Test",
-        "year": 1962
+        "title": "Thoroughbred",
+        "year": 1930
     },
     "Three Stooges Shorts-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "status": "free",
         "title": "Three Stooges Shorts"
+    },
+    "Till the Clouds Roll By-1946": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "status": "free",
+        "title": "Till the Clouds Roll By",
+        "year": 1946
     },
     "Tormented-1960": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -1608,12 +1454,6 @@
         "status": "free",
         "title": "Underground",
         "year": 1941
-    },
-    "Undertaker and His Friends-1966": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "status": "free",
-        "title": "Undertaker and His Friends",
-        "year": 1966
     },
     "VINTAGE Black Features-None": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -1681,10 +1521,11 @@
         "title": "Warning from Space",
         "year": 1956
     },
-    "What No Cigarettes-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Werewolf of Washington-1973": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
-        "title": "What No Cigarettes"
+        "title": "Werewolf of Washington",
+        "year": 1973
     },
     "Where's My Man Tonight?-1943": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -1698,22 +1539,11 @@
         "title": "White Huntress",
         "year": 1957
     },
-    "White Orchid-1954": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "status": "free",
-        "title": "White Orchid",
-        "year": 1954
-    },
     "White Zombie-1932": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "status": "free",
         "title": "White Zombie",
         "year": 1932
-    },
-    "Will Power-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "status": "free",
-        "title": "Will Power"
     },
     "Woman to Woman-1929": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -1721,10 +1551,11 @@
         "title": "Woman to Woman",
         "year": 1929
     },
-    "Wrong Direction-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+    "Women in the Night-1948": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "status": "free",
-        "title": "Wrong Direction"
+        "title": "Women in the Night",
+        "year": 1948
     },
     "X Marks the Spot-1942": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
@@ -1766,34 +1597,6 @@
         "title": "The Birth of a Nation",
         "year": 1915
     },
-    "http://www.imdb.com/title/tt0013099/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Electric House 1923",
-        "status": "free",
-        "title": "Electric House",
-        "year": 1923
-    },
-    "http://www.imdb.com/title/tt0013201/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Grandma's Boy 1922",
-        "status": "free",
-        "title": "Grandma's Boy",
-        "year": 1922
-    },
-    "http://www.imdb.com/title/tt0013422/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "My Wife's Relations 1923",
-        "status": "free",
-        "title": "My Wife's Relations",
-        "year": 1923
-    },
-    "http://www.imdb.com/title/tt0013858/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Balloonatic 1923",
-        "status": "free",
-        "title": "Balloonatic",
-        "year": 1923
-    },
     "http://www.imdb.com/title/tt0016654/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "The Black Pirate 1926",
@@ -1816,17 +1619,17 @@
         "year": 1929
     },
     "http://www.imdb.com/title/tt0019946/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "The Great Gabbo 1929",
         "status": "free",
         "title": "The Great Gabbo",
         "year": 1929
     },
-    "http://www.imdb.com/title/tt0019983/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "High Voltage 1929",
+    "http://www.imdb.com/title/tt0020542/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "imdblookup": "Vagabond Lover 1929",
         "status": "free",
-        "title": "High Voltage",
+        "title": "Vagabond Lover",
         "year": 1929
     },
     "http://www.imdb.com/title/tt0020620/": {
@@ -1836,15 +1639,29 @@
         "title": "Abraham Lincoln",
         "year": 1930
     },
+    "http://www.imdb.com/title/tt0020703/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "Borrowed Wives 1930",
+        "status": "free",
+        "title": "Borrowed Wives",
+        "year": 1930
+    },
     "http://www.imdb.com/title/tt0020758/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Check and Double Check 1930",
         "status": "free",
         "title": "Check and Double Check",
         "year": 1930
     },
+    "http://www.imdb.com/title/tt0020806/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "imdblookup": "Danger Lights 1930",
+        "status": "free",
+        "title": "Danger Lights",
+        "year": 1930
+    },
     "http://www.imdb.com/title/tt0020828/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "Dixiana 1930",
         "status": "free",
         "title": "Dixiana",
@@ -1864,43 +1681,15 @@
         "title": "Hook, Line and Sinker",
         "year": 1930
     },
-    "http://www.imdb.com/title/tt0021239/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Party Girl 1930",
-        "status": "free",
-        "title": "Party Girl",
-        "year": 1930
-    },
-    "http://www.imdb.com/title/tt0021374/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Silver Horde 1930",
-        "status": "free",
-        "title": "Silver Horde",
-        "year": 1930
-    },
     "http://www.imdb.com/title/tt0021377/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "Sin Takes a Holiday 1930",
         "status": "free",
         "title": "Sin Takes a Holiday",
         "year": 1930
     },
-    "http://www.imdb.com/title/tt0021649/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Behind Office Doors 1931",
-        "status": "free",
-        "title": "Behind Office Doors",
-        "year": 1931
-    },
-    "http://www.imdb.com/title/tt0021763/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Convicted 1931",
-        "status": "free",
-        "title": "Convicted",
-        "year": 1931
-    },
     "http://www.imdb.com/title/tt0021820/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Drums of Jeopardy 1931",
         "status": "free",
         "title": "Drums of Jeopardy",
@@ -1936,9 +1725,9 @@
     },
     "http://www.imdb.com/title/tt0022046/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Lady Refuses 1931",
+        "imdblookup": "The Lady Refuses 1931",
         "status": "free",
-        "title": "Lady Refuses",
+        "title": "The Lady Refuses",
         "year": 1931
     },
     "http://www.imdb.com/title/tt0022086/": {
@@ -1948,25 +1737,18 @@
         "title": "Lonely Wives",
         "year": 1931
     },
-    "http://www.imdb.com/title/tt0022149/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Millie 1931",
-        "status": "free",
-        "title": "Millie",
-        "year": 1931
-    },
-    "http://www.imdb.com/title/tt0022172/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Murder at Midnight 1931",
-        "status": "free",
-        "title": "Murder at Midnight",
-        "year": 1931
-    },
     "http://www.imdb.com/title/tt0022254/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Parlor, Bedroom and Bath 1931",
         "status": "free",
         "title": "Parlor, Bedroom and Bath",
+        "year": 1931
+    },
+    "http://www.imdb.com/title/tt0022326/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "The Royal Bed, The 1931",
+        "status": "free",
+        "title": "The Royal Bed, The",
         "year": 1931
     },
     "http://www.imdb.com/title/tt0022436/": {
@@ -1990,8 +1772,15 @@
         "title": "Bird of Paradise",
         "year": 1932
     },
+    "http://www.imdb.com/title/tt0022788/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "imdblookup": "The Crooked Circle 1932",
+        "status": "free",
+        "title": "The Crooked Circle",
+        "year": 1932
+    },
     "http://www.imdb.com/title/tt0022879/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "imdblookup": "A Farewell to Arms 1932",
         "status": "free",
         "title": "A Farewell to Arms",
@@ -2002,13 +1791,6 @@
         "imdblookup": "Meet the Mayor 1932",
         "status": "free",
         "title": "Meet the Mayor",
-        "year": 1932
-    },
-    "http://www.imdb.com/title/tt0022940/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "The Girl from Calgary 1932",
-        "status": "free",
-        "title": "The Girl from Calgary",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0022961/": {
@@ -2032,13 +1814,6 @@
         "title": "King Murder Case",
         "year": 1932
     },
-    "http://www.imdb.com/title/tt0023123/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Law of the Sea 1931",
-        "status": "free",
-        "title": "Law of the Sea",
-        "year": 1931
-    },
     "http://www.imdb.com/title/tt0023155/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Murder on the High Seas 1932",
@@ -2053,13 +1828,6 @@
         "title": "Midnight Warning",
         "year": 1932
     },
-    "http://www.imdb.com/title/tt0023236/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "imdblookup": "Monster Walks 1932",
-        "status": "free",
-        "title": "Monster Walks",
-        "year": 1932
-    },
     "http://www.imdb.com/title/tt0023238/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "The Most Dangerous Game 1932",
@@ -2067,32 +1835,11 @@
         "title": "The Most Dangerous Game",
         "year": 1932
     },
-    "http://www.imdb.com/title/tt0023243/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Mr. Robinson Crusoe 1932",
-        "status": "free",
-        "title": "Mr. Robinson Crusoe",
-        "year": 1932
-    },
-    "http://www.imdb.com/title/tt0023247/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Murder at Dawn 1932",
-        "status": "free",
-        "title": "Murder at Dawn",
-        "year": 1932
-    },
     "http://www.imdb.com/title/tt0023333/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "Phantom Express 1932",
         "status": "free",
         "title": "Phantom Express",
-        "year": 1932
-    },
-    "http://www.imdb.com/title/tt0023369/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Rain 1932",
-        "status": "free",
-        "title": "Rain",
         "year": 1932
     },
     "http://www.imdb.com/title/tt0023469/": {
@@ -2109,40 +1856,12 @@
         "title": "Speak Easily",
         "year": 1932
     },
-    "http://www.imdb.com/title/tt0023512/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "The Stoker 1932",
-        "status": "free",
-        "title": "The Stoker",
-        "year": 1932
-    },
     "http://www.imdb.com/title/tt0023583/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "The Thirteenth Guest 1932",
         "status": "free",
         "title": "The Thirteenth Guest",
         "year": 1932
-    },
-    "http://www.imdb.com/title/tt0023587/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Those We Love 1932",
-        "status": "free",
-        "title": "Those We Love",
-        "year": 1932
-    },
-    "http://www.imdb.com/title/tt0023754/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Alimony Madness 1933",
-        "status": "free",
-        "title": "Alimony Madness",
-        "year": 1933
-    },
-    "http://www.imdb.com/title/tt0023859/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "By Appointment Only 1933",
-        "status": "free",
-        "title": "By Appointment Only",
-        "year": 1933
     },
     "http://www.imdb.com/title/tt0023883/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -2179,13 +1898,6 @@
         "title": "His Double Life",
         "year": 1933
     },
-    "http://www.imdb.com/title/tt0024124/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "His Private Secretary 1933",
-        "status": "free",
-        "title": "His Private Secretary",
-        "year": 1933
-    },
     "http://www.imdb.com/title/tt0024151/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "I Cover the Waterfront 1933",
@@ -2207,25 +1919,18 @@
         "title": "The Kennel Murder Case",
         "year": 1933
     },
-    "http://www.imdb.com/title/tt0024245/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Laughing at Life 1933",
-        "status": "free",
-        "title": "Laughing at Life",
-        "year": 1933
-    },
-    "http://www.imdb.com/title/tt0024400/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Officer 13 1932",
-        "status": "free",
-        "title": "Officer 13",
-        "year": 1932
-    },
     "http://www.imdb.com/title/tt0024554/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Shriek in the Night 1933",
         "status": "free",
         "title": "Shriek in the Night",
+        "year": 1933
+    },
+    "http://www.imdb.com/title/tt0024573/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "Skyway 1933",
+        "status": "free",
+        "title": "Skyway",
         "year": 1933
     },
     "http://www.imdb.com/title/tt0024605/": {
@@ -2247,13 +1952,6 @@
         "imdblookup": "Tarzan the Fearless 1933",
         "status": "free",
         "title": "Tarzan the Fearless",
-        "year": 1933
-    },
-    "http://www.imdb.com/title/tt0024679/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Tomorrow at Seven 1933",
-        "status": "free",
-        "title": "Tomorrow at Seven",
         "year": 1933
     },
     "http://www.imdb.com/title/tt0024787/": {
@@ -2291,13 +1989,6 @@
         "title": "Goodbye Love",
         "year": 1933
     },
-    "http://www.imdb.com/title/tt0025204/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Green Eyes 1934",
-        "status": "free",
-        "title": "Green Eyes",
-        "year": 1934
-    },
     "http://www.imdb.com/title/tt0025220/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "Happy Landing 1934",
@@ -2326,20 +2017,6 @@
         "title": "King Kelly of the USA",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0025391/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Life Returns 1935",
-        "status": "free",
-        "title": "Life Returns",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0025424/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Lost in the Stratosphere 1934",
-        "status": "free",
-        "title": "Lost in the Stratosphere",
-        "year": 1934
-    },
     "http://www.imdb.com/title/tt0025465/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "imdblookup": "Maniac 1934",
@@ -2349,9 +2026,9 @@
     },
     "http://www.imdb.com/title/tt0025515/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "The Moon Stone 1934",
+        "imdblookup": "The Moonstone 1934",
         "status": "free",
-        "title": "The Moon Stone",
+        "title": "The Moonstone",
         "year": 1934
     },
     "http://www.imdb.com/title/tt0025530/": {
@@ -2410,13 +2087,6 @@
         "title": "Peck's Bad Boy",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0025658/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "The Pointing Finger 1933",
-        "status": "free",
-        "title": "The Pointing Finger",
-        "year": 1933
-    },
     "http://www.imdb.com/title/tt0025710/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "The Return of Bulldog Drummond 1934",
@@ -2445,13 +2115,6 @@
         "title": "The Scarlet Letter",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0026001/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Woman Unafraid 1934",
-        "status": "free",
-        "title": "Woman Unafraid",
-        "year": 1934
-    },
     "http://www.imdb.com/title/tt0026028/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "King of the Circus (This Woman is Mine) 1935",
@@ -2464,13 +2127,6 @@
         "imdblookup": "Becky Sharp 1935",
         "status": "free",
         "title": "Becky Sharp",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0026106/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Behind the Green Lights 1935",
-        "status": "free",
-        "title": "Behind the Green Lights",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026131/": {
@@ -2494,6 +2150,13 @@
         "title": "False Pretenses",
         "year": 1935
     },
+    "http://www.imdb.com/title/tt0026711/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "imdblookup": "Midnight Phantom 1935",
+        "status": "free",
+        "title": "Midnight Phantom",
+        "year": 1935
+    },
     "http://www.imdb.com/title/tt0026741/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "imdblookup": "Murder in Harlem 1935",
@@ -2506,13 +2169,6 @@
         "imdblookup": "Mysterious Mr. Wong 1935",
         "status": "free",
         "title": "Mysterious Mr. Wong",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0026794/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Now or Never 1935",
-        "status": "free",
-        "title": "Now or Never",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026797/": {
@@ -2529,13 +2185,6 @@
         "title": "One Frightened Night",
         "year": 1935
     },
-    "http://www.imdb.com/title/tt0026898/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Public Opinion 1935",
-        "status": "free",
-        "title": "Public Opinion",
-        "year": 1935
-    },
     "http://www.imdb.com/title/tt0026971/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "A Scream in the Night 1935",
@@ -2548,13 +2197,6 @@
         "imdblookup": "Scrooge 1935",
         "status": "free",
         "title": "Scrooge",
-        "year": 1935
-    },
-    "http://www.imdb.com/title/tt0026981/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Shadow of Silk Lennox 1935",
-        "status": "free",
-        "title": "Shadow of Silk Lennox",
         "year": 1935
     },
     "http://www.imdb.com/title/tt0026991/": {
@@ -2613,6 +2255,13 @@
         "title": "Country Gentlemen",
         "year": 1936
     },
+    "http://www.imdb.com/title/tt0027496/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "Dancing Pirate 1936",
+        "status": "free",
+        "title": "Dancing Pirate",
+        "year": 1936
+    },
     "http://www.imdb.com/title/tt0027501/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Dark Hour 1936",
@@ -2627,25 +2276,11 @@
         "title": "Death from a Distance",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0027517/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Devil Diamond 1937",
-        "status": "free",
-        "title": "Devil Diamond",
-        "year": 1937
-    },
     "http://www.imdb.com/title/tt0027562/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Earthworm Tractors 1936",
         "status": "free",
         "title": "Earthworm Tractors",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0027568/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Ellis Island 1936",
-        "status": "free",
-        "title": "Ellis Island",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027654/": {
@@ -2662,15 +2297,8 @@
         "title": "Great Guy",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0027720/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Hats Off 1936",
-        "status": "free",
-        "title": "Hats Off",
-        "year": 1936
-    },
     "http://www.imdb.com/title/tt0027727/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "imdblookup": "Hearts in Bondage 1936",
         "status": "free",
         "title": "Hearts in Bondage",
@@ -2681,13 +2309,6 @@
         "imdblookup": "Sins of the Children 1936",
         "status": "free",
         "title": "Sins of the Children",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0027839/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Kelly of the Secret Service 1936",
-        "status": "free",
-        "title": "Kelly of the Secret Service",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0027882/": {
@@ -2739,6 +2360,13 @@
         "title": "Cocaine Fiends",
         "year": 1935
     },
+    "http://www.imdb.com/title/tt0028135/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "imdblookup": "President's Mystery 1936",
+        "status": "free",
+        "title": "President's Mystery",
+        "year": 1936
+    },
     "http://www.imdb.com/title/tt0028157/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "It Happened in New Orleans 1936",
@@ -2753,13 +2381,6 @@
         "title": "We're in the Legion Now",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0028186/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Ring Around the Moon 1936",
-        "status": "free",
-        "title": "Ring Around the Moon",
-        "year": 1936
-    },
     "http://www.imdb.com/title/tt0028200/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "The Rogue's Tavern 1936",
@@ -2768,10 +2389,10 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028260/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Sitting On the Moon 1936",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "imdblookup": "Sitting on the Moon 1936",
         "status": "free",
-        "title": "Sitting On the Moon",
+        "title": "Sitting on the Moon",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028346/": {
@@ -2810,7 +2431,7 @@
         "year": 1936
     },
     "http://www.imdb.com/title/tt0028523/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Yellowstone 1936",
         "status": "free",
         "title": "Yellowstone",
@@ -2828,20 +2449,6 @@
         "imdblookup": "All Over Town 1937",
         "status": "free",
         "title": "All Over Town",
-        "year": 1937
-    },
-    "http://www.imdb.com/title/tt0028596/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "The Avenging Hand 1936",
-        "status": "free",
-        "title": "The Avenging Hand",
-        "year": 1936
-    },
-    "http://www.imdb.com/title/tt0028634/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Bill Cracks Down 1937",
-        "status": "free",
-        "title": "Bill Cracks Down",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0028662/": {
@@ -2879,13 +2486,6 @@
         "title": "Bulldog Drummond's Revenge",
         "year": 1937
     },
-    "http://www.imdb.com/title/tt0028725/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Clipped Wings 1937",
-        "status": "free",
-        "title": "Clipped Wings",
-        "year": 1937
-    },
     "http://www.imdb.com/title/tt0028755/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
         "imdblookup": "Damaged Lives 1933",
@@ -2899,13 +2499,6 @@
         "status": "free",
         "title": "Pilot X: Death in the Air",
         "year": 1936
-    },
-    "http://www.imdb.com/title/tt0028836/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Escape by Night 1937",
-        "status": "free",
-        "title": "Escape by Night",
-        "year": 1937
     },
     "http://www.imdb.com/title/tt0028876/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -2928,19 +2521,19 @@
         "title": "Hollywood Stadium Mystery",
         "year": 1938
     },
-    "http://www.imdb.com/title/tt0029019/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Hoosier Schoolboy 1937",
-        "status": "free",
-        "title": "Hoosier Schoolboy",
-        "year": 1937
-    },
     "http://www.imdb.com/title/tt0029028/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "House of Secrets 1936",
         "status": "free",
         "title": "House of Secrets",
         "year": 1936
+    },
+    "http://www.imdb.com/title/tt0029066/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "imdblookup": "Jim Hanvey, Detective 1937",
+        "status": "free",
+        "title": "Jim Hanvey, Detective",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0029130/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
@@ -2956,25 +2549,18 @@
         "title": "Mandarin Mystery",
         "year": 1936
     },
-    "http://www.imdb.com/title/tt0029209/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Manhattan Merry-Go-Round 1937",
-        "status": "free",
-        "title": "Manhattan Merry-Go-Round",
-        "year": 1937
-    },
     "http://www.imdb.com/title/tt0029223/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Meet the Boy Friend 1937",
+        "imdblookup": "Meet the Boyfriend 1937",
         "status": "free",
-        "title": "Meet the Boy Friend",
+        "title": "Meet the Boyfriend",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029296/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Nation Aflame 1937",
+        "imdblookup": "A Nation Aflame 1937",
         "status": "free",
-        "title": "Nation Aflame",
+        "title": "A Nation Aflame",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029322/": {
@@ -2982,13 +2568,6 @@
         "imdblookup": "Nothing Sacred 1937",
         "status": "free",
         "title": "Nothing Sacred",
-        "year": 1937
-    },
-    "http://www.imdb.com/title/tt0029362/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "The Outer Gate 1937",
-        "status": "free",
-        "title": "The Outer Gate",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029488/": {
@@ -3028,9 +2607,9 @@
     },
     "http://www.imdb.com/title/tt0029588/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Something to Sing About 1936",
+        "imdblookup": "Something to Sing about 1936",
         "status": "free",
-        "title": "Something to Sing About",
+        "title": "Something to Sing about",
         "year": 1936
     },
     "http://www.imdb.com/title/tt0029606/": {
@@ -3038,13 +2617,6 @@
         "imdblookup": "A Star is Born 1937",
         "status": "free",
         "title": "A Star is Born",
-        "year": 1937
-    },
-    "http://www.imdb.com/title/tt0029625/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Sweetheart of the Navy 1937",
-        "status": "free",
-        "title": "Sweetheart of the Navy",
         "year": 1937
     },
     "http://www.imdb.com/title/tt0029626/": {
@@ -3068,13 +2640,6 @@
         "title": "When's Your Birthday?",
         "year": 1937
     },
-    "http://www.imdb.com/title/tt0029812/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Youth on Parole 1937",
-        "status": "free",
-        "title": "Youth on Parole",
-        "year": 1937
-    },
     "http://www.imdb.com/title/tt0029830/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "Ten Laps to Go 1936",
@@ -3088,6 +2653,13 @@
         "status": "free",
         "title": "Air Devils",
         "year": 1938
+    },
+    "http://www.imdb.com/title/tt0029941/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "imdblookup": "Boy of the Streets 1937",
+        "status": "free",
+        "title": "Boy of the Streets",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0029945/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
@@ -3159,19 +2731,12 @@
         "title": "Mr. Wong, Detective",
         "year": 1938
     },
-    "http://www.imdb.com/title/tt0030565/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Peck's Bad Boy With the Circus 1938",
+    "http://www.imdb.com/title/tt0030491/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "imdblookup": "Nancy Drew Detective 1939",
         "status": "free",
-        "title": "Peck's Bad Boy With the Circus",
-        "year": 1938
-    },
-    "http://www.imdb.com/title/tt0030648/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Racing Blood 1936",
-        "status": "free",
-        "title": "Racing Blood",
-        "year": 1936
+        "title": "Nancy Drew Detective",
+        "year": 1939
     },
     "http://www.imdb.com/title/tt0030652/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -3180,11 +2745,18 @@
         "title": "The Rage of Paris",
         "year": 1938
     },
+    "http://www.imdb.com/title/tt0030734/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+        "imdblookup": "The Hooded Terror 1938",
+        "status": "free",
+        "title": "The Hooded Terror",
+        "year": 1938
+    },
     "http://www.imdb.com/title/tt0030781/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
-        "imdblookup": "Joe Louis - Spirit of Youth 1938",
+        "imdblookup": "Spirit of Youth 1938",
         "status": "free",
-        "title": "Joe Louis - Spirit of Youth",
+        "title": "Spirit of Youth",
         "year": 1938
     },
     "http://www.imdb.com/title/tt0030833/": {
@@ -3195,7 +2767,7 @@
         "year": 1938
     },
     "http://www.imdb.com/title/tt0031119/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "imdblookup": "Boys' Reformatory 1939",
         "status": "free",
         "title": "Boys' Reformatory",
@@ -3222,25 +2794,11 @@
         "title": "Bulldog Drummond's Secret Police",
         "year": 1939
     },
-    "http://www.imdb.com/title/tt0031179/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Convict's Code 1939",
-        "status": "free",
-        "title": "Convict's Code",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0031204/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "Danger Flight 1939",
         "status": "free",
         "title": "Danger Flight",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031211/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Daughter of the Tong 1939",
-        "status": "free",
-        "title": "Daughter of the Tong",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031229/": {
@@ -3264,20 +2822,6 @@
         "title": "Eternally Yours",
         "year": 1939
     },
-    "http://www.imdb.com/title/tt0031286/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Frolics on Ice 1939",
-        "status": "free",
-        "title": "Frolics on Ice",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031288/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Exile Express 1939",
-        "status": "free",
-        "title": "Exile Express",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0031313/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "Fisherman's Wharf 1939",
@@ -3290,20 +2834,6 @@
         "imdblookup": "Flying Deuces 1939",
         "status": "free",
         "title": "Flying Deuces",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031495/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Irish Luck 1939",
-        "status": "free",
-        "title": "Irish Luck",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031580/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "The Little Princess 1939",
-        "status": "free",
-        "title": "The Little Princess",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0031593/": {
@@ -3362,13 +2892,6 @@
         "title": "Mystery of Mr. Wong",
         "year": 1939
     },
-    "http://www.imdb.com/title/tt0031709/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Nancy Drew Reporter 1939",
-        "status": "free",
-        "title": "Nancy Drew Reporter",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0031784/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "Paradise in Harlem 1939",
@@ -3383,39 +2906,11 @@
         "title": "The Phantom Creeps",
         "year": 1939
     },
-    "http://www.imdb.com/title/tt0031909/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Secret of Dr. Kildare 1939",
-        "status": "free",
-        "title": "Secret of Dr. Kildare",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031923/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Should a Girl Marry? 1939",
-        "status": "free",
-        "title": "Should a Girl Marry?",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031976/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "The Stars Look Down 1939",
-        "status": "free",
-        "title": "The Stars Look Down",
-        "year": 1939
-    },
-    "http://www.imdb.com/title/tt0031987/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Abe Lincoln of Ninth Avenue 1939",
-        "status": "free",
-        "title": "Abe Lincoln of Ninth Avenue",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0032022/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "They Made me a Criminal 1939",
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "imdblookup": "They Made Me a Criminal 1939",
         "status": "free",
-        "title": "They Made me a Criminal",
+        "title": "They Made Me a Criminal",
         "year": 1939
     },
     "http://www.imdb.com/title/tt0032114/": {
@@ -3509,13 +3004,6 @@
         "title": "Gang War",
         "year": 1940
     },
-    "http://www.imdb.com/title/tt0032572/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Haunted House 1940",
-        "status": "free",
-        "title": "Haunted House",
-        "year": 1940
-    },
     "http://www.imdb.com/title/tt0032599/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "His Girl Friday 1940",
@@ -3523,26 +3011,12 @@
         "title": "His Girl Friday",
         "year": 1940
     },
-    "http://www.imdb.com/title/tt0032602/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Hold That Woman 1940",
-        "status": "free",
-        "title": "Hold That Woman",
-        "year": 1940
-    },
     "http://www.imdb.com/title/tt0032618/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Police  Rookie 1940",
+        "imdblookup": "Police  Rookie (I Take This Oath) 1940",
         "status": "free",
-        "title": "Police  Rookie",
+        "title": "Police  Rookie (I Take This Oath)",
         "year": 1940
-    },
-    "http://www.imdb.com/title/tt0032634/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Invisible Killer 1941",
-        "status": "free",
-        "title": "Invisible Killer",
-        "year": 1941
     },
     "http://www.imdb.com/title/tt0032642/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
@@ -3551,11 +3025,11 @@
         "title": "Isle of Destiny",
         "year": 1940
     },
-    "http://www.imdb.com/title/tt0032656/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Junior G-Men 1940",
+    "http://www.imdb.com/title/tt0032690/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "The Last Alarm 1940",
         "status": "free",
-        "title": "Junior G-Men",
+        "title": "The Last Alarm",
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032717/": {
@@ -3563,13 +3037,6 @@
         "imdblookup": "Little Men 1940",
         "status": "free",
         "title": "Little Men",
-        "year": 1940
-    },
-    "http://www.imdb.com/title/tt0032741/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
-        "imdblookup": "Mad Youth 1940",
-        "status": "free",
-        "title": "Mad Youth",
         "year": 1940
     },
     "http://www.imdb.com/title/tt0032763/": {
@@ -3614,13 +3081,6 @@
         "title": "Second Chorus",
         "year": 1940
     },
-    "http://www.imdb.com/title/tt0033060/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Sky Patrol 1939",
-        "status": "free",
-        "title": "Sky Patrol",
-        "year": 1939
-    },
     "http://www.imdb.com/title/tt0033062/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Slightly Honorable 1940",
@@ -3649,13 +3109,6 @@
         "title": "Tom Brown's Schooldays",
         "year": 1940
     },
-    "http://www.imdb.com/title/tt0033214/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Up in the Air 1940",
-        "status": "free",
-        "title": "Up in the Air",
-        "year": 1940
-    },
     "http://www.imdb.com/title/tt0033216/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "Vengeance of the Deep 1938",
@@ -3669,13 +3122,6 @@
         "status": "free",
         "title": "The Villain Still Pursued Her",
         "year": 1940
-    },
-    "http://www.imdb.com/title/tt0033323/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "All American Co-Ed 1941",
-        "status": "free",
-        "title": "All American Co-Ed",
-        "year": 1941
     },
     "http://www.imdb.com/title/tt0033379/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -3714,10 +3160,10 @@
     },
     "http://www.imdb.com/title/tt0033459/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Cheers for Miss Bishop 1941",
+        "imdblookup": "Cheers for Miss Bishop 1940",
         "status": "free",
         "title": "Cheers for Miss Bishop",
-        "year": 1941
+        "year": 1940
     },
     "http://www.imdb.com/title/tt0033469/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
@@ -3768,8 +3214,15 @@
         "title": "Jungle Cavalcade",
         "year": 1941
     },
+    "http://www.imdb.com/title/tt0033781/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "imdblookup": "Up In the Air 1941",
+        "status": "free",
+        "title": "Up In the Air",
+        "year": 1941
+    },
     "http://www.imdb.com/title/tt0033827/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
         "imdblookup": "Let's Go Collegiate 1941",
         "status": "free",
         "title": "Let's Go Collegiate",
@@ -3811,7 +3264,7 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0034056/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "Power Dive 1941",
         "status": "free",
         "title": "Power Dive",
@@ -3824,6 +3277,13 @@
         "title": "Pride of the Bowery",
         "year": 1941
     },
+    "http://www.imdb.com/title/tt0034089/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "Reg'lar  Fellers 1941",
+        "status": "free",
+        "title": "Reg'lar  Fellers",
+        "year": 1941
+    },
     "http://www.imdb.com/title/tt0034115/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Road Show 1941",
@@ -3832,7 +3292,7 @@
         "year": 1941
     },
     "http://www.imdb.com/title/tt0034117/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "Roar of the Press 1941",
         "status": "free",
         "title": "Roar of the Press",
@@ -3936,20 +3396,6 @@
         "title": "Freckles Comes Home",
         "year": 1942
     },
-    "http://www.imdb.com/title/tt0034854/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Hillbilly Blitzkrieg 1942",
-        "status": "free",
-        "title": "Hillbilly Blitzkrieg",
-        "year": 1942
-    },
-    "http://www.imdb.com/title/tt0034857/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
-        "imdblookup": "Hitler - Dead or Alive 1942",
-        "status": "free",
-        "title": "Hitler - Dead or Alive",
-        "year": 1942
-    },
     "http://www.imdb.com/title/tt0034880/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "I Live On Danger 1942",
@@ -3997,6 +3443,13 @@
         "imdblookup": "So's Your Aunt Emma! 1942",
         "status": "free",
         "title": "So's Your Aunt Emma!",
+        "year": 1942
+    },
+    "http://www.imdb.com/title/tt0035153/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
+        "imdblookup": "One of Our Aircraft is Missing 1942",
+        "status": "free",
+        "title": "One of Our Aircraft is Missing",
         "year": 1942
     },
     "http://www.imdb.com/title/tt0035171/": {
@@ -4097,27 +3550,6 @@
         "title": "The Ape Man",
         "year": 1943
     },
-    "http://www.imdb.com/title/tt0035679/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "The Black Raven 1943",
-        "status": "free",
-        "title": "The Black Raven",
-        "year": 1943
-    },
-    "http://www.imdb.com/title/tt0035694/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Boss of Big Town 1942",
-        "status": "free",
-        "title": "Boss of Big Town",
-        "year": 1942
-    },
-    "http://www.imdb.com/title/tt0035714/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Career Girl 1944",
-        "status": "free",
-        "title": "Career Girl",
-        "year": 1944
-    },
     "http://www.imdb.com/title/tt0035740/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "City Without Men 1943",
@@ -4130,20 +3562,6 @@
         "imdblookup": "Corregidor 1943",
         "status": "free",
         "title": "Corregidor",
-        "year": 1943
-    },
-    "http://www.imdb.com/title/tt0035758/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Cosmo Jones - Crime Smasher 1943",
-        "status": "free",
-        "title": "Cosmo Jones - Crime Smasher",
-        "year": 1943
-    },
-    "http://www.imdb.com/title/tt0035778/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Danger! Women at Work! 1943",
-        "status": "free",
-        "title": "Danger! Women at Work!",
         "year": 1943
     },
     "http://www.imdb.com/title/tt0035784/": {
@@ -4204,9 +3622,9 @@
     },
     "http://www.imdb.com/title/tt0036161/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
-        "imdblookup": "Mine Sweeper 1943",
+        "imdblookup": "Minesweeper 1943",
         "status": "free",
-        "title": "Mine Sweeper",
+        "title": "Minesweeper",
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036217/": {
@@ -4225,16 +3643,16 @@
     },
     "http://www.imdb.com/title/tt0036384/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Stage Door Canteen 1943",
+        "imdblookup": "Stagedoor Canteen 1943",
         "status": "free",
-        "title": "Stage Door Canteen",
+        "title": "Stagedoor Canteen",
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036395/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Stranger in Town 1943",
+        "imdblookup": "A Stranger in Town 1943",
         "status": "free",
-        "title": "Stranger in Town",
+        "title": "A Stranger in Town",
         "year": 1943
     },
     "http://www.imdb.com/title/tt0036397/": {
@@ -4257,6 +3675,13 @@
         "status": "free",
         "title": "Timber Queen",
         "year": 1944
+    },
+    "http://www.imdb.com/title/tt0036483/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
+        "imdblookup": "Man with a Cross 1943",
+        "status": "free",
+        "title": "Man with a Cross",
+        "year": 1943
     },
     "http://www.imdb.com/title/tt0036753/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
@@ -4328,11 +3753,11 @@
         "title": "The Navy Way",
         "year": 1944
     },
-    "http://www.imdb.com/title/tt0037262/": {
+    "http://www.imdb.com/title/tt0037151/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Seven Doors to Death 1944",
+        "imdblookup": "One Body Too Many 1944",
         "status": "free",
-        "title": "Seven Doors to Death",
+        "title": "One Body Too Many",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037336/": {
@@ -4342,13 +3767,6 @@
         "title": "Swing Hostess",
         "year": 1944
     },
-    "http://www.imdb.com/title/tt0037361/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "That's My Baby 1944",
-        "status": "free",
-        "title": "That's My Baby",
-        "year": 1944
-    },
     "http://www.imdb.com/title/tt0037388/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "The Town Went Wild 1944",
@@ -4356,11 +3774,11 @@
         "title": "The Town Went Wild",
         "year": 1944
     },
-    "http://www.imdb.com/title/tt0037399/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Trocadero 1944",
+    "http://www.imdb.com/title/tt0037449/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
+        "imdblookup": "Immortal Battalion 1944",
         "status": "free",
-        "title": "Trocadero",
+        "title": "Immortal Battalion",
         "year": 1944
     },
     "http://www.imdb.com/title/tt0037515/": {
@@ -4482,18 +3900,18 @@
         "title": "Phantom of 42nd St.",
         "year": 1945
     },
-    "http://www.imdb.com/title/tt0038046/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Salome Where She Danced 1945",
-        "status": "free",
-        "title": "Salome Where She Danced",
-        "year": 1945
-    },
     "http://www.imdb.com/title/tt0038057/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "imdblookup": "Scarlet Street 1945",
         "status": "free",
         "title": "Scarlet Street",
+        "year": 1945
+    },
+    "http://www.imdb.com/title/tt0038071/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Club Paradise 1945",
+        "status": "free",
+        "title": "Club Paradise",
         "year": 1945
     },
     "http://www.imdb.com/title/tt0038107/": {
@@ -4504,7 +3922,7 @@
         "year": 1945
     },
     "http://www.imdb.com/title/tt0038119/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "The Stork Club 1945",
         "status": "free",
         "title": "The Stork Club",
@@ -4538,6 +3956,13 @@
         "title": "Angel on My Shoulder",
         "year": 1946
     },
+    "http://www.imdb.com/title/tt0038346/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Behind Green Lights 1946",
+        "status": "free",
+        "title": "Behind Green Lights",
+        "year": 1946
+    },
     "http://www.imdb.com/title/tt0038382/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "Breakfast in Hollywood 1946",
@@ -4564,13 +3989,6 @@
         "imdblookup": "Sherlock Holmes in Dressed to Kill 1946",
         "status": "free",
         "title": "Sherlock Holmes in Dressed to Kill",
-        "year": 1946
-    },
-    "http://www.imdb.com/title/tt0038529/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Flight to Nowhere 1946",
-        "status": "free",
-        "title": "Flight to Nowhere",
         "year": 1946
     },
     "http://www.imdb.com/title/tt0038592/": {
@@ -4622,11 +4040,25 @@
         "title": "Strange Love of Martha Ivers",
         "year": 1946
     },
+    "http://www.imdb.com/title/tt0038990/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "imdblookup": "The Strange Woman 1946",
+        "status": "free",
+        "title": "The Strange Woman",
+        "year": 1946
+    },
     "http://www.imdb.com/title/tt0039001/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "Swamp Fire 1946",
         "status": "free",
         "title": "Swamp Fire",
+        "year": 1946
+    },
+    "http://www.imdb.com/title/tt0039003/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "imdblookup": "Swing Parade 1946",
+        "status": "free",
+        "title": "Swing Parade",
         "year": 1946
     },
     "http://www.imdb.com/title/tt0039017/": {
@@ -4641,13 +4073,6 @@
         "imdblookup": "They Made Me a Killer 1946",
         "status": "free",
         "title": "They Made Me a Killer",
-        "year": 1946
-    },
-    "http://www.imdb.com/title/tt0039035/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
-        "imdblookup": "Till the Clouds Roll By 1946",
-        "status": "free",
-        "title": "Till the Clouds Roll By",
         "year": 1946
     },
     "http://www.imdb.com/title/tt0039101/": {
@@ -4692,6 +4117,13 @@
         "title": "Calendar Girl",
         "year": 1947
     },
+    "http://www.imdb.com/title/tt0039298/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Danger Street 1947",
+        "status": "free",
+        "title": "Danger Street",
+        "year": 1947
+    },
     "http://www.imdb.com/title/tt0039320/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
         "imdblookup": "Dick Tracy Meets Gruesome 1947",
@@ -4707,7 +4139,7 @@
         "year": 1947
     },
     "http://www.imdb.com/title/tt0039324/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "imdblookup": "Dishonored Lady 1947",
         "status": "free",
         "title": "Dishonored Lady",
@@ -4734,6 +4166,13 @@
         "title": "Fear in the Night",
         "year": 1947
     },
+    "http://www.imdb.com/title/tt0039389/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "For You I Die 1947",
+        "status": "free",
+        "title": "For You I Die",
+        "year": 1947
+    },
     "http://www.imdb.com/title/tt0039451/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Heading for Heaven 1947",
@@ -4753,13 +4192,6 @@
         "imdblookup": "It's A Joke Son 1947",
         "status": "free",
         "title": "It's A Joke Son",
-        "year": 1947
-    },
-    "http://www.imdb.com/title/tt0039530/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Killer Dill 1947",
-        "status": "free",
-        "title": "Killer Dill",
         "year": 1947
     },
     "http://www.imdb.com/title/tt0039566/": {
@@ -4867,6 +4299,13 @@
         "title": "Here Comes Trouble",
         "year": 1948
     },
+    "http://www.imdb.com/title/tt0040444/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "The Scar (Hollow Triumph) 1948",
+        "status": "free",
+        "title": "The Scar (Hollow Triumph)",
+        "year": 1948
+    },
     "http://www.imdb.com/title/tt0040472/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "imdblookup": "Inner Sanctum 1948",
@@ -4882,7 +4321,7 @@
         "year": 1948
     },
     "http://www.imdb.com/title/tt0040590/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "imdblookup": "Million Dollar Weekend 1948",
         "status": "free",
         "title": "Million Dollar Weekend",
@@ -4972,15 +4411,8 @@
         "title": "Guilty of Treason",
         "year": 1949
     },
-    "http://www.imdb.com/title/tt0041503/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Impact 1949",
-        "status": "free",
-        "title": "Impact",
-        "year": 1949
-    },
     "http://www.imdb.com/title/tt0041509/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "The Inspector General 1949",
         "status": "free",
         "title": "The Inspector General",
@@ -4998,13 +4430,6 @@
         "imdblookup": "Outpost in Morocco 1949",
         "status": "free",
         "title": "Outpost in Morocco",
-        "year": 1949
-    },
-    "http://www.imdb.com/title/tt0041761/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Port of New York 1949",
-        "status": "free",
-        "title": "Port of New York",
         "year": 1949
     },
     "http://www.imdb.com/title/tt0041865/": {
@@ -5077,13 +4502,6 @@
         "title": "Cyrano de Bergerac",
         "year": 1950
     },
-    "http://www.imdb.com/title/tt0042423/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "imdblookup": "Dungeon of Harrow 1962",
-        "status": "free",
-        "title": "Dungeon of Harrow",
-        "year": 1962
-    },
     "http://www.imdb.com/title/tt0042524/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "The Great Rupert 1950",
@@ -5103,6 +4521,20 @@
         "imdblookup": "Johnny One-Eye 1950",
         "status": "free",
         "title": "Johnny One-Eye",
+        "year": 1950
+    },
+    "http://www.imdb.com/title/tt0042707/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Man Who Cheated Himself 1950",
+        "status": "free",
+        "title": "Man Who Cheated Himself",
+        "year": 1950
+    },
+    "http://www.imdb.com/title/tt0042855/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "imdblookup": "Prehistoric Women 1950",
+        "status": "free",
+        "title": "Prehistoric Women",
         "year": 1950
     },
     "http://www.imdb.com/title/tt0042869/": {
@@ -5127,7 +4559,7 @@
         "year": 1951
     },
     "http://www.imdb.com/title/tt0043142/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
         "imdblookup": "Woman on the Run 1950",
         "status": "free",
         "title": "Woman on the Run",
@@ -5161,11 +4593,25 @@
         "title": "Cause for Alarm",
         "year": 1951
     },
+    "http://www.imdb.com/title/tt0043466/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
+        "imdblookup": "Devil's Sleep 1949",
+        "status": "free",
+        "title": "Devil's Sleep",
+        "year": 1949
+    },
     "http://www.imdb.com/title/tt0043590/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
         "imdblookup": "Go For Broke 1951",
         "status": "free",
         "title": "Go For Broke",
+        "year": 1951
+    },
+    "http://www.imdb.com/title/tt0043603/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "The Groom Wore Spurs 1951",
+        "status": "free",
+        "title": "The Groom Wore Spurs",
         "year": 1951
     },
     "http://www.imdb.com/title/tt0043618/": {
@@ -5189,25 +4635,11 @@
         "title": "The Hoodlum",
         "year": 1951
     },
-    "http://www.imdb.com/title/tt0043721/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Lady Says No 1951",
-        "status": "free",
-        "title": "Lady Says No",
-        "year": 1951
-    },
     "http://www.imdb.com/title/tt0043822/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "Mr. Imperium 1951",
         "status": "free",
         "title": "Mr. Imperium",
-        "year": 1951
-    },
-    "http://www.imdb.com/title/tt0043895/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Painted Hills 1951",
-        "status": "free",
-        "title": "Painted Hills",
         "year": 1951
     },
     "http://www.imdb.com/title/tt0043983/": {
@@ -5230,6 +4662,13 @@
         "status": "free",
         "title": "St. Benny the Dip",
         "year": 1951
+    },
+    "http://www.imdb.com/title/tt0044088/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Sun Sets at Dawn 1950",
+        "status": "free",
+        "title": "Sun Sets at Dawn",
+        "year": 1950
     },
     "http://www.imdb.com/title/tt0044125/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
@@ -5258,20 +4697,6 @@
         "status": "free",
         "title": "Unknown World",
         "year": 1951
-    },
-    "http://www.imdb.com/title/tt0044264/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Gang Busters 1952",
-        "status": "free",
-        "title": "Gang Busters",
-        "year": 1952
-    },
-    "http://www.imdb.com/title/tt0044330/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Affair in Monte Carlo 1952",
-        "status": "free",
-        "title": "Affair in Monte Carlo",
-        "year": 1952
     },
     "http://www.imdb.com/title/tt0044406/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -5309,7 +4734,7 @@
         "year": 1952
     },
     "http://www.imdb.com/title/tt0045094/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
         "imdblookup": "Road to Bali 1952",
         "status": "free",
         "title": "Road to Bali",
@@ -5341,13 +4766,6 @@
         "imdblookup": "Captain Scarlett 1953",
         "status": "free",
         "title": "Captain Scarlett",
-        "year": 1953
-    },
-    "http://www.imdb.com/title/tt0045646/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Conquest of Everest 1953",
-        "status": "free",
-        "title": "Conquest of Everest",
         "year": 1953
     },
     "http://www.imdb.com/title/tt0045668/": {
@@ -5406,6 +4824,13 @@
         "title": "The Fast and the Furious",
         "year": 1955
     },
+    "http://www.imdb.com/title/tt0047127/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
+        "imdblookup": "Jail Bait 1954",
+        "status": "free",
+        "title": "Jail Bait",
+        "year": 1954
+    },
     "http://www.imdb.com/title/tt0047162/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "The Last Time I saw Paris 1954",
@@ -5432,6 +4857,13 @@
         "imdblookup": "Suddenly 1954",
         "status": "free",
         "title": "Suddenly",
+        "year": 1954
+    },
+    "http://www.imdb.com/title/tt0047675/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "imdblookup": "White Orchid 1954",
+        "status": "free",
+        "title": "White Orchid",
         "year": 1954
     },
     "http://www.imdb.com/title/tt0047878/": {
@@ -5469,12 +4901,12 @@
         "title": "Swamp Women",
         "year": 1956
     },
-    "http://www.imdb.com/title/tt0048818/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "Yellowneck 1955",
+    "http://www.imdb.com/title/tt0048957/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "imdblookup": "Invaders from Space 1964",
         "status": "free",
-        "title": "Yellowneck",
-        "year": 1955
+        "title": "Invaders from Space",
+        "year": 1964
     },
     "http://www.imdb.com/title/tt0049335/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
@@ -5496,6 +4928,13 @@
         "status": "free",
         "title": "Phantom from 10,000 Leagues",
         "year": 1955
+    },
+    "http://www.imdb.com/title/tt0049857/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Time Table 1956",
+        "status": "free",
+        "title": "Time Table",
+        "year": 1956
     },
     "http://www.imdb.com/title/tt0049922/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -5541,9 +4980,9 @@
     },
     "http://www.imdb.com/title/tt0051536/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "imdblookup": "Devil's Partner 1961",
+        "imdblookup": "The Devil's Partner, The 1961",
         "status": "free",
-        "title": "Devil's Partner",
+        "title": "The Devil's Partner, The",
         "year": 1961
     },
     "http://www.imdb.com/title/tt0051587/": {
@@ -5562,23 +5001,16 @@
     },
     "http://www.imdb.com/title/tt0051783/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
-        "imdblookup": "Shadow: Invisible Avenger 1958",
+        "imdblookup": "The Shadow: Invisible Avenger 1958",
         "status": "free",
-        "title": "Shadow: Invisible Avenger",
-        "year": 1958
-    },
-    "http://www.imdb.com/title/tt0051993/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "imdblookup": "Night of the Blood Beast 1958",
-        "status": "free",
-        "title": "Night of the Blood Beast",
+        "title": "The Shadow: Invisible Avenger",
         "year": 1958
     },
     "http://www.imdb.com/title/tt0052169/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "imdblookup": "Screaming Skull 1958",
+        "imdblookup": "The Screaming Skull 1958",
         "status": "free",
-        "title": "Screaming Skull",
+        "title": "The Screaming Skull",
         "year": 1958
     },
     "http://www.imdb.com/title/tt0052273/": {
@@ -5595,6 +5027,13 @@
         "title": "The White Warrior",
         "year": 1959
     },
+    "http://www.imdb.com/title/tt0052609/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "imdblookup": "The Beast from Haunted Cave 1960",
+        "status": "free",
+        "title": "The Beast from Haunted Cave",
+        "year": 1960
+    },
     "http://www.imdb.com/title/tt0052782/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
         "imdblookup": "Hercules Unchained 1959",
@@ -5609,18 +5048,11 @@
         "title": "Giant Gila Monster",
         "year": 1959
     },
-    "http://www.imdb.com/title/tt0052849/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Girl in Lover's Lane 1960",
-        "status": "free",
-        "title": "Girl in Lover's Lane",
-        "year": 1960
-    },
     "http://www.imdb.com/title/tt0052862/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Great St. Louis Bank Robbery 1959",
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "The Great St. Louis Bank Robbery 1959",
         "status": "free",
-        "title": "Great St. Louis Bank Robbery",
+        "title": "The Great St. Louis Bank Robbery",
         "year": 1959
     },
     "http://www.imdb.com/title/tt0053593/": {
@@ -5667,17 +5099,10 @@
     },
     "http://www.imdb.com/title/tt0054068/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Love and Larceny 1960",
+        "imdblookup": "Love and Larceny 1959",
         "status": "free",
         "title": "Love and Larceny",
-        "year": 1960
-    },
-    "http://www.imdb.com/title/tt0054237/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
-        "imdblookup": "Colossus and the Amazon Queen 1960",
-        "status": "free",
-        "title": "Colossus and the Amazon Queen",
-        "year": 1960
+        "year": 1959
     },
     "http://www.imdb.com/title/tt0054381/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
@@ -5735,6 +5160,13 @@
         "title": "Hercules in the Haunted World",
         "year": 1961
     },
+    "http://www.imdb.com/title/tt0054851/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
+        "imdblookup": "Hercules and the Captive Women 1961",
+        "status": "free",
+        "title": "Hercules and the Captive Women",
+        "year": 1961
+    },
     "http://www.imdb.com/title/tt0054924/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
         "imdblookup": "Giant of Metropolis 1961",
@@ -5784,13 +5216,6 @@
         "title": "Hands of a Stranger",
         "year": 1962
     },
-    "http://www.imdb.com/title/tt0056207/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
-        "imdblookup": "Colossus and the Headhunters 1963",
-        "status": "free",
-        "title": "Colossus and the Headhunters",
-        "year": 1963
-    },
     "http://www.imdb.com/title/tt0056211/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
         "imdblookup": "The Magic Sword 1960",
@@ -5804,13 +5229,6 @@
         "status": "free",
         "title": "Son of Cleopatra",
         "year": 1964
-    },
-    "http://www.imdb.com/title/tt0056693/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Wild Guitar 1962",
-        "status": "free",
-        "title": "Wild Guitar",
-        "year": 1962
     },
     "http://www.imdb.com/title/tt0057271/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
@@ -5826,12 +5244,12 @@
         "title": "Strangler of Blackmoor Castle",
         "year": 1963
     },
-    "http://www.imdb.com/title/tt0058063/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
-        "imdblookup": "Hercules and the Tyrants of Babylon 1964",
+    "http://www.imdb.com/title/tt0058072/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "imdblookup": "Evil Brain from Outer Space 1965",
         "status": "free",
-        "title": "Hercules and the Tyrants of Babylon",
-        "year": 1964
+        "title": "Evil Brain from Outer Space",
+        "year": 1965
     },
     "http://www.imdb.com/title/tt0058084/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -5868,18 +5286,11 @@
         "title": "The Last Man on Earth",
         "year": 1964
     },
-    "http://www.imdb.com/title/tt0058719/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Stop Train 349 1963",
-        "status": "free",
-        "title": "Stop Train 349",
-        "year": 1963
-    },
     "http://www.imdb.com/title/tt0059171/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "The Fat Spy 1966",
+        "imdblookup": "Fat Spy, The 1966",
         "status": "free",
-        "title": "The Fat Spy",
+        "title": "Fat Spy, The",
         "year": 1966
     },
     "http://www.imdb.com/title/tt0059262/": {
@@ -5889,19 +5300,26 @@
         "title": "Hercules and the Princess of Troy",
         "year": 1965
     },
-    "http://www.imdb.com/title/tt0060558/": {
+    "http://www.imdb.com/title/tt0060666/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "imdblookup": "Jesse James Meets Frankenstein's Daughter 1966",
+        "imdblookup": "Manos the Hands of Fate 1966",
         "status": "free",
-        "title": "Jesse James Meets Frankenstein's Daughter",
+        "title": "Manos the Hands of Fate",
+        "year": 1966
+    },
+    "http://www.imdb.com/title/tt0061140/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "imdblookup": "Undertaker and His Pals 1966",
+        "status": "free",
+        "title": "Undertaker and His Pals",
         "year": 1966
     },
     "http://www.imdb.com/title/tt0061592/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "imdblookup": "Doomsday Machine 1973",
+        "imdblookup": "Doomsday Machine 1972",
         "status": "free",
         "title": "Doomsday Machine",
-        "year": 1973
+        "year": 1972
     },
     "http://www.imdb.com/title/tt0063350/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -5924,6 +5342,13 @@
         "title": "The Black Brigade",
         "year": 1970
     },
+    "http://www.imdb.com/title/tt0064175/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "imdblookup": "Boot Hill 1969",
+        "status": "free",
+        "title": "Boot Hill",
+        "year": 1969
+    },
     "http://www.imdb.com/title/tt0065194/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Wake Me When the War is Over 1969",
@@ -5938,18 +5363,25 @@
         "title": "Cat O' Nine Tails",
         "year": 1971
     },
+    "http://www.imdb.com/title/tt0065911/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "imdblookup": "Jane Eyre 1970",
+        "status": "free",
+        "title": "Jane Eyre",
+        "year": 1970
+    },
+    "http://www.imdb.com/title/tt0066194/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
+        "imdblookup": "The Over-the-Hil Gang Rides Again 1970",
+        "status": "free",
+        "title": "The Over-the-Hil Gang Rides Again",
+        "year": 1970
+    },
     "http://www.imdb.com/title/tt0066942/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Congratulations, It's a Boy! 1971",
         "status": "free",
         "title": "Congratulations, It's a Boy!",
-        "year": 1971
-    },
-    "http://www.imdb.com/title/tt0067297/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Catch Me a Spy 1971",
-        "status": "free",
-        "title": "Catch Me a Spy",
         "year": 1971
     },
     "http://www.imdb.com/title/tt0067858/": {
@@ -5965,13 +5397,6 @@
         "status": "free",
         "title": "The Final Comedown",
         "year": 1972
-    },
-    "http://www.imdb.com/title/tt0068592/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
-        "imdblookup": "Firehouse 1973",
-        "status": "free",
-        "title": "Firehouse",
-        "year": 1973
     },
     "http://www.imdb.com/title/tt0068658/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
@@ -6001,12 +5426,26 @@
         "title": "Invasion of the Bee Girls",
         "year": 1973
     },
+    "http://www.imdb.com/title/tt0070654/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "imdblookup": "Scream Bloody Murder 1975",
+        "status": "free",
+        "title": "Scream Bloody Murder",
+        "year": 1975
+    },
     "http://www.imdb.com/title/tt0070673/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "imdblookup": "Severed Arm 1973",
         "status": "free",
         "title": "Severed Arm",
         "year": 1973
+    },
+    "http://www.imdb.com/title/tt0071085/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "imdblookup": "43: The Richard Petty Story 1974",
+        "status": "free",
+        "title": "43: The Richard Petty Story",
+        "year": 1974
     },
     "http://www.imdb.com/title/tt0071225/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -6044,11 +5483,18 @@
         "year": 1973
     },
     "http://www.imdb.com/title/tt0072245/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
         "imdblookup": "TNT Jackson 1974",
         "status": "free",
         "title": "TNT Jackson",
         "year": 1974
+    },
+    "http://www.imdb.com/title/tt0072845/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "imdblookup": "Joshua 1975",
+        "status": "free",
+        "title": "Joshua",
+        "year": 1975
     },
     "http://www.imdb.com/title/tt0073259/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -6057,19 +5503,19 @@
         "title": "Lady Cocoa",
         "year": 1975
     },
-    "http://www.imdb.com/title/tt0073755/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
-        "imdblookup": "Street Fighter's Last Revenge 1974",
-        "status": "free",
-        "title": "Street Fighter's Last Revenge",
-        "year": 1974
-    },
     "http://www.imdb.com/title/tt0073801/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
-        "imdblookup": "Thirsty Dead 1974",
+        "imdblookup": "The Thirsty Dead 1974",
         "status": "free",
-        "title": "Thirsty Dead",
+        "title": "The Thirsty Dead",
         "year": 1974
+    },
+    "http://www.imdb.com/title/tt0074210/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
+        "imdblookup": "Black Fist 1975",
+        "status": "free",
+        "title": "Black Fist",
+        "year": 1975
     },
     "http://www.imdb.com/title/tt0074475/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
@@ -6093,7 +5539,7 @@
         "year": 1976
     },
     "http://www.imdb.com/title/tt0075343/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
         "imdblookup": "Track of the Moon Beast 1976",
         "status": "free",
         "title": "Track of the Moon Beast",
@@ -6108,9 +5554,9 @@
     },
     "http://www.imdb.com/title/tt0075781/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "imdblookup": "Brain Machine 1977",
+        "imdblookup": "The Brain Machine 1977",
         "status": "free",
-        "title": "Brain Machine",
+        "title": "The Brain Machine",
         "year": 1977
     },
     "http://www.imdb.com/title/tt0076270/": {
@@ -6119,20 +5565,6 @@
         "status": "free",
         "title": "King Solomon's Treasure",
         "year": 1979
-    },
-    "http://www.imdb.com/title/tt0076522/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
-        "imdblookup": "Panic in Echo Park 1977",
-        "status": "free",
-        "title": "Panic in Echo Park",
-        "year": 1977
-    },
-    "http://www.imdb.com/title/tt0076582/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Loose Shoes 1978",
-        "status": "free",
-        "title": "Loose Shoes",
-        "year": 1978
     },
     "http://www.imdb.com/title/tt0077724/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -6211,19 +5643,12 @@
         "title": "Hard Knox",
         "year": 1984
     },
-    "http://www.imdb.com/title/tt0087461/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
-        "imdblookup": "Deadly Impact 1984",
-        "status": "free",
-        "title": "Deadly Impact",
-        "year": 1984
-    },
     "http://www.imdb.com/title/tt0087479/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "imdblookup": "Astral Factor 1978",
+        "imdblookup": "Astral Factor 1976",
         "status": "free",
         "title": "Astral Factor",
-        "year": 1978
+        "year": 1976
     },
     "http://www.imdb.com/title/tt0089279/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/war.html",
@@ -6245,13 +5670,6 @@
         "status": "free",
         "title": "Casablanca Express",
         "year": 1989
-    },
-    "http://www.imdb.com/title/tt0121557/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Missouri Nightingale 1934",
-        "status": "free",
-        "title": "Missouri Nightingale",
-        "year": 1934
     },
     "http://www.imdb.com/title/tt0121587/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
@@ -6288,13 +5706,6 @@
         "title": "Rhythm and Blues Revue",
         "year": 1955
     },
-    "http://www.imdb.com/title/tt0141082/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
-        "imdblookup": "Goat 1923",
-        "status": "free",
-        "title": "Goat",
-        "year": 1923
-    },
     "http://www.imdb.com/title/tt0141563/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "Lost, Lonely and Vicious 1958",
@@ -6317,18 +5728,11 @@
         "year": 1931
     },
     "http://www.imdb.com/title/tt0156085/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
+        "freenessurl": "http://www.fesfilms.com/public-domain/comedy.html",
         "imdblookup": "Strange Marriage 1932",
         "status": "free",
         "title": "Strange Marriage",
         "year": 1932
-    },
-    "http://www.imdb.com/title/tt0163315/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
-        "imdblookup": "T-Bird Gang 1959",
-        "status": "free",
-        "title": "T-Bird Gang",
-        "year": 1959
     },
     "http://www.imdb.com/title/tt0164401/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -6344,13 +5748,6 @@
         "title": "House of Danger",
         "year": 1934
     },
-    "http://www.imdb.com/title/tt0165696/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
-        "imdblookup": "Convicts at Large 1938",
-        "status": "free",
-        "title": "Convicts at Large",
-        "year": 1938
-    },
     "http://www.imdb.com/title/tt0165992/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
         "imdblookup": "Tough to Handle 1937",
@@ -6364,6 +5761,20 @@
         "status": "free",
         "title": "Battle of Blood Island",
         "year": 1960
+    },
+    "http://www.imdb.com/title/tt0169596/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
+        "imdblookup": "Because of Eve 1948",
+        "status": "free",
+        "title": "Because of Eve",
+        "year": 1948
+    },
+    "http://www.imdb.com/title/tt0171344/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/exploitation.html",
+        "imdblookup": "Girl Gang 1954",
+        "status": "free",
+        "title": "Girl Gang",
+        "year": 1954
     },
     "http://www.imdb.com/title/tt0171444/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -6379,6 +5790,27 @@
         "title": "Confessions of a Vice Baron",
         "year": 1943
     },
+    "http://www.imdb.com/title/tt0174168/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/musicals.html",
+        "imdblookup": "Road to Hollywood 1947",
+        "status": "free",
+        "title": "Road to Hollywood",
+        "year": 1947
+    },
+    "http://www.imdb.com/title/tt0174676/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/noir.html",
+        "imdblookup": "Gang Busters 1955",
+        "status": "free",
+        "title": "Gang Busters",
+        "year": 1955
+    },
+    "http://www.imdb.com/title/tt0177226/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "imdblookup": "Sisters of Death 1977",
+        "status": "free",
+        "title": "Sisters of Death",
+        "year": 1977
+    },
     "http://www.imdb.com/title/tt0178515/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/muscle-men.html",
         "imdblookup": "Hercules and the Masked Rider 1963",
@@ -6386,26 +5818,12 @@
         "title": "Hercules and the Masked Rider",
         "year": 1963
     },
-    "http://www.imdb.com/title/tt0186483/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
-        "imdblookup": "Real Bruce Lee 1973",
-        "status": "free",
-        "title": "Real Bruce Lee",
-        "year": 1973
-    },
     "http://www.imdb.com/title/tt0187122/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
         "imdblookup": "Hands of Death 1987",
         "status": "free",
         "title": "Hands of Death",
         "year": 1987
-    },
-    "http://www.imdb.com/title/tt0187371/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "On Your Guard 1933",
-        "status": "free",
-        "title": "On Your Guard",
-        "year": 1933
     },
     "http://www.imdb.com/title/tt0187505/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/kung-fu.html",
@@ -6429,11 +5847,11 @@
         "year": 1964
     },
     "http://www.imdb.com/title/tt0229200/": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/drama.html",
-        "imdblookup": "Adventures of Chico 1938",
+        "freenessurl": "http://www.fesfilms.com/public-domain/action-adventure.html",
+        "imdblookup": "The Adventures of Chico 1937",
         "status": "free",
-        "title": "Adventures of Chico",
-        "year": 1938
+        "title": "The Adventures of Chico",
+        "year": 1937
     },
     "http://www.imdb.com/title/tt0238080/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/black-heritage.html",
@@ -6484,6 +5902,13 @@
         "title": "Showtime at the Apollo",
         "year": 1955
     },
+    "http://www.imdb.com/title/tt1682728/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
+        "imdblookup": "War of the Monsters 1966",
+        "status": "free",
+        "title": "War of the Monsters",
+        "year": 1966
+    },
     "http://www.imdb.com/title/tt4756172/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
         "imdblookup": "The Devil Bat 1941",
@@ -6491,16 +5916,18 @@
         "title": "The Devil Bat",
         "year": 1941
     },
-    "http://www.imdb.com/title/tt4756248/": {
+    "http://www.imdb.com/title/tt4760134/": {
         "freenessurl": "http://www.fesfilms.com/public-domain/sci-fi.html",
-        "imdblookup": "The Wasp Woman 1960",
+        "imdblookup": "Slip Stream 1989",
         "status": "free",
-        "title": "The Wasp Woman",
-        "year": 1960
+        "title": "Slip Stream",
+        "year": 1989
     },
-    "on the DVD versions.-None": {
-        "freenessurl": "http://www.fesfilms.com/public-domain/mystery.html",
+    "http://www.imdb.com/title/tt4760380/": {
+        "freenessurl": "http://www.fesfilms.com/public-domain/horror.html",
+        "imdblookup": "Plan Nine from Outer Space 1956",
         "status": "free",
-        "title": "on the DVD versions."
+        "title": "Plan Nine from Outer Space",
+        "year": 1956
     }
 }
