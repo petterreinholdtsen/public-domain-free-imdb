@@ -54,7 +54,7 @@ def get_pd_urllist(url):
     except urllib2.HTTPError as e:
         return None
     urls = []
-    for d in root.cssselect("ul#leftnav li a[href='/public-domain/']+ul"):
+    for d in root.cssselect("ul#leftnav li a+ul"):
         for a in d.cssselect("a[href]"):
             if -1 != a.attrib['href'].find('.html'):
                 urls.append(urlparse.urljoin(url, a.attrib['href']))
