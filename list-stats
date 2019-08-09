@@ -40,9 +40,13 @@ def main():
                         help='input file(s)')
     parser.add_argument('--list-unique', action='store_true', default=False)
     parser.add_argument('--list-all', action='store_true', default=False)
+    parser.add_argument('--create-complete', action='store_true', default=False)
     args = parser.parse_args()
 
-    ids = IMDB()
+    if args.create_complete:
+        ids = IMDB()
+    else:
+        ids = None
 
     complete = {}
     s = {}
@@ -67,7 +71,10 @@ def main():
                               'file': [],
                               'status': 'free',
                           }
-                          imdbinfo = ids[imdbid]
+                          if ids:
+                              imdbinfo = ids[imdbid]
+                          else:
+                              imdbinfo = None
                           if imdbinfo:
                               complete[e].update(imdbinfo)
                       complete[e]['file'].append(file)
@@ -106,7 +113,8 @@ def main():
 
     print("%5d unique IMDB title IDs in total, %d only in one list, %d without IMDB title ID" %
           (len(complete.keys()), usum, xsum))
-    movielib.savelist(complete, 'free-complete.json')
+    if args.create_complete:
+        movielib.savelist(complete, 'free-complete.json')
 
 if __name__ == '__main__':
     main()
