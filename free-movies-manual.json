@@ -65,7 +65,7 @@
 	"year" : 1899
     },
     "http://www.imdb.com/title/tt0000304/": {
-        "freenessurl": "https://archive.org/details/youtube-2zBBkONbYZk",
+        "archive": "https://archive.org/details/youtube-2zBBkONbYZk",
         "wp" : "https://en.wikipedia.org/wiki/Grandma%27s_Reading_Glass",
         "status": "free",
         "title": "Grandma's Reading Glass",
@@ -197,6 +197,12 @@
         "title": "\"Barney Oldfield's Race For A Life\" (1913) director Mack Sennett",
 	"year" : 1913
     },
+    "http://www.imdb.com/title/tt0316241/": {
+        "freenessurl": "https://archive.org/details/AMessageFromMars1913",
+        "status": "free",
+        "title": "A Message from Mars",
+	"year" : 1913
+    },
     "http://www.imdb.com/title/tt0003167/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/Home.Sweet.Home",
@@ -273,7 +279,7 @@
 	"title" : "The Hayseed",
 	"year": 1919
     },
-    "https://www.imdb.com/title/tt0010600/": {
+    "http://www.imdb.com/title/tt0010600/": {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/DiePuppe1919",
 	"wp" : "https://en.wikipedia.org/wiki/The_Doll_(1919_film)",
@@ -566,7 +572,7 @@
 	"title" : "Caminandes 2: Gran Dillama",
 	"year" : 2013
     },
-    "https://www.imdb.com/title/tt7993892/" : {
+    "http://www.imdb.com/title/tt7993892/" : {
 	"status" : "free",
 	"freenessurl" : "https://archive.org/details/CaminandesLlamigos",
 	"wp" : "https://en.wikipedia.org/wiki/Caminandes",
