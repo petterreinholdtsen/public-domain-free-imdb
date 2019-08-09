@@ -1629,5 +1629,13 @@
         "status": "free",
         "title": "Zeitgeist - The Movie",
         "year": "2007"
+    },
+    "http://www.imdb.com/title/tt0002101/": {
+        "freenessurl": "https://archive.org/details/Cleopatra_1912",
+        "archive" : "https://archive.org/details/Cleopatra1912",
+	"wp" : "https://en.wikipedia.org/wiki/Cleopatra_(1912_film)",
+        "status": "free",
+        "title": "Cleopatra",
+        "year": 1912
     }
 }
