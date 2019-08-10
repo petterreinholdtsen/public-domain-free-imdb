@@ -162,7 +162,8 @@ def loadlist(l, path):
             for id in n.keys():
                 freenessurl = []
                 for field in ['freenessurl', 'freenessurl2', 'freenessurl3',
-                              'freenessurl4']:
+                              'freenessurl4', 'freenessurl5', 'freenessurl6',
+                              'freenessurl7', 'freenessurl8', 'freenessurl9']:
                     if field in n[id] and n[id][field] not in freenessurl:
                         freenessurl.append(n[id][field])
                         del n[id][field]
