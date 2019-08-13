@@ -84,19 +84,22 @@ def loadlist(l, path):
         with open(path, 'rt') as input:
             n = json.load(input)
             for id in n.keys():
-                freenessurl = []
-                for field in ['freenessurl', 'archive', 'archive1', 'archive2',
-                              'archive3', 'archive4', 'archive5', 'archive6']:
-                    if field in n[id] and n[id][field] not in freenessurl:
-                        freenessurl.append(n[id][field])
+                freenessurls = []
+                for field in ['archive', 'archive1', 'archive2', 'archive3', 'archive4',
+                              'archive5', 'archive6', 'archive7', 'archive8', 'archive9',
+                              'freenessurl', 'freenessurl1', 'freenessurl2', 'freenessurl3',
+                              'freenessurl4', 'freenessurl5', 'freenessurl6', 'freenessurl7',
+                              'freenessurl8', 'freenessurl9', 'freenessurl10', 'freenessurl11']:
+                    if field in n[id] and n[id][field] not in freenessurls:
+                        freenessurls.append(n[id][field])
                         del n[id][field]
-                n[id]['freenessurl'] = freenessurl
+                n[id]['freenessurls'] = freenessurls
                 if not id in l:
                     l[id] = n[id]
                 else:
-                    for url in n[id]['freenessurl']:
-                        if url not in l[id]['freenessurl']:
-                            l[id]['freenessurl'].append(url)
+                    for url in n[id]['freenessurls']:
+                        if url not in l[id]['freenessurls']:
+                            l[id]['freenessurls'].append(url)
     except IOError as e:
         return {}
 
@@ -126,7 +129,7 @@ def main():
                 e['title'] = sorted(e['title'])[0]
             fle = {
                 'status' : 'free',
-                'freenessurl' : [freenessurl],
+                'freenessurls' : [freenessurl],
                 'title' : e['title'],
                 }
             if 'year' in e:
@@ -134,8 +137,8 @@ def main():
             # Check if the archive.org ID already have a known IMDB title ID
             if 0 == len(imdbmap.keys()):
                 for wpimdb in wplist.keys():
-                    if 'freenessurl' in wplist[wpimdb] \
-                       and freenessurl in wplist[wpimdb]['freenessurl']:
+                    if 'freenessurls' in wplist[wpimdb] \
+                       and freenessurl in wplist[wpimdb]['freenessurls']:
                         imdbmap[wpimdb] = True
             # If not, use archive.org ID as unique ID
             if 0 == len(imdbmap.keys()):
@@ -150,31 +153,26 @@ def main():
                             outlist[i]['year'] = fle['year']
                         elif outlist[i]['year'] > fle['year']:
                             outlist[i]['year'] = fle['year']
-                    if freenessurl not in outlist[i]['freenessurl']:
-                        outlist[i]['freenessurl'].append(freenessurl)
+                    if freenessurl not in outlist[i]['freenessurls']:
+                        outlist[i]['freenessurls'].append(freenessurl)
                     # Make stored title predictable, select one
                     # using sorting order.
                     if fle['title'] < outlist[i]['title']:
                         outlist[i]['title'] = fle['title']
         page = page + 1
         time.sleep(3)
-    # Rewrite freenessurl array to individual fields (freenessurl,
+    # Rewrite freenessurls array to individual fields (freenessurl,
     # archive, archive1...) in predictable/sorted order
     for i in outlist:
-        if 1 == len(outlist[i]['freenessurl']):
-            outlist[i]['freenessurl'] = outlist[i]['freenessurl'][0]
-        else:
-            sl = sorted(outlist[i]['freenessurl'])
-            outlist[i]['freenessurl'] = sl[0]
             seq = 0
-            for u in sl[1:]:
+            for u in sorted(outlist[i]['freenessurls']):
                 if 0 == seq:
-                    field = 'archive'
+                    field = 'freenessurl'
                 else:
-                    field = "archive%d" % seq
+                    field = "freenessurl%d" % seq
                 outlist[i][field] = u
                 seq = seq + 1
-
+            del outlist[i]['freenessurls']
     movielib.savelist(outlist, 'free-movies-archive-org-search.json')
 
     print("Wrote %d" % len(outlist.keys()))
