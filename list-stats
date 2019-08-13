@@ -69,6 +69,7 @@ def main():
                       if e not in complete:
                           complete[e] = {
                               'file': [],
+                              'freenessurls': [],
                               'status': 'free',
                           }
                           if ids:
@@ -78,6 +79,14 @@ def main():
                           if imdbinfo:
                               complete[e].update(imdbinfo)
                       complete[e]['file'].append(file)
+                      for key in ('archive',
+                                  'freenessurl', 'freenessurl2', 'freenessurl3', 'freenessurl4',
+                                  'freenessurl5', 'freenessurl6', 'freenessurl7', 'freenessurl8',
+                                  'freenessurl9'):
+                          if key in l[e]:
+                              url = l[e][key]
+                              if url not in complete[e]['freenessurls']:
+                                  complete[e]['freenessurls'].append(url)
                    else:
                        noimdb = noimdb + 1
                    s[file] = {
