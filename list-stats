@@ -79,14 +79,24 @@ def main():
                           if imdbinfo:
                               complete[e].update(imdbinfo)
                       complete[e]['file'].append(file)
-                      for key in ('archive',
-                                  'freenessurl', 'freenessurl2', 'freenessurl3', 'freenessurl4',
-                                  'freenessurl5', 'freenessurl6', 'freenessurl7', 'freenessurl8',
-                                  'freenessurl9'):
-                          if key in l[e]:
+                      # Keep list sorted to get predictable output
+                      complete[e]['file'] = \
+                        sorted(complete[e]['file'])
+                      for key in ('archive', 'archive1', 'archive2',
+                                  'archive3', 'archive4', 'archive5',
+                                  'freenessurl', 'freenessurl1', 'freenessurl2',
+                                  'freenessurl3', 'freenessurl4', 'freenessurl5',
+                                  'freenessurl6', 'freenessurl7', 'freenessurl8',
+                                  'freenessurl9', 'freenessurl10', 'freenessurl11',
+                                  'freenessurl12', 'freenessurl13', 'freenessurl14',
+                                  'freenessurl15', 'freenessurl16'):
+                          if key in l[e] and 'n/a' != l[e][key]:
                               url = l[e][key]
                               if url not in complete[e]['freenessurls']:
                                   complete[e]['freenessurls'].append(url)
+                                  # Keep list sorted to get predictable output
+                                  complete[e]['freenessurls'] = \
+                                    sorted(complete[e]['freenessurls'])
                    else:
                        noimdb = noimdb + 1
                    s[file] = {
