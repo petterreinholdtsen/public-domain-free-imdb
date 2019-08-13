@@ -98,8 +98,8 @@ def main():
         usum = usum + unique
         xsum = xsum + s[file]['noimdb']
         if args.list_unique:
-            for imdburl in sorted(m.keys()):
-                if m[imdburl]['file'] == [file]:
+            for imdburl in sorted(complete.keys()):
+                if complete[imdburl]['file'] == [file]:
                     if 'year' in i[imdburl]:
                         y = i[imdburl]['year']
                     else:
