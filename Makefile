@@ -32,6 +32,9 @@ listupdate:
 	./mklist-two-movies-net --imdblookup
 	./mklist-mubi --imdblookup
 
+free-complete.json: title.basics.tsv.gz free-movies-*.json
+	./list-stats --create-complete free-movies-*.json
+
 histogram-year.data: histogram-year *.json
 	./histogram-year free-movies-*.json > $@
 histogram-year.png: histogram-year-plot histogram-year.data
