@@ -1,0 +1,81 @@
+{
+    "https://www.imdb.com/name/nm10239101/": {
+        "name": "Kristian Prestrud",
+	"dead": 1927,
+	"wp": "https://no.wikipedia.org/wiki/Kristian_Prestrud"
+    },
+    "http://www.imdb.com/name/nm0084804/": {
+        "name": "Olaf K. Bjerke",
+	"dead": 1931,
+	"wp": "https://no.wikipedia.org/wiki/Olaf_K._Bjerke"
+    },
+    "http://www.imdb.com/name/nm0259235/": {
+        "birth": 1852,
+        "dead": 1932,
+        "name": "Adam Eriksen",
+	"snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen",
+	"nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
+	"da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel"
+    },
+    "http://www.imdb.com/title/tt0347686/": {
+        "name": "Sverre Halvorsen",
+	"dead": 1936,
+	"wp" : "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
+    },
+    "http://www.imdb.com/name/nm0379338/": {
+        "name": "Hugo Hermansen",
+        "dead": 1939,
+	"wp" : "https://no.wikipedia.org/wiki/Hugo_Hermansen"
+    },
+    "http://www.imdb.com/name/nm0633478/": {
+        "name": "Christian Nobel",
+        "birth": 1882,
+        "dead": 1946,
+	"danskefilm": "https://danskefilm.dk/skuespiller.php?id=8684"
+    },
+    "http://www.imdb.com/name/nm0704587/": {
+        "name": "Pehr Qværnstrøm",
+	"dead": 1949,
+	"wp" : "https://sv.wikipedia.org/wiki/Pehr_Qv%C3%A6rnstr%C3%B8m"
+    },
+    "http://www.imdb.com/name/nm0770531/": {
+        "name": "Hans Scheib",
+	"comment": "Ukjent dødsår, var i live 1953",
+	"dead": 1953,
+	"wp": "https://de.wikipedia.org/wiki/Hans_Scheib_(Kameramann)"
+    },
+    "http://www.imdb.com/name/nm0259254/": {
+        "name": "Erling Eriksen",
+	"born": 1878,
+	"dead": 1957,
+	"comment" : "Kilde: Den store illusjonen : filmbyråenes historie, Forfatter: Disen, Ole H.P., Publisert: [Oslo] : Norske filmbyråers forening, 1997, ref epost på efn-listen fra Tord Akerbæk og sjekk i nb.no (side 61 har årstallene).",
+	"wp": "https://no.wikipedia.org/wiki/Erling_Eriksen"
+    },
+    "http://www.imdb.com/name/nm0357165/": {
+        "name": "Leif Halvorsen",
+	"dead": 1959,
+	"wp": "https://no.wikipedia.org/wiki/Leif_Halvorsen"
+    },
+    "http://www.imdb.com/name/nm0630727/": {
+	"name": "Adolf Kristoffer Nielsen",
+	"dead": 1960,
+	"wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+    },
+    "http://www.imdb.com/name/nm0736288/": {
+	"name": "Halfdan Nobel Roede",
+	"born": 1877,
+	"dead": 1963,
+	"wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
+    },
+    "http://www.imdb.com/name/nm0595713/": {
+	"name": "Victor Mogens",
+	"dead": 1964,
+	"wp": "https://en.wikipedia.org/wiki/Victor_Mogens"
+    },
+    "http://www.imdb.com/name/nm0469697/": {
+        "name": "Jolly Kramer-Johansen",
+	"dead": 1968,
+	"wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+    }
+}
+
