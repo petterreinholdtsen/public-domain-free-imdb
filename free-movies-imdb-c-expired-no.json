@@ -1,0 +1,4332 @@
+{
+    "http://www.imdb.com/title/tt0001511/": {
+        "creator": [
+            {
+                "dead": 1949,
+                "name": "Pehr Qv\u00e6rnstr\u00f8m",
+                "wp": "https://sv.wikipedia.org/wiki/Pehr_Qv%C3%A6rnstr%C3%B8m"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1949,
+                "name": "Pehr Qv\u00e6rnstr\u00f8m",
+                "wp": "https://sv.wikipedia.org/wiki/Pehr_Qv%C3%A6rnstr%C3%B8m"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0415403/",
+                "name": "Henrik Jaenzon"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Bondefangeri i Vaterland",
+        "year": 1911,
+        "yearexpire": 2019
+    },
+    "http://www.imdb.com/title/tt0001590/": {
+        "creator": [
+            {
+                "dead": 1945,
+                "imdb": "http://www.imdb.com/name/nm0348062/",
+                "name": "Jens Christian Gundersen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1945,
+                "imdb": "http://www.imdb.com/name/nm0348062/",
+                "name": "Jens Christian Gundersen"
+            },
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0511155/",
+                "name": "Alfred Lind"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0511155/",
+                "name": "Alfred Lind"
+            }
+        ],
+        "status": "unknown",
+        "title": "D\u00e6monen",
+        "year": 1911,
+        "yearexpire": 2029
+    },
+    "http://www.imdb.com/title/tt0001608/": {
+        "creator": [
+            {
+                "dead": 1964,
+                "name": "Victor Mogens",
+                "wp": "https://en.wikipedia.org/wiki/Victor_Mogens"
+            }
+        ],
+        "director": [
+            {
+                "born": 1877,
+                "dead": 1963,
+                "name": "Halfdan Nobel Roede",
+                "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fattigdommens forbandelse",
+        "year": 1911,
+        "yearexpire": 2034
+    },
+    "http://www.imdb.com/title/tt0001957/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "born": 1877,
+                "dead": 1963,
+                "name": "Halfdan Nobel Roede",
+                "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
+            }
+        ],
+        "status": "unknown",
+        "title": "Under forvandlingens lov",
+        "year": 1911,
+        "yearexpire": 2033
+    },
+    "http://www.imdb.com/title/tt0002014/": {
+        "creator": [
+            {
+                "birth": 1882,
+                "danskefilm": "https://danskefilm.dk/skuespiller.php?id=8684",
+                "dead": 1946,
+                "name": "Christian Nobel"
+            }
+        ],
+        "director": [
+            {
+                "born": 1877,
+                "dead": 1963,
+                "name": "Halfdan Nobel Roede",
+                "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
+            }
+        ],
+        "status": "unknown",
+        "title": "Alt for Norge",
+        "year": 1912,
+        "yearexpire": 2033
+    },
+    "http://www.imdb.com/title/tt0002026/": {
+        "creator": [
+            {
+                "birth": 1852,
+                "da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel",
+                "death": 1932,
+                "name": "Adam Eriksen",
+                "nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
+                "snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen"
+            }
+        ],
+        "director": [
+            {
+                "birth": 1852,
+                "da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel",
+                "death": 1932,
+                "name": "Adam Eriksen",
+                "nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
+                "snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1931,
+                "name": "Olaf K. Bjerke",
+                "wp": "https://no.wikipedia.org/wiki/Olaf_K._Bjerke"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Anny - en gatepiges roman",
+        "year": 1912,
+        "yearexpire": 1982
+    },
+    "http://www.imdb.com/title/tt0002235/": {
+        "director": [
+            {
+                "born": 1877,
+                "dead": 1963,
+                "name": "Halfdan Nobel Roede",
+                "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
+            }
+        ],
+        "status": "unknown",
+        "title": "Hemmeligheden",
+        "year": 1912,
+        "yearexpire": 2033
+    },
+    "http://www.imdb.com/title/tt0003250/": {
+        "creator": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Overfaldet p\u00e5 post\u00e5pnerens datter",
+        "year": 1913,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt0007972/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "De for\u00e6ldrel\u00f8se",
+        "year": 1917,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0008719/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0927360/",
+                "name": "Karl Wieghorst"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Unge hjerter",
+        "year": 1917,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0008740/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0348998/",
+                "name": "Oscar Gustafson"
+            },
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0845624/",
+                "name": "Carl Gustav S\u00f8derstr\u00f8m"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "En vinternat",
+        "year": 1917,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0009314/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Lodsens datter",
+        "year": 1918,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0009546/": {
+        "creator": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Revolutionens datter",
+        "year": 1918,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt0009769/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0845624/",
+                "name": "Carl Gustav S\u00f8derstr\u00f8m"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Vor tids helte",
+        "year": 1918,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0010259/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0845624/",
+                "name": "Carl Gustav S\u00f8derstr\u00f8m"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Historien om en gut",
+        "year": 1919,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0010939/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "\u00c6resgjesten",
+        "year": 1919,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt0011173/": {
+        "creator": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            },
+            {
+                "dead": 1917,
+                "imdb": "http://www.imdb.com/name/nm0418114/",
+                "name": "Kristofer Janson"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2280656/",
+                "name": "Halldor Krogh"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fante-Anne",
+        "year": 1920,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0011361/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0647652/",
+                "name": "Gustav Adolf Olsen"
+            }
+        ],
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0647652/",
+                "name": "Gustav Adolf Olsen"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0073010/",
+                "name": "Johann Bentzen"
+            },
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0252303/",
+                "name": "Hilmer Ekdahl"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Kaksen p\u00e5 \u00d8verland",
+        "year": 1920,
+        "yearexpire": 1990
+    },
+    "http://www.imdb.com/title/tt0011440/": {
+        "creator": [
+            {
+                "dead": 1952,
+                "imdb": "http://www.imdb.com/name/nm0359105/",
+                "name": "Knut Hamsun"
+            },
+            {
+                "dead": 1947,
+                "imdb": "http://www.imdb.com/name/nm0814027/",
+                "name": "Gunnar Sommerfeldt"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1947,
+                "imdb": "http://www.imdb.com/name/nm0814027/",
+                "name": "Gunnar Sommerfeldt"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1959,
+                "name": "Leif Halvorsen",
+                "wp": "https://no.wikipedia.org/wiki/Leif_Halvorsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Markens gr\u00f8de",
+        "year": 1921,
+        "yearexpire": 2029
+    },
+    "http://www.imdb.com/title/tt0012159/": {
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Felix",
+        "year": 1921,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0012337/": {
+        "creator": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            },
+            {
+                "dead": 1933,
+                "imdb": "http://www.imdb.com/name/nm0469255/",
+                "name": "Vilhelm Krag"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Jomfru Trofast",
+        "year": 1921,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0012789/": {
+        "status": "expirecandidate",
+        "title": "Under Polarkredsens himmel",
+        "year": 1921,
+        "yearexpire": 1991
+    },
+    "http://www.imdb.com/title/tt0012946/": {
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Blandt Syd-Amerikas urskovsindianere",
+        "year": 1921,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt0013117/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0753185/",
+                "name": "Amund Rydland"
+            }
+        ],
+        "status": "unknown",
+        "title": "Farende folk",
+        "year": 1922,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0013299/": {
+        "director": [
+            {
+                "born": 1878,
+                "comment": "Kilde: Den store illusjonen : filmbyr\u00e5enes historie, Forfatter: Disen, Ole H.P., Publisert: [Oslo] : Norske filmbyr\u00e5ers forening, 1997, ref epost p\u00e5 efn-listen fra Tord Akerb\u00e6k og sjekk i nb.no (side 61 har \u00e5rstallene).",
+                "dead": 1957,
+                "name": "Erling Eriksen",
+                "wp": "https://no.wikipedia.org/wiki/Erling_Eriksen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Kj\u00e6rlighet p\u00e5 pinde",
+        "year": 1922,
+        "yearexpire": 2027
+    },
+    "http://www.imdb.com/title/tt0013480/": {
+        "creator": [
+            {
+                "dead": 1952,
+                "imdb": "http://www.imdb.com/name/nm0359105/",
+                "name": "Knut Hamsun"
+            },
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0777884/",
+                "name": "Harald Schwenzen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0777884/",
+                "name": "Harald Schwenzen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0030170/",
+                "name": "Johan Ankerstjerne"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0879589/",
+                "name": "Thorleif T\u00f8nsberg"
+            }
+        ],
+        "status": "unknown",
+        "title": "Pan",
+        "year": 1922,
+        "yearexpire": 2024
+    },
+    "http://www.imdb.com/title/tt0014267/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0526377/",
+                "name": "Reidar Lunde"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0526377/",
+                "name": "Reidar Lunde"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Med Roald Amundsens Nordpolsekspedition til f\u00f8rste vinterkvarter",
+        "year": 1923,
+        "yearexpire": 1993
+    },
+    "http://www.imdb.com/title/tt0014318/": {
+        "status": "expirecandidate",
+        "title": "Nordenfor polarcirkelen",
+        "year": 1923,
+        "yearexpire": 1993
+    },
+    "http://www.imdb.com/title/tt0014319/": {
+        "status": "expirecandidate",
+        "title": "Norge - en skildring i 6 akter",
+        "year": 1923,
+        "yearexpire": 1993
+    },
+    "http://www.imdb.com/title/tt0014514/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0198215/",
+                "name": "O. Trygve Dalseg"
+            },
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Strandhugg p\u00e5 Kavringen",
+        "year": 1923,
+        "yearexpire": 2029
+    },
+    "http://www.imdb.com/title/tt0015417/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Til s\u00e6ters",
+        "year": 1924,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0015790/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fager er lien",
+        "year": 1925,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0015861/": {
+        "creator": [
+            {
+                "dead": 1930,
+                "imdb": "http://www.imdb.com/name/nm0119976/",
+                "name": "Jacob Breda Bull"
+            },
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0003433/",
+                "name": "Carl Theodor Dreyer"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0003433/",
+                "name": "Carl Theodor Dreyer"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1966,
+                "imdb": "http://www.imdb.com/name/nm0647630/",
+                "name": "Einar Olsen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Glomdalsbruden",
+        "year": 1926,
+        "yearexpire": 2038
+    },
+    "http://www.imdb.com/title/tt0015913/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0753185/",
+                "name": "Amund Rydland"
+            },
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Himmeluret",
+        "year": 1925,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0016098/": {
+        "status": "expirecandidate",
+        "title": "Med 'Stavangerfjord' til Nordkap",
+        "year": 1925,
+        "yearexpire": 1995
+    },
+    "http://www.imdb.com/title/tt0016295/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0074006/",
+                "name": "Paul Berge"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm3116241/",
+                "name": "Oskar Omdal"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0074006/",
+                "name": "Paul Berge"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm3116241/",
+                "name": "Oskar Omdal"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Roald Amundsen - Ellsworths flyveekspedition 1925",
+        "year": 1925,
+        "yearexpire": 1995
+    },
+    "http://www.imdb.com/title/tt0016621/": {
+        "creator": [
+            {
+                "dead": 1933,
+                "imdb": "http://www.imdb.com/name/nm0469255/",
+                "name": "Vilhelm Krag"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
+                "name": "Alf R\u00f8d"
+            },
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Baldevins bryllup",
+        "year": 1926,
+        "yearexpire": 2031
+    },
+    "http://www.imdb.com/title/tt0016691/": {
+        "creator": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            },
+            {
+                "dead": 1917,
+                "imdb": "http://www.imdb.com/name/nm0418114/",
+                "name": "Kristofer Janson"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Brudeferden i Hardanger",
+        "year": 1926,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0016945/": {
+        "status": "expirecandidate",
+        "title": "Hallo! Amerika!",
+        "year": 1926,
+        "yearexpire": 1996
+    },
+    "http://www.imdb.com/title/tt0017090/": {
+        "status": "expirecandidate",
+        "title": "Luftskibet 'Norge's flugt over polhavet",
+        "year": 1926,
+        "yearexpire": 1996
+    },
+    "http://www.imdb.com/title/tt0017129/": {
+        "status": "expirecandidate",
+        "title": "Med 'Maud' over Polhavet",
+        "year": 1926,
+        "yearexpire": 1996
+    },
+    "http://www.imdb.com/title/tt0017216/": {
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den nye lensmanden",
+        "year": 1926,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0017241/": {
+        "status": "expirecandidate",
+        "title": "Over Atlanterhavet og gjennem Amerika",
+        "year": 1926,
+        "yearexpire": 1996
+    },
+    "http://www.imdb.com/title/tt0017394/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Simen Mustr\u00f8ens besynderlige opplevelser",
+        "year": 1926,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0017888/": {
+        "creator": [
+            {
+                "dead": 1842,
+                "imdb": "http://www.imdb.com/name/nm1171651/",
+                "name": "Henrik Anker Bjerregaard"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fjeldeventyret",
+        "year": 1927,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0017939/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den glade enke i Trangvik",
+        "year": 1927,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0018128/": {
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Madame bes\u00f8ker Oslo",
+        "year": 1927,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0018209/": {
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Norges-filmen",
+        "year": 1927,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0018460/": {
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "status": "unknown",
+        "title": "Syv dager for Elisabeth",
+        "year": 1927,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0018508/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
+                "name": "Alf R\u00f8d"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0922735/",
+                "name": "Ragnar Westfelt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Troll-Elgen",
+        "year": 1927,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0018688/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0422404/",
+                "name": "Jonathan Jerv"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0422404/",
+                "name": "Jonathan Jerv"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1929,
+                "imdb": "http://www.imdb.com/name/nm0469170/",
+                "name": "Uwe Jens Krafft"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0773261/",
+                "name": "Werner Schmidt-Boelcke"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0073010/",
+                "name": "Johann Bentzen"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0074006/",
+                "name": "Paul Berge"
+            },
+            {
+                "dead": 1950,
+                "imdb": "http://www.imdb.com/name/nm0005760/",
+                "name": "G\u00fcnther Krampf"
+            }
+        ],
+        "status": "unknown",
+        "title": "Bergenstoget plyndret inatt",
+        "year": 1928,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0018738/": {
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Cafe X",
+        "year": 1928,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0019531/": {
+        "creator": [
+            {
+                "dead": 1957,
+                "imdb": "http://www.imdb.com/name/nm0526566/",
+                "name": "Bertil Lundquister"
+            },
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0922735/",
+                "name": "Ragnar Westfelt"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0922735/",
+                "name": "Ragnar Westfelt"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Viddenes folk",
+        "year": 1928,
+        "yearexpire": 2038
+    },
+    "http://www.imdb.com/title/tt0019899/": {
+        "status": "expirecandidate",
+        "title": "Fra Chr. Michelsen til Kronprins Olav og Prinsesse Martha",
+        "year": 1929,
+        "yearexpire": 1999
+    },
+    "http://www.imdb.com/title/tt0020075/": {
+        "creator": [
+            {
+                "dead": 1896,
+                "imdb": "http://www.imdb.com/name/nm0295732/",
+                "name": "Jens Andreas Friis"
+            },
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0004592/",
+                "name": "Robert Israel"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1971,
+                "imdb": "http://www.imdb.com/name/nm0159932/",
+                "name": "Valdemar Christensen"
+            },
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0528578/",
+                "name": "Allan Lynge"
+            }
+        ],
+        "status": "unknown",
+        "title": "Laila",
+        "year": 1929,
+        "yearexpire": 2031
+    },
+    "http://www.imdb.com/title/tt0020378/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0526168/",
+                "name": "Gustav Lund"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Se Norge",
+        "year": 1929,
+        "yearexpire": 1999
+    },
+    "http://www.imdb.com/title/tt0020384/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0783605/",
+                "name": "Lyder Selvig"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Selvigs Norgesfilm",
+        "year": 1929,
+        "yearexpire": 1999
+    },
+    "http://www.imdb.com/title/tt0021033/": {
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1960,
+                "name": "Adolf Kristoffer Nielsen",
+                "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Kristine Valdresdatter",
+        "year": 1930,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0021158/": {
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0726887/",
+                "name": "Hjalmar Riiser-Larsen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Mot ukjent land",
+        "year": 1930,
+        "yearexpire": 2000
+    },
+    "http://www.imdb.com/title/tt0021913/": {
+        "status": "expirecandidate",
+        "title": "Glimt fra New York og den Norske koloni",
+        "year": 1931,
+        "yearexpire": 2001
+    },
+    "http://www.imdb.com/title/tt0022434/": {
+        "creator": [
+            {
+                "dead": 1939,
+                "imdb": "http://www.imdb.com/name/nm0102602/",
+                "name": "Oskar Braaten"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den store barned\u00e5pen",
+        "year": 1931,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0022878/": {
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fantegutten",
+        "year": 1932,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0022946/": {
+        "creator": [
+            {
+                "dead": 1910,
+                "imdb": "http://www.imdb.com/name/nm0085085/",
+                "name": "Bj\u00f8rnstjerne Bj\u00f8rnson"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1937,
+                "imdb": "http://www.imdb.com/name/nm0116307/",
+                "name": "John W. Brunius"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "En glad gutt",
+        "year": 1932,
+        "yearexpire": 2007
+    },
+    "http://www.imdb.com/title/tt0023112/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0074069/",
+                "name": "Erling Bergendahl"
+            },
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0774256/",
+                "name": "George Schn\u00e9evoigt"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0284281/",
+                "name": "Dan Folke"
+            }
+        ],
+        "status": "unknown",
+        "title": "Lalla vinner!",
+        "year": 1932,
+        "yearexpire": 2031
+    },
+    "http://www.imdb.com/title/tt0023355/": {
+        "creator": [
+            {
+                "dead": 1885,
+                "imdb": "http://www.imdb.com/name/nm1223355/",
+                "name": "Peter Christen Asbj\u00f8rnsen"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
+                "name": "Alf R\u00f8d"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Prinsessen som ingen kunne m\u00e5lbinde",
+        "year": 1932,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0023483/": {
+        "creator": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0906291/",
+                "name": "Gideon Wahlberg"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "status": "unknown",
+        "title": "Skj\u00e6rg\u00e5rdsflirt",
+        "year": 1932,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0024164/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0616951/",
+                "name": "Finn Mykleg\u00e5rd"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "I kongens kl\u00e6r",
+        "year": 1933,
+        "yearexpire": 2003
+    },
+    "http://www.imdb.com/title/tt0024194/": {
+        "creator": [
+            {
+                "dead": 1754,
+                "imdb": "http://www.imdb.com/name/nm0390004/",
+                "name": "Ludvig Holberg"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1999,
+                "imdb": "http://www.imdb.com/name/nm0007308/",
+                "name": "Per Aabel"
+            },
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Jeppe p\u00e5 bjerget",
+        "year": 1933,
+        "yearexpire": 2069
+    },
+    "http://www.imdb.com/title/tt0024729/": {
+        "creator": [
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0095313/",
+                "name": "Sigrid Boo"
+            },
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0147800/",
+                "name": "S\u00f6lve Cederstrand"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            },
+            {
+                "dead": 1973,
+                "imdb": "http://www.imdb.com/name/nm0596410/",
+                "name": "Gustaf Molander"
+            },
+            {
+                "dead": 1964,
+                "imdb": "http://www.imdb.com/name/nm0828436/",
+                "name": "G\u00f6sta Stevens"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0005960/",
+                "name": "Eric Bengtson"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0141357/",
+                "name": "Bert Carsten"
+            },
+            {
+                "dead": 1954,
+                "imdb": "http://www.imdb.com/name/nm0256815/",
+                "name": "Georg Enders"
+            },
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0423947/",
+                "name": "Gunnar Johansson"
+            },
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0006314/",
+                "name": "Jules Sylvain"
+            }
+        ],
+        "status": "unknown",
+        "title": "Vi som g\u00e5r kj\u00f8kkenveien",
+        "year": 1933,
+        "yearexpire": 2061
+    },
+    "http://www.imdb.com/title/tt0025412/": {
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1960,
+                "name": "Adolf Kristoffer Nielsen",
+                "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Liv",
+        "year": 1934,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0025604/": {
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Op med hodet!",
+        "year": 1933,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0025743/": {
+        "director": [
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0083627/",
+                "name": "T\u00f8nnes Birknes"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Sangen om Rondane",
+        "year": 1934,
+        "yearexpire": 2057
+    },
+    "http://www.imdb.com/title/tt0025852/": {
+        "creator": [
+            {
+                "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0388472/",
+                "name": "Sigurd Hoel"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0803070/",
+                "name": "Einar Sissener"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
+                "name": "Kristian Hauger"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Syndere i sommersol",
+        "year": 1934,
+        "yearexpire": 2038
+    },
+    "http://www.imdb.com/title/tt0026298/": {
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            },
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0803070/",
+                "name": "Einar Sissener"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0423857/",
+                "name": "Willy Johansen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Du har lovet mig en kone!",
+        "year": 1935,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0026965/": {
+        "creator": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            },
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0314288/",
+                "name": "Einar Gerhardsen"
+            },
+            {
+                "dead": 2009,
+                "imdb": "http://www.imdb.com/name/nm0509270/",
+                "name": "Haakon Lie"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0509277/",
+                "name": "Per Lie"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0610279/",
+                "name": "Johan Ludvig Mowinckel Jr."
+            }
+        ],
+        "status": "unknown",
+        "title": "Samhold m\u00e5 til",
+        "year": 1935,
+        "yearexpire": 2079
+    },
+    "http://www.imdb.com/title/tt0027982/": {
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "status": "unknown",
+        "title": "Morderen uten ansikt",
+        "year": 1936,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0028040/": {
+        "director": [
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
+        "status": "unknown",
+        "title": "Norge for folket",
+        "year": 1936,
+        "yearexpire": 2057
+    },
+    "http://www.imdb.com/title/tt0028423/": {
+        "creator": [
+            {
+                "dead": 1947,
+                "imdb": "http://www.imdb.com/name/nm0160228/",
+                "name": "Sigurd Christiansen"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0159785/",
+                "name": "Gyda Christensen"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0137819/",
+                "name": "Carsten Carlsen"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0174096/",
+                "name": "Olle Comstedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "To levende og en d\u00f8d",
+        "year": 1937,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0028462/": {
+        "creator": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Vi bygger landet",
+        "year": 1936,
+        "yearexpire": 2050
+    },
+    "http://www.imdb.com/title/tt0028463/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0653158/",
+                "name": "Ernst Ottersen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Vi vil oss et land...",
+        "year": 1936,
+        "yearexpire": 2006
+    },
+    "http://www.imdb.com/title/tt0028658/": {
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "status": "unknown",
+        "title": "Bra mennesker",
+        "year": 1937,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0028673/": {
+        "creator": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0654975/",
+                "name": "Arne Paasche Aasen"
+            }
+        ],
+        "status": "unknown",
+        "title": "By og land hand i hand",
+        "year": 1937,
+        "yearexpire": 2050
+    },
+    "http://www.imdb.com/title/tt0028852/": {
+        "creator": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            },
+            {
+                "dead": 1958,
+                "imdb": "http://www.imdb.com/name/nm0779157/",
+                "name": "Gabriel Scott"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1656618/",
+                "name": "Thode Fagelund"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1972,
+                "imdb": "http://www.imdb.com/name/nm0084885/",
+                "name": "Adrian Bjurman"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fant",
+        "year": 1937,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0029958/": {
+        "creator": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0266216/",
+                "name": "Johan Falkberget"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            },
+            {
+                "dead": 1982,
+                "imdb": "http://www.imdb.com/name/nm1227768/",
+                "name": "Knut Hergel"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
+                "name": "Kristian Hauger"
+            }
+        ],
+        "status": "unknown",
+        "title": "B\u00f8r B\u00f8rson Jr.",
+        "year": 1938,
+        "yearexpire": 2052
+    },
+    "http://www.imdb.com/title/tt0030084/": {
+        "creator": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Det dr\u00f8nner gjennom dalen",
+        "year": 1938,
+        "yearexpire": 2050
+    },
+    "http://www.imdb.com/title/tt0030099/": {
+        "creator": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0266216/",
+                "name": "Johan Falkberget"
+            },
+            {
+                "dead": 1941,
+                "imdb": "http://www.imdb.com/name/nm0645060/",
+                "name": "Henning Ohlson"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1973,
+                "imdb": "http://www.imdb.com/name/nm0097074/",
+                "name": "Arne Bornebusch"
+            },
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "photo": [
+            {
+                "comment": "Ukjent d\u00f8ds\u00e5r, var i live 1953",
+                "dead": 1953,
+                "name": "Hans Scheib",
+                "wp": "https://de.wikipedia.org/wiki/Hans_Scheib_(Kameramann)"
+            }
+        ],
+        "status": "unknown",
+        "title": "Eli Sjursdotter",
+        "year": 1938,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0030356/": {
+        "creator": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0263442/",
+                "name": "Sigurd Evensmo"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Lenkene brytes",
+        "year": 1938,
+        "yearexpire": 2050
+    },
+    "http://www.imdb.com/title/tt0030510/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2117383/",
+                "name": "Gussle Fichter"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1941,
+                "imdb": "http://www.imdb.com/name/nm0762036/",
+                "name": "Julius Sandmeier"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1848512/",
+                "name": "Karl Eisele"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1941,
+                "imdb": "http://www.imdb.com/name/nm0762036/",
+                "name": "Julius Sandmeier"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Norge - et dikt i billeder",
+        "year": 1938,
+        "yearexpire": 2011
+    },
+    "http://www.imdb.com/title/tt0030912/": {
+        "creator": [
+            {
+                "dead": 1939,
+                "imdb": "http://www.imdb.com/name/nm0102602/",
+                "name": "Oskar Braaten"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0391711/",
+                "name": "Anton Holme"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Ungen",
+        "year": 1938,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0031291/": {
+        "creator": [
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Familien p\u00e5 Borgan",
+        "year": 1939,
+        "yearexpire": 2057
+    },
+    "http://www.imdb.com/title/tt0031373/": {
+        "creator": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1960,
+                "name": "Adolf Kristoffer Nielsen",
+                "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1979,
+                "imdb": "http://www.imdb.com/name/nm0337377/",
+                "name": "Ulf Greber"
+            },
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Gjest Baardsen",
+        "year": 1939,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0031395/": {
+        "creator": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Gryr i Norden",
+        "year": 1939,
+        "yearexpire": 2050
+    },
+    "http://www.imdb.com/title/tt0031453/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0030691/",
+                "name": "Ove Ansteinson"
+            },
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0015541/",
+                "name": "Ottar Akre"
+            },
+            {
+                "dead": 1960,
+                "name": "Adolf Kristoffer Nielsen",
+                "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Hu Dagmar",
+        "year": 1939,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0032036/": {
+        "status": "expirecandidate",
+        "title": "Til Vesterheimen",
+        "year": 1939,
+        "yearexpire": 2009
+    },
+    "http://www.imdb.com/title/tt0032095/": {
+        "creator": [
+            {
+                "dead": 1958,
+                "imdb": "http://www.imdb.com/name/nm0779157/",
+                "name": "Gabriel Scott"
+            },
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "status": "unknown",
+        "title": "De vergel\u00f8se",
+        "year": 1939,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0032240/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0718999/",
+                "name": "F.W. Remmler"
+            },
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            },
+            {
+                "dead": 1964,
+                "imdb": "http://www.imdb.com/name/nm0828436/",
+                "name": "G\u00f6sta Stevens"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1972,
+                "imdb": "http://www.imdb.com/name/nm0084885/",
+                "name": "Adrian Bjurman"
+            },
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0292910/",
+                "name": "Rudolf Frederiksen"
+            },
+            {
+                "dead": 1979,
+                "imdb": "http://www.imdb.com/name/nm0337377/",
+                "name": "Ulf Greber"
+            },
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Bastard",
+        "year": 1940,
+        "yearexpire": 2057
+    },
+    "http://www.imdb.com/title/tt0032537/": {
+        "creator": [
+            {
+                "dead": 1939,
+                "imdb": "http://www.imdb.com/name/nm0102602/",
+                "name": "Oskar Braaten"
+            },
+            {
+                "dead": 1982,
+                "imdb": "http://www.imdb.com/name/nm1227768/",
+                "name": "Knut Hergel"
+            },
+            {
+                "dead": 1963,
+                "imdb": "http://www.imdb.com/name/nm0813946/",
+                "name": "Alf Sommer"
+            },
+            {
+                "dead": 1958,
+                "imdb": "http://www.imdb.com/name/nm0878474/",
+                "name": "Einar Tveito"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1982,
+                "imdb": "http://www.imdb.com/name/nm1227768/",
+                "name": "Knut Hergel"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1960,
+                "name": "Adolf Kristoffer Nielsen",
+                "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Godvakker-Maren",
+        "year": 1940,
+        "yearexpire": 2052
+    },
+    "http://www.imdb.com/title/tt0033134/": {
+        "creator": [
+            {
+                "dead": 1958,
+                "imdb": "http://www.imdb.com/name/nm0779157/",
+                "name": "Gabriel Scott"
+            },
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1979,
+                "imdb": "http://www.imdb.com/name/nm0337377/",
+                "name": "Ulf Greber"
+            },
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Tante Pose",
+        "year": 1940,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0033198/": {
+        "creator": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            },
+            {
+                "dead": 1906,
+                "imdb": "http://www.imdb.com/name/nm0452474/",
+                "name": "Alexander Kielland"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "status": "unknown",
+        "title": "T\u00f8rres Sn\u00f8rtevold",
+        "year": 1940,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0033624/": {
+        "creator": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den forsvundne p\u00f8lsemaker",
+        "year": 1941,
+        "yearexpire": 2040
+    },
+    "http://www.imdb.com/title/tt0033682/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0030691/",
+                "name": "Ove Ansteinson"
+            },
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1960,
+                "name": "Adolf Kristoffer Nielsen",
+                "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1408040/",
+                "name": "Karl Svensen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            },
+            {
+                "dead": 1979,
+                "imdb": "http://www.imdb.com/name/nm0337377/",
+                "name": "Ulf Greber"
+            },
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Gullfjellet",
+        "year": 1941,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0033687/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
+                "name": "Finn B\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0561271/",
+                "name": "Alfred Maurstad"
+            }
+        ],
+        "status": "unknown",
+        "title": "Hansen og Hansen",
+        "year": 1941,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0033794/": {
+        "creator": [
+            {
+                "dead": 1957,
+                "imdb": "http://www.imdb.com/name/nm0073927/",
+                "name": "Gustav Berg-J\u00e6ger"
+            },
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm1256309/",
+                "name": "Peter Egge"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1258020/",
+                "name": "Gunnar Neels-Hansson"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
+                "name": "Alf R\u00f8d"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Kj\u00e6rlighet og vennskap",
+        "year": 1941,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0034650/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1136004/",
+                "name": "Solvejg Eriksen"
+            },
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "status": "unknown",
+        "title": "Det \u00e6'kke te \u00e5 tru",
+        "year": 1942,
+        "yearexpire": 2040
+    },
+    "http://www.imdb.com/title/tt0034725/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0109448/",
+                "name": "Alex Brinchmann"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den farlige leken",
+        "year": 1942,
+        "yearexpire": 2048
+    },
+    "http://www.imdb.com/title/tt0034848/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
+                "name": "Finn B\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0561271/",
+                "name": "Alfred Maurstad"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
+                "name": "Kristian Hauger"
+            },
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1141212/",
+                "name": "Ragnar Didriksen"
+            },
+            {
+                "dead": 1998,
+                "imdb": "http://www.imdb.com/name/nm0845717/",
+                "name": "Ragnar S\u00f8rensen"
+            }
+        ],
+        "status": "unknown",
+        "title": "En herre med bart",
+        "year": 1942,
+        "yearexpire": 2038
+    },
+    "http://www.imdb.com/title/tt0034914/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0096460/",
+                "name": "Victor Borg"
+            },
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Jeg drepte!",
+        "year": 1942,
+        "yearexpire": 2040
+    },
+    "http://www.imdb.com/title/tt0035475/": {
+        "creator": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1081206/",
+                "name": "Halvor Floden"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1081955/",
+                "name": "Rudolf Muus"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            },
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            },
+            {
+                "dead": 1979,
+                "imdb": "http://www.imdb.com/name/nm0337377/",
+                "name": "Ulf Greber"
+            },
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0632122/",
+                "name": "Gunnar Nilsen-Vig"
+            }
+        ],
+        "status": "unknown",
+        "title": "Trysil-Knut",
+        "year": 1942,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0035509/": {
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0423718/",
+                "name": "Jim Johannessen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Vi er Vidkun Quislings hirdmenn",
+        "year": 1942,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0035673/": {
+        "creator": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1967,
+                "imdb": "http://www.imdb.com/name/nm0412185/",
+                "name": "Harry Ivarson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Bergen",
+        "year": 1943,
+        "yearexpire": 2037
+    },
+    "http://www.imdb.com/title/tt0036223/": {
+        "creator": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1199409/",
+                "name": "B.V. Holb\u00e6k-Hansen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0106950/",
+                "name": "Rasmus Breistein"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
+                "name": "Kristian Hauger"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            },
+            {
+                "dead": 1998,
+                "imdb": "http://www.imdb.com/name/nm0845717/",
+                "name": "Ragnar S\u00f8rensen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den nye l\u00e6gen",
+        "year": 1943,
+        "yearexpire": 2046
+    },
+    "http://www.imdb.com/title/tt0036329/": {
+        "creator": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0092504/",
+                "name": "Johan Bojer"
+            },
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1141212/",
+                "name": "Ragnar Didriksen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Sangen til livet",
+        "year": 1943,
+        "yearexpire": 2055
+    },
+    "http://www.imdb.com/title/tt0036476/": {
+        "creator": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm7196833/",
+                "name": "Thorvald Lammers Jr."
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0026250/",
+                "name": "Sixten Andersen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Unge viljer",
+        "year": 1943,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0036501/": {
+        "director": [
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
+        "status": "unknown",
+        "title": "Vigdis",
+        "year": 1944,
+        "yearexpire": 2057
+    },
+    "http://www.imdb.com/title/tt0036675/": {
+        "creator": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0973839/",
+                "name": "Arne Stig"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Brudekronen",
+        "year": 1944,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0036990/": {
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Kommer du, Elsa?",
+        "year": 1944,
+        "yearexpire": 2040
+    },
+    "http://www.imdb.com/title/tt0037376/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0973839/",
+                "name": "Arne Stig"
+            },
+            {
+                "dead": 1958,
+                "imdb": "http://www.imdb.com/name/nm0952111/",
+                "name": "Alexey Zaitzow"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1958,
+                "imdb": "http://www.imdb.com/name/nm0952111/",
+                "name": "Alexey Zaitzow"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0026250/",
+                "name": "Sixten Andersen"
+            },
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Ti gutter og en gjente",
+        "year": 1944,
+        "yearexpire": 2028
+    },
+    "http://www.imdb.com/title/tt0037434/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0280738/",
+                "name": "Bj\u00f8rn Fjeld"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0423857/",
+                "name": "Willy Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0026250/",
+                "name": "Sixten Andersen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Villmarkens lov",
+        "year": 1944,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt0037854/": {
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0391711/",
+                "name": "Anton Holme"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Kong H\u00e5kon VIIs regjeringsjubileum 1945",
+        "year": 1945,
+        "yearexpire": 2015
+    },
+    "http://www.imdb.com/title/tt0038799/": {
+        "creator": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0400363/",
+                "name": "Nicolay Huggenvik"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1969,
+                "imdb": "http://www.imdb.com/name/nm0355987/",
+                "name": "Pauline Hall"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Om kj\u00e6rligheten synger de",
+        "year": 1946,
+        "yearexpire": 2050
+    },
+    "http://www.imdb.com/title/tt0040430/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1227449/",
+                "name": "Kristian Elster d.y."
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0845652/",
+                "name": "Gunnar S\u00f8nstevold"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            },
+            {
+                "dead": 1998,
+                "imdb": "http://www.imdb.com/name/nm0845717/",
+                "name": "Ragnar S\u00f8rensen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Den hemmelighetsfulle leiligheten",
+        "year": 1948,
+        "yearexpire": 2061
+    },
+    "http://www.imdb.com/title/tt0040504/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm5258387/",
+                "name": "Haakon Bugge Mahrt"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0552486/",
+                "name": "Jean Martin"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1997,
+                "imdb": "http://www.imdb.com/name/nm0238810/",
+                "name": "Jean Dr\u00e9ville"
+            },
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0845652/",
+                "name": "Gunnar S\u00f8nstevold"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1982,
+                "imdb": "http://www.imdb.com/name/nm0086034/",
+                "name": "Hilding Bladh"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0919086/",
+                "name": "Marcel Weiss"
+            }
+        ],
+        "status": "unknown",
+        "title": "Kampen om tungtvannet",
+        "year": 1948,
+        "yearexpire": 2067
+    },
+    "http://www.imdb.com/title/tt0121288/": {
+        "director": [
+            {
+                "dead": 1939,
+                "name": "Hugo Hermansen",
+                "wp": "https://no.wikipedia.org/wiki/Hugo_Hermansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0005748/",
+                "name": "Julius Jaenzon"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Fiskerlivets farer",
+        "year": 1907,
+        "yearexpire": 2009
+    },
+    "http://www.imdb.com/title/tt0143899/": {
+        "director": [
+            {
+                "dead": 1989,
+                "imdb": "http://www.imdb.com/name/nm0159838/",
+                "name": "Lillebil Ibsen"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Et sp\u00f8kelse forelsker seg",
+        "year": 1946,
+        "yearexpire": 2059
+    },
+    "http://www.imdb.com/title/tt0149564/": {
+        "director": [
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            },
+            {
+                "dead": 1977,
+                "imdb": "http://www.imdb.com/name/nm0511168/",
+                "name": "Bredo Lind"
+            }
+        ],
+        "status": "unknown",
+        "title": "5 \u00e5r - som vi s\u00e5 dem",
+        "year": 1947,
+        "yearexpire": 2047
+    },
+    "http://www.imdb.com/title/tt0204699/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
+                "name": "Finn B\u00f8"
+            },
+            {
+                "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0388472/",
+                "name": "Sigurd Hoel"
+            },
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0779940/",
+                "name": "Alf Scott-Hansen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0779940/",
+                "name": "Alf Scott-Hansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0073968/",
+                "name": "Finn Bergan"
+            },
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Trollfossen",
+        "year": 1948,
+        "yearexpire": 2031
+    },
+    "http://www.imdb.com/title/tt0217781/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0096460/",
+                "name": "Victor Borg"
+            },
+            {
+                "dead": 1906,
+                "imdb": "http://www.imdb.com/name/nm0452474/",
+                "name": "Alexander Kielland"
+            },
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0775736/",
+                "name": "Per Schr\u00f8der-Nilsen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0845652/",
+                "name": "Gunnar S\u00f8nstevold"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Sankt Hans fest",
+        "year": 1947,
+        "yearexpire": 2061
+    },
+    "http://www.imdb.com/title/tt0217835/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0109448/",
+                "name": "Alex Brinchmann"
+            }
+        ],
+        "director": [
+            {
+                "dead": 2007,
+                "imdb": "http://www.imdb.com/name/nm0618261/",
+                "name": "Nils R. M\u00fcller"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0074568/",
+                "name": "Sverre Bergh"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1998,
+                "imdb": "http://www.imdb.com/name/nm0845717/",
+                "name": "Ragnar S\u00f8rensen"
+            }
+        ],
+        "status": "unknown",
+        "title": "S\u00e5 m\u00f8tes vi i morgen",
+        "year": 1946,
+        "yearexpire": 2077
+    },
+    "http://www.imdb.com/title/tt0217877/": {
+        "director": [
+            {
+                "dead": 1980,
+                "imdb": "http://www.imdb.com/name/nm0197900/",
+                "name": "Olav Dalgard"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0709680/",
+                "name": "Rolf Randall"
+            }
+        ],
+        "music": [
+            {
+                "dead": 2006,
+                "imdb": "http://www.imdb.com/name/nm0246912/",
+                "name": "Arne D\u00f8rumsg\u00e5rd"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
+        "status": "unknown",
+        "title": "Vi vil leve",
+        "year": 1946,
+        "yearexpire": 2076
+    },
+    "http://www.imdb.com/title/tt0266552/": {
+        "status": "expirecandidate",
+        "title": "Fra London til Lofoten",
+        "year": 1946,
+        "yearexpire": 2016
+    },
+    "http://www.imdb.com/title/tt0266601/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0783605/",
+                "name": "Lyder Selvig"
+            }
+        ],
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0783605/",
+                "name": "Lyder Selvig"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Det grodde fram",
+        "year": 1947,
+        "yearexpire": 2017
+    },
+    "http://www.imdb.com/title/tt0268411/": {
+        "status": "expirecandidate",
+        "title": "Kronprinsparets reise i Nord Norge",
+        "year": 1935,
+        "yearexpire": 2005
+    },
+    "http://www.imdb.com/title/tt0268698/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
+                "name": "Finn B\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
+                "name": "Finn B\u00f8"
+            },
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0367057/",
+                "name": "Christian Hartmann"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            }
+        ],
+        "status": "unknown",
+        "title": "To liv",
+        "year": 1946,
+        "yearexpire": 2056
+    },
+    "http://www.imdb.com/title/tt0273272/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0369282/",
+                "name": "Eiliv Odde Hauge"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0845652/",
+                "name": "Gunnar S\u00f8nstevold"
+            }
+        ],
+        "status": "unknown",
+        "title": "Hvor fart\u00f8y flyte kan",
+        "year": 1948,
+        "yearexpire": 2061
+    },
+    "http://www.imdb.com/title/tt0274195/": {
+        "creator": [
+            {
+                "dead": 1969,
+                "imdb": "http://www.imdb.com/name/nm0387127/",
+                "name": "Egil Hjorth-Jenssen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0845652/",
+                "name": "Gunnar S\u00f8nstevold"
+            }
+        ],
+        "status": "unknown",
+        "title": "Vi seiler",
+        "year": 1948,
+        "yearexpire": 2061
+    },
+    "http://www.imdb.com/title/tt0294554/": {
+        "creator": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0096460/",
+                "name": "Victor Borg"
+            },
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0263442/",
+                "name": "Sigurd Evensmo"
+            },
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0762489/",
+                "name": "Toralf Sand\u00f8"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1991,
+                "imdb": "http://www.imdb.com/name/nm0845652/",
+                "name": "Gunnar S\u00f8nstevold"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1975,
+                "imdb": "http://www.imdb.com/name/nm0429636/",
+                "name": "Per Jonson"
+            }
+        ],
+        "status": "unknown",
+        "title": "Englandsfarere",
+        "year": 1946,
+        "yearexpire": 2061
+    },
+    "http://www.imdb.com/title/tt0311721/": {
+        "creator": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0779940/",
+                "name": "Alf Scott-Hansen"
+            }
+        ],
+        "director": [
+            {
+                "dead": 1961,
+                "imdb": "http://www.imdb.com/name/nm0779940/",
+                "name": "Alf Scott-Hansen"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1866,
+                "imdb": "http://www.imdb.com/name/nm1142264/",
+                "name": "Rikard Nordraak"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1976,
+                "imdb": "http://www.imdb.com/name/nm0075129/",
+                "name": "K\u00e5re Bergstr\u00f8m"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1141212/",
+                "name": "Ragnar Didriksen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Rikard Nordraak",
+        "year": 1945,
+        "yearexpire": 2031
+    },
+    "http://www.imdb.com/title/tt0346964/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1227236/",
+                "name": "Ola Cornelius"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1298207/",
+                "name": "Hans Berge"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Fanden i n\u00f8tten",
+        "year": 1917,
+        "yearexpire": 1987
+    },
+    "http://www.imdb.com/title/tt0347020/": {
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fra sneblokaden p\u00e5 h\u00f8ifjeldet",
+        "year": 1930,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt0347215/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1300061/",
+                "name": "Thor Iversen"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1300061/",
+                "name": "Thor Iversen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Hvor isbj\u00f8rnen ferdes",
+        "year": 1935,
+        "yearexpire": 2005
+    },
+    "http://www.imdb.com/title/tt0347596/": {
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Det mystiske kj\u00f8kken (noget at gl\u00e6de seg til)",
+        "year": 1927,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt0347601/": {
+        "status": "expirecandidate",
+        "title": "NSB Bergensbanen 1909",
+        "year": 1909,
+        "yearexpire": 1979
+    },
+    "http://www.imdb.com/title/tt0347686/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1299757/",
+                "name": "Sverre Halvorsen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Det nye \u00e5r?",
+        "year": 1921,
+        "yearexpire": 1991
+    },
+    "http://www.imdb.com/title/tt0347721/": {
+        "status": "expirecandidate",
+        "title": "Over Besseggen p\u00e5 motorcykel",
+        "year": 1930,
+        "yearexpire": 2000
+    },
+    "http://www.imdb.com/title/tt0347853/": {
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Raumabanen - Norges nyeste turistbane",
+        "year": 1924,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt0347886/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1299757/",
+                "name": "Sverre Halvorsen"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm1298207/",
+                "name": "Hans Berge"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Roald Amundsen p\u00e5 sydpolen",
+        "year": 1913,
+        "yearexpire": 1983
+    },
+    "http://www.imdb.com/title/tt0351458/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0783605/",
+                "name": "Lyder Selvig"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0074006/",
+                "name": "Paul Berge"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Norge, v\u00e5rt Norge i toner og bilder",
+        "year": 1929,
+        "yearexpire": 1999
+    },
+    "http://www.imdb.com/title/tt0382852/": {
+        "director": [
+            {
+                "dead": 1948,
+                "imdb": "http://www.imdb.com/name/nm0528064/",
+                "name": "Peter Lykke-Seest"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0030170/",
+                "name": "Johan Ankerstjerne"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Historien omen moder",
+        "year": 1912,
+        "yearexpire": 2018
+    },
+    "http://www.imdb.com/title/tt1002599/": {
+        "director": [
+            {
+                "dead": 1939,
+                "imdb": "http://www.imdb.com/name/nm0073995/",
+                "name": "Victor Bergdahl"
+            },
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Fiinbeck er r\u00f8mt",
+        "year": 1927,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt1002617/": {
+        "director": [
+            {
+                "dead": 1973,
+                "imdb": "http://www.imdb.com/name/nm0279179/",
+                "name": "Hans Fischerkoesen"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2611694/",
+                "name": "Desider Gross"
+            }
+        ],
+        "status": "unknown",
+        "title": "Kalifens hemmelighet",
+        "year": 1938,
+        "yearexpire": 2043
+    },
+    "http://www.imdb.com/title/tt1002628/": {
+        "status": "expirecandidate",
+        "title": "Den lystige radio-trio",
+        "year": 1934,
+        "yearexpire": 2004
+    },
+    "http://www.imdb.com/title/tt1002651/": {
+        "director": [
+            {
+                "dead": 1973,
+                "imdb": "http://www.imdb.com/name/nm0279179/",
+                "name": "Hans Fischerkoesen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Sjakk matt",
+        "year": 1938,
+        "yearexpire": 2043
+    },
+    "http://www.imdb.com/title/tt1002652/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2616250/",
+                "name": "Thomas W. Schwartz"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Skj\u00e6bnen",
+        "year": 1928,
+        "yearexpire": 1998
+    },
+    "http://www.imdb.com/title/tt1002762/": {
+        "status": "expirecandidate",
+        "title": "En fargesymfoni i bl\u00e5tt",
+        "year": 1936,
+        "yearexpire": 2006
+    },
+    "http://www.imdb.com/title/tt1007963/": {
+        "status": "expirecandidate",
+        "title": "Eventyret om de tre bukkene bruse",
+        "year": 1934,
+        "yearexpire": 2004
+    },
+    "http://www.imdb.com/title/tt1007975/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2611694/",
+                "name": "Desider Gross"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "En Harmony",
+        "year": 1938,
+        "yearexpire": 2008
+    },
+    "http://www.imdb.com/title/tt1008007/": {
+        "director": [
+            {
+                "dead": 1949,
+                "imdb": "http://www.imdb.com/name/nm0676941/",
+                "name": "Robert Storm Petersen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Mustads Mono",
+        "year": 1920,
+        "yearexpire": 2019
+    },
+    "http://www.imdb.com/title/tt1008051/": {
+        "director": [
+            {
+                "dead": 1993,
+                "imdb": "http://www.imdb.com/name/nm0299553/",
+                "name": "Walter Fyrst"
+            }
+        ],
+        "status": "unknown",
+        "title": "Teddy paa biltur",
+        "year": 1927,
+        "yearexpire": 2063
+    },
+    "http://www.imdb.com/title/tt1008052/": {
+        "status": "expirecandidate",
+        "title": "Tigeren Teodors triumf",
+        "year": 1926,
+        "yearexpire": 1996
+    },
+    "http://www.imdb.com/title/tt1017904/": {
+        "status": "expirecandidate",
+        "title": "Det er natt",
+        "year": 1930,
+        "yearexpire": 2000
+    },
+    "http://www.imdb.com/title/tt1017908/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2622251/",
+                "name": "Niels Sinding-Hansen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Dj\u00e6velen i knipe",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1017948/": {
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Luna s\u00e6pen",
+        "year": 1927,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt1017959/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2622251/",
+                "name": "Niels Sinding-Hansen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "N\u00f8klen til den syvende himmel",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1017966/": {
+        "status": "expirecandidate",
+        "title": "P\u00e5l sine h\u00f8ner",
+        "year": 1934,
+        "yearexpire": 2004
+    },
+    "http://www.imdb.com/title/tt1017972/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0198215/",
+                "name": "O. Trygve Dalseg"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Rex strykejern",
+        "year": 1924,
+        "yearexpire": 1994
+    },
+    "http://www.imdb.com/title/tt1017973/": {
+        "status": "expirecandidate",
+        "title": "Ro-ro til fiskeskj\u00e6r",
+        "year": 1930,
+        "yearexpire": 2000
+    },
+    "http://www.imdb.com/title/tt1017975/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2622251/",
+                "name": "Niels Sinding-Hansen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Rough Riders",
+        "year": 1928,
+        "yearexpire": 1998
+    },
+    "http://www.imdb.com/title/tt1017979/": {
+        "status": "expirecandidate",
+        "title": "R\u00f8d sultan",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1017997/": {
+        "status": "expirecandidate",
+        "title": "Den store sultan",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1017998/": {
+        "status": "expirecandidate",
+        "title": "Stormangrep",
+        "year": 1935,
+        "yearexpire": 2005
+    },
+    "http://www.imdb.com/title/tt1018002/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2628073/",
+                "name": "Knut Spange"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "S\u00f8ndagsfiskeren Flag",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1018003/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2622251/",
+                "name": "Niels Sinding-Hansen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Teddy fantasier III",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1018004/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2622251/",
+                "name": "Niels Sinding-Hansen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Teddy fantasier IV",
+        "year": 1928,
+        "yearexpire": 1998
+    },
+    "http://www.imdb.com/title/tt1018005/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2622251/",
+                "name": "Niels Sinding-Hansen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Teddy p\u00e5 strandpromenade",
+        "year": 1927,
+        "yearexpire": 1997
+    },
+    "http://www.imdb.com/title/tt1018010/": {
+        "director": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "status": "unknown",
+        "title": "Tyveriet fra Bagdad",
+        "year": 1926,
+        "yearexpire": 2032
+    },
+    "http://www.imdb.com/title/tt1018917/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2616250/",
+                "name": "Thomas W. Schwartz"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Noahs ark",
+        "year": 1928,
+        "yearexpire": 1998
+    },
+    "http://www.imdb.com/title/tt1018948/": {
+        "status": "expirecandidate",
+        "title": "En verdensreise, eller Da knold og tott vaskede negrene hvite med 13 s\u00e6pen",
+        "year": 1925,
+        "yearexpire": 1995
+    },
+    "http://www.imdb.com/title/tt1019896/": {
+        "status": "expirecandidate",
+        "title": "Chefens cigarett",
+        "year": 1928,
+        "yearexpire": 1998
+    },
+    "http://www.imdb.com/title/tt1019937/": {
+        "status": "expirecandidate",
+        "title": "Et mesterverk",
+        "year": 1937,
+        "yearexpire": 2007
+    },
+    "http://www.imdb.com/title/tt10383170/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm10528218/",
+                "name": "Olav Engebretsen"
+            }
+        ],
+        "music": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm10717374/",
+                "name": "Otto Nilsen"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm10717373/",
+                "name": "Harris Olsen"
+            }
+        ],
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm10528218/",
+                "name": "Olav Engebretsen"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Grini - Frigj\u00f8ringsdagene den 8. og 9. mai 1945",
+        "year": 1945,
+        "yearexpire": 2015
+    },
+    "http://www.imdb.com/title/tt3619226/": {
+        "status": "expirecandidate",
+        "title": "The Mother Who Paid",
+        "year": 1916,
+        "yearexpire": 1986
+    },
+    "http://www.imdb.com/title/tt8836306/": {
+        "creator": [
+            {
+                "dead": 2010,
+                "imdb": "http://www.imdb.com/name/nm0530969/",
+                "name": "Sigval Maartmann-Moe"
+            }
+        ],
+        "director": [
+            {
+                "dead": 2010,
+                "imdb": "http://www.imdb.com/name/nm0530969/",
+                "name": "Sigval Maartmann-Moe"
+            }
+        ],
+        "music": [
+            {
+                "dead": 1968,
+                "name": "Jolly Kramer-Johansen",
+                "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+            }
+        ],
+        "photo": [
+            {
+                "dead": 1998,
+                "imdb": "http://www.imdb.com/name/nm0845717/",
+                "name": "Ragnar S\u00f8rensen"
+            }
+        ],
+        "status": "unknown",
+        "title": "Oslo Havn - byens hjerte",
+        "year": 1948,
+        "yearexpire": 2080
+    },
+    "http://www.imdb.com/title/tt9237500/": {
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm10239101/",
+                "name": "Kristian Prestrud"
+            }
+        ],
+        "status": "free",
+        "title": "Roald Amundsens Sydpolsferd (1910-1912)",
+        "year": 1912,
+        "yearexpire": 1982
+    },
+    "http://www.imdb.com/title/tt9298904/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0013106/",
+                "name": "Sigurd Agnell"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Finnmark - p\u00e5 kryss og tvers i landet tyskerne brente",
+        "year": 1947,
+        "yearexpire": 2017
+    },
+    "http://www.imdb.com/title/tt9299004/": {
+        "status": "expirecandidate",
+        "title": "Vi er fri!",
+        "year": 1945,
+        "yearexpire": 2015
+    },
+    "http://www.imdb.com/title/tt9299300/": {
+        "status": "expirecandidate",
+        "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons begravelse",
+        "year": 1910,
+        "yearexpire": 1980
+    },
+    "http://www.imdb.com/title/tt9299304/": {
+        "status": "expirecandidate",
+        "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons likf\u00e6rd",
+        "year": 1910,
+        "yearexpire": 1980
+    },
+    "http://www.imdb.com/title/tt9300388/": {
+        "director": [
+            {
+                "dead": 2007,
+                "imdb": "http://www.imdb.com/name/nm0618261/",
+                "name": "Nils R. M\u00fcller"
+            },
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0831426/",
+                "name": "Bjarne Stokland"
+            }
+        ],
+        "status": "unknown",
+        "title": "Oslo: Et vinterturistsentrum",
+        "year": 1947,
+        "yearexpire": 2077
+    },
+    "http://www.imdb.com/title/tt9300626/": {
+        "director": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm10267492/",
+                "name": "Einar F\u00f8rberg"
+            }
+        ],
+        "status": "expirecandidate",
+        "title": "Oslo: Sommerbyen mellom fjord og fjell",
+        "year": 1948,
+        "yearexpire": 2018
+    }
+}
