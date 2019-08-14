@@ -128,9 +128,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--output', type=str,
                         default='free-movies-imdb-c-expired-no.json',
-                        help='output file')
+                        help='output file [free-movies-imdb-c-expired-no.json]')
     parser.add_argument('--all', action='store_true', default=False,
-                        help='include also non-feature films')
+                        help='include also non-feature films (default No)')
     args = parser.parse_args()
     
     global personcache
