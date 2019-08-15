@@ -28,6 +28,12 @@
 	"dead": 1936,
 	"wp" : "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
     },
+    "http://www.imdb.com/name/nm1299757/": {
+	"born": 1891,
+        "dead": 1936,
+        "name": "Sverre Halvorsen",
+	"wp": "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
+    },
     "http://www.imdb.com/name/nm0379338/": {
         "name": "Hugo Hermansen",
         "dead": 1939,
@@ -84,6 +90,12 @@
 	"dead": 1964,
 	"wp": "https://en.wikipedia.org/wiki/Victor_Mogens"
     },
+    "http://www.imdb.com/name/nm0726887/": {
+	"born": 1890,
+        "dead": 1965,
+        "name": "Hjalmar Riiser-Larsen",
+	"wp": "https://en.wikipedia.org/wiki/Hjalmar_Riiser-Larsen"
+    },
     "http://www.imdb.com/name/nm0469697/": {
         "name": "Jolly Kramer-Johansen",
 	"dead": 1968,
@@ -101,11 +113,23 @@
         "name": "Kristian Hauger",
         "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
     },
+    "http://www.imdb.com/name/nm0422404/": {
+        "dead": 1978,
+        "name": "Jonathan Jerv",
+	"comment": "Pseudonym for Nordahl Grieg og Nils Lie.  Lie døde 1978.",
+	"wp": "https://no.wikipedia.org/wiki/Bergenstoget_plyndret_i_natt",
+	"wplie": "https://no.wikipedia.org/wiki/Nils_Lie"
+    },
     "http://www.imdb.com/name/nm0198215/": {
 	"born": 1898,
         "dead": 1987,
         "name": "O. Trygve Dalseg",
 	"wp": "https://en.wikipedia.org/wiki/Trygve_Dalseg"
+    },
+    "http://www.imdb.com/name/nm10528218/": {
+        "born": 1905,
+        "dead": 1988,
+        "name": "Olav Engebretsen",
+	"wp": "https://no.wikipedia.org/wiki/Olav_Engebretsen"
     }
 }
-
