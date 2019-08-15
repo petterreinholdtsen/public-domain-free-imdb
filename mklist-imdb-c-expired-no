@@ -86,7 +86,7 @@ IMDB <title-URL>/fullcredits).
 def fetch_search_result(entries, urlbase, page):
     count = 0
     url = urlbase % page
-    print url
+    #print url
     html = movielib.http_get_read(url)
     root = lxml.html.fromstring(html)
     for h in root.cssselect("div.lister-item-content h3.lister-item-header "):
@@ -97,7 +97,6 @@ def fetch_search_result(entries, urlbase, page):
             title = t[0].text_content().strip()
             y = h.cssselect("span.lister-item-year")
             year = int(y[0].text_content().translate(None, '()I '))
-            print imdburl, year, title
             titleinfo = fetch_title_info(imdburl)
             titleinfo['title'] = title
             if '' != year:
@@ -113,11 +112,15 @@ def fetch_search_result(entries, urlbase, page):
                 lastdeath = year
             titleinfo['yearexpire'] = lastdeath + vernetid
             if 0 != lastdeath and titleinfo['yearexpire'] <= thisyear:
-                titleinfo['status'] = 'expirecandidate'
+                titleinfo['status'] = 'candidate'
             else:
                 titleinfo['status'] = 'unknown'
             entries[imdburl] = titleinfo
-            print titleinfo
+            print("%10s %s-%s %s - %s" % (titleinfo['status'],
+                                          year,
+                                          titleinfo['yearexpire'],
+                                          title, imdburl))
+            #print titleinfo
             count = count + 1
     next = root.cssselect("a.lister-page-next")
     if next:
