@@ -67,6 +67,12 @@
 	"dead": 1960,
 	"wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
     },
+    "http://www.imdb.com/name/nm0127190/": {
+        "born": 1893,
+        "dead": 1962,
+        "name": "Finn B\u00f8",
+        "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
+    },
     "http://www.imdb.com/name/nm0736288/": {
 	"name": "Halfdan Nobel Roede",
 	"born": 1877,
@@ -88,6 +94,12 @@
         "dead": 1969,
         "name": "Alf R\u00f8d",
 	"wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
+    },
+    "http://www.imdb.com/name/nm0369325/": {
+        "born": 1905,
+        "dead": 1977,
+        "name": "Kristian Hauger",
+        "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
     },
     "http://www.imdb.com/name/nm0198215/": {
 	"born": 1898,
