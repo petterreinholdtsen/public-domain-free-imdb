@@ -127,7 +127,7 @@
             {
                 "birth": 1852,
                 "da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel",
-                "death": 1932,
+                "dead": 1932,
                 "name": "Adam Eriksen",
                 "nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
                 "snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen"
@@ -137,7 +137,7 @@
             {
                 "birth": 1852,
                 "da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel",
-                "death": 1932,
+                "dead": 1932,
                 "name": "Adam Eriksen",
                 "nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
                 "snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen"
@@ -153,7 +153,7 @@
         "status": "expirecandidate",
         "title": "Anny - en gatepiges roman",
         "year": 1912,
-        "yearexpire": 1982
+        "yearexpire": 2002
     },
     "http://www.imdb.com/title/tt0002235/": {
         "director": [
@@ -689,9 +689,10 @@
     "http://www.imdb.com/title/tt0014514/": {
         "director": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0198215/",
-                "name": "O. Trygve Dalseg"
+                "born": 1898,
+                "dead": 1987,
+                "name": "O. Trygve Dalseg",
+                "wp": "https://en.wikipedia.org/wiki/Trygve_Dalseg"
             },
             {
                 "dead": 1959,
@@ -702,7 +703,7 @@
         "status": "unknown",
         "title": "Strandhugg p\u00e5 Kavringen",
         "year": 1923,
-        "yearexpire": 2029
+        "yearexpire": 2057
     },
     "http://www.imdb.com/title/tt0015417/": {
         "director": [
@@ -801,9 +802,10 @@
                 "name": "Paul Berge"
             },
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm3116241/",
-                "name": "Oskar Omdal"
+                "born": 1895,
+                "dead": 1927,
+                "name": "Oskar Omdal",
+                "wp": "https://en.wikipedia.org/wiki/Oskar_Omdal"
             }
         ],
         "photo": [
@@ -813,15 +815,16 @@
                 "name": "Paul Berge"
             },
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm3116241/",
-                "name": "Oskar Omdal"
+                "born": 1895,
+                "dead": 1927,
+                "name": "Oskar Omdal",
+                "wp": "https://en.wikipedia.org/wiki/Oskar_Omdal"
             }
         ],
         "status": "expirecandidate",
         "title": "Roald Amundsen - Ellsworths flyveekspedition 1925",
         "year": 1925,
-        "yearexpire": 1995
+        "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt0016621/": {
         "creator": [
@@ -831,9 +834,10 @@
                 "name": "Vilhelm Krag"
             },
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm1258377/",
-                "name": "Alf R\u00f8d"
+                "born": 1894,
+                "dead": 1969,
+                "name": "Alf R\u00f8d",
+                "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             },
             {
                 "dead": 1961,
@@ -851,7 +855,7 @@
         "status": "unknown",
         "title": "Baldevins bryllup",
         "year": 1926,
-        "yearexpire": 2031
+        "yearexpire": 2039
     },
     "http://www.imdb.com/title/tt0016691/": {
         "creator": [
@@ -1024,9 +1028,10 @@
     "http://www.imdb.com/title/tt0018508/": {
         "creator": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm1258377/",
-                "name": "Alf R\u00f8d"
+                "born": 1894,
+                "dead": 1969,
+                "name": "Alf R\u00f8d",
+                "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             }
         ],
         "director": [
@@ -1376,9 +1381,10 @@
                 "name": "Peter Christen Asbj\u00f8rnsen"
             },
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm1258377/",
-                "name": "Alf R\u00f8d"
+                "born": 1894,
+                "dead": 1969,
+                "name": "Alf R\u00f8d",
+                "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             }
         ],
         "director": [
@@ -1609,9 +1615,10 @@
         ],
         "music": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0369325/",
-                "name": "Kristian Hauger"
+                "born": 1905,
+                "dead": 1977,
+                "name": "Kristian Hauger",
+                "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             }
         ],
         "photo": [
@@ -1624,7 +1631,7 @@
         "status": "unknown",
         "title": "Syndere i sommersol",
         "year": 1934,
-        "yearexpire": 2038
+        "yearexpire": 2047
     },
     "http://www.imdb.com/title/tt0026298/": {
         "director": [
@@ -1909,9 +1916,10 @@
         ],
         "music": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0369325/",
-                "name": "Kristian Hauger"
+                "born": 1905,
+                "dead": 1977,
+                "name": "Kristian Hauger",
+                "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             }
         ],
         "status": "unknown",
@@ -2555,9 +2563,10 @@
     "http://www.imdb.com/title/tt0033687/": {
         "creator": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0127190/",
-                "name": "Finn B\u00f8"
+                "born": 1893,
+                "dead": 1962,
+                "name": "Finn B\u00f8",
+                "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             }
         ],
         "director": [
@@ -2590,9 +2599,10 @@
                 "name": "Gunnar Neels-Hansson"
             },
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm1258377/",
-                "name": "Alf R\u00f8d"
+                "born": 1894,
+                "dead": 1969,
+                "name": "Alf R\u00f8d",
+                "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             }
         ],
         "director": [
@@ -2681,9 +2691,10 @@
     "http://www.imdb.com/title/tt0034848/": {
         "creator": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0127190/",
-                "name": "Finn B\u00f8"
+                "born": 1893,
+                "dead": 1962,
+                "name": "Finn B\u00f8",
+                "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             }
         ],
         "director": [
@@ -2695,9 +2706,10 @@
         ],
         "music": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0369325/",
-                "name": "Kristian Hauger"
+                "born": 1905,
+                "dead": 1977,
+                "name": "Kristian Hauger",
+                "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             },
             {
                 "dead": 1968,
@@ -2725,7 +2737,7 @@
         "status": "unknown",
         "title": "En herre med bart",
         "year": 1942,
-        "yearexpire": 2038
+        "yearexpire": 2047
     },
     "http://www.imdb.com/title/tt0034914/": {
         "creator": [
@@ -2880,9 +2892,10 @@
         ],
         "music": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0369325/",
-                "name": "Kristian Hauger"
+                "born": 1905,
+                "dead": 1977,
+                "name": "Kristian Hauger",
+                "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             }
         ],
         "photo": [
@@ -2900,7 +2913,7 @@
         "status": "unknown",
         "title": "Den nye l\u00e6gen",
         "year": 1943,
-        "yearexpire": 2046
+        "yearexpire": 2047
     },
     "http://www.imdb.com/title/tt0036329/": {
         "creator": [
@@ -3327,9 +3340,10 @@
     "http://www.imdb.com/title/tt0204699/": {
         "creator": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0127190/",
-                "name": "Finn B\u00f8"
+                "born": 1893,
+                "dead": 1962,
+                "name": "Finn B\u00f8",
+                "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             },
             {
                 "dead": 1960,
@@ -3364,7 +3378,7 @@
         "status": "unknown",
         "title": "Trollfossen",
         "year": 1948,
-        "yearexpire": 2031
+        "yearexpire": 2032
     },
     "http://www.imdb.com/title/tt0217781/": {
         "creator": [
@@ -3516,16 +3530,18 @@
     "http://www.imdb.com/title/tt0268698/": {
         "creator": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0127190/",
-                "name": "Finn B\u00f8"
+                "born": 1893,
+                "dead": 1962,
+                "name": "Finn B\u00f8",
+                "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             }
         ],
         "director": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0127190/",
-                "name": "Finn B\u00f8"
+                "born": 1893,
+                "dead": 1962,
+                "name": "Finn B\u00f8",
+                "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             },
             {
                 "dead": 1986,
@@ -3815,7 +3831,7 @@
                 "name": "Hans Berge"
             }
         ],
-        "status": "expirecandidate",
+        "status": "free",
         "title": "Roald Amundsen p\u00e5 sydpolen",
         "year": 1913,
         "yearexpire": 1983
@@ -4039,15 +4055,16 @@
     "http://www.imdb.com/title/tt1017972/": {
         "director": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0198215/",
-                "name": "O. Trygve Dalseg"
+                "born": 1898,
+                "dead": 1987,
+                "name": "O. Trygve Dalseg",
+                "wp": "https://en.wikipedia.org/wiki/Trygve_Dalseg"
             }
         ],
-        "status": "expirecandidate",
+        "status": "unknown",
         "title": "Rex strykejern",
         "year": 1924,
-        "yearexpire": 1994
+        "yearexpire": 2057
     },
     "http://www.imdb.com/title/tt1017973/": {
         "status": "expirecandidate",
@@ -4262,7 +4279,7 @@
                 "name": "Kristian Prestrud"
             }
         ],
-        "status": "free",
+        "status": "expirecandidate",
         "title": "Roald Amundsens Sydpolsferd (1910-1912)",
         "year": 1912,
         "yearexpire": 1982
