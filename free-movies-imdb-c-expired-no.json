@@ -21,7 +21,7 @@
                 "name": "Henrik Jaenzon"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Bondefangeri i Vaterland",
         "year": 1911,
         "yearexpire": 2019
@@ -150,7 +150,7 @@
                 "wp": "https://no.wikipedia.org/wiki/Olaf_K._Bjerke"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Anny - en gatepiges roman",
         "year": 1912,
         "yearexpire": 2002
@@ -218,7 +218,7 @@
                 "name": "Ottar Gladvedt"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "De for\u00e6ldrel\u00f8se",
         "year": 1917,
         "yearexpire": 2018
@@ -250,7 +250,7 @@
                 "name": "Karl Wieghorst"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Unge hjerter",
         "year": 1917,
         "yearexpire": 2018
@@ -282,7 +282,7 @@
                 "name": "Carl Gustav S\u00f8derstr\u00f8m"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "En vinternat",
         "year": 1917,
         "yearexpire": 2018
@@ -302,7 +302,7 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Lodsens datter",
         "year": 1918,
         "yearexpire": 2018
@@ -356,7 +356,7 @@
                 "name": "Carl Gustav S\u00f8derstr\u00f8m"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Vor tids helte",
         "year": 1918,
         "yearexpire": 2018
@@ -383,7 +383,7 @@
                 "name": "Carl Gustav S\u00f8derstr\u00f8m"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Historien om en gut",
         "year": 1919,
         "yearexpire": 2018
@@ -403,7 +403,7 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "\u00c6resgjesten",
         "year": 1919,
         "yearexpire": 2018
@@ -474,7 +474,7 @@
                 "name": "Hilmer Ekdahl"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Kaksen p\u00e5 \u00d8verland",
         "year": 1920,
         "yearexpire": 1990
@@ -571,7 +571,7 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0012789/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Under Polarkredsens himmel",
         "year": 1921,
         "yearexpire": 1991
@@ -669,19 +669,19 @@
                 "name": "Reidar Lunde"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Med Roald Amundsens Nordpolsekspedition til f\u00f8rste vinterkvarter",
         "year": 1923,
         "yearexpire": 1993
     },
     "http://www.imdb.com/title/tt0014318/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Nordenfor polarcirkelen",
         "year": 1923,
         "yearexpire": 1993
     },
     "http://www.imdb.com/title/tt0014319/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Norge - en skildring i 6 akter",
         "year": 1923,
         "yearexpire": 1993
@@ -789,7 +789,7 @@
         "yearexpire": 2055
     },
     "http://www.imdb.com/title/tt0016098/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Med 'Stavangerfjord' til Nordkap",
         "year": 1925,
         "yearexpire": 1995
@@ -821,7 +821,7 @@
                 "wp": "https://en.wikipedia.org/wiki/Oskar_Omdal"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Roald Amundsen - Ellsworths flyveekspedition 1925",
         "year": 1925,
         "yearexpire": 1997
@@ -890,19 +890,19 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0016945/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Hallo! Amerika!",
         "year": 1926,
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt0017090/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Luftskibet 'Norge's flugt over polhavet",
         "year": 1926,
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt0017129/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Med 'Maud' over Polhavet",
         "year": 1926,
         "yearexpire": 1996
@@ -921,7 +921,7 @@
         "yearexpire": 2055
     },
     "http://www.imdb.com/title/tt0017241/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Over Atlanterhavet og gjennem Amerika",
         "year": 1926,
         "yearexpire": 1996
@@ -1056,14 +1056,18 @@
     "http://www.imdb.com/title/tt0018688/": {
         "creator": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0422404/",
-                "name": "Jonathan Jerv"
+                "comment": "Pseudonym for Nordahl Grieg og Nils Lie.  Lie d\u00f8de 1978.",
+                "dead": 1978,
+                "name": "Jonathan Jerv",
+                "wp": "https://no.wikipedia.org/wiki/Bergenstoget_plyndret_i_natt",
+                "wplie": "https://no.wikipedia.org/wiki/Nils_Lie"
             },
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0422404/",
-                "name": "Jonathan Jerv"
+                "comment": "Pseudonym for Nordahl Grieg og Nils Lie.  Lie d\u00f8de 1978.",
+                "dead": 1978,
+                "name": "Jonathan Jerv",
+                "wp": "https://no.wikipedia.org/wiki/Bergenstoget_plyndret_i_natt",
+                "wplie": "https://no.wikipedia.org/wiki/Nils_Lie"
             }
         ],
         "director": [
@@ -1155,7 +1159,7 @@
         "yearexpire": 2038
     },
     "http://www.imdb.com/title/tt0019899/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Fra Chr. Michelsen til Kronprins Olav og Prinsesse Martha",
         "year": 1929,
         "yearexpire": 1999
@@ -1212,7 +1216,7 @@
                 "name": "Gustav Lund"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Se Norge",
         "year": 1929,
         "yearexpire": 1999
@@ -1225,7 +1229,7 @@
                 "name": "Lyder Selvig"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Selvigs Norgesfilm",
         "year": 1929,
         "yearexpire": 1999
@@ -1260,18 +1264,19 @@
     "http://www.imdb.com/title/tt0021158/": {
         "photo": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm0726887/",
-                "name": "Hjalmar Riiser-Larsen"
+                "born": 1890,
+                "dead": 1965,
+                "name": "Hjalmar Riiser-Larsen",
+                "wp": "https://en.wikipedia.org/wiki/Hjalmar_Riiser-Larsen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Mot ukjent land",
         "year": 1930,
         "yearexpire": 2000
     },
     "http://www.imdb.com/title/tt0021913/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Glimt fra New York og den Norske koloni",
         "year": 1931,
         "yearexpire": 2001
@@ -1343,7 +1348,7 @@
                 "name": "Gunnar Nilsen-Vig"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "En glad gutt",
         "year": 1932,
         "yearexpire": 2007
@@ -1434,7 +1439,7 @@
                 "name": "Finn Mykleg\u00e5rd"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "I kongens kl\u00e6r",
         "year": 1933,
         "yearexpire": 2003
@@ -1805,7 +1810,7 @@
                 "name": "Ernst Ottersen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Vi vil oss et land...",
         "year": 1936,
         "yearexpire": 2006
@@ -2062,7 +2067,7 @@
                 "name": "Julius Sandmeier"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Norge - et dikt i billeder",
         "year": 1938,
         "yearexpire": 2011
@@ -2253,7 +2258,7 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0032036/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Til Vesterheimen",
         "year": 1939,
         "yearexpire": 2009
@@ -3137,7 +3142,7 @@
                 "name": "Anton Holme"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Kong H\u00e5kon VIIs regjeringsjubileum 1945",
         "year": 1945,
         "yearexpire": 2015
@@ -3289,7 +3294,7 @@
                 "name": "Julius Jaenzon"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Fiskerlivets farer",
         "year": 1907,
         "yearexpire": 2009
@@ -3496,7 +3501,7 @@
         "yearexpire": 2076
     },
     "http://www.imdb.com/title/tt0266552/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Fra London til Lofoten",
         "year": 1946,
         "yearexpire": 2016
@@ -3516,13 +3521,13 @@
                 "name": "Lyder Selvig"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Det grodde fram",
         "year": 1947,
         "yearexpire": 2017
     },
     "http://www.imdb.com/title/tt0268411/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Kronprinsparets reise i Nord Norge",
         "year": 1935,
         "yearexpire": 2005
@@ -3713,7 +3718,7 @@
                 "name": "Hans Berge"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Fanden i n\u00f8tten",
         "year": 1917,
         "yearexpire": 1987
@@ -3746,7 +3751,7 @@
                 "name": "Thor Iversen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Hvor isbj\u00f8rnen ferdes",
         "year": 1935,
         "yearexpire": 2005
@@ -3765,7 +3770,7 @@
         "yearexpire": 2032
     },
     "http://www.imdb.com/title/tt0347601/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "NSB Bergensbanen 1909",
         "year": 1909,
         "yearexpire": 1979
@@ -3773,9 +3778,10 @@
     "http://www.imdb.com/title/tt0347686/": {
         "director": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm1299757/",
-                "name": "Sverre Halvorsen"
+                "born": 1891,
+                "dead": 1936,
+                "name": "Sverre Halvorsen",
+                "wp": "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
             }
         ],
         "photo": [
@@ -3785,13 +3791,13 @@
                 "name": "Ottar Gladvedt"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Det nye \u00e5r?",
         "year": 1921,
-        "yearexpire": 1991
+        "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt0347721/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Over Besseggen p\u00e5 motorcykel",
         "year": 1930,
         "yearexpire": 2000
@@ -3819,9 +3825,10 @@
     "http://www.imdb.com/title/tt0347886/": {
         "director": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm1299757/",
-                "name": "Sverre Halvorsen"
+                "born": 1891,
+                "dead": 1936,
+                "name": "Sverre Halvorsen",
+                "wp": "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
             }
         ],
         "photo": [
@@ -3831,10 +3838,10 @@
                 "name": "Hans Berge"
             }
         ],
-        "status": "free",
+        "status": "candidate",
         "title": "Roald Amundsen p\u00e5 sydpolen",
         "year": 1913,
-        "yearexpire": 1983
+        "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt0351458/": {
         "director": [
@@ -3851,7 +3858,7 @@
                 "name": "Paul Berge"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Norge, v\u00e5rt Norge i toner og bilder",
         "year": 1929,
         "yearexpire": 1999
@@ -3871,7 +3878,7 @@
                 "name": "Johan Ankerstjerne"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Historien omen moder",
         "year": 1912,
         "yearexpire": 2018
@@ -3913,7 +3920,7 @@
         "yearexpire": 2043
     },
     "http://www.imdb.com/title/tt1002628/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Den lystige radio-trio",
         "year": 1934,
         "yearexpire": 2004
@@ -3939,19 +3946,19 @@
                 "name": "Thomas W. Schwartz"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Skj\u00e6bnen",
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1002762/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "En fargesymfoni i bl\u00e5tt",
         "year": 1936,
         "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt1007963/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Eventyret om de tre bukkene bruse",
         "year": 1934,
         "yearexpire": 2004
@@ -3964,7 +3971,7 @@
                 "name": "Desider Gross"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "En Harmony",
         "year": 1938,
         "yearexpire": 2008
@@ -3977,7 +3984,7 @@
                 "name": "Robert Storm Petersen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Mustads Mono",
         "year": 1920,
         "yearexpire": 2019
@@ -3996,13 +4003,13 @@
         "yearexpire": 2063
     },
     "http://www.imdb.com/title/tt1008052/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Tigeren Teodors triumf",
         "year": 1926,
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt1017904/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Det er natt",
         "year": 1930,
         "yearexpire": 2000
@@ -4015,7 +4022,7 @@
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Dj\u00e6velen i knipe",
         "year": 1927,
         "yearexpire": 1997
@@ -4041,13 +4048,13 @@
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "N\u00f8klen til den syvende himmel",
         "year": 1927,
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017966/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "P\u00e5l sine h\u00f8ner",
         "year": 1934,
         "yearexpire": 2004
@@ -4067,7 +4074,7 @@
         "yearexpire": 2057
     },
     "http://www.imdb.com/title/tt1017973/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Ro-ro til fiskeskj\u00e6r",
         "year": 1930,
         "yearexpire": 2000
@@ -4080,25 +4087,25 @@
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Rough Riders",
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1017979/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "R\u00f8d sultan",
         "year": 1927,
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017997/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Den store sultan",
         "year": 1927,
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017998/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Stormangrep",
         "year": 1935,
         "yearexpire": 2005
@@ -4111,7 +4118,7 @@
                 "name": "Knut Spange"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "S\u00f8ndagsfiskeren Flag",
         "year": 1927,
         "yearexpire": 1997
@@ -4124,7 +4131,7 @@
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Teddy fantasier III",
         "year": 1927,
         "yearexpire": 1997
@@ -4137,7 +4144,7 @@
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Teddy fantasier IV",
         "year": 1928,
         "yearexpire": 1998
@@ -4150,7 +4157,7 @@
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Teddy p\u00e5 strandpromenade",
         "year": 1927,
         "yearexpire": 1997
@@ -4176,25 +4183,25 @@
                 "name": "Thomas W. Schwartz"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Noahs ark",
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1018948/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "En verdensreise, eller Da knold og tott vaskede negrene hvite med 13 s\u00e6pen",
         "year": 1925,
         "yearexpire": 1995
     },
     "http://www.imdb.com/title/tt1019896/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Chefens cigarett",
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1019937/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Et mesterverk",
         "year": 1937,
         "yearexpire": 2007
@@ -4202,9 +4209,10 @@
     "http://www.imdb.com/title/tt10383170/": {
         "director": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm10528218/",
-                "name": "Olav Engebretsen"
+                "born": 1905,
+                "dead": 1988,
+                "name": "Olav Engebretsen",
+                "wp": "https://no.wikipedia.org/wiki/Olav_Engebretsen"
             }
         ],
         "music": [
@@ -4221,18 +4229,19 @@
         ],
         "photo": [
             {
-                "deathmissing": true,
-                "imdb": "http://www.imdb.com/name/nm10528218/",
-                "name": "Olav Engebretsen"
+                "born": 1905,
+                "dead": 1988,
+                "name": "Olav Engebretsen",
+                "wp": "https://no.wikipedia.org/wiki/Olav_Engebretsen"
             }
         ],
-        "status": "expirecandidate",
+        "status": "unknown",
         "title": "Grini - Frigj\u00f8ringsdagene den 8. og 9. mai 1945",
         "year": 1945,
-        "yearexpire": 2015
+        "yearexpire": 2058
     },
     "http://www.imdb.com/title/tt3619226/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "The Mother Who Paid",
         "year": 1916,
         "yearexpire": 1986
@@ -4279,7 +4288,7 @@
                 "name": "Kristian Prestrud"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Roald Amundsens Sydpolsferd (1910-1912)",
         "year": 1912,
         "yearexpire": 1982
@@ -4292,25 +4301,25 @@
                 "name": "Sigurd Agnell"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Finnmark - p\u00e5 kryss og tvers i landet tyskerne brente",
         "year": 1947,
         "yearexpire": 2017
     },
     "http://www.imdb.com/title/tt9299004/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Vi er fri!",
         "year": 1945,
         "yearexpire": 2015
     },
     "http://www.imdb.com/title/tt9299300/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons begravelse",
         "year": 1910,
         "yearexpire": 1980
     },
     "http://www.imdb.com/title/tt9299304/": {
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons likf\u00e6rd",
         "year": 1910,
         "yearexpire": 1980
@@ -4341,7 +4350,7 @@
                 "name": "Einar F\u00f8rberg"
             }
         ],
-        "status": "expirecandidate",
+        "status": "candidate",
         "title": "Oslo: Sommerbyen mellom fjord og fjell",
         "year": 1948,
         "yearexpire": 2018
