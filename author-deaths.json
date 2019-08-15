@@ -4,6 +4,12 @@
 	"dead": 1927,
 	"wp": "https://no.wikipedia.org/wiki/Kristian_Prestrud"
     },
+    "http://www.imdb.com/name/nm3116241/": {
+        "born": 1895,
+        "dead": 1927,
+        "name": "Oskar Omdal",
+	"wp": "https://en.wikipedia.org/wiki/Oskar_Omdal"
+    },
     "http://www.imdb.com/name/nm0084804/": {
         "name": "Olaf K. Bjerke",
 	"dead": 1931,
@@ -76,6 +82,18 @@
         "name": "Jolly Kramer-Johansen",
 	"dead": 1968,
 	"wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
+    },
+    "http://www.imdb.com/name/nm1258377/": {
+	"born": 1894,
+        "dead": 1969,
+        "name": "Alf R\u00f8d",
+	"wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
+    },
+    "http://www.imdb.com/name/nm0198215/": {
+	"born": 1898,
+        "dead": 1987,
+        "name": "O. Trygve Dalseg",
+	"wp": "https://en.wikipedia.org/wiki/Trygve_Dalseg"
     }
 }
 
