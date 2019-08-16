@@ -23,6 +23,7 @@
         ],
         "status": "candidate",
         "title": "Bondefangeri i Vaterland",
+        "vernetid": 108,
         "year": 1911,
         "yearexpire": 2019
     },
@@ -55,6 +56,7 @@
         ],
         "status": "unknown",
         "title": "D\u00e6monen",
+        "vernetid": 118,
         "year": 1911,
         "yearexpire": 2029
     },
@@ -76,6 +78,7 @@
         ],
         "status": "unknown",
         "title": "Fattigdommens forbandelse",
+        "vernetid": 123,
         "year": 1911,
         "yearexpire": 2034
     },
@@ -97,6 +100,7 @@
         ],
         "status": "unknown",
         "title": "Under forvandlingens lov",
+        "vernetid": 122,
         "year": 1911,
         "yearexpire": 2033
     },
@@ -119,6 +123,7 @@
         ],
         "status": "unknown",
         "title": "Alt for Norge",
+        "vernetid": 121,
         "year": 1912,
         "yearexpire": 2033
     },
@@ -152,6 +157,7 @@
         ],
         "status": "candidate",
         "title": "Anny - en gatepiges roman",
+        "vernetid": 90,
         "year": 1912,
         "yearexpire": 2002
     },
@@ -166,6 +172,7 @@
         ],
         "status": "unknown",
         "title": "Hemmeligheden",
+        "vernetid": 121,
         "year": 1912,
         "yearexpire": 2033
     },
@@ -193,6 +200,7 @@
         ],
         "status": "unknown",
         "title": "Overfaldet p\u00e5 post\u00e5pnerens datter",
+        "vernetid": 119,
         "year": 1913,
         "yearexpire": 2032
     },
@@ -220,6 +228,7 @@
         ],
         "status": "candidate",
         "title": "De for\u00e6ldrel\u00f8se",
+        "vernetid": 101,
         "year": 1917,
         "yearexpire": 2018
     },
@@ -252,6 +261,7 @@
         ],
         "status": "candidate",
         "title": "Unge hjerter",
+        "vernetid": 101,
         "year": 1917,
         "yearexpire": 2018
     },
@@ -284,6 +294,7 @@
         ],
         "status": "candidate",
         "title": "En vinternat",
+        "vernetid": 101,
         "year": 1917,
         "yearexpire": 2018
     },
@@ -304,6 +315,7 @@
         ],
         "status": "candidate",
         "title": "Lodsens datter",
+        "vernetid": 100,
         "year": 1918,
         "yearexpire": 2018
     },
@@ -331,6 +343,7 @@
         ],
         "status": "unknown",
         "title": "Revolutionens datter",
+        "vernetid": 114,
         "year": 1918,
         "yearexpire": 2032
     },
@@ -358,6 +371,7 @@
         ],
         "status": "candidate",
         "title": "Vor tids helte",
+        "vernetid": 100,
         "year": 1918,
         "yearexpire": 2018
     },
@@ -385,6 +399,7 @@
         ],
         "status": "candidate",
         "title": "Historien om en gut",
+        "vernetid": 99,
         "year": 1919,
         "yearexpire": 2018
     },
@@ -405,6 +420,7 @@
         ],
         "status": "candidate",
         "title": "\u00c6resgjesten",
+        "vernetid": 99,
         "year": 1919,
         "yearexpire": 2018
     },
@@ -444,6 +460,7 @@
         ],
         "status": "unknown",
         "title": "Fante-Anne",
+        "vernetid": 126,
         "year": 1920,
         "yearexpire": 2046
     },
@@ -476,6 +493,7 @@
         ],
         "status": "candidate",
         "title": "Kaksen p\u00e5 \u00d8verland",
+        "vernetid": 70,
         "year": 1920,
         "yearexpire": 1990
     },
@@ -515,6 +533,7 @@
         ],
         "status": "unknown",
         "title": "Markens gr\u00f8de",
+        "vernetid": 108,
         "year": 1921,
         "yearexpire": 2029
     },
@@ -535,6 +554,7 @@
         ],
         "status": "unknown",
         "title": "Felix",
+        "vernetid": 125,
         "year": 1921,
         "yearexpire": 2046
     },
@@ -567,12 +587,14 @@
         ],
         "status": "unknown",
         "title": "Jomfru Trofast",
+        "vernetid": 125,
         "year": 1921,
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0012789/": {
         "status": "candidate",
         "title": "Under Polarkredsens himmel",
+        "vernetid": 70,
         "year": 1921,
         "yearexpire": 1991
     },
@@ -586,6 +608,7 @@
         ],
         "status": "unknown",
         "title": "Blandt Syd-Amerikas urskovsindianere",
+        "vernetid": 111,
         "year": 1921,
         "yearexpire": 2032
     },
@@ -599,6 +622,7 @@
         ],
         "status": "unknown",
         "title": "Farende folk",
+        "vernetid": 115,
         "year": 1922,
         "yearexpire": 2037
     },
@@ -614,6 +638,7 @@
         ],
         "status": "unknown",
         "title": "Kj\u00e6rlighet p\u00e5 pinde",
+        "vernetid": 105,
         "year": 1922,
         "yearexpire": 2027
     },
@@ -651,6 +676,7 @@
         ],
         "status": "unknown",
         "title": "Pan",
+        "vernetid": 102,
         "year": 1922,
         "yearexpire": 2024
     },
@@ -671,18 +697,21 @@
         ],
         "status": "candidate",
         "title": "Med Roald Amundsens Nordpolsekspedition til f\u00f8rste vinterkvarter",
+        "vernetid": 70,
         "year": 1923,
         "yearexpire": 1993
     },
     "http://www.imdb.com/title/tt0014318/": {
         "status": "candidate",
         "title": "Nordenfor polarcirkelen",
+        "vernetid": 70,
         "year": 1923,
         "yearexpire": 1993
     },
     "http://www.imdb.com/title/tt0014319/": {
         "status": "candidate",
         "title": "Norge - en skildring i 6 akter",
+        "vernetid": 70,
         "year": 1923,
         "yearexpire": 1993
     },
@@ -702,6 +731,7 @@
         ],
         "status": "unknown",
         "title": "Strandhugg p\u00e5 Kavringen",
+        "vernetid": 134,
         "year": 1923,
         "yearexpire": 2057
     },
@@ -715,6 +745,7 @@
         ],
         "status": "unknown",
         "title": "Til s\u00e6ters",
+        "vernetid": 113,
         "year": 1924,
         "yearexpire": 2037
     },
@@ -728,6 +759,7 @@
         ],
         "status": "unknown",
         "title": "Fager er lien",
+        "vernetid": 112,
         "year": 1925,
         "yearexpire": 2037
     },
@@ -760,6 +792,7 @@
         ],
         "status": "unknown",
         "title": "Glomdalsbruden",
+        "vernetid": 112,
         "year": 1926,
         "yearexpire": 2038
     },
@@ -785,12 +818,14 @@
         ],
         "status": "unknown",
         "title": "Himmeluret",
+        "vernetid": 130,
         "year": 1925,
         "yearexpire": 2055
     },
     "http://www.imdb.com/title/tt0016098/": {
         "status": "candidate",
         "title": "Med 'Stavangerfjord' til Nordkap",
+        "vernetid": 70,
         "year": 1925,
         "yearexpire": 1995
     },
@@ -823,6 +858,7 @@
         ],
         "status": "candidate",
         "title": "Roald Amundsen - Ellsworths flyveekspedition 1925",
+        "vernetid": 72,
         "year": 1925,
         "yearexpire": 1997
     },
@@ -854,6 +890,7 @@
         ],
         "status": "unknown",
         "title": "Baldevins bryllup",
+        "vernetid": 113,
         "year": 1926,
         "yearexpire": 2039
     },
@@ -886,24 +923,28 @@
         ],
         "status": "unknown",
         "title": "Brudeferden i Hardanger",
+        "vernetid": 120,
         "year": 1926,
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0016945/": {
         "status": "candidate",
         "title": "Hallo! Amerika!",
+        "vernetid": 70,
         "year": 1926,
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt0017090/": {
         "status": "candidate",
         "title": "Luftskibet 'Norge's flugt over polhavet",
+        "vernetid": 70,
         "year": 1926,
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt0017129/": {
         "status": "candidate",
         "title": "Med 'Maud' over Polhavet",
+        "vernetid": 70,
         "year": 1926,
         "yearexpire": 1996
     },
@@ -917,12 +958,14 @@
         ],
         "status": "unknown",
         "title": "Den nye lensmanden",
+        "vernetid": 129,
         "year": 1926,
         "yearexpire": 2055
     },
     "http://www.imdb.com/title/tt0017241/": {
         "status": "candidate",
         "title": "Over Atlanterhavet og gjennem Amerika",
+        "vernetid": 70,
         "year": 1926,
         "yearexpire": 1996
     },
@@ -936,6 +979,7 @@
         ],
         "status": "unknown",
         "title": "Simen Mustr\u00f8ens besynderlige opplevelser",
+        "vernetid": 111,
         "year": 1926,
         "yearexpire": 2037
     },
@@ -956,6 +1000,7 @@
         ],
         "status": "unknown",
         "title": "Fjeldeventyret",
+        "vernetid": 128,
         "year": 1927,
         "yearexpire": 2055
     },
@@ -976,6 +1021,7 @@
         ],
         "status": "unknown",
         "title": "Den glade enke i Trangvik",
+        "vernetid": 110,
         "year": 1927,
         "yearexpire": 2037
     },
@@ -996,6 +1042,7 @@
         ],
         "status": "unknown",
         "title": "Madame bes\u00f8ker Oslo",
+        "vernetid": 110,
         "year": 1927,
         "yearexpire": 2037
     },
@@ -1009,6 +1056,7 @@
         ],
         "status": "unknown",
         "title": "Norges-filmen",
+        "vernetid": 121,
         "year": 1927,
         "yearexpire": 2048
     },
@@ -1022,6 +1070,7 @@
         ],
         "status": "unknown",
         "title": "Syv dager for Elisabeth",
+        "vernetid": 128,
         "year": 1927,
         "yearexpire": 2055
     },
@@ -1050,6 +1099,7 @@
         ],
         "status": "unknown",
         "title": "Troll-Elgen",
+        "vernetid": 136,
         "year": 1927,
         "yearexpire": 2063
     },
@@ -1103,6 +1153,7 @@
         ],
         "status": "unknown",
         "title": "Bergenstoget plyndret inatt",
+        "vernetid": 127,
         "year": 1928,
         "yearexpire": 2055
     },
@@ -1123,6 +1174,7 @@
         ],
         "status": "unknown",
         "title": "Cafe X",
+        "vernetid": 135,
         "year": 1928,
         "yearexpire": 2063
     },
@@ -1155,12 +1207,14 @@
         ],
         "status": "unknown",
         "title": "Viddenes folk",
+        "vernetid": 110,
         "year": 1928,
         "yearexpire": 2038
     },
     "http://www.imdb.com/title/tt0019899/": {
         "status": "candidate",
         "title": "Fra Chr. Michelsen til Kronprins Olav og Prinsesse Martha",
+        "vernetid": 70,
         "year": 1929,
         "yearexpire": 1999
     },
@@ -1205,6 +1259,7 @@
         ],
         "status": "unknown",
         "title": "Laila",
+        "vernetid": 102,
         "year": 1929,
         "yearexpire": 2031
     },
@@ -1218,6 +1273,7 @@
         ],
         "status": "candidate",
         "title": "Se Norge",
+        "vernetid": 70,
         "year": 1929,
         "yearexpire": 1999
     },
@@ -1231,6 +1287,7 @@
         ],
         "status": "candidate",
         "title": "Selvigs Norgesfilm",
+        "vernetid": 70,
         "year": 1929,
         "yearexpire": 1999
     },
@@ -1258,6 +1315,7 @@
         ],
         "status": "unknown",
         "title": "Kristine Valdresdatter",
+        "vernetid": 116,
         "year": 1930,
         "yearexpire": 2046
     },
@@ -1272,12 +1330,14 @@
         ],
         "status": "candidate",
         "title": "Mot ukjent land",
+        "vernetid": 70,
         "year": 1930,
         "yearexpire": 2000
     },
     "http://www.imdb.com/title/tt0021913/": {
         "status": "candidate",
         "title": "Glimt fra New York og den Norske koloni",
+        "vernetid": 70,
         "year": 1931,
         "yearexpire": 2001
     },
@@ -1310,6 +1370,7 @@
         ],
         "status": "unknown",
         "title": "Den store barned\u00e5pen",
+        "vernetid": 117,
         "year": 1931,
         "yearexpire": 2048
     },
@@ -1323,6 +1384,7 @@
         ],
         "status": "unknown",
         "title": "Fantegutten",
+        "vernetid": 123,
         "year": 1932,
         "yearexpire": 2055
     },
@@ -1350,6 +1412,7 @@
         ],
         "status": "candidate",
         "title": "En glad gutt",
+        "vernetid": 75,
         "year": 1932,
         "yearexpire": 2007
     },
@@ -1375,6 +1438,7 @@
         ],
         "status": "unknown",
         "title": "Lalla vinner!",
+        "vernetid": 99,
         "year": 1932,
         "yearexpire": 2031
     },
@@ -1408,6 +1472,7 @@
         ],
         "status": "unknown",
         "title": "Prinsessen som ingen kunne m\u00e5lbinde",
+        "vernetid": 131,
         "year": 1932,
         "yearexpire": 2063
     },
@@ -1428,6 +1493,7 @@
         ],
         "status": "unknown",
         "title": "Skj\u00e6rg\u00e5rdsflirt",
+        "vernetid": 114,
         "year": 1932,
         "yearexpire": 2046
     },
@@ -1441,6 +1507,7 @@
         ],
         "status": "candidate",
         "title": "I kongens kl\u00e6r",
+        "vernetid": 70,
         "year": 1933,
         "yearexpire": 2003
     },
@@ -1466,6 +1533,7 @@
         ],
         "status": "unknown",
         "title": "Jeppe p\u00e5 bjerget",
+        "vernetid": 136,
         "year": 1933,
         "yearexpire": 2069
     },
@@ -1533,6 +1601,7 @@
         ],
         "status": "unknown",
         "title": "Vi som g\u00e5r kj\u00f8kkenveien",
+        "vernetid": 128,
         "year": 1933,
         "yearexpire": 2061
     },
@@ -1560,6 +1629,7 @@
         ],
         "status": "unknown",
         "title": "Liv",
+        "vernetid": 112,
         "year": 1934,
         "yearexpire": 2046
     },
@@ -1573,6 +1643,7 @@
         ],
         "status": "unknown",
         "title": "Op med hodet!",
+        "vernetid": 115,
         "year": 1933,
         "yearexpire": 2048
     },
@@ -1600,6 +1671,7 @@
         ],
         "status": "unknown",
         "title": "Sangen om Rondane",
+        "vernetid": 123,
         "year": 1934,
         "yearexpire": 2057
     },
@@ -1635,6 +1707,7 @@
         ],
         "status": "unknown",
         "title": "Syndere i sommersol",
+        "vernetid": 113,
         "year": 1934,
         "yearexpire": 2047
     },
@@ -1660,6 +1733,7 @@
         ],
         "status": "unknown",
         "title": "Du har lovet mig en kone!",
+        "vernetid": 113,
         "year": 1935,
         "yearexpire": 2048
     },
@@ -1702,6 +1776,7 @@
         ],
         "status": "unknown",
         "title": "Samhold m\u00e5 til",
+        "vernetid": 144,
         "year": 1935,
         "yearexpire": 2079
     },
@@ -1715,6 +1790,7 @@
         ],
         "status": "unknown",
         "title": "Morderen uten ansikt",
+        "vernetid": 119,
         "year": 1936,
         "yearexpire": 2055
     },
@@ -1728,6 +1804,7 @@
         ],
         "status": "unknown",
         "title": "Norge for folket",
+        "vernetid": 121,
         "year": 1936,
         "yearexpire": 2057
     },
@@ -1772,6 +1849,7 @@
         ],
         "status": "unknown",
         "title": "To levende og en d\u00f8d",
+        "vernetid": 111,
         "year": 1937,
         "yearexpire": 2048
     },
@@ -1799,6 +1877,7 @@
         ],
         "status": "unknown",
         "title": "Vi bygger landet",
+        "vernetid": 114,
         "year": 1936,
         "yearexpire": 2050
     },
@@ -1812,6 +1891,7 @@
         ],
         "status": "candidate",
         "title": "Vi vil oss et land...",
+        "vernetid": 70,
         "year": 1936,
         "yearexpire": 2006
     },
@@ -1825,6 +1905,7 @@
         ],
         "status": "unknown",
         "title": "Bra mennesker",
+        "vernetid": 118,
         "year": 1937,
         "yearexpire": 2055
     },
@@ -1857,6 +1938,7 @@
         ],
         "status": "unknown",
         "title": "By og land hand i hand",
+        "vernetid": 113,
         "year": 1937,
         "yearexpire": 2050
     },
@@ -1896,6 +1978,7 @@
         ],
         "status": "unknown",
         "title": "Fant",
+        "vernetid": 111,
         "year": 1937,
         "yearexpire": 2048
     },
@@ -1929,6 +2012,7 @@
         ],
         "status": "unknown",
         "title": "B\u00f8r B\u00f8rson Jr.",
+        "vernetid": 114,
         "year": 1938,
         "yearexpire": 2052
     },
@@ -1963,6 +2047,7 @@
         ],
         "status": "unknown",
         "title": "Det dr\u00f8nner gjennom dalen",
+        "vernetid": 112,
         "year": 1938,
         "yearexpire": 2050
     },
@@ -2001,6 +2086,7 @@
         ],
         "status": "unknown",
         "title": "Eli Sjursdotter",
+        "vernetid": 117,
         "year": 1938,
         "yearexpire": 2055
     },
@@ -2035,6 +2121,7 @@
         ],
         "status": "unknown",
         "title": "Lenkene brytes",
+        "vernetid": 112,
         "year": 1938,
         "yearexpire": 2050
     },
@@ -2069,6 +2156,7 @@
         ],
         "status": "candidate",
         "title": "Norge - et dikt i billeder",
+        "vernetid": 73,
         "year": 1938,
         "yearexpire": 2011
     },
@@ -2103,6 +2191,7 @@
         ],
         "status": "unknown",
         "title": "Ungen",
+        "vernetid": 108,
         "year": 1938,
         "yearexpire": 2046
     },
@@ -2137,6 +2226,7 @@
         ],
         "status": "unknown",
         "title": "Familien p\u00e5 Borgan",
+        "vernetid": 118,
         "year": 1939,
         "yearexpire": 2057
     },
@@ -2176,6 +2266,7 @@
         ],
         "status": "unknown",
         "title": "Gjest Baardsen",
+        "vernetid": 109,
         "year": 1939,
         "yearexpire": 2048
     },
@@ -2210,6 +2301,7 @@
         ],
         "status": "unknown",
         "title": "Gryr i Norden",
+        "vernetid": 111,
         "year": 1939,
         "yearexpire": 2050
     },
@@ -2254,12 +2346,14 @@
         ],
         "status": "unknown",
         "title": "Hu Dagmar",
+        "vernetid": 107,
         "year": 1939,
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0032036/": {
         "status": "candidate",
         "title": "Til Vesterheimen",
+        "vernetid": 70,
         "year": 1939,
         "yearexpire": 2009
     },
@@ -2292,6 +2386,7 @@
         ],
         "status": "unknown",
         "title": "De vergel\u00f8se",
+        "vernetid": 116,
         "year": 1939,
         "yearexpire": 2055
     },
@@ -2356,6 +2451,7 @@
         ],
         "status": "unknown",
         "title": "Bastard",
+        "vernetid": 117,
         "year": 1940,
         "yearexpire": 2057
     },
@@ -2405,6 +2501,7 @@
         ],
         "status": "unknown",
         "title": "Godvakker-Maren",
+        "vernetid": 112,
         "year": 1940,
         "yearexpire": 2052
     },
@@ -2449,6 +2546,7 @@
         ],
         "status": "unknown",
         "title": "Tante Pose",
+        "vernetid": 115,
         "year": 1940,
         "yearexpire": 2055
     },
@@ -2474,6 +2572,7 @@
         ],
         "status": "unknown",
         "title": "T\u00f8rres Sn\u00f8rtevold",
+        "vernetid": 108,
         "year": 1940,
         "yearexpire": 2048
     },
@@ -2508,6 +2607,7 @@
         ],
         "status": "unknown",
         "title": "Den forsvundne p\u00f8lsemaker",
+        "vernetid": 99,
         "year": 1941,
         "yearexpire": 2040
     },
@@ -2562,6 +2662,7 @@
         ],
         "status": "unknown",
         "title": "Gullfjellet",
+        "vernetid": 105,
         "year": 1941,
         "yearexpire": 2046
     },
@@ -2583,6 +2684,7 @@
         ],
         "status": "unknown",
         "title": "Hansen og Hansen",
+        "vernetid": 96,
         "year": 1941,
         "yearexpire": 2037
     },
@@ -2633,6 +2735,7 @@
         ],
         "status": "unknown",
         "title": "Kj\u00e6rlighet og vennskap",
+        "vernetid": 114,
         "year": 1941,
         "yearexpire": 2055
     },
@@ -2658,6 +2761,7 @@
         ],
         "status": "unknown",
         "title": "Det \u00e6'kke te \u00e5 tru",
+        "vernetid": 98,
         "year": 1942,
         "yearexpire": 2040
     },
@@ -2690,6 +2794,7 @@
         ],
         "status": "unknown",
         "title": "Den farlige leken",
+        "vernetid": 106,
         "year": 1942,
         "yearexpire": 2048
     },
@@ -2741,6 +2846,7 @@
         ],
         "status": "unknown",
         "title": "En herre med bart",
+        "vernetid": 105,
         "year": 1942,
         "yearexpire": 2047
     },
@@ -2780,6 +2886,7 @@
         ],
         "status": "unknown",
         "title": "Jeg drepte!",
+        "vernetid": 98,
         "year": 1942,
         "yearexpire": 2040
     },
@@ -2832,6 +2939,7 @@
         ],
         "status": "unknown",
         "title": "Trysil-Knut",
+        "vernetid": 104,
         "year": 1942,
         "yearexpire": 2046
     },
@@ -2852,6 +2960,7 @@
         ],
         "status": "unknown",
         "title": "Vi er Vidkun Quislings hirdmenn",
+        "vernetid": 121,
         "year": 1942,
         "yearexpire": 2063
     },
@@ -2872,6 +2981,7 @@
         ],
         "status": "unknown",
         "title": "Bergen",
+        "vernetid": 94,
         "year": 1943,
         "yearexpire": 2037
     },
@@ -2917,6 +3027,7 @@
         ],
         "status": "unknown",
         "title": "Den nye l\u00e6gen",
+        "vernetid": 104,
         "year": 1943,
         "yearexpire": 2047
     },
@@ -2961,6 +3072,7 @@
         ],
         "status": "unknown",
         "title": "Sangen til livet",
+        "vernetid": 112,
         "year": 1943,
         "yearexpire": 2055
     },
@@ -2995,6 +3107,7 @@
         ],
         "status": "unknown",
         "title": "Unge viljer",
+        "vernetid": 120,
         "year": 1943,
         "yearexpire": 2063
     },
@@ -3008,6 +3121,7 @@
         ],
         "status": "unknown",
         "title": "Vigdis",
+        "vernetid": 113,
         "year": 1944,
         "yearexpire": 2057
     },
@@ -3040,6 +3154,7 @@
         ],
         "status": "unknown",
         "title": "Brudekronen",
+        "vernetid": 119,
         "year": 1944,
         "yearexpire": 2063
     },
@@ -3060,6 +3175,7 @@
         ],
         "status": "unknown",
         "title": "Kommer du, Elsa?",
+        "vernetid": 96,
         "year": 1944,
         "yearexpire": 2040
     },
@@ -3097,6 +3213,7 @@
         ],
         "status": "unknown",
         "title": "Ti gutter og en gjente",
+        "vernetid": 84,
         "year": 1944,
         "yearexpire": 2028
     },
@@ -3131,6 +3248,7 @@
         ],
         "status": "unknown",
         "title": "Villmarkens lov",
+        "vernetid": 119,
         "year": 1944,
         "yearexpire": 2063
     },
@@ -3144,6 +3262,7 @@
         ],
         "status": "candidate",
         "title": "Kong H\u00e5kon VIIs regjeringsjubileum 1945",
+        "vernetid": 70,
         "year": 1945,
         "yearexpire": 2015
     },
@@ -3183,6 +3302,7 @@
         ],
         "status": "unknown",
         "title": "Om kj\u00e6rligheten synger de",
+        "vernetid": 104,
         "year": 1946,
         "yearexpire": 2050
     },
@@ -3227,6 +3347,7 @@
         ],
         "status": "unknown",
         "title": "Den hemmelighetsfulle leiligheten",
+        "vernetid": 113,
         "year": 1948,
         "yearexpire": 2061
     },
@@ -3276,6 +3397,7 @@
         ],
         "status": "unknown",
         "title": "Kampen om tungtvannet",
+        "vernetid": 119,
         "year": 1948,
         "yearexpire": 2067
     },
@@ -3296,6 +3418,7 @@
         ],
         "status": "candidate",
         "title": "Fiskerlivets farer",
+        "vernetid": 102,
         "year": 1907,
         "yearexpire": 2009
     },
@@ -3321,6 +3444,7 @@
         ],
         "status": "unknown",
         "title": "Et sp\u00f8kelse forelsker seg",
+        "vernetid": 113,
         "year": 1946,
         "yearexpire": 2059
     },
@@ -3339,6 +3463,7 @@
         ],
         "status": "unknown",
         "title": "5 \u00e5r - som vi s\u00e5 dem",
+        "vernetid": 100,
         "year": 1947,
         "yearexpire": 2047
     },
@@ -3382,6 +3507,7 @@
         ],
         "status": "unknown",
         "title": "Trollfossen",
+        "vernetid": 84,
         "year": 1948,
         "yearexpire": 2032
     },
@@ -3431,6 +3557,7 @@
         ],
         "status": "unknown",
         "title": "Sankt Hans fest",
+        "vernetid": 114,
         "year": 1947,
         "yearexpire": 2061
     },
@@ -3465,6 +3592,7 @@
         ],
         "status": "unknown",
         "title": "S\u00e5 m\u00f8tes vi i morgen",
+        "vernetid": 131,
         "year": 1946,
         "yearexpire": 2077
     },
@@ -3497,12 +3625,14 @@
         ],
         "status": "unknown",
         "title": "Vi vil leve",
+        "vernetid": 130,
         "year": 1946,
         "yearexpire": 2076
     },
     "http://www.imdb.com/title/tt0266552/": {
         "status": "candidate",
         "title": "Fra London til Lofoten",
+        "vernetid": 70,
         "year": 1946,
         "yearexpire": 2016
     },
@@ -3523,12 +3653,14 @@
         ],
         "status": "candidate",
         "title": "Det grodde fram",
+        "vernetid": 70,
         "year": 1947,
         "yearexpire": 2017
     },
     "http://www.imdb.com/title/tt0268411/": {
         "status": "candidate",
         "title": "Kronprinsparets reise i Nord Norge",
+        "vernetid": 70,
         "year": 1935,
         "yearexpire": 2005
     },
@@ -3570,6 +3702,7 @@
         ],
         "status": "unknown",
         "title": "To liv",
+        "vernetid": 110,
         "year": 1946,
         "yearexpire": 2056
     },
@@ -3590,6 +3723,7 @@
         ],
         "status": "unknown",
         "title": "Hvor fart\u00f8y flyte kan",
+        "vernetid": 113,
         "year": 1948,
         "yearexpire": 2061
     },
@@ -3617,6 +3751,7 @@
         ],
         "status": "unknown",
         "title": "Vi seiler",
+        "vernetid": 113,
         "year": 1948,
         "yearexpire": 2061
     },
@@ -3661,6 +3796,7 @@
         ],
         "status": "unknown",
         "title": "Englandsfarere",
+        "vernetid": 115,
         "year": 1946,
         "yearexpire": 2061
     },
@@ -3700,6 +3836,7 @@
         ],
         "status": "unknown",
         "title": "Rikard Nordraak",
+        "vernetid": 86,
         "year": 1945,
         "yearexpire": 2031
     },
@@ -3720,6 +3857,7 @@
         ],
         "status": "candidate",
         "title": "Fanden i n\u00f8tten",
+        "vernetid": 70,
         "year": 1917,
         "yearexpire": 1987
     },
@@ -3733,6 +3871,7 @@
         ],
         "status": "unknown",
         "title": "Fra sneblokaden p\u00e5 h\u00f8ifjeldet",
+        "vernetid": 102,
         "year": 1930,
         "yearexpire": 2032
     },
@@ -3753,6 +3892,7 @@
         ],
         "status": "candidate",
         "title": "Hvor isbj\u00f8rnen ferdes",
+        "vernetid": 70,
         "year": 1935,
         "yearexpire": 2005
     },
@@ -3766,12 +3906,14 @@
         ],
         "status": "unknown",
         "title": "Det mystiske kj\u00f8kken (noget at gl\u00e6de seg til)",
+        "vernetid": 105,
         "year": 1927,
         "yearexpire": 2032
     },
     "http://www.imdb.com/title/tt0347601/": {
         "status": "candidate",
         "title": "NSB Bergensbanen 1909",
+        "vernetid": 70,
         "year": 1909,
         "yearexpire": 1979
     },
@@ -3793,12 +3935,14 @@
         ],
         "status": "candidate",
         "title": "Det nye \u00e5r?",
+        "vernetid": 85,
         "year": 1921,
         "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt0347721/": {
         "status": "candidate",
         "title": "Over Besseggen p\u00e5 motorcykel",
+        "vernetid": 70,
         "year": 1930,
         "yearexpire": 2000
     },
@@ -3819,6 +3963,7 @@
         ],
         "status": "unknown",
         "title": "Raumabanen - Norges nyeste turistbane",
+        "vernetid": 108,
         "year": 1924,
         "yearexpire": 2032
     },
@@ -3840,6 +3985,7 @@
         ],
         "status": "candidate",
         "title": "Roald Amundsen p\u00e5 sydpolen",
+        "vernetid": 93,
         "year": 1913,
         "yearexpire": 2006
     },
@@ -3860,6 +4006,7 @@
         ],
         "status": "candidate",
         "title": "Norge, v\u00e5rt Norge i toner og bilder",
+        "vernetid": 70,
         "year": 1929,
         "yearexpire": 1999
     },
@@ -3880,6 +4027,7 @@
         ],
         "status": "candidate",
         "title": "Historien omen moder",
+        "vernetid": 106,
         "year": 1912,
         "yearexpire": 2018
     },
@@ -3898,6 +4046,7 @@
         ],
         "status": "unknown",
         "title": "Fiinbeck er r\u00f8mt",
+        "vernetid": 105,
         "year": 1927,
         "yearexpire": 2032
     },
@@ -3916,12 +4065,14 @@
         ],
         "status": "unknown",
         "title": "Kalifens hemmelighet",
+        "vernetid": 105,
         "year": 1938,
         "yearexpire": 2043
     },
     "http://www.imdb.com/title/tt1002628/": {
         "status": "candidate",
         "title": "Den lystige radio-trio",
+        "vernetid": 70,
         "year": 1934,
         "yearexpire": 2004
     },
@@ -3935,6 +4086,7 @@
         ],
         "status": "unknown",
         "title": "Sjakk matt",
+        "vernetid": 105,
         "year": 1938,
         "yearexpire": 2043
     },
@@ -3948,18 +4100,21 @@
         ],
         "status": "candidate",
         "title": "Skj\u00e6bnen",
+        "vernetid": 70,
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1002762/": {
         "status": "candidate",
         "title": "En fargesymfoni i bl\u00e5tt",
+        "vernetid": 70,
         "year": 1936,
         "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt1007963/": {
         "status": "candidate",
         "title": "Eventyret om de tre bukkene bruse",
+        "vernetid": 70,
         "year": 1934,
         "yearexpire": 2004
     },
@@ -3973,6 +4128,7 @@
         ],
         "status": "candidate",
         "title": "En Harmony",
+        "vernetid": 70,
         "year": 1938,
         "yearexpire": 2008
     },
@@ -3986,6 +4142,7 @@
         ],
         "status": "candidate",
         "title": "Mustads Mono",
+        "vernetid": 99,
         "year": 1920,
         "yearexpire": 2019
     },
@@ -3999,18 +4156,21 @@
         ],
         "status": "unknown",
         "title": "Teddy paa biltur",
+        "vernetid": 136,
         "year": 1927,
         "yearexpire": 2063
     },
     "http://www.imdb.com/title/tt1008052/": {
         "status": "candidate",
         "title": "Tigeren Teodors triumf",
+        "vernetid": 70,
         "year": 1926,
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt1017904/": {
         "status": "candidate",
         "title": "Det er natt",
+        "vernetid": 70,
         "year": 1930,
         "yearexpire": 2000
     },
@@ -4024,6 +4184,7 @@
         ],
         "status": "candidate",
         "title": "Dj\u00e6velen i knipe",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
@@ -4037,6 +4198,7 @@
         ],
         "status": "unknown",
         "title": "Luna s\u00e6pen",
+        "vernetid": 105,
         "year": 1927,
         "yearexpire": 2032
     },
@@ -4050,12 +4212,14 @@
         ],
         "status": "candidate",
         "title": "N\u00f8klen til den syvende himmel",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017966/": {
         "status": "candidate",
         "title": "P\u00e5l sine h\u00f8ner",
+        "vernetid": 70,
         "year": 1934,
         "yearexpire": 2004
     },
@@ -4070,12 +4234,14 @@
         ],
         "status": "unknown",
         "title": "Rex strykejern",
+        "vernetid": 133,
         "year": 1924,
         "yearexpire": 2057
     },
     "http://www.imdb.com/title/tt1017973/": {
         "status": "candidate",
         "title": "Ro-ro til fiskeskj\u00e6r",
+        "vernetid": 70,
         "year": 1930,
         "yearexpire": 2000
     },
@@ -4089,24 +4255,28 @@
         ],
         "status": "candidate",
         "title": "Rough Riders",
+        "vernetid": 70,
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1017979/": {
         "status": "candidate",
         "title": "R\u00f8d sultan",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017997/": {
         "status": "candidate",
         "title": "Den store sultan",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017998/": {
         "status": "candidate",
         "title": "Stormangrep",
+        "vernetid": 70,
         "year": 1935,
         "yearexpire": 2005
     },
@@ -4120,6 +4290,7 @@
         ],
         "status": "candidate",
         "title": "S\u00f8ndagsfiskeren Flag",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
@@ -4133,6 +4304,7 @@
         ],
         "status": "candidate",
         "title": "Teddy fantasier III",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
@@ -4146,6 +4318,7 @@
         ],
         "status": "candidate",
         "title": "Teddy fantasier IV",
+        "vernetid": 70,
         "year": 1928,
         "yearexpire": 1998
     },
@@ -4159,6 +4332,7 @@
         ],
         "status": "candidate",
         "title": "Teddy p\u00e5 strandpromenade",
+        "vernetid": 70,
         "year": 1927,
         "yearexpire": 1997
     },
@@ -4172,6 +4346,7 @@
         ],
         "status": "unknown",
         "title": "Tyveriet fra Bagdad",
+        "vernetid": 106,
         "year": 1926,
         "yearexpire": 2032
     },
@@ -4185,24 +4360,28 @@
         ],
         "status": "candidate",
         "title": "Noahs ark",
+        "vernetid": 70,
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1018948/": {
         "status": "candidate",
         "title": "En verdensreise, eller Da knold og tott vaskede negrene hvite med 13 s\u00e6pen",
+        "vernetid": 70,
         "year": 1925,
         "yearexpire": 1995
     },
     "http://www.imdb.com/title/tt1019896/": {
         "status": "candidate",
         "title": "Chefens cigarett",
+        "vernetid": 70,
         "year": 1928,
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1019937/": {
         "status": "candidate",
         "title": "Et mesterverk",
+        "vernetid": 70,
         "year": 1937,
         "yearexpire": 2007
     },
@@ -4237,12 +4416,14 @@
         ],
         "status": "unknown",
         "title": "Grini - Frigj\u00f8ringsdagene den 8. og 9. mai 1945",
+        "vernetid": 113,
         "year": 1945,
         "yearexpire": 2058
     },
     "http://www.imdb.com/title/tt3619226/": {
         "status": "candidate",
         "title": "The Mother Who Paid",
+        "vernetid": 70,
         "year": 1916,
         "yearexpire": 1986
     },
@@ -4277,6 +4458,7 @@
         ],
         "status": "unknown",
         "title": "Oslo Havn - byens hjerte",
+        "vernetid": 132,
         "year": 1948,
         "yearexpire": 2080
     },
@@ -4290,6 +4472,7 @@
         ],
         "status": "candidate",
         "title": "Roald Amundsens Sydpolsferd (1910-1912)",
+        "vernetid": 70,
         "year": 1912,
         "yearexpire": 1982
     },
@@ -4303,24 +4486,28 @@
         ],
         "status": "candidate",
         "title": "Finnmark - p\u00e5 kryss og tvers i landet tyskerne brente",
+        "vernetid": 70,
         "year": 1947,
         "yearexpire": 2017
     },
     "http://www.imdb.com/title/tt9299004/": {
         "status": "candidate",
         "title": "Vi er fri!",
+        "vernetid": 70,
         "year": 1945,
         "yearexpire": 2015
     },
     "http://www.imdb.com/title/tt9299300/": {
         "status": "candidate",
         "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons begravelse",
+        "vernetid": 70,
         "year": 1910,
         "yearexpire": 1980
     },
     "http://www.imdb.com/title/tt9299304/": {
         "status": "candidate",
         "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons likf\u00e6rd",
+        "vernetid": 70,
         "year": 1910,
         "yearexpire": 1980
     },
@@ -4339,6 +4526,7 @@
         ],
         "status": "unknown",
         "title": "Oslo: Et vinterturistsentrum",
+        "vernetid": 130,
         "year": 1947,
         "yearexpire": 2077
     },
@@ -4352,6 +4540,7 @@
         ],
         "status": "candidate",
         "title": "Oslo: Sommerbyen mellom fjord og fjell",
+        "vernetid": 70,
         "year": 1948,
         "yearexpire": 2018
     }
