@@ -115,10 +115,10 @@ def fetch_search_result(entries, urlbase, page):
                 titleinfo['status'] = 'candidate'
             else:
                 titleinfo['status'] = 'unknown'
+            titleinfo['vernetid'] = titleinfo['yearexpire'] - year
             entries[imdburl] = titleinfo
-            print("%10s %s-%s %s - %s" % (titleinfo['status'],
-                                          year,
-                                          titleinfo['yearexpire'],
+            print(u"%10s %s-%s (%s år) %s - %s" % (titleinfo['status'],
+                                          year, titleinfo['yearexpire'], titleinfo['vernetid'],
                                           title, imdburl))
             #print titleinfo
             count = count + 1
