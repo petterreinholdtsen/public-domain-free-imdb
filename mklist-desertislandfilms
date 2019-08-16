@@ -1,0 +1,126 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Based on info from
+# https://blogs.harvard.edu/rprasad/2014/06/16/reading-excel-with-python-xlrd/
+
+import argparse
+import xlrd
+
+import movielib
+
+def dump_all(sh):
+    # Print all values, iterating through rows and columns
+    #
+    num_cols = sh.ncols   # Number of columns
+    for row_idx in range(0, sh.nrows):    # Iterate through rows
+        print ('-'*40)
+        print ('Row: %s' % row_idx)   # Print row number
+        for col_idx in range(0, num_cols):  # Iterate through columns
+            cell_obj = sh.cell(row_idx, col_idx)  # Get cell object by row, col
+            print ('Column: [%s] cell_obj: [%s]' % (col_idx, cell_obj))
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+
+    entries = {}
+
+    "Film List"
+    "http://www.desertislandfilms.com/httpwww-desertislandfilms-comwp-contentuploads201211desert-island-films-list-u-1-xlsx-downloadall-viewermicrosoft/"
+    "http://www.desertislandfilms.com/wp-content/uploads/2012/11/Desert-Island-Films-List-R.xlsx"
+
+    # Ignore tabs without movies or with movies without year
+    ignore = (
+        'Table of Contents',
+        'Programming Guide',
+        'Adult',
+        'Cartoons',
+        'Christmas Cartoons',
+#        'Documentary',
+#        'Drama-Comedy',
+#        'HI DEF',
+#        'Horror-SCI-FI',
+#        'Martial Arts',
+#        'New Titles',
+#        'Serial',
+#        'Short Subject',
+        'Spanish Dubbed',
+#        'TV Show',
+#        'Western',
+#        'Jackie Chan Collection',
+        'Sheet2',
+    )
+
+    book = xlrd.open_workbook("Desert-Island-Films-List-R.xlsx")
+    sheet_names = book.sheet_names()
+    for sheetname in sheet_names:
+        if sheetname in ignore:
+            continue
+        sh = book.sheet_by_name(sheetname)
+        print("Tab '%s' %d x %d" % (sheetname, sh.nrows, sh.ncols))
+
+        #dump_all(sh)
+
+        # Locate header
+        num_cols = sh.ncols   # Number of columns
+        for hrow in (0, 1):
+            for hcol in range(0, num_cols):
+                cell_obj = sh.cell(hrow, hcol)
+                if unicode == type(cell_obj.value):
+                    if cell_obj.value.lower() == 'year':
+                        headerrow = hrow
+        print(headerrow)
+
+        hfield = []
+        for col_idx in range(0, num_cols):
+            hfield.append(sh.cell(headerrow, col_idx).value.lower())
+        print(hfield)
+        fieldmap = {
+            '<--back': None,
+            'hi def titles, from 35mm': 'title',
+        }
+        for row_idx in range(headerrow+1, sh.nrows):
+            entry = {}
+            for hcol in range(0, num_cols):
+                fieldname = hfield[hcol]
+                if fieldname in fieldmap:
+                    fieldname = fieldmap[fieldname]
+                v = sh.cell(row_idx, hcol).value
+                if fieldname and v:
+                    if unicode == type(v):
+                        v = v\
+                            .replace(u"\u2018", "'") \
+                            .replace(u"\u2019", "'")
+                    entry[fieldname] = v
+            if 'title' not in entry:
+                continue
+            entry['category'] = sheetname
+            entry['status'] = 'free'
+            if 'year' in entry:
+                year = int(entry['year'])
+                entry['year'] = year
+            else:
+                year = None
+            if 'min' in entry:
+                entry['min'] = int(entry['min'])
+            imdb = "entry-%s-%s" % (sheetname, row_idx)
+            if args.imdblookup:
+                title = entry['title']
+                print("IMDB search for %s %s" % (title, year))
+                imdb = movielib.imdb_find_one(title, year)
+                if imdb:
+                    entry['imdblookup'] = '%s %d' % (title, year)
+            if "null" == imdb:
+                print("error: IMDB search failed, returned 'null', ignoring entry")
+                continue
+            else:
+                entries[imdb] = entry
+            print('"%s": %s', (imdb, sentry))
+            movielib.savelist(entries, 'free-movies-desertislandfilms.json')
+
+
+if __name__ == "__main__":
+    main()
