@@ -110,15 +110,12 @@ def main():
             if args.imdblookup:
                 title = entry['title']
                 print("IMDB search for %s %s" % (title, year))
-                imdb = movielib.imdb_find_one(title, year)
-                if imdb:
+                found = movielib.imdb_find_one(title, year)
+                if found:
                     entry['imdblookup'] = '%s %d' % (title, year)
-            if "null" == imdb:
-                print("error: IMDB search failed, returned 'null', ignoring entry")
-                continue
-            else:
-                entries[imdb] = entry
-            print('"%s": %s', (imdb, sentry))
+                    imdb = found
+            entries[imdb] = entry
+            print('"%s": %s' % (imdb, entry))
             movielib.savelist(entries, 'free-movies-desertislandfilms.json')
 
 
