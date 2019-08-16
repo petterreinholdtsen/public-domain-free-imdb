@@ -97,7 +97,7 @@ def main():
                     entry[fieldname] = v
             if 'title' not in entry:
                 continue
-            entry['category'] = sheetname
+            entry['category'] = [sheetname]
             entry['status'] = 'free'
             if 'year' in entry:
                 year = int(entry['year'])
@@ -114,7 +114,11 @@ def main():
                 if found:
                     entry['imdblookup'] = '%s %d' % (title, year)
                     imdb = found
-            entries[imdb] = entry
+            if imdb in entries:
+                if sheetname not in entries[imdb]['category']:
+                    entries[imdb]['category'].append(sheetname)
+            else:
+                entries[imdb] = entry
             print('"%s": %s' % (imdb, entry))
             movielib.savelist(entries, 'free-movies-desertislandfilms.json')
 
