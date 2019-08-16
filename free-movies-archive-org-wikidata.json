@@ -173,6 +173,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q3738487",
         "year": "1910"
     },
+    "http://www.imdb.com/title/tt0001218/": {
+        "freenessurl": "https://archive.org/details/LepeDuSpirite",
+        "status": "free",
+        "title": "A Fallen Spirit",
+        "wdurl": "http://www.wikidata.org/entity/Q65209667",
+        "year": "1910"
+    },
     "http://www.imdb.com/title/tt0001223/": {
         "freenessurl": "https://archive.org/details/FrankensteinfullMovie",
         "status": "free",
