@@ -33,7 +33,7 @@ def savelist(l, name = None):
 
 def test_imdb_lookup():
     # This one return several entries
-    print imdb_find_one("What Becomes of the Children?",1936)
+    print(imdb_find_one("What Becomes of the Children?",1936))
 
 def imdb_find_one(title, year, feature_only=False):
 
@@ -66,7 +66,7 @@ one title was found in the search result.
             # Drop IMDB entries without year
             continue
 
-        #print info['imdb'], info['year'], info['title']
+        #print(info['imdb'], info['year'], info['title'])
         # Verify the years are the same +-2.  Not verifying title, as the
         # shown title might not be in the same language as the search
         # term.
@@ -114,7 +114,7 @@ def imdb_url_clean(url):
 
 def wikipedia_lookup(wpurl):
     m = re.search('^(https?://[^/]+)/wiki/(.+)', wpurl, re.IGNORECASE)
-    #print m.group(1)
+    #print(m.group(1))
     if -1 != m.group(1).find('wikipedia.org'):
         url = "%s/w/index.php?title=%s&action=raw" % (m.group(1),m.group(2))
     else:
@@ -123,10 +123,10 @@ def wikipedia_lookup(wpurl):
     text = http_get_read(url)
     info = {}
     for line in text.split("\n"):
-        #print line
+        #print(line)
         m = re.search('#REDIRECT \[\[(.+)\]\]', line)
         if m:
-            #print m.group(1)
+            #print(m.group(1))
             newurl = urlparse.urljoin(wpurl, m.group(1).replace(" ", "_"))
             return wikipedia_lookup(newurl)
         if -1 != line.lower().find('{{imdb title'):
