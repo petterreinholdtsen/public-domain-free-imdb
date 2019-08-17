@@ -411,6 +411,20 @@
         "wp": "https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(film)",
         "year": 1921
     },
+    "http://www.imdb.com/title/tt0012224/": {
+        "freenessurl": "https://publicdomainmovies.info/the-goat-1921-starring-buster-keaton/",
+        "status": "free",
+        "title": "The Goat, 1921 starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/The_Goat_(1921_film)",
+        "year": 1921
+    },
+    "http://www.imdb.com/title/tt0012255/": {
+        "freenessurl": "https://publicdomainmovies.info/the-haunted-house-1921-starring-buster-keaton/",
+        "status": "free",
+        "title": "The Haunted House, 1921 starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/The_Haunted_House_(1921_film)",
+        "year": 1921
+    },
     "http://www.imdb.com/title/tt0012349/": {
         "freenessurl": "https://publicdomainmovies.info/charlie-chaplins-kid-1921-film-one-greatest-films-silent-era/",
         "status": "free",
@@ -1111,6 +1125,13 @@
         "wp": "https://en.wikipedia.org/wiki/Of_Human_Bondage_(1934_film)",
         "year": 1934
     },
+    "http://www.imdb.com/title/tt0025712/": {
+        "freenessurl": "https://publicdomainmovies.info/the-return-of-chandu-1934-serial-chapter-1-the-chosen-victim/",
+        "status": "free",
+        "title": "The Return of Chandu, 1934 (serial) Chapter 1: The Chosen Victim",
+        "wp": "https://en.wikipedia.org/wiki/The_Return_of_Chandu",
+        "year": 1934
+    },
     "http://www.imdb.com/title/tt0025940/": {
         "freenessurl": "https://publicdomainmovies.info/vanishing-shadow-1934-serial-chapter-1-accused-murder/",
         "status": "free",
@@ -1389,6 +1410,13 @@
         "status": "free",
         "title": "His Girl Friday, 1940 directed by Howard Hawks and starring Cary Grant and Rosalind Russell",
         "wp": "https://en.wikipedia.org/wiki/His_Girl_Friday",
+        "year": 1940
+    },
+    "http://www.imdb.com/title/tt0032799/": {
+        "freenessurl": "https://publicdomainmovies.info/misbehaving-husbands-1940/",
+        "status": "free",
+        "title": "Misbehaving Husbands, 1940",
+        "wp": "https://en.wikipedia.org/wiki/Misbehaving_Husbands",
         "year": 1940
     },
     "http://www.imdb.com/title/tt0033021/": {
@@ -2133,6 +2161,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Phantom_Planet",
         "year": 1961
     },
+    "http://www.imdb.com/title/tt0055662/": {
+        "freenessurl": "https://publicdomainmovies.info/the-beverly-hillbillies-1962-serial-episodes-1-10/",
+        "status": "free",
+        "title": "The Beverly Hillbillies, 1962 (serial) Episodes 1-10",
+        "wp": "https://en.wikipedia.org/wiki/The_Beverly_Hillbillies",
+        "year": 1962
+    },
     "http://www.imdb.com/title/tt0055830/": {
         "freenessurl": "https://publicdomainmovies.info/carnival-souls-1962/",
         "status": "free",
@@ -2422,13 +2457,6 @@
         "status": "free",
         "title": "How To Succeed With Brunettes, 1967",
         "year": 1967
-    },
-    "https://publicdomainmovies.info/misbehaving-husbands-1940/": {
-        "freenessurl": "https://publicdomainmovies.info/misbehaving-husbands-1940/",
-        "status": "free",
-        "title": "Misbehaving Husbands, 1940",
-        "wp": "https://en.wikipedia.org/wiki/Misbehaving_Husbands",
-        "year": 1940
     },
     "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/": {
         "freenessurl": "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/",
