@@ -1456,6 +1456,14 @@
 	"title" : "S.O.S. Eisberg",
 	"year" : 1933
     },
+    "http://www.imdb.com/title/tt0026109/": {
+        "status": "free",
+        "title": "Betty Boop and Grampy",
+        "freenessurl": "https://archive.org/details/bb_and_grampy",
+        "freenessurl2": "https://archive.org/details/BettyBoopAndGrampy2016CC",
+        "wp": "https://en.wikipedia.org/wiki/Betty_Boop_and_Grampy",
+        "year": "1935"
+    },
     "http://www.imdb.com/title/tt0030910/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/UnderWesternStars",
