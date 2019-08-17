@@ -742,6 +742,8 @@
     "http://www.imdb.com/title/tt1506230/": {
         "status": "unknown",
         "freenessurl": "https://archive.org/details/RVB01",
+        "freenessurl2": "https://archive.org/details/Red_vs_Blue_Episode_01",
+        "freenessurl3": "https://archive.org/details/RvB_E01",
         "title": "Red vs. Blue Episode 01",
 	"year" : 2003
     },
