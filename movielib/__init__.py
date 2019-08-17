@@ -104,6 +104,7 @@ def test_wikipedia_lookup():
         "https://en.wikipedia.org/wiki/D.O.A._%281950_film%29",
         "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
         "https://en.wikipedia.org/wiki/The_Brain_that_Wouldn%27t_Die",
+        "https://en.wikipedia.org/wiki/The_Love_Nest_(1923_film)",
     ]
     for url in urls:
         print(wikipedia_lookup(url))
@@ -131,16 +132,13 @@ def wikipedia_lookup(wpurl):
             #print(m.group(1))
             newurl = urlparse.urljoin(wpurl, m.group(1).replace(" ", "_"))
             return wikipedia_lookup(newurl)
-        if -1 != line.lower().find('{{imdb title'):
-            m = re.search("\* ?{{ *IMDb title *\| *(id *= *)?(tt)?(\d+) *(\|?.+}})?",
-                          line, re.IGNORECASE)
-            if m:
-                # Normalize URLs to 7 digit numbers, as some wikipedia
-                # pages have more or less digits.
-                imdburl = 'http://www.imdb.com/title/tt%07d/' % int(m.group(3))
-                info['imdb'] = imdburl
-            else:
-                print("info: '%s' ignored in %s" % (line, wpurl))
+        m = re.search("\* ?{{ *IMDb title *\| *(id *= *)?(tt)?(\d+) *(\|?.+}})?",
+                      line, re.IGNORECASE)
+        if m:
+            # Normalize URLs to 7 digit numbers, as some wikipedia
+            # pages have more or less digits.
+            imdburl = 'http://www.imdb.com/title/tt%07d/' % int(m.group(3))
+            info['imdb'] = imdburl
         # Used on wiki.creativecommons.org
         m = re.search("^ *\| *imdburl *= *(.+)", line, re.IGNORECASE)
         if m:
@@ -155,5 +153,5 @@ def wikipedia_lookup(wpurl):
     return info
 
 if __name__ == '__main__':
-    test_imdb_lookup()
-    #test_wikipedia_lookup()
+#    test_imdb_lookup()
+    test_wikipedia_lookup()
