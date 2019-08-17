@@ -91,7 +91,7 @@ def test_wikipedia_lookup():
             '* {{IMDb title|id=0052646}}',
             '* {{IMDb title|id =0175627|title =La fuga degli amanti  }}'
     ]:
-        m = re.search("\* ?{{IMDb title *\| *(id *=)?(tt)?(\d+) *(\|?.+}})?",
+        m = re.search("\* ?{{ *IMDb title *\| *(id *=)?(tt)?(\d+) *(\|?.+}})?",
                       line, re.IGNORECASE)
         if m is not None:
             imdburl = 'http://www.imdb.com/title/tt%s/' % m.group(3)
@@ -130,7 +130,7 @@ def wikipedia_lookup(wpurl):
             newurl = urlparse.urljoin(wpurl, m.group(1).replace(" ", "_"))
             return wikipedia_lookup(newurl)
         if -1 != line.lower().find('{{imdb title'):
-            m = re.search("\* ?{{IMDb title *\| *(id *=)?(tt)?(\d+) *(\|?.+}})?",
+            m = re.search("\* ?{{ *IMDb title *\| *(id *=)?(tt)?(\d+) *(\|?.+}})?",
                           line, re.IGNORECASE)
             if m:
                 # Normalize URLs to 7 digit numbers, as some wikipedia
