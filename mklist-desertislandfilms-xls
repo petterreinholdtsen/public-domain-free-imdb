@@ -120,8 +120,8 @@ def main():
             else:
                 entries[imdb] = entry
             print('"%s": %s' % (imdb, entry))
-            movielib.savelist(entries, 'free-movies-desertislandfilms.json')
+            movielib.savelist(entries, 'free-movies-desertislandfilms-xsd.json')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
