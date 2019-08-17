@@ -1,0 +1,184 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Fetch list of movies available from Desert Island Films.  All their movies
+are claimed to be in the public domain.
+
+Look up each title + year in IMDB and if only one title is returned
+with the correct year, assume it is the correct IMDB title ID for
+the movie.
+
+"""
+
+import argparse
+import datetime
+import json
+import lxml.html
+import movielib
+import re
+import urllib
+import urllib2
+import urlparse
+
+from copy import deepcopy
+
+def dumplist(list, name):
+    outlist = deepcopy(list)
+    # Rewrite freenessurl array to individual fields (freenessurl,
+    # freenessurl2, freenessurl3...) in predictable/sorted order
+    for i in outlist:
+        if 1 == len(outlist[i]['freenessurl']):
+            outlist[i]['freenessurl'] = outlist[i]['freenessurl'][0]
+        else:
+            sl = sorted(outlist[i]['freenessurl'])
+            outlist[i]['freenessurl'] = sl[0]
+            seq = 0
+            for u in sl[1:]:
+                field = "freenessurl%d" % (seq + 2)
+                outlist[i][field] = u
+                seq = seq + 1
+    movielib.savelist(outlist, name=name)
+
+
+def fetch_movie_info(entryurl):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(entryurl))
+    except urllib2.HTTPError as e:
+        return None
+    retval = {}
+    title = root.cssselect("h1.entry-title")[0].text_content().strip()
+    title = title.replace(u"’", "'")\
+                 .replace(u"‘", "'")\
+                 .replace(u'\ufffd', "'")\
+                 .replace(u'“', '"')\
+                 .replace(u'”', '"')\
+                 .replace(u"–", "-")\
+                 .replace(u"…", "...")\
+                 .replace(u"é", "e")\
+                 .replace(u"ñ", "n")\
+                 .replace(u"\xa0", " ") # nobreak space
+    retval['title'] = title
+    description = root.cssselect("div.product_description")[0].text_content().strip()
+    retval['description'] = description
+
+    m = re.search("(\d{4})", description)
+    if m:
+        retval['year'] = int(m.group(1))
+    print(retval)
+    return retval
+
+def fetch_movie_list(args, l, url, name):
+    try:
+        root = lxml.html.fromstring(movielib.http_get_read(url))
+    except urllib2.HTTPError as e:
+        return None
+    lastref = root.cssselect('a[title="Last Page"]')
+    if lastref:
+        lasturl = lastref[0].attrib['href']
+        m = re.search("/(\d+)/", lasturl)
+        last = int(m.group(1))
+    else:
+        last = 1
+    page = 1
+    while page <= last:
+        for block in root.cssselect("div.default_product_display"):
+            a = block.cssselect("a.wpsc_product_title")[0]
+            entryurl = urlparse.urljoin(url, a.attrib['href'])
+            if is_in_list(l, entryurl):
+                continue
+            title = a.text_content().strip()
+            description = block.cssselect("div.wpsc_description")[0].text_content().strip()
+
+            m = re.search("(\d{4})", description)
+            if m:
+                year = int(m.group(1))
+            else:
+                year = None
+
+            #info = fetch_movie_info(entryurl)
+            imdb = entryurl
+            entry = {
+                'status': 'free',
+                'freenessurl': [entryurl],
+                'title': title,
+                'updated': datetime.datetime.now().isoformat(),
+                'description': description,
+            }
+            if args.imdblookup:
+                print("IMDB search for %s %s" % (title, year))
+                searchtitle = title.replace(u"’", "'")\
+                                   .replace(u"‘", "'")\
+                                   .replace(u'“', '"')\
+                                   .replace(u'”', '"')\
+                                   .replace(u"–", "-")
+
+                imdb = movielib.imdb_find_one(searchtitle, year)
+                if imdb:
+                    entry['imdblookup'] = '%s %d' % (searchtitle, year)
+            if not imdb:
+                imdb = entryurl
+            if year:
+                entry['year'] = year
+            if imdb not in l:
+                l[imdb] = entry
+            else:
+                if entryurl not in l[imdb]['freenessurl']:
+                    l[imdb]['freenessurl'].append(entryurl)
+                for f in ['updated', 'imdblookup']:
+                    if f in entry:
+                        l[imdb][f] = entry[f]
+            print(imdb, l[imdb])
+            dumplist(l, name=name)
+        try:
+            pageurl = url.replace('/1/', '/%d/' % page)
+            root = lxml.html.fromstring(movielib.http_get_read(pageurl))
+        except urllib2.HTTPError as e:
+            return None
+        page += 1
+    return l
+
+def is_in_list(list, url):
+    for e in list:
+        if url in list[e]['freenessurl']:
+            return True
+    return False
+
+def loadlist(l, path):
+    try:
+        with open(path, 'rt') as input:
+            n = json.load(input)
+            for id in n.keys():
+                freenessurl = []
+                for field in ['freenessurl', 'freenessurl2', 'freenessurl3',
+                              'freenessurl4', 'freenessurl5', 'freenessurl6',
+                              'freenessurl7', 'freenessurl8', 'freenessurl9']:
+                    if field in n[id] and n[id][field] not in freenessurl:
+                        freenessurl.append(n[id][field])
+                        del n[id][field]
+                n[id]['freenessurl'] = freenessurl
+                if not id in l:
+                    l[id] = n[id]
+                else:
+                    for url in n[id]['freenessurl']:
+                        if url not in l[id]['freenessurl']:
+                            l[id]['freenessurl'].append(url)
+        return l
+    except IOError as e:
+        return l
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--imdblookup', action='store_true', default=False,
+                        help='also find title IDs by searching for title/year in IMDB')
+    args = parser.parse_args()
+    url = "http://www.desertislandfilms.com/products-page/1/"
+
+    path='free-movies-desertislandfilms.json'
+    outlist = {}
+    loadlist(outlist, path)
+    outlist = fetch_movie_list(args, outlist, url, name=path)
+    dumplist(outlist, name=path)
+
+if __name__ == '__main__':
+    main()
