@@ -185,6 +185,13 @@
         "title": "Cleopatra",
         "year": 1912
     },
+    "http://www.imdb.com/title/tt0002381/": {
+        "freenessurl": "https://archive.org/details/TheMusketeersOfPigAlley",
+        "freenessurl2": "https://archive.org/details/12TheMusketeersOfPigAlley",
+        "status": "free",
+        "title": "The Musketeers of Pig Alley",
+        "year": "1912"
+    },
     "http://www.imdb.com/title/tt0003417/": {
         "freenessurl": "https://archive.org/details/AStrongRevenge1914",
         "status": "free",
