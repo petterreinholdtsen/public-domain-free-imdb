@@ -6,23 +6,12 @@ www.publicdomainmoves.info.  Find IMDB title id by checking linked
 Wikipedia info pages for links to IMDB.
 """
 
-import json
 import lxml.html
 import re
 import time
 import urllib2
 import urlparse
 import movielib
-
-def savelist(l, name = None):
-    if not name:
-        name = 'free-movies-publicdomainmovies-info.json'
-    with open(name, 'wt') as out:
-        json.dump(l,
-                  out,
-                  sort_keys=True,
-                  indent=4,
-                  separators=(',', ': '))
 
 def get_movie_info(entryurl):
     try:
@@ -89,7 +78,7 @@ def main():
     summaryurl = 'https://publicdomainmovies.info/all-movies/'
     l = {}
     get_movie_list(summaryurl, l)
-    savelist(l)
+    movielib.savelist(l, name='free-movies-publicdomainmovies-info.json')
 
 def test_match():
     get_movie_info('https://publicdomainmovies.info/amazing-mr-x-full-movie/')
