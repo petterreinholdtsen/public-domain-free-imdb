@@ -425,6 +425,13 @@
         "wp": "https://en.wikipedia.org/wiki/The_Goat_(1921_film)",
         "year": 1921
     },
+    "http://www.imdb.com/title/tt0012253/": {
+        "freenessurl": "https://publicdomainmovies.info/hard-luck-1921-film-starring-buster-keaton/",
+        "status": "free",
+        "title": "Hard Luck, 1921 film starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/Hard_Luck_(1921_film)",
+        "year": 1921
+    },
     "http://www.imdb.com/title/tt0012255/": {
         "freenessurl": "https://publicdomainmovies.info/the-haunted-house-1921-starring-buster-keaton/",
         "status": "free",
@@ -997,6 +1004,13 @@
         "status": "free",
         "title": "Lonely Wives \u2013 full movie",
         "wp": "https://en.wikipedia.org/wiki/Lonely_Wives_%28film%29",
+        "year": 1931
+    },
+    "http://www.imdb.com/title/tt0022254/": {
+        "freenessurl": "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/",
+        "status": "free",
+        "title": "Parlor, Bedroom and Bath, 1931 starring Buster Keaton",
+        "wp": "https://en.wikipedia.org/wiki/Parlor,_Bedroom_and_Bath_(1931_film)",
         "year": 1931
     },
     "http://www.imdb.com/title/tt0022628/": {
@@ -2471,13 +2485,6 @@
         "status": "free",
         "title": "How To Succeed With Brunettes, 1967",
         "year": 1967
-    },
-    "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/": {
-        "freenessurl": "https://publicdomainmovies.info/parlor-bedroom-bath-1931-starring-buster-keaton/",
-        "status": "free",
-        "title": "Parlor, Bedroom and Bath, 1931 starring Buster Keaton",
-        "wp": "https://en.wikipedia.org/wiki/Parlor,_Bedroom_and_Bath",
-        "year": 1931
     },
     "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/": {
         "freenessurl": "https://publicdomainmovies.info/the-eagle-has-landed-the-flight-of-apollo-11-1969/",
