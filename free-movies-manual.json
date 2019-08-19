@@ -53,6 +53,13 @@
         "title": "Auguste & Louis Lumi\u00e8re D\u00e9molition D'un Mur",
 	"year" : 1896
     },
+    "http://www.imdb.com/title/tt0222946/": {
+        "freenessurl": "https://archive.org/details/LeCauchemar",
+        "wp": "https://en.wikipedia.org/wiki/Le_cauchemar",
+        "status": "free",
+        "title": "Le Cauchemar",
+        "year": 1896
+    },
     "http://www.imdb.com/title/tt1741509/": {
         "freenessurl": "https://archive.org/details/1896AugusteLouisLumireChineseSaigon",
         "status": "free",
