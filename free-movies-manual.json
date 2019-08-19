@@ -1,4 +1,12 @@
 {
+    "http://www.imdb.com/title/tt0343112/": {
+        "status": "free",
+        "freenessurl": "https://archive.org/details/Leeds_Bridge_1888",
+        "freenessurl": "https://archive.org/details/TrafficCrossingLeedsBridge",
+	"wp": "https://pt.wikipedia.org/wiki/Traffic_Crossing_Leeds_Bridge",
+        "title": "Traffic Crossing Leeds Bridge",
+        "year": 1888
+    },
     "http://www.imdb.com/title/tt0000001/": {
         "status": "free",
         "freenessurl": "https://archive.org/details/1894WilliamK.L.DicksonCarmencita.3gp",
