@@ -117,7 +117,12 @@ def main():
         usum = usum + unique
         xsum = xsum + s[file]['noimdb']
         if args.list_unique:
-            for imdburl in sorted(complete.keys()):
+            def sortbyyear(imdburl):
+                if 'year' in i[imdburl]:
+                    return int(i[imdburl]['year']), imdburl
+                else:
+                    return imdburl
+            for imdburl in sorted(complete, key=sortbyyear):
                 if complete[imdburl]['file'] == [file]:
                     if 'year' in i[imdburl]:
                         y = i[imdburl]['year']
