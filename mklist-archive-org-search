@@ -89,7 +89,8 @@ def loadlist(l, path):
                               'archive5', 'archive6', 'archive7', 'archive8', 'archive9',
                               'freenessurl', 'freenessurl1', 'freenessurl2', 'freenessurl3',
                               'freenessurl4', 'freenessurl5', 'freenessurl6', 'freenessurl7',
-                              'freenessurl8', 'freenessurl9', 'freenessurl10', 'freenessurl11']:
+                              'freenessurl8', 'freenessurl9', 'freenessurl10', 'freenessurl11',
+                              'freenessurl12', 'freenessurl13', 'freenessurl14']:
                     if field in n[id] and n[id][field] not in freenessurls:
                         freenessurls.append(n[id][field])
                         del n[id][field]
