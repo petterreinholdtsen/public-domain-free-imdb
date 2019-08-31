@@ -1,0 +1,865 @@
+{
+    "_kilde": "https://www.mimesbronn.no/request/norske_filmverk_for_1940_som_ikk",
+    "http://www.imdb.com/title/tt0121288/": {
+        "available": "no",
+        "title": "Fiskerlivets farer",
+        "year": 1907,
+	"fromnb": "Fiskerlivets farer eller Er drama paa havet ( ca 1908) - tapt"
+    },
+    "http://www.imdb.com/title/tt9299300/": {
+        "available": "yes",
+        "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons begravelse",
+        "year": 1910,
+	"fromnb": "Bjørnstjerne Bjørnsons begravelse (1910) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347601/": {
+        "available": "yes",
+        "title": "NSB Bergensbanen 1909",
+        "year": 1909,
+	"fromnb": "[NSB : Bergensbanen 1909] (1909) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt9299304/": {
+        "available": "yes",
+        "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons likf\u00e6rd",
+        "year": 1910,
+        "fromnb": "Bjørnstjerne Bjørnsons ligfærd igennem København (1910) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0001608/": {
+        "available": "no",
+        "title": "Fattigdommens forbandelse",
+        "year": 1911,
+        "fromnb": "Fattigdommens forbandelse (1911, Halfdan Nobel Roede)"
+    },
+    "http://www.imdb.com/title/tt0001511/": {
+        "available": "no",
+        "title": "Bondefangeri i Vaterland",
+        "year": 1911,
+        "fromnb": "Bondefangeri i Vaterland (1911, Pehr Qwernstrøm)"
+    },
+    "http://www.imdb.com/title/tt0001590/": {
+        "available": "no",
+        "title": "D\u00e6monen",
+        "year": 1911,
+        "fromnb": "Dæmonen (1911, Jens Christian Gundersen)"
+    },
+    "http://www.imdb.com/title/tt0001957/": {
+        "available": "yes",
+        "title": "Under forvandlingens lov",
+        "year": 1911,
+        "fromnb": "Under forvandlingens lov eller Jo tykkere, jo bedre (1911, Halfdan Nobel Roede) - tilnærmet komplett, Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0002014/": {
+        "available": "no",
+        "title": "Alt for Norge",
+        "year": 1912,
+        "fromnb": "Alt for Norge (1911, Halfdan Nobel Roede)"
+    },
+    "http://www.imdb.com/title/tt0002235/": {
+        "available": "no",
+        "title": "Hemmeligheden",
+        "year": 1912,
+        "fromnb": "Hemmeligheden (1912, Halfdan Nobel Roede)"
+    },
+    "http://www.imdb.com/title/tt0382852/": {
+        "available": "no",
+        "title": "Historien omen moder",
+        "year": 1912,
+        "fromnb": "Historien omen moder (1912, Halfdan Nobel Rode)"
+    },
+    "http://www.imdb.com/title/tt0002026/": {
+        "available": "no",
+        "title": "Anny - en gatepiges roman",
+        "year": 1912,
+        "fromnb": "Anny - en gatepiges roman (1912, Adam Eriksen)"
+    },
+    "http://www.imdb.com/title/tt9237500/": {
+        "available": "yes",
+        "title": "Roald Amundsens Sydpolsferd (1910-1912)",
+        "year": 1912,
+        "fromnb": "Roald Amundsens sydpolsferd 1910-1912 (ca 1912) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347886/": {
+        "available": "yes",
+        "title": "Roald Amundsen p\u00e5 sydpolen",
+        "year": 1913,
+	"fromnb": "Den tredje Fram ekspedition til Sydpolen / Roald Amundsen på Sydpolen 1911 (1910) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0003250/": {
+        "available": "no",
+        "title": "Overfaldet p\u00e5 post\u00e5pnerens datter",
+        "year": 1913,
+        "fromnb": "Overfaldet paa postaapnerens datter eller Kampen om pengebrevet (1913, Ottar Gladtvet)"
+    },
+    "http://www.imdb.com/title/tt3619226/": {
+        "available": "unknown",
+        "title": "The Mother Who Paid",
+        "year": 1916,
+        "fromnb": "The Mother who Paid (1916) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt0346964/": {
+        "available": "yes",
+        "title": "Fanden i n\u00f8tten",
+        "year": 1917,
+        "fromnb": "Fanden i nøtten (1917, Ola Cornelius) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0008719/": {
+        "available": "no",
+        "title": "Unge hjerter",
+        "year": 1917,
+        "fromnb": "Unge hjerter (1917, Peter Lykke-Seest)"
+    },
+    "http://www.imdb.com/title/tt0008740/": {
+        "available": "no",
+        "title": "En vinternat",
+        "year": 1917,
+        "fromnb": "En vinternat (1917, Peter Lykke-Seest og Oscar Gustafson)"
+    },
+    "http://www.imdb.com/title/tt0007972/": {
+        "available": "no",
+        "title": "De for\u00e6ldrel\u00f8se",
+        "year": 1917,
+        "fromnb": "De forældreløse (1917, Peter Lykke-Seest og Oscar Gustafson)"
+    },
+    "http://www.imdb.com/title/tt0009314/": {
+        "available": "no",
+        "title": "Lodsens datter",
+        "year": 1918,
+        "fromnb": "Lodsens datter (1918, Peter Lykke-Seest)"
+    },
+    "http://www.imdb.com/title/tt0009546/": {
+        "available": "yes",
+        "title": "Revolutionens datter",
+        "year": 1918,
+        "fromnb": "Revolutionens datter (1918, Ottar Gladtvet) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0009769/": {
+        "available": "no",
+        "title": "Vor tids helte",
+        "year": 1918,
+        "fromnb": "Vor tids helte (1918, Peter Lykke-Seest)"
+    },
+    "http://www.imdb.com/title/tt0010939/": {
+        "available": "no",
+        "title": "\u00c6resgjesten",
+        "year": 1919,
+        "fromnb": "Æresgjesten (1919, Peter Lykke-Seest)"
+    },
+    "http://www.imdb.com/title/tt0010259/": {
+        "available": "yes",
+        "title": "Historien om en gut",
+        "vernetid": 99,
+        "year": 1919,
+        "fromnb": "Historien om en gut (1919, Peter Lykke-Seest) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0011173/": {
+        "available": "yes",
+        "title": "Fante-Anne",
+        "year": 1920,
+        "fromnb": "Fante-Anne (1920, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0011361/": {
+        "available": "yes",
+        "title": "Kaksen p\u00e5 \u00d8verland",
+        "year": 1920,
+        "fromnb": "Kaksen paa Øverland (1920, Gustav Adolf Olsen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0012337/": {
+        "available": "yes",
+        "title": "Jomfru Trofast",
+        "year": 1921,
+        "fromnb": "Jomfru Trofast (1921, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0012159/": {
+        "available": "yes",
+        "title": "Felix",
+        "year": 1921,
+        "fromnb": "Felix (1921, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0011440/": {
+        "available": "yes",
+        "title": "Markens gr\u00f8de",
+        "year": 1921,
+        "fromnb": "Markens grøde (1921, Gunnar Sommerfeldt) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0012789/": {
+        "available": "no",
+        "title": "Under Polarkredsens himmel",
+        "year": 1921,
+        "fromnb": "Under Polarkredsens himmel : Med Professor Holtedahls ekspedition til Novaja Semlja (1921, Reidar Lund)"
+    },
+    "http://www.imdb.com/title/tt0347686/": {
+        "available": "unknown",
+        "title": "Det nye \u00e5r?",
+        "year": 1921,
+        "fromnb": "Det nye år? - kortfilm (1921) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt0012946/": {
+        "available": "no",
+        "title": "Blandt Syd-Amerikas urskovsindianere",
+        "year": 1921,
+        "fromnb": "Blant Syd-Amerikas urskovsindianere (1922, Ottar Gladtvet)"
+    },
+    "http://www.imdb.com/title/tt0013299/": {
+        "available": "yes",
+        "title": "Kj\u00e6rlighet p\u00e5 pinde",
+        "year": 1922,
+        "fromnb": "Kjærlighet paa pinde (1922, Erling Eriksen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0013480/": {
+        "available": "yes",
+        "title": "Pan",
+        "year": 1922,
+        "fromnb": "Pan (1922, Harald Schwenzen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0013117/": {
+        "available": "yes",
+        "title": "Farende folk",
+        "year": 1922,
+        "fromnb": "Farende folk (1922, Amund Rydland) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0014267/": {
+        "available": "yes",
+        "title": "Med Roald Amundsens Nordpolsekspedition til f\u00f8rste vinterkvarter",
+        "year": 1923,
+        "fromnb": "Med Roald Amundsens Nordpolekspedition til første vinterkvarter (1923, Reidar Lund) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0014318/": {
+        "available": "no",
+        "title": "Nordenfor polarcirkelen",
+        "year": 1923,
+        "fromnb": "Nordenfor Polarcirkelen (1923)"
+    },
+    "http://www.imdb.com/title/tt0014319/": {
+        "available": "yes",
+        "title": "Norge - en skildring i 6 akter",
+        "year": 1923,
+        "fromnb": "Norge - en skildring i 16 akter (1923) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0014514/": {
+        "available": "no",
+        "title": "Strandhugg p\u00e5 Kavringen",
+        "year": 1923,
+        "fromnb": "Strandhugg paa Kavringen (1923, O. Trygve Dalseg og Gunnar Nilsen-Vig)"
+    },
+    "http://www.imdb.com/title/tt0015417/": {
+        "available": "yes",
+        "title": "Til s\u00e6ters",
+        "year": 1924,
+        "fromnb": "Til sæters (1924, Harry Ivarson) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1008051/": {
+        "available": "yes",
+        "title": "Teddy paa biltur",
+        "year": 1927,
+        "fromnb": "[Teddy : kjøreturen] / [Teddy paa biltur] - Animasjonsfilm/tegnefilmreklame for Tiedemanns Teddy sigaretter. (ca. 1925) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0015790/": {
+        "available": "no",
+        "title": "Fager er lien",
+        "year": 1925,
+        "fromnb": "Fager er Lien (1925, Harry Ivarson)"
+    },
+    "http://www.imdb.com/title/tt0016098/": {
+        "available": "no",
+        "title": "Med 'Stavangerfjord' til Nordkap",
+        "year": 1925,
+        "fromnb": "Med «Stavangerfjord» til Nordkap (1925)"
+    },
+    "http://www.imdb.com/title/tt1008007/": {
+        "available": "yes",
+        "title": "Mustads Mono",
+        "year": 1920,
+        "fromnb": "[Mustads Mono] : Reklame for \"Mono\" margarin fra O. Mustad & Søns Margarinfabrikk. (ca.1925) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0015913/": {
+        "available": "fragment",
+        "title": "Himmeluret",
+        "year": 1925,
+        "fromnb": "Himmeluret (1925, Amund Rydland og Leif Sinding) - bare et kort fragment er bevart, Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0015861/": {
+        "available": "yes",
+        "title": "Glomdalsbruden",
+        "year": 1926,
+        "fromnb": "Glomdalsbruden (1925, Carl Th. Dreyer) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347853/": {
+        "available": "yes",
+        "title": "Raumabanen - Norges nyeste turistbane",
+        "year": 1924,
+        "fromnb": "Raumabanen. Norges nyeste turistbane (ca 1925) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017972/": {
+        "available": "yes",
+        "title": "Rex strykejern",
+        "year": 1924,
+        "fromnb": "[REX-jernet] - reklamefilm (ca. 1925) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1018948/": {
+        "available": "yes",
+        "title": "En verdensreise, eller Da knold og tott vaskede negrene hvite med 13 s\u00e6pen",
+        "year": 1925,
+        "fromnb": "En verdensreise, eller da Knold og Tot vaskede negrene hvite med 13sæpen - reklamefilm (ca. 1925) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0017241/": {
+        "available": "no",
+        "title": "Over Atlanterhavet og gjennem Amerika",
+        "year": 1926,
+        "fromnb": "Over Atlanterhavet og gjennem Amerika (1926)"
+    },
+    "http://www.imdb.com/title/tt0017129/": {
+        "available": "yes",
+        "title": "Med 'Maud' over Polhavet",
+        "year": 1926,
+        "fromnb": "Med «Maud» over Polhavet : Roald Amundsens ekspedition 1922-1925 (1926) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0016945/": {
+        "available": "no",
+        "title": "Hallo! Amerika!",
+        "year": 1926,
+        "fromnb": "Hallo! Amerika! (1926)"
+    },
+    "http://www.imdb.com/title/tt0017216/": {
+        "available": "yes",
+        "title": "Den nye lensmanden",
+        "year": 1926,
+        "fromnb": "Den nye lensmanden (1926, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0017394/": {
+        "available": "no",
+        "title": "Simen Mustr\u00f8ens besynderlige opplevelser",
+        "year": 1926,
+        "fromnb": "Simen Mustrøens besynderlige oplevelser (1926, Harry Ivarson)"
+    },
+    "http://www.imdb.com/title/tt0016295/": {
+        "available": "yes",
+        "title": "Roald Amundsen - Ellsworths flyveekspedition 1925",
+        "year": 1925,
+        "fromnb": "[Roald Amundsen, Ellsworth og Nobiles flyveekspedisjon (1926) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0017090/": {
+        "available": "yes",
+        "title": "Luftskibet 'Norge's flugt over polhavet",
+        "year": 1926,
+        "fromnb": "Luftskibet «Norge»s flugt over Polhavet (1926) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0016621/": {
+        "available": "yes",
+        "title": "Baldevins bryllup",
+        "year": 1926,
+        "fromnb": "Baldevins bryllup (1926, George Schnéevoigt) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0016691/": {
+        "available": "yes",
+        "title": "Brudeferden i Hardanger",
+        "year": 1926,
+        "fromnb": "Brudeferden i Hardanger (1926, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1018917/": {
+        "available": "yes",
+        "title": "Noahs ark",
+        "year": 1928,
+        "fromnb": "Noahs Ark - Reklame for Magasin du Nord Damekonfektion. (1926) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017948/": {
+        "available": "yes",
+        "title": "Luna s\u00e6pen",
+        "year": 1927,
+        "fromnb": "[Luna sæpen] Reklamefilm for LUNA sæpe fra Lilleborg. (ca. 1927) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1002599/": {
+        "available": "yes",
+        "title": "Fiinbeck er r\u00f8mt",
+        "year": 1927,
+        "fromnb": "Fiinbeck er rømt - Reklamefilm for Tiedemanns Mixture. Animasjonsfilm (ca. 1927, Ottar Gladtvet) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347596/": {
+        "available": "yes",
+        "title": "Det mystiske kj\u00f8kken (noget at gl\u00e6de seg til)",
+        "year": 1927,
+        "fromnb": "Det mystiske kjøkken eller Noget at glæde sig til - Reklamefilm for Lilleborgs \"Nordlys sæpekorn\". (ca. 1927, Ottar Gladtvet) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017908/": {
+        "available": "unknown",
+        "title": "Dj\u00e6velen i knipe",
+        "year": 1927,
+        "fromnb": "Djævelen i knipe (1927) -finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1017959/": {
+        "available": "unknown",
+        "title": "N\u00f8klen til den syvende himmel",
+        "year": 1927,
+        "fromnb": "Nøklen til den syvende himmel (1927) -finnes ikke i Nasjonalbiblioteket"
+    },
+    "http://www.imdb.com/title/tt1018002/": {
+        "available": "unknown",
+        "title": "S\u00f8ndagsfiskeren Flag",
+        "year": 1927,
+        "fromnb": "Søndagsfiskeren Flag (1927) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1017979/": {
+        "available": "unknown",
+        "title": "R\u00f8d sultan",
+        "year": 1927,
+        "fromnb": "Rød sultan (1927) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1018003/": {
+        "available": "unknown",
+        "title": "Teddy fantasier III",
+        "year": 1927,
+        "fromnb": "Teddy fantasier III (1927) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1018005/": {
+        "available": "yes",
+        "title": "Teddy p\u00e5 strandpromenade",
+        "year": 1927,
+        "fromnb": "Teddy på strandpromenaden - Animert reklamefilm for Tiedemanns Teddy sigaretter. (1927) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017997/": {
+        "available": "yes",
+        "title": "Den store sultan",
+        "year": 1927,
+        "fromnb": "Hvad bringer han vel den sælsomme mann? Den store sultan på Karl Johan? / Den store sultan i Oslo (ca. 1927, Ottar Gladtvet) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0017939/": {
+        "available": "yes",
+        "title": "Den glade enke i Trangvik",
+        "year": 1927,
+        "fromnb": "Den glade enke i Trangvik (1927, Harry Ivarson) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0017888/": {
+        "available": "yes",
+        "title": "Fjeldeventyret",
+        "year": 1927,
+        "fromnb": "Fjeldeventyret (1927, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0018128/": {
+        "available": "yes",
+        "title": "Madame bes\u00f8ker Oslo",
+        "year": 1927,
+        "fromnb": "Madame besøker Oslo (1927, Harry Ivarson) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0018209/": {
+        "available": "no",
+        "title": "Norges-filmen",
+        "year": 1927,
+        "fromnb": "Norges-filmen (1927, Tanced Ibsen)"
+    },
+    "http://www.imdb.com/title/tt0018460/": {
+        "available": "yes",
+        "title": "Syv dager for Elisabeth",
+        "year": 1927,
+        "fromnb": "Syv dage for Elisabeth (1927, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0018508/": {
+        "available": "yes",
+        "title": "Troll-Elgen",
+        "year": 1927,
+        "fromnb": "Troll-elgen (1927, Walter Fürst) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0018688/": {
+        "available": "yes",
+        "title": "Bergenstoget plyndret inatt",
+        "year": 1928,
+        "fromnb": "Bergenstoget plyndret i natt (1928, Uwe Jens Krafft) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0018738/": {
+        "available": "yes",
+        "title": "Cafe X",
+        "vernetid": 135,
+        "year": 1928,
+        "fromnb": "Café X (1928, Walter Fürst) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0019531/": {
+        "available": "yes",
+        "title": "Viddenes folk",
+        "year": 1928,
+        "fromnb": "Viddenes folk (1928, Ragnar Westfelt) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017975/": {
+        "available": "unknown",
+        "title": "Rough Riders",
+        "year": 1928,
+        "fromnb": "Rough riders (1928) - Finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1019896/": {
+        "available": "yes",
+        "title": "Chefens cigarett",
+        "year": 1928,
+        "fromnb": "Chefens cigaretter - Reklame for Luxor cigaretter. (1928, Ottar Gladtvet) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1018004/": {
+        "available": "unknown",
+        "title": "Teddy fantasier IV",
+        "year": 1928,
+        "fromnb": "Teddy fantasier IV (1928) -Finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1002652/": {
+        "available": "yes",
+        "title": "Skj\u00e6bnen",
+        "year": 1928,
+        "fromnb": "Skjæbnen - Reklamefilm for PARBA barbersåpe. (1928, Thomas W. Schwartz) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0020378/": {
+        "available": "yes",
+        "title": "Se Norge",
+        "year": 1929,
+        "fromnb": "Se Norge : Midnatsolens land (1929, Gustav Lund) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0020384/": {
+        "available": "yes",
+        "title": "Selvigs Norgesfilm",
+        "year": 1929,
+        "fromnb": "Norge, vårt Norge, i toner og billeder / Selvigs Norgesfilm (1929, Lyder Selvig) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0019899/": {
+        "available": "yes",
+        "title": "Fra Chr. Michelsen til Kronprins Olav og Prinsesse Martha",
+        "year": 1929,
+        "fromnb": "Fra Christian Michelsen til Kronprinsparet : Norsk Filmjubileumsrevy 1904-1929 (1929) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0020075/": {
+        "available": "yes",
+        "title": "Laila",
+        "year": 1929,
+        "fromnb": "Laila (1929, George Schnéevoigt) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0020861/": {
+        "available": "yes",
+        "title": "Eskimo",
+        "year": 1930,
+        "fromnb": "Eskimo (1930, George Schnéevoigt) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0021158/": {
+        "available": "yes",
+        "title": "Mot ukjent land",
+        "year": 1930,
+        "fromnb": "Mot ukjent land : Norvegia-ekspedisjonen 1929-1930 (1930) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0021033/": {
+        "available": "yes",
+        "title": "Kristine Valdresdatter",
+        "year": 1930,
+        "fromnb": "Kristine Valdresdatter (1930, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347020/": {
+        "available": "yes",
+        "title": "Fra sneblokaden p\u00e5 h\u00f8ifjeldet",
+        "year": 1930,
+        "fromnb": "Fra sneblokaden på höifjeldet (Bergensbanen) ; Bergensbanens høifjell (1930) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017973/": {
+        "available": "unknown",
+        "title": "Ro-ro til fiskeskj\u00e6r",
+        "year": 1930,
+        "fromnb": "Ro-ro til fiskeskjær (1930) - Finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1017904/": {
+        "available": "yes",
+        "title": "Det er natt",
+        "year": 1930,
+        "fromnb": "Det er natt - Reklamefilm (1930) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0021158/": {
+        "available": "yes",
+        "title": "Mot ukjent land",
+        "year": 1930,
+        "fromnb": "Mot ukjent land : Norvegia-ekspedisjonen 1929-1930 (1930) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0021913/": {
+        "available": "yes",
+        "title": "Glimt fra New York og den Norske koloni",
+        "year": 1931,
+        "fromnb": "Glimt fra New York og den norske koloni (1931) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0022434/": {
+        "available": "yes",
+        "title": "Den store barned\u00e5pen",
+        "year": 1931,
+        "fromnb": "Den store barnedåpen (1931, Tancred Ibsen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347721/": {
+        "available": "yes",
+        "title": "Over Besseggen p\u00e5 motorcykel",
+        "year": 1930,
+        "fromnb": "Over Besseggen på motorcykkel - Reklamefilm fra serien Tiedemanns naturfilm. (1932) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0023355/": {
+        "available": "yes",
+        "title": "Prinsessen som ingen kunne m\u00e5lbinde",
+        "year": 1932,
+        "fromnb": "Prinsessen som ingen kunde målbinde (1932, Walter Fürst) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0022878/": {
+        "available": "yes",
+        "title": "Fantegutten",
+        "year": 1932,
+        "fromnb": "Fantegutten (1932, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0022946/": {
+        "available": "yes",
+        "title": "En glad gutt",
+        "year": 1932,
+        "fromnb": "En glad gutt (1932, John W. Brunius) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0023112/": {
+        "available": "yes",
+        "title": "Lalla vinner!",
+        "year": 1932,
+        "fromnb": "Lalla vinner! (1932, George Schnéevoigt og Erling Bergendahl) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0023483/": {
+        "available": "no",
+        "title": "Skj\u00e6rg\u00e5rdsflirt",
+        "year": 1932,
+        "fromnb": "Skjærgårdflirt (1932, Rasmus Breistein)"
+    },
+    "http://www.imdb.com/title/tt0024729/": {
+        "available": "no",
+        "title": "Vi som g\u00e5r kj\u00f8kkenveien",
+        "year": 1933,
+        "fromnb": "Vi som går kjøkkenveien (1933, Tancred Ibsen)"
+    },
+    "http://www.imdb.com/title/tt0024164/": {
+        "available": "no",
+        "title": "I kongens kl\u00e6r",
+        "year": 1933,
+        "fromnb": "I Kongens klær (1933, Finn Myklegård)"
+    },
+    "http://www.imdb.com/title/tt0024194/": {
+        "available": "yes",
+        "title": "Jeppe p\u00e5 bjerget",
+        "vernetid": 136,
+        "year": 1933,
+        "fromnb": "Jeppe paa Bjerget (1933, Harry Ivarson og Per Aabel) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0025604/": {
+        "available": "yes",
+        "title": "Op med hodet!",
+        "year": 1933,
+        "fromnb": "Op med hodet (1934, Tancred Ibsen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0025852/": {
+        "available": "yes",
+        "title": "Syndere i sommersol",
+        "year": 1934,
+        "fromnb": "Syndere i sommersol (1934, Einar Sissener) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0025743/": {
+        "available": "yes",
+        "title": "Sangen om Rondane",
+        "year": 1934,
+        "fromnb": "Sangen om Rondane (1934, Helge Lunde) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1002628/": {
+        "available": "yes",
+        "title": "Den lystige radio-trio",
+        "year": 1934,
+        "fromnb": "Den lystige radiotrio - Reklamefilm (1934) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1007963/": {
+        "available": "unknown",
+        "title": "Eventyret om de tre bukkene bruse",
+        "year": 1934,
+        "fromnb": "Eventyret om de tre bukkene Bruse (1934) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1017966/": {
+        "available": "unknown",
+        "title": "P\u00e5l sine h\u00f8ner",
+        "year": 1934,
+        "fromnb": "Pål sine høner (1934) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt0025412/": {
+        "available": "yes",
+        "title": "Liv",
+        "year": 1934,
+        "fromnb": "Liv (1934, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0268411/": {
+        "available": "yes",
+        "title": "Kronprinsparets reise i Nord Norge",
+        "year": 1935,
+        "fromnb": "Kronprinsparets reise til Nord-Norge (1934) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0026965/": {
+        "available": "yes",
+        "title": "Samhold m\u00e5 til",
+        "year": 1935,
+        "fromnb": "Samhold må til (1935, Olav Dalgard) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0026298/": {
+        "available": "yes",
+        "title": "Du har lovet mig en kone!",
+        "year": 1935,
+        "fromnb": "Du har lovet mig en kone! (1935, Einar Sissener, teknisk regi: Tancred Ibsen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1017998/": {
+        "available": "yes",
+        "title": "Stormangrep",
+        "year": 1935,
+        "fromnb": "Stormangrep - Reklame for ved og kull fra Bergens Kulkompani. (ca. 1935) -Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0347215/": {
+        "available": "yes",
+        "title": "Hvor isbj\u00f8rnen ferdes",
+        "year": 1935,
+        "fromnb": "Hvor isbjørnen ferdes (ca. 1936) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0028040/": {
+        "available": "yes",
+        "title": "Norge for folket",
+        "year": 1936,
+        "fromnb": "Norge for folket (1936, Helge Lunde) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0028462/": {
+        "available": "yes",
+        "title": "Vi bygger landet",
+        "year": 1936,
+        "fromnb": "Vi bygger landet (1936, Olav Dalgard) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0028463/": {
+        "available": "yes",
+        "title": "Vi vil oss et land...",
+        "year": 1936,
+        "fromnb": "\"Vi vil oss et land...\" : Høires valgfilm 1936 (1936, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0027982/": {
+        "available": "yes",
+        "title": "Morderen uten ansikt",
+        "year": 1936,
+        "fromnb": "Morderen uten ansikt (1936, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1002762/": {
+        "available": "yes",
+        "title": "En fargesymfoni i bl\u00e5tt",
+        "year": 1936,
+        "fromnb": "Farvesymfoni i blått - Reklame for Medina sigaretter (1936, Oskar Fischinger) - Nb har materiale"
+    },
+    "unknown-dyrk-jorden": {
+        "available": "yes",
+        "title": "Dyrk Jorden!",
+        "year": 1936,
+        "fromnb": "Dyrk jorden! (1936, Alf Rød) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1002617/": {
+        "available": "yes",
+        "title": "Kalifens hemmelighet",
+        "year": 1938,
+        "fromnb": "Kalifens Hemmelighet : Et orientalsk eventyr - Reklame for J. L. Tiedemanns Medina sigaretter (1936) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1019937/": {
+        "available": "unknown",
+        "title": "Et mesterverk",
+        "year": 1937,
+        "fromnb": "Et mesterverk (1937) - finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt0028423/": {
+        "available": "yes",
+        "title": "To levende og en d\u00f8d",
+        "year": 1937,
+        "fromnb": "To levende og en død (1937, Tancred Ibsen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0028673/": {
+        "available": "yes",
+        "title": "By og land hand i hand",
+        "year": 1937,
+        "fromnb": "By og land hand i hand (1937, Olav Dalgard) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0028658/": {
+        "available": "yes",
+        "title": "Bra mennesker",
+        "year": 1937,
+        "fromnb": "Bra mennesker (1937, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0028852/": {
+        "available": "yes",
+        "title": "Fant",
+        "year": 1937,
+        "fromnb": "Fant (1937, Tancred Ibsen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0030084/": {
+        "available": "yes",
+        "title": "Det dr\u00f8nner gjennom dalen",
+        "year": 1938,
+        "fromnb": "Det drønner gjennom dalen (1937, Olav Dalgard) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt1007975/": {
+        "available": "unknown",
+        "title": "En Harmony",
+        "year": 1938,
+        "fromnb": "En harmony (1938) - Finnes ikke i Nasjonalbibliotekets database"
+    },
+    "http://www.imdb.com/title/tt1002651/": {
+        "available": "yes",
+        "title": "Sjakk matt",
+        "year": 1938,
+        "fromnb": "Sjakk-matt - Reklamefilm for Tiedemanns tobakk, Sorte Mand sigarer. (1938, Hans Fischerkösen) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0030912/": {
+        "available": "yes",
+        "title": "Ungen",
+        "year": 1938,
+        "fromnb": "Ungen (1938, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0030356/": {
+        "available": "yes",
+        "title": "Lenkene brytes",
+        "year": 1938,
+        "fromnb": "Lenkene brytes (1938, Olav Dalgard) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0030099/": {
+        "available": "yes",
+        "title": "Eli Sjursdotter",
+        "year": 1938,
+        "fromnb": "Eli Sjursdotter (1938, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0030510/": {
+        "available": "yes",
+        "title": "Norge - et dikt i billeder",
+        "year": 1938,
+        "fromnb": "Norge : et dikt i billeder (1938, Julius Sandmeier) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0029958/": {
+        "available": "yes",
+        "title": "B\u00f8r B\u00f8rson Jr.",
+        "year": 1938,
+        "fromnb": "Bør Børson jr. (1938, Toralf Sandø og Knut Hergel) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0031291/": {
+        "available": "yes",
+        "title": "Familien p\u00e5 Borgan",
+        "year": 1939,
+        "fromnb": "Familien på Borgan (1939, Helge Lunde) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0032095/": {
+        "available": "yes",
+        "title": "De vergel\u00f8se",
+        "year": 1939,
+        "fromnb": "De vergeløse (1939, Leif Sinding) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0031395/": {
+        "available": "yes",
+        "title": "Gryr i Norden",
+        "vernetid": 111,
+        "year": 1939,
+        "fromnb": "Gryr i Norden (1939, Olav Dalgard) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0032036/": {
+        "available": "yes",
+        "title": "Til Vesterheimen",
+        "year": 1939,
+        "fromnb": "Til Vesterheimen : kronprinsparets reise i det norske Amerika (1939) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0031453/": {
+        "available": "yes",
+        "title": "Hu Dagmar",
+        "year": 1939,
+        "fromnb": "Hu Dagmar (1939, Rasmus Breistein) - Nb har materiale"
+    },
+    "http://www.imdb.com/title/tt0031373/": {
+        "available": "yes",
+        "title": "Gjest Baardsen",
+        "year": 1939,
+        "fromnb": "Gjest Baardsen (1939, Tancred Ibsen) - Nb har materiale"
+    }
+}

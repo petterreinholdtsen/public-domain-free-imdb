@@ -1,0 +1,41 @@
+{
+    "http://www.imdb.com/title/tt9237500/": {
+	"source": "https://www.filmarkivet.no/film/details.aspx?filmid=400160",
+        "title": "Roald Amundsens Sydpolsferd (1910-1912)",
+        "year": 1912,
+        "director": [
+            {
+		"imdb": "https://www.imdb.com/name/nm0025468/",
+                "name": "Roald Amundsen"
+            }
+        ]
+    },
+    "http://www.imdb.com/title/tt0016945/": {
+	"source": "https://www.nb.no/filmografi/show?id=791562",
+        "title": "Hallo! Amerika!",
+        "year": 1926,
+        "photo": [
+            {
+                "imdb": "http://www.imdb.com/name/nm0526168/",
+                "name": "Gustav Lund"
+            }
+        ]
+    },
+    "http://www.imdb.com/title/tt0032036/": {
+	"source": "https://www.nb.no/filmografi/show?id=13499",
+        "title": "Til Vesterheimen : kronprinsparets reise i det norske Amerika",
+        "year": 1939,
+        "photo": [
+            {
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "editing": [
+            {
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ]
+    }
+}

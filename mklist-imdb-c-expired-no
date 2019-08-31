@@ -30,6 +30,12 @@ thisyear = datetime.datetime.now().year
 # Make sure we only look up a person once per run
 personcache = {}
 
+# Is the movie available from the Norwegian National Library?
+nbstatus = {}
+
+# Information currently missing in IMDB
+extra = {}
+
 def loadinfo(path):
     with open(path, 'rt') as input:
         return json.load(input)
@@ -70,6 +76,7 @@ IMDB <title-URL>/fullcredits).
         for prefix, contributor in \
             [("Directed by", "director"),
              ("Cinematography by", "photo"),
+             ("Film Editing by", "editing"),
              ("Writing Credits", "creator"),
              ("Music by", "music")]:
             if  -1 != h.text_content().find(prefix):
@@ -101,6 +108,21 @@ def fetch_search_result(entries, urlbase, page):
             titleinfo['title'] = title
             if '' != year:
                 titleinfo['year'] = int(year)
+
+            if imdburl in extra:
+                for k in extra[imdburl]:
+                    if list == type(extra[imdburl][k]):
+                        for extrap in extra[imdburl][k]:
+                            info = fetch_person_info(extrap['imdb'])
+                            if k in titleinfo:
+                                for p in titleinfo[k]:
+                                    if info['imdb'] == p['imdb']:
+                                        found = true
+                                if not found:
+                                    titleinfo[k].append(info)
+                            else:
+                                titleinfo[k] = [info]
+
             lastdeath = 0
             # Note, the photographer is not considered here
             for c in ['director', 'creator', 'music']:
@@ -116,8 +138,14 @@ def fetch_search_result(entries, urlbase, page):
             else:
                 titleinfo['status'] = 'unknown'
             titleinfo['vernetid'] = titleinfo['yearexpire'] - year
+            available = " "
+            if imdburl in nbstatus:
+                for k in ('available', 'fromnb'):
+                    titleinfo[k] = nbstatus[imdburl][k]
+                if 'yes' == titleinfo['available']:
+                    available = "*"
             entries[imdburl] = titleinfo
-            print(u"%10s %s-%s (%s år) %s - %s" % (titleinfo['status'],
+            print(u"%s%10s %s-%s (%3d år) %s - %s" % (available, titleinfo['status'],
                                           year, titleinfo['yearexpire'], titleinfo['vernetid'],
                                           title, imdburl))
             #print titleinfo
@@ -137,7 +165,12 @@ def main():
     args = parser.parse_args()
     
     global personcache
-    personcache = loadinfo("author-deaths.json")
+    global personcache
+    personcache = loadinfo("no-author-deaths.json")
+    global nbstatus
+    nbstatus = loadinfo("no-movies-at-nb.json")
+    global extra
+    extra = loadinfo("no-imdb-extra-info.json")
     entries = {}
     # Oldest norwegian movie in IMDB is from 1907.  It is not a feature film
     start = 1907
