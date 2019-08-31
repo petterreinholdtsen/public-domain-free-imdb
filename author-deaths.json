@@ -23,6 +23,12 @@
 	"nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
 	"da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel"
     },
+    "http://www.imdb.com/name/nm1298207/": {
+        "born": 1877,
+        "dead": 1934,
+        "name": "Hans Ø. Berge",
+        "lokalhistoriewiki": "https://lokalhistoriewiki.no/wiki/Hans_%C3%98._Berge"
+    },
     "http://www.imdb.com/title/tt0347686/": {
         "name": "Sverre Halvorsen",
 	"dead": 1936,
