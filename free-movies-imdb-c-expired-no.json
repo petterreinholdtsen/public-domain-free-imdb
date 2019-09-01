@@ -3,6 +3,7 @@
         "creator": [
             {
                 "dead": 1949,
+                "imdb": "http://www.imdb.com/name/nm0704587/",
                 "name": "Pehr Qv\u00e6rnstr\u00f8m",
                 "wp": "https://sv.wikipedia.org/wiki/Pehr_Qv%C3%A6rnstr%C3%B8m"
             }
@@ -10,10 +11,13 @@
         "director": [
             {
                 "dead": 1949,
+                "imdb": "http://www.imdb.com/name/nm0704587/",
                 "name": "Pehr Qv\u00e6rnstr\u00f8m",
                 "wp": "https://sv.wikipedia.org/wiki/Pehr_Qv%C3%A6rnstr%C3%B8m"
             }
         ],
+        "fromnb": "Bondefangeri i Vaterland (1911, Pehr Qwernstr\u00f8m)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1954,
@@ -47,6 +51,8 @@
                 "name": "Alfred Lind"
             }
         ],
+        "fromnb": "D\u00e6monen (1911, Jens Christian Gundersen)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1959,
@@ -64,6 +70,7 @@
         "creator": [
             {
                 "dead": 1964,
+                "imdb": "http://www.imdb.com/name/nm0595713/",
                 "name": "Victor Mogens",
                 "wp": "https://en.wikipedia.org/wiki/Victor_Mogens"
             }
@@ -72,10 +79,13 @@
             {
                 "born": 1877,
                 "dead": 1963,
+                "imdb": "http://www.imdb.com/name/nm0736288/",
                 "name": "Halfdan Nobel Roede",
                 "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
             }
         ],
+        "fromnb": "Fattigdommens forbandelse (1911, Halfdan Nobel Roede)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Fattigdommens forbandelse",
         "vernetid": 123,
@@ -94,10 +104,13 @@
             {
                 "born": 1877,
                 "dead": 1963,
+                "imdb": "http://www.imdb.com/name/nm0736288/",
                 "name": "Halfdan Nobel Roede",
                 "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
             }
         ],
+        "fromnb": "Under forvandlingens lov eller Jo tykkere, jo bedre (1911, Halfdan Nobel Roede) - tiln\u00e6rmet komplett, Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Under forvandlingens lov",
         "vernetid": 122,
@@ -110,6 +123,7 @@
                 "birth": 1882,
                 "danskefilm": "https://danskefilm.dk/skuespiller.php?id=8684",
                 "dead": 1946,
+                "imdb": "http://www.imdb.com/name/nm0633478/",
                 "name": "Christian Nobel"
             }
         ],
@@ -117,10 +131,13 @@
             {
                 "born": 1877,
                 "dead": 1963,
+                "imdb": "http://www.imdb.com/name/nm0736288/",
                 "name": "Halfdan Nobel Roede",
                 "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
             }
         ],
+        "fromnb": "Alt for Norge (1911, Halfdan Nobel Roede)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Alt for Norge",
         "vernetid": 121,
@@ -133,6 +150,7 @@
                 "birth": 1852,
                 "da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel",
                 "dead": 1932,
+                "imdb": "http://www.imdb.com/name/nm0259235/",
                 "name": "Adam Eriksen",
                 "nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
                 "snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen"
@@ -143,14 +161,18 @@
                 "birth": 1852,
                 "da": "https://www.digitalarkivet.no/search/persons/advanced?from=&to=&firstname=Adam&lastname=Eriksen&birth_year_from=1850&birth_year_to=1853&birth_date=&birth_place=&domicile=&position=&event_year_from=&event_year_to=&event_date=&related_first_name=&related_last_name=&related_birth_year=&sort=rel",
                 "dead": 1932,
+                "imdb": "http://www.imdb.com/name/nm0259235/",
                 "name": "Adam Eriksen",
                 "nwif": "http://www.nordicwomeninfilm.com/solvejg-eriksen-en-outsider-i-norsk-filmbransje/",
                 "snl": "https://nkl.snl.no/Adam_Emanuel_Eriksen"
             }
         ],
+        "fromnb": "Anny - en gatepiges roman (1912, Adam Eriksen)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1931,
+                "imdb": "http://www.imdb.com/name/nm0084804/",
                 "name": "Olaf K. Bjerke",
                 "wp": "https://no.wikipedia.org/wiki/Olaf_K._Bjerke"
             }
@@ -166,10 +188,13 @@
             {
                 "born": 1877,
                 "dead": 1963,
+                "imdb": "http://www.imdb.com/name/nm0736288/",
                 "name": "Halfdan Nobel Roede",
                 "wp": "https://no.wikipedia.org/wiki/Halfdan_Nobel_Roede"
             }
         ],
+        "fromnb": "Hemmeligheden (1912, Halfdan Nobel Roede)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Hemmeligheden",
         "vernetid": 121,
@@ -191,6 +216,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Overfaldet paa postaapnerens datter eller Kampen om pengebrevet (1913, Ottar Gladtvet)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1962,
@@ -219,6 +246,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "De for\u00e6ldrel\u00f8se (1917, Peter Lykke-Seest og Oscar Gustafson)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1962,
@@ -247,6 +276,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "Unge hjerter (1917, Peter Lykke-Seest)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1962,
@@ -285,6 +316,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "En vinternat (1917, Peter Lykke-Seest og Oscar Gustafson)",
+        "inlibrary": "no",
         "photo": [
             {
                 "deathmissing": true,
@@ -313,6 +346,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "Lodsens datter (1918, Peter Lykke-Seest)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "Lodsens datter",
         "vernetid": 100,
@@ -334,6 +369,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Revolutionens datter (1918, Ottar Gladtvet) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1962,
@@ -362,6 +399,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "Vor tids helte (1918, Peter Lykke-Seest)",
+        "inlibrary": "no",
         "photo": [
             {
                 "deathmissing": true,
@@ -390,6 +429,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "Historien om en gut (1919, Peter Lykke-Seest) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "deathmissing": true,
@@ -418,6 +459,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "\u00c6resgjesten (1919, Peter Lykke-Seest)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "\u00c6resgjesten",
         "vernetid": 99,
@@ -444,6 +487,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Fante-Anne (1920, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -479,6 +524,8 @@
                 "name": "Gustav Adolf Olsen"
             }
         ],
+        "fromnb": "Kaksen paa \u00d8verland (1920, Gustav Adolf Olsen) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "deathmissing": true,
@@ -517,9 +564,12 @@
                 "name": "Gunnar Sommerfeldt"
             }
         ],
+        "fromnb": "Markens gr\u00f8de (1921, Gunnar Sommerfeldt) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1959,
+                "imdb": "http://www.imdb.com/name/nm0357165/",
                 "name": "Leif Halvorsen",
                 "wp": "https://no.wikipedia.org/wiki/Leif_Halvorsen"
             }
@@ -545,6 +595,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Felix (1921, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -578,6 +630,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Jomfru Trofast (1921, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -592,6 +646,8 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0012789/": {
+        "fromnb": "Under Polarkredsens himmel : Med Professor Holtedahls ekspedition til Novaja Semlja (1921, Reidar Lund)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "Under Polarkredsens himmel",
         "vernetid": 70,
@@ -606,6 +662,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Blant Syd-Amerikas urskovsindianere (1922, Ottar Gladtvet)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Blandt Syd-Amerikas urskovsindianere",
         "vernetid": 111,
@@ -620,6 +678,8 @@
                 "name": "Amund Rydland"
             }
         ],
+        "fromnb": "Farende folk (1922, Amund Rydland) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Farende folk",
         "vernetid": 115,
@@ -632,10 +692,13 @@
                 "born": 1878,
                 "comment": "Kilde: Den store illusjonen : filmbyr\u00e5enes historie, Forfatter: Disen, Ole H.P., Publisert: [Oslo] : Norske filmbyr\u00e5ers forening, 1997, ref epost p\u00e5 efn-listen fra Tord Akerb\u00e6k og sjekk i nb.no (side 61 har \u00e5rstallene).",
                 "dead": 1957,
+                "imdb": "http://www.imdb.com/name/nm0259254/",
                 "name": "Erling Eriksen",
                 "wp": "https://no.wikipedia.org/wiki/Erling_Eriksen"
             }
         ],
+        "fromnb": "Kj\u00e6rlighet paa pinde (1922, Erling Eriksen) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Kj\u00e6rlighet p\u00e5 pinde",
         "vernetid": 105,
@@ -662,6 +725,8 @@
                 "name": "Harald Schwenzen"
             }
         ],
+        "fromnb": "Pan (1922, Harald Schwenzen) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -683,25 +748,35 @@
     "http://www.imdb.com/title/tt0014267/": {
         "director": [
             {
-                "deathmissing": true,
+                "born": 1897,
+                "dead": 1978,
+                "duplicate": "http://www.imdb.com/name/nm0526233/",
+                "geni": "https://www.geni.com/people/Reidar-Lund/5372616860180035509",
                 "imdb": "http://www.imdb.com/name/nm0526377/",
-                "name": "Reidar Lunde"
+                "name": "Reidar Eugen Lund"
             }
         ],
+        "fromnb": "Med Roald Amundsens Nordpolekspedition til f\u00f8rste vinterkvarter (1923, Reidar Lund) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
-                "deathmissing": true,
+                "born": 1897,
+                "dead": 1978,
+                "duplicate": "http://www.imdb.com/name/nm0526233/",
+                "geni": "https://www.geni.com/people/Reidar-Lund/5372616860180035509",
                 "imdb": "http://www.imdb.com/name/nm0526377/",
-                "name": "Reidar Lunde"
+                "name": "Reidar Eugen Lund"
             }
         ],
-        "status": "candidate",
+        "status": "unknown",
         "title": "Med Roald Amundsens Nordpolsekspedition til f\u00f8rste vinterkvarter",
-        "vernetid": 70,
+        "vernetid": 125,
         "year": 1923,
-        "yearexpire": 1993
+        "yearexpire": 2048
     },
     "http://www.imdb.com/title/tt0014318/": {
+        "fromnb": "Nordenfor Polarcirkelen (1923)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "Nordenfor polarcirkelen",
         "vernetid": 70,
@@ -709,6 +784,8 @@
         "yearexpire": 1993
     },
     "http://www.imdb.com/title/tt0014319/": {
+        "fromnb": "Norge - en skildring i 16 akter (1923) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Norge - en skildring i 6 akter",
         "vernetid": 70,
@@ -720,6 +797,7 @@
             {
                 "born": 1898,
                 "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0198215/",
                 "name": "O. Trygve Dalseg",
                 "wp": "https://en.wikipedia.org/wiki/Trygve_Dalseg"
             },
@@ -729,6 +807,8 @@
                 "name": "Gunnar Nilsen-Vig"
             }
         ],
+        "fromnb": "Strandhugg paa Kavringen (1923, O. Trygve Dalseg og Gunnar Nilsen-Vig)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Strandhugg p\u00e5 Kavringen",
         "vernetid": 134,
@@ -743,6 +823,8 @@
                 "name": "Harry Ivarson"
             }
         ],
+        "fromnb": "Til s\u00e6ters (1924, Harry Ivarson) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Til s\u00e6ters",
         "vernetid": 113,
@@ -757,6 +839,8 @@
                 "name": "Harry Ivarson"
             }
         ],
+        "fromnb": "Fager er Lien (1925, Harry Ivarson)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Fager er lien",
         "vernetid": 112,
@@ -783,6 +867,15 @@
                 "name": "Carl Theodor Dreyer"
             }
         ],
+        "editing": [
+            {
+                "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0003433/",
+                "name": "Carl Theodor Dreyer"
+            }
+        ],
+        "fromnb": "Glomdalsbruden (1925, Carl Th. Dreyer) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1966,
@@ -809,6 +902,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Himmeluret (1925, Amund Rydland og Leif Sinding) - bare et kort fragment er bevart, Nb har materiale",
+        "inlibrary": "fragment",
         "photo": [
             {
                 "dead": 1978,
@@ -823,6 +918,8 @@
         "yearexpire": 2055
     },
     "http://www.imdb.com/title/tt0016098/": {
+        "fromnb": "Med \u00abStavangerfjord\u00bb til Nordkap (1925)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "Med 'Stavangerfjord' til Nordkap",
         "vernetid": 70,
@@ -839,10 +936,13 @@
             {
                 "born": 1895,
                 "dead": 1927,
+                "imdb": "http://www.imdb.com/name/nm3116241/",
                 "name": "Oskar Omdal",
                 "wp": "https://en.wikipedia.org/wiki/Oskar_Omdal"
             }
         ],
+        "fromnb": "[Roald Amundsen, Ellsworth og Nobiles flyveekspedisjon (1926) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "deathmissing": true,
@@ -852,6 +952,7 @@
             {
                 "born": 1895,
                 "dead": 1927,
+                "imdb": "http://www.imdb.com/name/nm3116241/",
                 "name": "Oskar Omdal",
                 "wp": "https://en.wikipedia.org/wiki/Oskar_Omdal"
             }
@@ -872,6 +973,7 @@
             {
                 "born": 1894,
                 "dead": 1969,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
                 "name": "Alf R\u00f8d",
                 "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             },
@@ -888,6 +990,8 @@
                 "name": "George Schn\u00e9evoigt"
             }
         ],
+        "fromnb": "Baldevins bryllup (1926, George Schn\u00e9evoigt) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Baldevins bryllup",
         "vernetid": 113,
@@ -914,6 +1018,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Brudeferden i Hardanger (1926, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -928,6 +1034,15 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0016945/": {
+        "fromnb": "Hallo! Amerika! (1926)",
+        "inlibrary": "no",
+        "photo": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0526168/",
+                "name": "Gustav Lund"
+            }
+        ],
         "status": "candidate",
         "title": "Hallo! Amerika!",
         "vernetid": 70,
@@ -935,6 +1050,8 @@
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt0017090/": {
+        "fromnb": "Luftskibet \u00abNorge\u00bbs flugt over Polhavet (1926) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Luftskibet 'Norge's flugt over polhavet",
         "vernetid": 70,
@@ -942,6 +1059,8 @@
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt0017129/": {
+        "fromnb": "Med \u00abMaud\u00bb over Polhavet : Roald Amundsens ekspedition 1922-1925 (1926) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Med 'Maud' over Polhavet",
         "vernetid": 70,
@@ -956,6 +1075,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Den nye lensmanden (1926, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Den nye lensmanden",
         "vernetid": 129,
@@ -963,6 +1084,8 @@
         "yearexpire": 2055
     },
     "http://www.imdb.com/title/tt0017241/": {
+        "fromnb": "Over Atlanterhavet og gjennem Amerika (1926)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "Over Atlanterhavet og gjennem Amerika",
         "vernetid": 70,
@@ -977,6 +1100,8 @@
                 "name": "Harry Ivarson"
             }
         ],
+        "fromnb": "Simen Mustr\u00f8ens besynderlige oplevelser (1926, Harry Ivarson)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Simen Mustr\u00f8ens besynderlige opplevelser",
         "vernetid": 111,
@@ -998,6 +1123,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Fjeldeventyret (1927, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Fjeldeventyret",
         "vernetid": 128,
@@ -1012,6 +1139,8 @@
                 "name": "Harry Ivarson"
             }
         ],
+        "fromnb": "Den glade enke i Trangvik (1927, Harry Ivarson) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1978,
@@ -1033,6 +1162,8 @@
                 "name": "Harry Ivarson"
             }
         ],
+        "fromnb": "Madame bes\u00f8ker Oslo (1927, Harry Ivarson) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -1054,6 +1185,8 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "Norges-filmen (1927, Tanced Ibsen)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Norges-filmen",
         "vernetid": 121,
@@ -1068,6 +1201,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Syv dage for Elisabeth (1927, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Syv dager for Elisabeth",
         "vernetid": 128,
@@ -1079,6 +1214,7 @@
             {
                 "born": 1894,
                 "dead": 1969,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
                 "name": "Alf R\u00f8d",
                 "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             }
@@ -1090,6 +1226,8 @@
                 "name": "Walter Fyrst"
             }
         ],
+        "fromnb": "Troll-elgen (1927, Walter F\u00fcrst) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1968,
@@ -1108,6 +1246,7 @@
             {
                 "comment": "Pseudonym for Nordahl Grieg og Nils Lie.  Lie d\u00f8de 1978.",
                 "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0422404/",
                 "name": "Jonathan Jerv",
                 "wp": "https://no.wikipedia.org/wiki/Bergenstoget_plyndret_i_natt",
                 "wplie": "https://no.wikipedia.org/wiki/Nils_Lie"
@@ -1115,6 +1254,7 @@
             {
                 "comment": "Pseudonym for Nordahl Grieg og Nils Lie.  Lie d\u00f8de 1978.",
                 "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0422404/",
                 "name": "Jonathan Jerv",
                 "wp": "https://no.wikipedia.org/wiki/Bergenstoget_plyndret_i_natt",
                 "wplie": "https://no.wikipedia.org/wiki/Nils_Lie"
@@ -1127,6 +1267,8 @@
                 "name": "Uwe Jens Krafft"
             }
         ],
+        "fromnb": "Bergenstoget plyndret i natt (1928, Uwe Jens Krafft) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1985,
@@ -1165,6 +1307,8 @@
                 "name": "Walter Fyrst"
             }
         ],
+        "fromnb": "Caf\u00e9 X (1928, Walter F\u00fcrst) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1961,
@@ -1198,6 +1342,8 @@
                 "name": "Ragnar Westfelt"
             }
         ],
+        "fromnb": "Viddenes folk (1928, Ragnar Westfelt) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1961,
@@ -1212,6 +1358,8 @@
         "yearexpire": 2038
     },
     "http://www.imdb.com/title/tt0019899/": {
+        "fromnb": "Fra Christian Michelsen til Kronprinsparet : Norsk Filmjubileumsrevy 1904-1929 (1929) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Fra Chr. Michelsen til Kronprins Olav og Prinsesse Martha",
         "vernetid": 70,
@@ -1238,6 +1386,8 @@
                 "name": "George Schn\u00e9evoigt"
             }
         ],
+        "fromnb": "Laila (1929, George Schn\u00e9evoigt) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -1271,6 +1421,8 @@
                 "name": "Gustav Lund"
             }
         ],
+        "fromnb": "Se Norge : Midnatsolens land (1929, Gustav Lund) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Se Norge",
         "vernetid": 70,
@@ -1280,16 +1432,20 @@
     "http://www.imdb.com/title/tt0020384/": {
         "director": [
             {
-                "deathmissing": true,
+                "born": 1892,
+                "dead": 1956,
+                "histreg": "http://histreg.no/index.php/searchresults?name=lyder&surname=selvig&kjonn=m&birthyearfrom=&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm0783605/",
                 "name": "Lyder Selvig"
             }
         ],
-        "status": "candidate",
+        "fromnb": "Norge, v\u00e5rt Norge, i toner og billeder / Selvigs Norgesfilm (1929, Lyder Selvig) - Nb har materiale",
+        "inlibrary": "yes",
+        "status": "unknown",
         "title": "Selvigs Norgesfilm",
-        "vernetid": 70,
+        "vernetid": 97,
         "year": 1929,
-        "yearexpire": 1999
+        "yearexpire": 2026
     },
     "http://www.imdb.com/title/tt0021033/": {
         "director": [
@@ -1299,9 +1455,12 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Kristine Valdresdatter (1930, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0630727/",
                 "name": "Adolf Kristoffer Nielsen",
                 "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
             }
@@ -1320,10 +1479,13 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0021158/": {
+        "fromnb": "Mot ukjent land : Norvegia-ekspedisjonen 1929-1930 (1930) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "born": 1890,
                 "dead": 1965,
+                "imdb": "http://www.imdb.com/name/nm0726887/",
                 "name": "Hjalmar Riiser-Larsen",
                 "wp": "https://en.wikipedia.org/wiki/Hjalmar_Riiser-Larsen"
             }
@@ -1335,6 +1497,8 @@
         "yearexpire": 2000
     },
     "http://www.imdb.com/title/tt0021913/": {
+        "fromnb": "Glimt fra New York og den norske koloni (1931) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Glimt fra New York og den Norske koloni",
         "vernetid": 70,
@@ -1361,6 +1525,8 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "Den store barned\u00e5pen (1931, Tancred Ibsen) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -1382,6 +1548,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Fantegutten (1932, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Fantegutten",
         "vernetid": 123,
@@ -1403,6 +1571,8 @@
                 "name": "John W. Brunius"
             }
         ],
+        "fromnb": "En glad gutt (1932, John W. Brunius) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1959,
@@ -1429,6 +1599,8 @@
                 "name": "George Schn\u00e9evoigt"
             }
         ],
+        "fromnb": "Lalla vinner! (1932, George Schn\u00e9evoigt og Erling Bergendahl) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1954,
@@ -1452,6 +1624,7 @@
             {
                 "born": 1894,
                 "dead": 1969,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
                 "name": "Alf R\u00f8d",
                 "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             }
@@ -1463,6 +1636,8 @@
                 "name": "Walter Fyrst"
             }
         ],
+        "fromnb": "Prinsessen som ingen kunde m\u00e5lbinde (1932, Walter F\u00fcrst) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1978,
@@ -1491,6 +1666,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Skj\u00e6rg\u00e5rdflirt (1932, Rasmus Breistein)",
+        "inlibrary": "no",
         "status": "unknown",
         "title": "Skj\u00e6rg\u00e5rdsflirt",
         "vernetid": 114,
@@ -1505,6 +1682,8 @@
                 "name": "Finn Mykleg\u00e5rd"
             }
         ],
+        "fromnb": "I Kongens kl\u00e6r (1933, Finn Mykleg\u00e5rd)",
+        "inlibrary": "no",
         "status": "candidate",
         "title": "I kongens kl\u00e6r",
         "vernetid": 70,
@@ -1531,6 +1710,8 @@
                 "name": "Harry Ivarson"
             }
         ],
+        "fromnb": "Jeppe paa Bjerget (1933, Harry Ivarson og Per Aabel) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Jeppe p\u00e5 bjerget",
         "vernetid": 136,
@@ -1572,6 +1753,8 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "Vi som g\u00e5r kj\u00f8kkenveien (1933, Tancred Ibsen)",
+        "inlibrary": "no",
         "music": [
             {
                 "dead": 1948,
@@ -1613,9 +1796,12 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Liv (1934, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0630727/",
                 "name": "Adolf Kristoffer Nielsen",
                 "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
             }
@@ -1641,6 +1827,8 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "Op med hodet (1934, Tancred Ibsen) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Op med hodet!",
         "vernetid": 115,
@@ -1655,6 +1843,8 @@
                 "name": "Helge Lunde"
             }
         ],
+        "fromnb": "Sangen om Rondane (1934, Helge Lunde) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -1690,10 +1880,13 @@
                 "name": "Einar Sissener"
             }
         ],
+        "fromnb": "Syndere i sommersol (1934, Einar Sissener) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "born": 1905,
                 "dead": 1977,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
                 "name": "Kristian Hauger",
                 "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             }
@@ -1724,6 +1917,8 @@
                 "name": "Einar Sissener"
             }
         ],
+        "fromnb": "Du har lovet mig en kone! (1935, Einar Sissener, teknisk regi: Tancred Ibsen) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -1767,6 +1962,8 @@
                 "name": "Olav Dalgard"
             }
         ],
+        "fromnb": "Samhold m\u00e5 til (1935, Olav Dalgard) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -1788,6 +1985,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Morderen uten ansikt (1936, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Morderen uten ansikt",
         "vernetid": 119,
@@ -1802,6 +2001,8 @@
                 "name": "Helge Lunde"
             }
         ],
+        "fromnb": "Norge for folket (1936, Helge Lunde) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Norge for folket",
         "vernetid": 121,
@@ -1833,6 +2034,8 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "To levende og en d\u00f8d (1937, Tancred Ibsen) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1961,
@@ -1868,6 +2071,8 @@
                 "name": "Olav Dalgard"
             }
         ],
+        "fromnb": "Vi bygger landet (1936, Olav Dalgard) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1978,
@@ -1884,16 +2089,20 @@
     "http://www.imdb.com/title/tt0028463/": {
         "director": [
             {
-                "deathmissing": true,
+                "born": 1905,
+                "dead": 1967,
+                "histreg": "http://histreg.no/index.php/searchresults?name=ernst&surname=ottersen&kjonn=m&birthyearfrom=1900&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm0653158/",
                 "name": "Ernst Ottersen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "\"Vi vil oss et land...\" : H\u00f8ires valgfilm 1936 (1936, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
+        "status": "unknown",
         "title": "Vi vil oss et land...",
-        "vernetid": 70,
+        "vernetid": 101,
         "year": 1936,
-        "yearexpire": 2006
+        "yearexpire": 2037
     },
     "http://www.imdb.com/title/tt0028658/": {
         "director": [
@@ -1903,6 +2112,8 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "Bra mennesker (1937, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Bra mennesker",
         "vernetid": 118,
@@ -1924,9 +2135,12 @@
                 "name": "Olav Dalgard"
             }
         ],
+        "fromnb": "By og land hand i hand (1937, Olav Dalgard) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             },
@@ -1962,6 +2176,8 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "Fant (1937, Tancred Ibsen) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -2002,10 +2218,13 @@
                 "name": "Knut Hergel"
             }
         ],
+        "fromnb": "B\u00f8r B\u00f8rson jr. (1938, Toralf Sand\u00f8 og Knut Hergel) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "born": 1905,
                 "dead": 1977,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
                 "name": "Kristian Hauger",
                 "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             }
@@ -2031,9 +2250,12 @@
                 "name": "Olav Dalgard"
             }
         ],
+        "fromnb": "Det dr\u00f8nner gjennom dalen (1937, Olav Dalgard) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2076,10 +2298,20 @@
                 "name": "Leif Sinding"
             }
         ],
+        "editing": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
+        "fromnb": "Eli Sjursdotter (1938, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "comment": "Ukjent d\u00f8ds\u00e5r, var i live 1953",
                 "dead": 1953,
+                "imdb": "http://www.imdb.com/name/nm0770531/",
                 "name": "Hans Scheib",
                 "wp": "https://de.wikipedia.org/wiki/Hans_Scheib_(Kameramann)"
             }
@@ -2105,9 +2337,12 @@
                 "name": "Olav Dalgard"
             }
         ],
+        "fromnb": "Lenkene brytes (1938, Olav Dalgard) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2140,11 +2375,22 @@
                 "name": "Julius Sandmeier"
             }
         ],
-        "music": [
+        "editing": [
             {
                 "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm2117383/",
+                "name": "Gussle Fichter"
+            }
+        ],
+        "fromnb": "Norge : et dikt i billeder (1938, Julius Sandmeier) - Nb har materiale",
+        "inlibrary": "yes",
+        "music": [
+            {
+                "born": 1902,
+                "dead": 1967,
                 "imdb": "http://www.imdb.com/name/nm1848512/",
-                "name": "Karl Eisele"
+                "name": "Karl Eisele",
+                "wp": "https://nds.wikipedia.org/wiki/Karl_Eisele"
             }
         ],
         "photo": [
@@ -2154,11 +2400,11 @@
                 "name": "Julius Sandmeier"
             }
         ],
-        "status": "candidate",
+        "status": "unknown",
         "title": "Norge - et dikt i billeder",
-        "vernetid": 73,
+        "vernetid": 99,
         "year": 1938,
-        "yearexpire": 2011
+        "yearexpire": 2037
     },
     "http://www.imdb.com/title/tt0030912/": {
         "creator": [
@@ -2175,6 +2421,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Ungen (1938, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -2210,9 +2458,12 @@
                 "name": "Helge Lunde"
             }
         ],
+        "fromnb": "Familien p\u00e5 Borgan (1939, Helge Lunde) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2245,9 +2496,12 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "fromnb": "Gjest Baardsen (1939, Tancred Ibsen) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0630727/",
                 "name": "Adolf Kristoffer Nielsen",
                 "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
             }
@@ -2285,9 +2539,12 @@
                 "name": "Olav Dalgard"
             }
         ],
+        "fromnb": "Gryr i Norden (1939, Olav Dalgard) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2325,6 +2582,8 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "fromnb": "Hu Dagmar (1939, Rasmus Breistein) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "deathmissing": true,
@@ -2333,6 +2592,7 @@
             },
             {
                 "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0630727/",
                 "name": "Adolf Kristoffer Nielsen",
                 "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
             }
@@ -2351,6 +2611,22 @@
         "yearexpire": 2046
     },
     "http://www.imdb.com/title/tt0032036/": {
+        "editing": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
+        "fromnb": "Til Vesterheimen : kronprinsparets reise i det norske Amerika (1939) - Nb har materiale",
+        "inlibrary": "yes",
+        "photo": [
+            {
+                "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0321652/",
+                "name": "Ottar Gladvedt"
+            }
+        ],
         "status": "candidate",
         "title": "Til Vesterheimen",
         "vernetid": 70,
@@ -2377,9 +2653,12 @@
                 "name": "Leif Sinding"
             }
         ],
+        "fromnb": "De vergel\u00f8se (1939, Leif Sinding) - Nb har materiale",
+        "inlibrary": "yes",
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2415,9 +2694,22 @@
                 "name": "G\u00f6sta Stevens"
             }
         ],
+        "editing": [
+            {
+                "dead": 1970,
+                "imdb": "http://www.imdb.com/name/nm0292910/",
+                "name": "Rudolf Frederiksen"
+            },
+            {
+                "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0526369/",
+                "name": "Helge Lunde"
+            }
+        ],
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2485,9 +2777,17 @@
                 "name": "Knut Hergel"
             }
         ],
+        "editing": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
         "music": [
             {
                 "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0630727/",
                 "name": "Adolf Kristoffer Nielsen",
                 "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
             }
@@ -2528,6 +2828,7 @@
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2591,9 +2892,17 @@
                 "name": "Toralf Sand\u00f8"
             }
         ],
+        "editing": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0257035/",
+                "name": "Olaf Engebretsen"
+            }
+        ],
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2631,9 +2940,17 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "editing": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
         "music": [
             {
                 "dead": 1960,
+                "imdb": "http://www.imdb.com/name/nm0630727/",
                 "name": "Adolf Kristoffer Nielsen",
                 "wp": "https://no.wikipedia.org/wiki/Adolf_Kristoffer_Nielsen"
             },
@@ -2671,6 +2988,7 @@
             {
                 "born": 1893,
                 "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
                 "name": "Finn B\u00f8",
                 "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             }
@@ -2708,6 +3026,7 @@
             {
                 "born": 1894,
                 "dead": 1969,
+                "imdb": "http://www.imdb.com/name/nm1258377/",
                 "name": "Alf R\u00f8d",
                 "wp": "https://no.wikipedia.org/wiki/Alf_R%C3%B8d"
             }
@@ -2719,9 +3038,17 @@
                 "name": "Leif Sinding"
             }
         ],
+        "editing": [
+            {
+                "dead": 1985,
+                "imdb": "http://www.imdb.com/name/nm0801805/",
+                "name": "Leif Sinding"
+            }
+        ],
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2803,6 +3130,7 @@
             {
                 "born": 1893,
                 "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
                 "name": "Finn B\u00f8",
                 "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             }
@@ -2814,15 +3142,24 @@
                 "name": "Alfred Maurstad"
             }
         ],
+        "editing": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
         "music": [
             {
                 "born": 1905,
                 "dead": 1977,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
                 "name": "Kristian Hauger",
                 "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             },
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2870,9 +3207,17 @@
                 "name": "Toralf Sand\u00f8"
             }
         ],
+        "editing": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0257035/",
+                "name": "Olaf Engebretsen"
+            }
+        ],
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -2913,6 +3258,13 @@
                 "dead": 1976,
                 "imdb": "http://www.imdb.com/name/nm0106950/",
                 "name": "Rasmus Breistein"
+            }
+        ],
+        "editing": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
             }
         ],
         "photo": [
@@ -3005,10 +3357,18 @@
                 "name": "Rasmus Breistein"
             }
         ],
+        "editing": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
         "music": [
             {
                 "born": 1905,
                 "dead": 1977,
+                "imdb": "http://www.imdb.com/name/nm0369325/",
                 "name": "Kristian Hauger",
                 "wp": "https://en.wikipedia.org/wiki/Kristian_Hauger"
             }
@@ -3054,6 +3414,7 @@
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -3199,6 +3560,13 @@
                 "name": "Alexey Zaitzow"
             }
         ],
+        "editing": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0526233/",
+                "name": "Reidar Lund"
+            }
+        ],
         "photo": [
             {
                 "deathmissing": true,
@@ -3326,6 +3694,13 @@
                 "name": "Tancred Ibsen"
             }
         ],
+        "editing": [
+            {
+                "dead": 1978,
+                "imdb": "http://www.imdb.com/name/nm0406591/",
+                "name": "Tancred Ibsen"
+            }
+        ],
         "music": [
             {
                 "dead": 1991,
@@ -3376,6 +3751,13 @@
                 "name": "Titus Vibe-M\u00fcller"
             }
         ],
+        "editing": [
+            {
+                "dead": 1996,
+                "imdb": "http://www.imdb.com/name/nm0275514/",
+                "name": "Jean Feyte"
+            }
+        ],
         "music": [
             {
                 "dead": 1991,
@@ -3405,10 +3787,13 @@
         "director": [
             {
                 "dead": 1939,
+                "imdb": "http://www.imdb.com/name/nm0379338/",
                 "name": "Hugo Hermansen",
                 "wp": "https://no.wikipedia.org/wiki/Hugo_Hermansen"
             }
         ],
+        "fromnb": "Fiskerlivets farer eller Er drama paa havet ( ca 1908) - tapt",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1961,
@@ -3438,6 +3823,7 @@
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -3472,6 +3858,7 @@
             {
                 "born": 1893,
                 "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
                 "name": "Finn B\u00f8",
                 "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             },
@@ -3576,6 +3963,13 @@
                 "name": "Nils R. M\u00fcller"
             }
         ],
+        "editing": [
+            {
+                "dead": 1986,
+                "imdb": "http://www.imdb.com/name/nm0618321/",
+                "name": "Titus Vibe-M\u00fcller"
+            }
+        ],
         "music": [
             {
                 "dead": 1980,
@@ -3639,25 +4033,31 @@
     "http://www.imdb.com/title/tt0266601/": {
         "creator": [
             {
-                "deathmissing": true,
+                "born": 1892,
+                "dead": 1956,
+                "histreg": "http://histreg.no/index.php/searchresults?name=lyder&surname=selvig&kjonn=m&birthyearfrom=&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm0783605/",
                 "name": "Lyder Selvig"
             }
         ],
         "director": [
             {
-                "deathmissing": true,
+                "born": 1892,
+                "dead": 1956,
+                "histreg": "http://histreg.no/index.php/searchresults?name=lyder&surname=selvig&kjonn=m&birthyearfrom=&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm0783605/",
                 "name": "Lyder Selvig"
             }
         ],
-        "status": "candidate",
+        "status": "unknown",
         "title": "Det grodde fram",
-        "vernetid": 70,
+        "vernetid": 79,
         "year": 1947,
-        "yearexpire": 2017
+        "yearexpire": 2026
     },
     "http://www.imdb.com/title/tt0268411/": {
+        "fromnb": "Kronprinsparets reise til Nord-Norge (1934) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Kronprinsparets reise i Nord Norge",
         "vernetid": 70,
@@ -3669,6 +4069,7 @@
             {
                 "born": 1893,
                 "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
                 "name": "Finn B\u00f8",
                 "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             }
@@ -3677,6 +4078,7 @@
             {
                 "born": 1893,
                 "dead": 1962,
+                "imdb": "http://www.imdb.com/name/nm0127190/",
                 "name": "Finn B\u00f8",
                 "wp": "https://en.wikipedia.org/wiki/Finn_Bo"
             },
@@ -3848,11 +4250,15 @@
                 "name": "Ola Cornelius"
             }
         ],
+        "fromnb": "Fanden i n\u00f8tten (1917, Ola Cornelius) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
-                "deathmissing": true,
+                "born": 1877,
+                "dead": 1934,
                 "imdb": "http://www.imdb.com/name/nm1298207/",
-                "name": "Hans Berge"
+                "lokalhistoriewiki": "https://lokalhistoriewiki.no/wiki/Hans_%C3%98._Berge",
+                "name": "Hans \u00d8. Berge"
             }
         ],
         "status": "candidate",
@@ -3869,6 +4275,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Fra sneblokaden p\u00e5 h\u00f6ifjeldet (Bergensbanen) ; Bergensbanens h\u00f8ifjell (1930) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Fra sneblokaden p\u00e5 h\u00f8ifjeldet",
         "vernetid": 102,
@@ -3878,23 +4286,29 @@
     "http://www.imdb.com/title/tt0347215/": {
         "director": [
             {
-                "deathmissing": true,
+                "born": 1873,
+                "dead": 1953,
                 "imdb": "http://www.imdb.com/name/nm1300061/",
-                "name": "Thor Iversen"
+                "name": "Thor Iversen",
+                "wp": "https://no.wikipedia.org/wiki/Thor_Iversen"
             }
         ],
+        "fromnb": "Hvor isbj\u00f8rnen ferdes (ca. 1936) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
-                "deathmissing": true,
+                "born": 1873,
+                "dead": 1953,
                 "imdb": "http://www.imdb.com/name/nm1300061/",
-                "name": "Thor Iversen"
+                "name": "Thor Iversen",
+                "wp": "https://no.wikipedia.org/wiki/Thor_Iversen"
             }
         ],
-        "status": "candidate",
+        "status": "unknown",
         "title": "Hvor isbj\u00f8rnen ferdes",
-        "vernetid": 70,
+        "vernetid": 88,
         "year": 1935,
-        "yearexpire": 2005
+        "yearexpire": 2023
     },
     "http://www.imdb.com/title/tt0347596/": {
         "director": [
@@ -3904,6 +4318,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Det mystiske kj\u00f8kken eller Noget at gl\u00e6de sig til - Reklamefilm for Lilleborgs \"Nordlys s\u00e6pekorn\". (ca. 1927, Ottar Gladtvet) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Det mystiske kj\u00f8kken (noget at gl\u00e6de seg til)",
         "vernetid": 105,
@@ -3911,6 +4327,8 @@
         "yearexpire": 2032
     },
     "http://www.imdb.com/title/tt0347601/": {
+        "fromnb": "[NSB : Bergensbanen 1909] (1909) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "NSB Bergensbanen 1909",
         "vernetid": 70,
@@ -3922,10 +4340,13 @@
             {
                 "born": 1891,
                 "dead": 1936,
+                "imdb": "http://www.imdb.com/name/nm1299757/",
                 "name": "Sverre Halvorsen",
                 "wp": "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
             }
         ],
+        "fromnb": "Det nye \u00e5r? - kortfilm (1921) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "photo": [
             {
                 "dead": 1962,
@@ -3940,6 +4361,8 @@
         "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt0347721/": {
+        "fromnb": "Over Besseggen p\u00e5 motorcykkel - Reklamefilm fra serien Tiedemanns naturfilm. (1932) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Over Besseggen p\u00e5 motorcykel",
         "vernetid": 70,
@@ -3954,6 +4377,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Raumabanen. Norges nyeste turistbane (ca 1925) -Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "dead": 1962,
@@ -3972,15 +4397,20 @@
             {
                 "born": 1891,
                 "dead": 1936,
+                "imdb": "http://www.imdb.com/name/nm1299757/",
                 "name": "Sverre Halvorsen",
                 "wp": "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
             }
         ],
+        "fromnb": "Den tredje Fram ekspedition til Sydpolen / Roald Amundsen p\u00e5 Sydpolen 1911 (1910) -Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
-                "deathmissing": true,
+                "born": 1877,
+                "dead": 1934,
                 "imdb": "http://www.imdb.com/name/nm1298207/",
-                "name": "Hans Berge"
+                "lokalhistoriewiki": "https://lokalhistoriewiki.no/wiki/Hans_%C3%98._Berge",
+                "name": "Hans \u00d8. Berge"
             }
         ],
         "status": "candidate",
@@ -3992,7 +4422,9 @@
     "http://www.imdb.com/title/tt0351458/": {
         "director": [
             {
-                "deathmissing": true,
+                "born": 1892,
+                "dead": 1956,
+                "histreg": "http://histreg.no/index.php/searchresults?name=lyder&surname=selvig&kjonn=m&birthyearfrom=&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm0783605/",
                 "name": "Lyder Selvig"
             }
@@ -4004,11 +4436,11 @@
                 "name": "Paul Berge"
             }
         ],
-        "status": "candidate",
+        "status": "unknown",
         "title": "Norge, v\u00e5rt Norge i toner og bilder",
-        "vernetid": 70,
+        "vernetid": 97,
         "year": 1929,
-        "yearexpire": 1999
+        "yearexpire": 2026
     },
     "http://www.imdb.com/title/tt0382852/": {
         "director": [
@@ -4018,6 +4450,8 @@
                 "name": "Peter Lykke-Seest"
             }
         ],
+        "fromnb": "Historien omen moder (1912, Halfdan Nobel Rode)",
+        "inlibrary": "no",
         "photo": [
             {
                 "dead": 1959,
@@ -4044,6 +4478,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "Fiinbeck er r\u00f8mt - Reklamefilm for Tiedemanns Mixture. Animasjonsfilm (ca. 1927, Ottar Gladtvet) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Fiinbeck er r\u00f8mt",
         "vernetid": 105,
@@ -4063,6 +4499,8 @@
                 "name": "Desider Gross"
             }
         ],
+        "fromnb": "Kalifens Hemmelighet : Et orientalsk eventyr - Reklame for J. L. Tiedemanns Medina sigaretter (1936) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Kalifens hemmelighet",
         "vernetid": 105,
@@ -4070,6 +4508,8 @@
         "yearexpire": 2043
     },
     "http://www.imdb.com/title/tt1002628/": {
+        "fromnb": "Den lystige radiotrio - Reklamefilm (1934) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Den lystige radio-trio",
         "vernetid": 70,
@@ -4084,6 +4524,8 @@
                 "name": "Hans Fischerkoesen"
             }
         ],
+        "fromnb": "Sjakk-matt - Reklamefilm for Tiedemanns tobakk, Sorte Mand sigarer. (1938, Hans Fischerk\u00f6sen) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Sjakk matt",
         "vernetid": 105,
@@ -4098,6 +4540,8 @@
                 "name": "Thomas W. Schwartz"
             }
         ],
+        "fromnb": "Skj\u00e6bnen - Reklamefilm for PARBA barbers\u00e5pe. (1928, Thomas W. Schwartz) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Skj\u00e6bnen",
         "vernetid": 70,
@@ -4105,6 +4549,8 @@
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1002762/": {
+        "fromnb": "Farvesymfoni i bl\u00e5tt - Reklame for Medina sigaretter (1936, Oskar Fischinger) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "En fargesymfoni i bl\u00e5tt",
         "vernetid": 70,
@@ -4112,6 +4558,8 @@
         "yearexpire": 2006
     },
     "http://www.imdb.com/title/tt1007963/": {
+        "fromnb": "Eventyret om de tre bukkene Bruse (1934) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "Eventyret om de tre bukkene bruse",
         "vernetid": 70,
@@ -4126,6 +4574,8 @@
                 "name": "Desider Gross"
             }
         ],
+        "fromnb": "En harmony (1938) - Finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "En Harmony",
         "vernetid": 70,
@@ -4140,6 +4590,8 @@
                 "name": "Robert Storm Petersen"
             }
         ],
+        "fromnb": "[Mustads Mono] : Reklame for \"Mono\" margarin fra O. Mustad & S\u00f8ns Margarinfabrikk. (ca.1925) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Mustads Mono",
         "vernetid": 99,
@@ -4154,6 +4606,8 @@
                 "name": "Walter Fyrst"
             }
         ],
+        "fromnb": "[Teddy : kj\u00f8returen] / [Teddy paa biltur] - Animasjonsfilm/tegnefilmreklame for Tiedemanns Teddy sigaretter. (ca. 1925) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Teddy paa biltur",
         "vernetid": 136,
@@ -4168,6 +4622,8 @@
         "yearexpire": 1996
     },
     "http://www.imdb.com/title/tt1017904/": {
+        "fromnb": "Det er natt - Reklamefilm (1930) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Det er natt",
         "vernetid": 70,
@@ -4177,16 +4633,19 @@
     "http://www.imdb.com/title/tt1017908/": {
         "director": [
             {
-                "deathmissing": true,
+                "dead": 1981,
+                "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm2622251/",
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "Dj\u00e6velen i knipe (1927) -finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
+        "status": "unknown",
         "title": "Dj\u00e6velen i knipe",
-        "vernetid": 70,
+        "vernetid": 124,
         "year": 1927,
-        "yearexpire": 1997
+        "yearexpire": 2051
     },
     "http://www.imdb.com/title/tt1017948/": {
         "director": [
@@ -4196,6 +4655,8 @@
                 "name": "Ottar Gladvedt"
             }
         ],
+        "fromnb": "[Luna s\u00e6pen] Reklamefilm for LUNA s\u00e6pe fra Lilleborg. (ca. 1927) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Luna s\u00e6pen",
         "vernetid": 105,
@@ -4205,18 +4666,23 @@
     "http://www.imdb.com/title/tt1017959/": {
         "director": [
             {
-                "deathmissing": true,
+                "dead": 1981,
+                "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm2622251/",
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "N\u00f8klen til den syvende himmel (1927) -finnes ikke i Nasjonalbiblioteket",
+        "inlibrary": "unknown",
+        "status": "unknown",
         "title": "N\u00f8klen til den syvende himmel",
-        "vernetid": 70,
+        "vernetid": 124,
         "year": 1927,
-        "yearexpire": 1997
+        "yearexpire": 2051
     },
     "http://www.imdb.com/title/tt1017966/": {
+        "fromnb": "P\u00e5l sine h\u00f8ner (1934) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "P\u00e5l sine h\u00f8ner",
         "vernetid": 70,
@@ -4228,10 +4694,13 @@
             {
                 "born": 1898,
                 "dead": 1987,
+                "imdb": "http://www.imdb.com/name/nm0198215/",
                 "name": "O. Trygve Dalseg",
                 "wp": "https://en.wikipedia.org/wiki/Trygve_Dalseg"
             }
         ],
+        "fromnb": "[REX-jernet] - reklamefilm (ca. 1925) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "unknown",
         "title": "Rex strykejern",
         "vernetid": 133,
@@ -4239,6 +4708,8 @@
         "yearexpire": 2057
     },
     "http://www.imdb.com/title/tt1017973/": {
+        "fromnb": "Ro-ro til fiskeskj\u00e6r (1930) - Finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "Ro-ro til fiskeskj\u00e6r",
         "vernetid": 70,
@@ -4248,18 +4719,23 @@
     "http://www.imdb.com/title/tt1017975/": {
         "director": [
             {
-                "deathmissing": true,
+                "dead": 1981,
+                "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm2622251/",
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "Rough riders (1928) - Finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
+        "status": "unknown",
         "title": "Rough Riders",
-        "vernetid": 70,
+        "vernetid": 123,
         "year": 1928,
-        "yearexpire": 1998
+        "yearexpire": 2051
     },
     "http://www.imdb.com/title/tt1017979/": {
+        "fromnb": "R\u00f8d sultan (1927) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "R\u00f8d sultan",
         "vernetid": 70,
@@ -4267,6 +4743,8 @@
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017997/": {
+        "fromnb": "Hvad bringer han vel den s\u00e6lsomme mann? Den store sultan p\u00e5 Karl Johan? / Den store sultan i Oslo (ca. 1927, Ottar Gladtvet) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Den store sultan",
         "vernetid": 70,
@@ -4274,6 +4752,8 @@
         "yearexpire": 1997
     },
     "http://www.imdb.com/title/tt1017998/": {
+        "fromnb": "Stormangrep - Reklame for ved og kull fra Bergens Kulkompani. (ca. 1935) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Stormangrep",
         "vernetid": 70,
@@ -4288,6 +4768,8 @@
                 "name": "Knut Spange"
             }
         ],
+        "fromnb": "S\u00f8ndagsfiskeren Flag (1927) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "S\u00f8ndagsfiskeren Flag",
         "vernetid": 70,
@@ -4297,44 +4779,53 @@
     "http://www.imdb.com/title/tt1018003/": {
         "director": [
             {
-                "deathmissing": true,
+                "dead": 1981,
+                "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm2622251/",
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "Teddy fantasier III (1927) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
+        "status": "unknown",
         "title": "Teddy fantasier III",
-        "vernetid": 70,
+        "vernetid": 124,
         "year": 1927,
-        "yearexpire": 1997
+        "yearexpire": 2051
     },
     "http://www.imdb.com/title/tt1018004/": {
         "director": [
             {
-                "deathmissing": true,
+                "dead": 1981,
+                "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm2622251/",
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "Teddy fantasier IV (1928) -Finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
+        "status": "unknown",
         "title": "Teddy fantasier IV",
-        "vernetid": 70,
+        "vernetid": 123,
         "year": 1928,
-        "yearexpire": 1998
+        "yearexpire": 2051
     },
     "http://www.imdb.com/title/tt1018005/": {
         "director": [
             {
-                "deathmissing": true,
+                "dead": 1981,
+                "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til=",
                 "imdb": "http://www.imdb.com/name/nm2622251/",
                 "name": "Niels Sinding-Hansen"
             }
         ],
-        "status": "candidate",
+        "fromnb": "Teddy p\u00e5 strandpromenaden - Animert reklamefilm for Tiedemanns Teddy sigaretter. (1927) - Nb har materiale",
+        "inlibrary": "yes",
+        "status": "unknown",
         "title": "Teddy p\u00e5 strandpromenade",
-        "vernetid": 70,
+        "vernetid": 124,
         "year": 1927,
-        "yearexpire": 1997
+        "yearexpire": 2051
     },
     "http://www.imdb.com/title/tt1018010/": {
         "director": [
@@ -4358,6 +4849,8 @@
                 "name": "Thomas W. Schwartz"
             }
         ],
+        "fromnb": "Noahs Ark - Reklame for Magasin du Nord Damekonfektion. (1926) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Noahs ark",
         "vernetid": 70,
@@ -4365,6 +4858,8 @@
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1018948/": {
+        "fromnb": "En verdensreise, eller da Knold og Tot vaskede negrene hvite med 13s\u00e6pen - reklamefilm (ca. 1925) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "En verdensreise, eller Da knold og tott vaskede negrene hvite med 13 s\u00e6pen",
         "vernetid": 70,
@@ -4372,6 +4867,8 @@
         "yearexpire": 1995
     },
     "http://www.imdb.com/title/tt1019896/": {
+        "fromnb": "Chefens cigaretter - Reklame for Luxor cigaretter. (1928, Ottar Gladtvet) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Chefens cigarett",
         "vernetid": 70,
@@ -4379,6 +4876,8 @@
         "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt1019937/": {
+        "fromnb": "Et mesterverk (1937) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "Et mesterverk",
         "vernetid": 70,
@@ -4390,8 +4889,16 @@
             {
                 "born": 1905,
                 "dead": 1988,
+                "imdb": "http://www.imdb.com/name/nm10528218/",
                 "name": "Olav Engebretsen",
                 "wp": "https://no.wikipedia.org/wiki/Olav_Engebretsen"
+            }
+        ],
+        "editing": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm9773050/",
+                "name": "Dag Lutro"
             }
         ],
         "music": [
@@ -4410,6 +4917,7 @@
             {
                 "born": 1905,
                 "dead": 1988,
+                "imdb": "http://www.imdb.com/name/nm10528218/",
                 "name": "Olav Engebretsen",
                 "wp": "https://no.wikipedia.org/wiki/Olav_Engebretsen"
             }
@@ -4421,6 +4929,8 @@
         "yearexpire": 2058
     },
     "http://www.imdb.com/title/tt3619226/": {
+        "fromnb": "The Mother who Paid (1916) - finnes ikke i Nasjonalbibliotekets database",
+        "inlibrary": "unknown",
         "status": "candidate",
         "title": "The Mother Who Paid",
         "vernetid": 70,
@@ -4442,9 +4952,17 @@
                 "name": "Sigval Maartmann-Moe"
             }
         ],
+        "editing": [
+            {
+                "deathmissing": true,
+                "imdb": "http://www.imdb.com/name/nm0257035/",
+                "name": "Olaf Engebretsen"
+            }
+        ],
         "music": [
             {
                 "dead": 1968,
+                "imdb": "http://www.imdb.com/name/nm0469697/",
                 "name": "Jolly Kramer-Johansen",
                 "wp": "https://en.wikipedia.org/wiki/Jolly_Kramer-Johansen"
             }
@@ -4463,6 +4981,15 @@
         "yearexpire": 2080
     },
     "http://www.imdb.com/title/tt9237500/": {
+        "director": [
+            {
+                "dead": 1928,
+                "imdb": "https://www.imdb.com/name/nm0025468/",
+                "name": "Roald Amundsen"
+            }
+        ],
+        "fromnb": "Roald Amundsens sydpolsferd 1910-1912 (ca 1912) - Nb har materiale",
+        "inlibrary": "yes",
         "photo": [
             {
                 "deathmissing": true,
@@ -4472,9 +4999,9 @@
         ],
         "status": "candidate",
         "title": "Roald Amundsens Sydpolsferd (1910-1912)",
-        "vernetid": 70,
+        "vernetid": 86,
         "year": 1912,
-        "yearexpire": 1982
+        "yearexpire": 1998
     },
     "http://www.imdb.com/title/tt9298904/": {
         "director": [
@@ -4498,6 +5025,8 @@
         "yearexpire": 2015
     },
     "http://www.imdb.com/title/tt9299300/": {
+        "fromnb": "Bj\u00f8rnstjerne Bj\u00f8rnsons begravelse (1910) - Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons begravelse",
         "vernetid": 70,
@@ -4505,6 +5034,8 @@
         "yearexpire": 1980
     },
     "http://www.imdb.com/title/tt9299304/": {
+        "fromnb": "Bj\u00f8rnstjerne Bj\u00f8rnsons ligf\u00e6rd igennem K\u00f8benhavn (1910) -Nb har materiale",
+        "inlibrary": "yes",
         "status": "candidate",
         "title": "Bj\u00f8rnstjerne Bj\u00f8rnsons likf\u00e6rd",
         "vernetid": 70,
