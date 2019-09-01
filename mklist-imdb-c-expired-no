@@ -138,14 +138,14 @@ def fetch_search_result(entries, urlbase, page):
             else:
                 titleinfo['status'] = 'unknown'
             titleinfo['vernetid'] = titleinfo['yearexpire'] - year
-            available = " "
+            inlibrary = " "
             if imdburl in nbstatus:
-                for k in ('available', 'fromnb'):
+                for k in ('inlibrary', 'fromnb'):
                     titleinfo[k] = nbstatus[imdburl][k]
-                if 'yes' == titleinfo['available']:
-                    available = "*"
+                if 'yes' == titleinfo['inlibrary']:
+                    inlibrary = "*"
             entries[imdburl] = titleinfo
-            print(u"%s%10s %s-%s (%3d år) %s - %s" % (available, titleinfo['status'],
+            print(u"%s%10s %s-%s (%3d år) %s - %s" % (inlibrary, titleinfo['status'],
                                           year, titleinfo['yearexpire'], titleinfo['vernetid'],
                                           title, imdburl))
             #print titleinfo
