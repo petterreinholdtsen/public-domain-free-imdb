@@ -29,7 +29,7 @@
         "name": "Hans Ø. Berge",
         "lokalhistoriewiki": "https://lokalhistoriewiki.no/wiki/Hans_%C3%98._Berge"
     },
-    "http://www.imdb.com/title/tt0347686/": {
+    "http://www.imdb.com/name/nm1299757/": {
         "name": "Sverre Halvorsen",
 	"dead": 1936,
 	"wp" : "https://no.wikipedia.org/wiki/Sverre_Halvorsen"
@@ -62,12 +62,24 @@
 	"dead": 1953,
 	"wp": "https://de.wikipedia.org/wiki/Hans_Scheib_(Kameramann)"
     },
+    "http://www.imdb.com/name/nm1300061/": {
+        "born": 1873,
+        "dead": 1953,
+        "name": "Thor Iversen",
+        "wp": "https://no.wikipedia.org/wiki/Thor_Iversen"
+    },
     "http://www.imdb.com/name/nm0259254/": {
         "name": "Erling Eriksen",
 	"born": 1878,
 	"dead": 1957,
 	"comment" : "Kilde: Den store illusjonen : filmbyråenes historie, Forfatter: Disen, Ole H.P., Publisert: [Oslo] : Norske filmbyråers forening, 1997, ref epost på efn-listen fra Tord Akerbæk og sjekk i nb.no (side 61 har årstallene).",
 	"wp": "https://no.wikipedia.org/wiki/Erling_Eriksen"
+    },
+    "http://www.imdb.com/name/nm0783605/": {
+        "born": 1892,
+        "dead": 1956,
+        "name": "Lyder Selvig",
+        "histreg": "http://histreg.no/index.php/searchresults?name=lyder&surname=selvig&kjonn=m&birthyearfrom=&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til="
     },
     "http://www.imdb.com/name/nm0357165/": {
         "name": "Leif Halvorsen",
@@ -102,6 +114,18 @@
         "name": "Hjalmar Riiser-Larsen",
 	"wp": "https://en.wikipedia.org/wiki/Hjalmar_Riiser-Larsen"
     },
+    "http://www.imdb.com/name/nm0653158/": {
+        "born": 1905,
+        "dead": 1967,
+        "name": "Ernst Ottersen",
+        "histreg": "http://histreg.no/index.php/searchresults?name=ernst&surname=ottersen&kjonn=m&birthyearfrom=1900&birthyearto=&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til="
+    },
+    "http://www.imdb.com/name/nm1848512/": {
+        "born": 1902,
+        "dead": 1967,
+        "name": "Karl Eisele",
+        "wp": "https://nds.wikipedia.org/wiki/Karl_Eisele"
+    },
     "http://www.imdb.com/name/nm0469697/": {
         "name": "Jolly Kramer-Johansen",
 	"dead": 1968,
@@ -125,6 +149,18 @@
 	"comment": "Pseudonym for Nordahl Grieg og Nils Lie.  Lie døde 1978.",
 	"wp": "https://no.wikipedia.org/wiki/Bergenstoget_plyndret_i_natt",
 	"wplie": "https://no.wikipedia.org/wiki/Nils_Lie"
+    },
+    "http://www.imdb.com/name/nm0526377/": {
+        "duplicate": "http://www.imdb.com/name/nm0526233/",
+        "born": 1897,
+        "dead": 1978,
+        "name": "Reidar Eugen Lund",
+        "geni": "https://www.geni.com/people/Reidar-Lund/5372616860180035509"
+    },
+    "http://www.imdb.com/name/nm2622251/": {
+        "dead": 1981,
+        "name": "Niels Sinding-Hansen",
+        "histreg": "http://histreg.no/index.php/searchresults?name=Nils+Sinding&surname=Hansen&kjonn=m&birthyearfrom=1900&birthyearto=1910&birthdate=&birthplace=&place=&job=&searchresults=&fra=&til="
     },
     "http://www.imdb.com/name/nm0198215/": {
 	"born": 1898,
