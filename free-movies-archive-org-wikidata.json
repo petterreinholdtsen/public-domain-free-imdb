@@ -250,6 +250,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q3978981",
         "year": "1911"
     },
+    "http://www.imdb.com/title/tt0002054/": {
+        "freenessurl": "https://archive.org/details/ABeastAtBay",
+        "status": "free",
+        "title": "A Beast at Bay",
+        "wdurl": "http://www.wikidata.org/entity/Q17350421",
+        "year": "1912"
+    },
     "http://www.imdb.com/title/tt0002082/": {
         "freenessurl": "https://archive.org/details/TheBurglarsDilemma",
         "status": "free",
@@ -2836,6 +2843,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q4880810",
         "year": "1932"
     },
+    "http://www.imdb.com/title/tt0022681/": {
+        "freenessurl": "https://archive.org/details/25826",
+        "status": "free",
+        "title": "The Big Stampede",
+        "wdurl": "http://www.wikidata.org/entity/Q3372642",
+        "year": "1932"
+    },
     "http://www.imdb.com/title/tt0022689/": {
         "freenessurl": "https://archive.org/details/Bird_of_Paradise_1932",
         "status": "free",
@@ -4848,6 +4862,13 @@
         "status": "free",
         "title": "The Big Show",
         "wdurl": "http://www.wikidata.org/entity/Q7717783",
+        "year": "1936"
+    },
+    "http://www.imdb.com/title/tt0027364/": {
+        "freenessurl": "https://archive.org/details/1936LENLYETHEBIRTHOFTHEROBOT",
+        "status": "free",
+        "title": "The Birth of the Robot",
+        "wdurl": "http://www.wikidata.org/entity/Q69515355",
         "year": "1936"
     },
     "http://www.imdb.com/title/tt0027369/": {
@@ -13243,6 +13264,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q1609438",
         "year": "1966"
     },
+    "http://www.imdb.com/title/tt0060580/": {
+        "freenessurl": "https://archive.org/details/05516Tbtx",
+        "status": "free",
+        "title": "Terror Beneath the Sea",
+        "wdurl": "http://www.wikidata.org/entity/Q11558922",
+        "year": "1966"
+    },
     "http://www.imdb.com/title/tt0060666/": {
         "freenessurl": "https://archive.org/details/ManosTheHandsofFate",
         "status": "free",
@@ -14230,6 +14258,13 @@
         "wdurl": "http://www.wikidata.org/entity/Q12107040",
         "year": "1985"
     },
+    "http://www.imdb.com/title/tt0090163/": {
+        "freenessurl": "https://archive.org/details/threads_201712",
+        "status": "free",
+        "title": "Threads",
+        "wdurl": "http://www.wikidata.org/entity/Q1412119",
+        "year": "1984"
+    },
     "http://www.imdb.com/title/tt0092765/": {
         "freenessurl": "https://archive.org/details/BlackCobra",
         "status": "free",
@@ -14670,6 +14705,13 @@
         "title": "Hysterical History",
         "wdurl": "http://www.wikidata.org/entity/Q5962363",
         "year": "1953"
+    },
+    "http://www.imdb.com/title/tt0151175/": {
+        "freenessurl": "https://archive.org/details/1935LENLYEKALIDOSCOPELenLyeRhythms4",
+        "status": "free",
+        "title": "Kaleidoscope",
+        "wdurl": "http://www.wikidata.org/entity/Q64995635",
+        "year": "1935"
     },
     "http://www.imdb.com/title/tt0151751/": {
         "freenessurl": "https://archive.org/details/night_life_in_reno",
